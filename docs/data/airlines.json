@@ -163,10 +163,20 @@
     "BCN",
     "ORY",
     "MXP",
+    "BGY",
     "STN",
     "CRL",
     "HAM",
-    "MRS"
+    "MRS",
+    "TLS",
+    "SVQ",
+    "VLC",
+    "PMI",
+    "AGP",
+    "NAP",
+    "FCO",
+    "DUB",
+    "EDI"
    ],
    "origin": "LIS"
   },
@@ -179,7 +189,17 @@
     "BVA",
     "GVA",
     "MXP",
-    "BSL"
+    "BSL",
+    "BGY",
+    "CRL",
+    "EIN",
+    "TLS",
+    "DUB",
+    "LPL",
+    "NTE",
+    "SXF",
+    "HHN",
+    "FCO"
    ],
    "origin": "OPO"
   },
@@ -192,7 +212,15 @@
     "EIN",
     "HHN",
     "EDI",
-    "BHX"
+    "BHX",
+    "BRS",
+    "LPL",
+    "GLA",
+    "ORK",
+    "NCL",
+    "LTN",
+    "SEN",
+    "CWL"
    ],
    "origin": "FAO"
   }

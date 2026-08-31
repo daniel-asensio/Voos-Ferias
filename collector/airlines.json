@@ -106,8 +106,8 @@
     }
   ],
   "ryanair_routes": [
-    { "origin": "LIS", "destinations": ["MAD", "BCN", "ORY", "MXP", "STN", "CRL", "HAM", "MRS"] },
-    { "origin": "OPO", "destinations": ["MAD", "BCN", "ORY", "STN", "BVA", "GVA", "MXP", "BSL"] },
-    { "origin": "FAO", "destinations": ["STN", "MAN", "DUB", "CRL", "EIN", "HHN", "EDI", "BHX"] }
+    { "origin": "LIS", "destinations": ["MAD", "BCN", "ORY", "MXP", "BGY", "STN", "CRL", "HAM", "MRS", "TLS", "SVQ", "VLC", "PMI", "AGP", "NAP", "FCO", "DUB", "EDI"] },
+    { "origin": "OPO", "destinations": ["MAD", "BCN", "ORY", "STN", "BVA", "GVA", "MXP", "BSL", "BGY", "CRL", "EIN", "TLS", "DUB", "LPL", "NTE", "SXF", "HHN", "FCO"] },
+    { "origin": "FAO", "destinations": ["STN", "MAN", "DUB", "CRL", "EIN", "HHN", "EDI", "BHX", "BRS", "LPL", "GLA", "ORK", "NCL", "LTN", "SEN", "CWL"] }
   ]
 }

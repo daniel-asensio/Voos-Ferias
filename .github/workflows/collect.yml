@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   collect:
@@ -35,3 +36,39 @@ jobs:
             git commit -m "dados: recolha automática $(date -u +%F)"
             git push
           fi
+
+      - name: Alerta de preços (issue → email)
+        if: ${{ hashFiles('alert_body.md') != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create alerta --color FF4500 --description "Alertas automáticos de preços" 2>/dev/null || true
+          gh issue create \
+            --title "🔥 Alerta de voos — $(date -u +%F)" \
+            --body-file alert_body.md \
+            --label alerta \
+            --repo "$GITHUB_REPOSITORY"
+
+  # Republica o site no GitHub Pages com os dados acabados de recolher.
+  deploy:
+    needs: collect
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4

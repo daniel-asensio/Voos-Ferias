@@ -80,6 +80,53 @@ def merge_history(history: dict, records: list[dict]) -> dict:
     return history
 
 
+def compute_price_alerts(history: dict, records: list[dict]) -> list[dict]:
+    """Rotas cujo preço de hoje iguala ou bate o mínimo histórico.
+
+    Só alerta com pelo menos 5 dias de histórico real, para não disparar
+    nos primeiros dias de recolha.
+    """
+    alerts = []
+    for rec in records:
+        snaps = history.get("routes", {}).get(rec["route"], {}).get("snapshots", [])
+        prev = [s["price"] for s in snaps if s["date"] < rec["date"] and not s.get("demo")]
+        if len(prev) >= 5 and rec["price"] <= min(prev):
+            alerts.append({
+                "route": rec["route"],
+                "destination_name": rec.get("destination_name"),
+                "airline": rec["airline"],
+                "price": rec["price"],
+                "previous_min": round(min(prev), 2),
+                "travel_date": rec.get("travel_date"),
+            })
+    return sorted(alerts, key=lambda a: a["price"])
+
+
+def write_alert_body(alerts: list[dict], fresh_promos: list[dict], today: dt.date) -> None:
+    """Gera alert_body.md na raiz — o workflow abre uma issue (→ email) com ele."""
+    path = ROOT / "alert_body.md"
+    if not alerts and not fresh_promos:
+        path.unlink(missing_ok=True)
+        return
+    lines = [f"Alerta automático do Voos & Férias — {today.isoformat()}", ""]
+    if alerts:
+        lines += ["## 🔥 Rotas em mínimo histórico", "",
+                  "| Rota | Preço hoje | Mínimo anterior | Data do voo |", "|---|---|---|---|"]
+        for a in alerts:
+            dest = f" ({a['destination_name']})" if a.get("destination_name") else ""
+            lines.append(f"| **{a['route'].replace('-', ' → ')}**{dest} | "
+                         f"**{a['price']:.2f}€** | {a['previous_min']:.2f}€ | {a.get('travel_date') or '—'} |")
+        lines.append("")
+    if fresh_promos:
+        lines += ["## 🏷️ Novas campanhas detetadas", ""]
+        for p in fresh_promos:
+            lines.append(f"- **{p['airline_name']}** — {p['title']} ({p['url']})")
+        lines.append("")
+    lines.append("Consulta tudo no site do projeto (separador Preços / Promoções).")
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"Alertas: {len(alerts)} mínimos, {len(fresh_promos)} campanhas novas → alert_body.md")
+
+
 def run(dry_run: bool = False) -> int:
     today = dt.date.today()
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
@@ -99,6 +146,10 @@ def run(dry_run: bool = False) -> int:
         promotions = [p for p in promotions if p.get("source") != "exemplo"]
         if any(s.get("demo") for r in history["routes"].values() for s in r["snapshots"]):
             history = {"routes": {}}
+
+    known_ids = {p["id"] for p in promotions}
+    fresh_promos = [p for p in new_promos if p["id"] not in known_ids]
+    alerts = compute_price_alerts(history, price_records)
 
     promotions = merge_promotions(promotions, new_promos, today)
     history = merge_history(history, price_records)
@@ -122,6 +173,8 @@ def run(dry_run: bool = False) -> int:
     save_json(DATA_DIR / "price_history.json", history)
     save_json(DATA_DIR / "airlines.json", config)
     save_json(DATA_DIR / "meta.json", meta)
+    save_json(DATA_DIR / "alerts.json", {"date": today.isoformat(), "alerts": alerts})
+    write_alert_body(alerts, fresh_promos, today)
     print(f"Dados gravados em {DATA_DIR}")
     return 0
 

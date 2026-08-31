@@ -34,11 +34,12 @@
       if (!r.ok) throw new Error(f + ": " + r.status);
       return r.json();
     });
-    const [airlines, promotions, history, meta] = await Promise.all([
+    const [airlines, promotions, history, meta, alerts] = await Promise.all([
       get("airlines.json"), get("promotions.json"), get("price_history.json"),
       get("meta.json").catch(() => ({})),
+      get("alerts.json").catch(() => ({ alerts: [] })),
     ]);
-    return { airlines, promotions, history, meta };
+    return { airlines, promotions, history, meta, alerts };
   }
 
   function airlineOf(code) {
@@ -92,6 +93,10 @@
       `<span class="stat"><b>${airlines}</b> companhias</span>`,
       `<span class="stat"><b>${routes}</b> rotas com histórico</span>`,
     ].join("");
+    const al = state.data.alerts;
+    if (al && al.date === todayIso() && (al.alerts || []).length) {
+      $("#stats").innerHTML += `<span class="stat">🔥 <b>${al.alerts.length}</b> em mínimo histórico hoje</span>`;
+    }
   }
 
   /* ---------- calendário ---------- */

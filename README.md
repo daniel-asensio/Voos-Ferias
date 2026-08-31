@@ -1,5 +1,7 @@
 # ✈️ Voos & Férias
 
+**Site: https://daniel-asensio.github.io/Voos-Ferias/**
+
 Agregador de **promoções das companhias aéreas** que operam em **Lisboa (LIS), Porto (OPO) e Faro (FAO)**, com:
 
 - 📅 **Calendário** — vê em que dias podes reservar cada promoção (as barras coloridas mostram a janela de reserva de cada campanha; clica num dia para ver o detalhe).
@@ -7,6 +9,7 @@ Agregador de **promoções das companhias aéreas** que operam em **Lisboa (LIS)
 - 📈 **Histórico de preços** — evolução do preço mais barato por rota ao longo do tempo, com mínimo/máximo/média e a pergunta “**quanto custava este voo em determinada altura?**”.
 - ⬇️ **Exportar .ics** — descarrega as promoções filtradas para o teu Google Calendar / Apple Calendar / Outlook.
 - 🔥 **Tarifas mais baratas agora** — tabela com o preço atual de cada rota e um destaque quando está no mínimo histórico.
+- 🔔 **Alertas por email** — quando uma rota atinge um novo mínimo histórico (ou aparece uma campanha nova), a recolha diária abre automaticamente uma *issue* no GitHub com o resumo, e o GitHub envia-te a notificação por email.
 
 ## Como funciona
 
@@ -38,7 +41,7 @@ python -m http.server -d docs 8000
 # http://localhost:8000
 ```
 
-Para publicar online: nas *Settings* do repositório no GitHub → **Pages** → Source: *Deploy from a branch* → branch `main`, pasta `/docs`.
+O site é publicado automaticamente no **GitHub Pages** pelos workflows (`pages.yml` publica a cada push ao `main`; `collect.yml` republica após cada recolha diária).
 
 ### Recolher dados
 
@@ -50,7 +53,7 @@ python -m collector.seed           # regenerar dados de exemplo
 
 ### Recolha automática
 
-O workflow [`collect.yml`](.github/workflows/collect.yml) corre **todos os dias às 07:17 (Lisboa)**, recolhe promoções e preços e faz commit dos dados atualizados. Também podes lançá-lo manualmente no separador **Actions** do GitHub.
+O workflow [`collect.yml`](.github/workflows/collect.yml) corre **todos os dias às 07:17 (Lisboa)**: recolhe promoções e preços, faz commit dos dados, republica o site e — se alguma rota atingir um **mínimo histórico** (com pelo menos 5 dias de histórico) ou aparecer uma **campanha nova** — abre uma issue `alerta` que chega ao teu email pelas notificações do GitHub. Também podes lançá-lo manualmente no separador **Actions**.
 
 Na primeira recolha real, os dados de exemplo (marcados com o aviso amarelo na app) são descartados automaticamente.
 

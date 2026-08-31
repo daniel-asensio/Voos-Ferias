@@ -4,7 +4,7 @@
   "airline_name": "TAP Air Portugal",
   "booking_end": "2026-08-29",
   "booking_start": "2026-08-21",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "Campanha nacional: continente para Funchal, Porto Santo e Ponta Delgada.",
   "destinations": [
@@ -31,7 +31,7 @@
   "airline_name": "Wizz Air",
   "booking_end": "2026-09-04",
   "booking_start": "2026-08-26",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "10% extra para membros do Wizz Discount Club em voos desde Lisboa e Porto.",
   "destinations": [
@@ -58,7 +58,7 @@
   "airline_name": "TAP Air Portugal",
   "booking_end": "2026-09-06",
   "booking_start": "2026-08-28",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "Descontos em voos para Europa, Brasil e EUA a partir de Lisboa e Porto.",
   "destinations": [
@@ -86,7 +86,7 @@
   "airline_name": "easyJet",
   "booking_end": "2026-09-09",
   "booking_start": "2026-08-30",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "Voos baratos para city breaks europeus com partidas dos três aeroportos.",
   "destinations": [
@@ -114,7 +114,7 @@
   "airline_name": "Ryanair",
   "booking_end": "2026-09-02",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "Tarifas desde 14,99€ em rotas selecionadas a partir de Lisboa, Porto e Faro.",
   "destinations": [
@@ -143,7 +143,7 @@
   "airline_name": "Azores Airlines (SATA)",
   "booking_end": "2026-09-12",
   "booking_start": "2026-09-02",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "Lisboa e Porto para Ponta Delgada e Terceira a preços especiais.",
   "destinations": [
@@ -168,7 +168,7 @@
   "airline_name": "Vueling",
   "booking_end": "2026-09-08",
   "booking_start": "2026-09-04",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "20% de desconto em todas as rotas com origem em Portugal.",
   "destinations": [
@@ -196,7 +196,7 @@
   "airline_name": "KLM",
   "booking_end": "2026-09-19",
   "booking_start": "2026-09-05",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "Promoção intercontinental via Amesterdão, partidas de Lisboa e Porto.",
   "destinations": [
@@ -223,7 +223,7 @@
   "airline_name": "Transavia",
   "booking_end": "2026-09-14",
   "booking_start": "2026-09-07",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "Tarifas reduzidas para França e Países Baixos em novembro.",
   "destinations": [
@@ -251,7 +251,7 @@
   "airline_name": "Iberia",
   "booking_end": "2026-09-17",
   "booking_start": "2026-09-10",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "Descontos em voos para a América Latina via Madrid.",
   "destinations": [
@@ -278,7 +278,7 @@
   "airline_name": "Lufthansa",
   "booking_end": "2026-09-28",
   "booking_start": "2026-09-14",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "Tarifas promocionais para a Alemanha e ligações intercontinentais.",
   "destinations": [
@@ -306,7 +306,7 @@
   "airline_name": "Ryanair",
   "booking_end": "2026-09-29",
   "booking_start": "2026-09-25",
-  "collected_at": "2026-08-31T11:48:11+00:00",
+  "collected_at": "2026-08-31T16:27:59+00:00",
   "confidence": "exemplo",
   "description": "Milhares de lugares com desconto para viajar até março.",
   "destinations": [

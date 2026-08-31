@@ -159,6 +159,7 @@ def main() -> None:
     save_json(DATA_DIR / "promotions.json", promotions)
     save_json(DATA_DIR / "price_history.json", history)
     save_json(DATA_DIR / "airlines.json", config)
+    save_json(DATA_DIR / "alerts.json", {"date": TODAY.isoformat(), "alerts": []})
     save_json(DATA_DIR / "meta.json", {
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "promotions": len(promotions),
