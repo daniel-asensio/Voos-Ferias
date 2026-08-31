@@ -1,0 +1,113 @@
+{
+  "airports": {
+    "LIS": "Lisboa — Humberto Delgado",
+    "OPO": "Porto — Francisco Sá Carneiro",
+    "FAO": "Faro — Gago Coutinho"
+  },
+  "airlines": [
+    {
+      "code": "TP",
+      "name": "TAP Air Portugal",
+      "color": "#00785a",
+      "airports": ["LIS", "OPO", "FAO"],
+      "promo_url": "https://www.flytap.com/pt-pt/promocoes"
+    },
+    {
+      "code": "FR",
+      "name": "Ryanair",
+      "color": "#073590",
+      "airports": ["LIS", "OPO", "FAO"],
+      "promo_url": "https://www.ryanair.com/pt/pt/ofertas",
+      "api": "ryanair_farefinder"
+    },
+    {
+      "code": "U2",
+      "name": "easyJet",
+      "color": "#ff6600",
+      "airports": ["LIS", "OPO", "FAO"],
+      "promo_url": "https://www.easyjet.com/pt/ofertas"
+    },
+    {
+      "code": "VY",
+      "name": "Vueling",
+      "color": "#ffcc00",
+      "airports": ["LIS", "OPO", "FAO"],
+      "promo_url": "https://www.vueling.com/pt/ofertas-de-voos"
+    },
+    {
+      "code": "HV",
+      "name": "Transavia",
+      "color": "#00d66c",
+      "airports": ["LIS", "OPO", "FAO"],
+      "promo_url": "https://www.transavia.com/pt-PT/promocoes/"
+    },
+    {
+      "code": "W6",
+      "name": "Wizz Air",
+      "color": "#c6007e",
+      "airports": ["LIS", "OPO", "FAO"],
+      "promo_url": "https://www.wizzair.com/pt-pt"
+    },
+    {
+      "code": "S4",
+      "name": "Azores Airlines (SATA)",
+      "color": "#0072bc",
+      "airports": ["LIS", "OPO"],
+      "promo_url": "https://www.azoresairlines.pt/pt-pt/promocoes"
+    },
+    {
+      "code": "IB",
+      "name": "Iberia",
+      "color": "#d7192d",
+      "airports": ["LIS", "OPO"],
+      "promo_url": "https://www.iberia.com/pt/ofertas/"
+    },
+    {
+      "code": "LH",
+      "name": "Lufthansa",
+      "color": "#05164d",
+      "airports": ["LIS", "OPO", "FAO"],
+      "promo_url": "https://www.lufthansa.com/pt/pt/ofertas-de-voos"
+    },
+    {
+      "code": "AF",
+      "name": "Air France",
+      "color": "#002157",
+      "airports": ["LIS", "OPO"],
+      "promo_url": "https://wwws.airfrance.pt/"
+    },
+    {
+      "code": "KL",
+      "name": "KLM",
+      "color": "#00a1de",
+      "airports": ["LIS", "OPO"],
+      "promo_url": "https://www.klm.pt/ofertas"
+    },
+    {
+      "code": "SN",
+      "name": "Brussels Airlines",
+      "color": "#00235f",
+      "airports": ["LIS", "OPO", "FAO"],
+      "promo_url": "https://www.brusselsairlines.com/pt/pt/ofertas"
+    },
+    {
+      "code": "EW",
+      "name": "Eurowings",
+      "color": "#a5177d",
+      "airports": ["LIS", "OPO", "FAO"],
+      "promo_url": "https://www.eurowings.com/pt/ofertas.html"
+    },
+    {
+      "code": "LX",
+      "name": "SWISS",
+      "color": "#e30613",
+      "airports": ["LIS", "OPO"],
+      "promo_url": "https://www.swiss.com/pt/pt/book/ofertas"
+    }
+  ],
+  "ryanair_routes": [
+    { "origin": "LIS", "destinations": ["MAD", "BCN", "ORY", "MXP", "STN", "CRL", "HAM", "MRS"] },
+    { "origin": "OPO", "destinations": ["MAD", "BCN", "ORY", "STN", "BVA", "GVA", "MXP", "BSL"] },
+    { "origin": "FAO", "destinations": ["STN", "MAN", "DUB", "CRL", "EIN", "HHN", "EDI", "BHX"] }
+  ]
+}
