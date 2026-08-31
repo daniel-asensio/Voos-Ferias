@@ -1,0 +1,25 @@
+[
+ {
+  "airline": "W6",
+  "airline_name": "Wizz Air",
+  "booking_end": "2026-09-07",
+  "booking_start": "2026-08-31",
+  "collected_at": "2026-08-31T16:29:48+00:00",
+  "confidence": "baixa",
+  "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
+  "destinations": [],
+  "discount_text": "até 10% de desconto",
+  "id": "w6-wizz-air-voos-baratos-encontre-as-melhor-9e660668",
+  "origin_airports": [
+   "LIS",
+   "OPO",
+   "FAO"
+  ],
+  "price_from": null,
+  "source": "promo_page",
+  "title": "Wizz Air | Voos baratos | Encontre as melhores ofertas de voos",
+  "travel_end": null,
+  "travel_start": null,
+  "url": "https://www.wizzair.com/pt-pt"
+ }
+]

@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Voos &amp; Férias — Promoções LIS · OPO · FAO</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✈️</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <h1>✈️ Voos &amp; Férias</h1>
+    <p class="subtitle">Promoções das companhias aéreas de Lisboa, Porto e Faro</p>
+    <div id="stats" class="stats"></div>
+  </div>
+</header>
+
+<div id="demo-banner" class="demo-banner" hidden>
+  ⚠️ A mostrar <strong>dados de exemplo</strong> — serão substituídos por dados reais na primeira recolha automática.
+</div>
+
+<nav class="tabs" role="tablist">
+  <button class="tab active" data-view="calendar">📅 Calendário</button>
+  <button class="tab" data-view="list">🏷️ Promoções</button>
+  <button class="tab" data-view="prices">📈 Preços</button>
+</nav>
+
+<section class="filters" id="filters">
+  <div class="filter-group">
+    <span class="filter-label">Aeroporto</span>
+    <div id="airport-chips" class="chips"></div>
+  </div>
+  <div class="filter-group">
+    <span class="filter-label">Companhia</span>
+    <div id="airline-chips" class="chips"></div>
+  </div>
+  <div class="filter-group grow">
+    <span class="filter-label">Destino</span>
+    <input id="dest-search" type="search" placeholder="ex.: Madrid, Londres, Funchal…">
+  </div>
+  <button id="clear-filters" class="btn-ghost" title="Limpar filtros">Limpar</button>
+  <button id="export-ics" class="btn-primary" title="Descarregar as promoções filtradas como calendário (.ics)">⬇ Exportar .ics</button>
+</section>
+
+<main>
+  <section id="view-calendar" class="view">
+    <div class="cal-header">
+      <button id="cal-prev" class="btn-ghost">‹</button>
+      <h2 id="cal-title"></h2>
+      <button id="cal-next" class="btn-ghost">›</button>
+      <button id="cal-today" class="btn-ghost">Hoje</button>
+    </div>
+    <div id="calendar" class="calendar"></div>
+    <div id="day-detail" class="day-detail"></div>
+  </section>
+
+  <section id="view-list" class="view" hidden>
+    <div id="promo-list"></div>
+  </section>
+
+  <section id="view-prices" class="view" hidden>
+    <div class="prices-toolbar">
+      <label for="route-select">Rota:</label>
+      <select id="route-select"></select>
+      <label for="price-date">Quanto custava em…</label>
+      <input type="date" id="price-date">
+      <span id="price-answer" class="price-answer"></span>
+    </div>
+    <div id="price-chart" class="price-chart"></div>
+    <div id="price-summary" class="price-summary"></div>
+    <h3>Tarifas mais baratas agora</h3>
+    <div id="best-now"></div>
+  </section>
+</main>
+
+<footer>
+  <span id="meta-info"></span>
+  <span>Dados recolhidos automaticamente · Confirma sempre as condições no site da companhia.</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
