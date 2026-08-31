@@ -1,0 +1,333 @@
+[
+ {
+  "airline": "TP",
+  "airline_name": "TAP Air Portugal",
+  "booking_end": "2026-08-29",
+  "booking_start": "2026-08-21",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "Campanha nacional: continente para Funchal, Porto Santo e Ponta Delgada.",
+  "destinations": [
+   "Funchal",
+   "Porto Santo",
+   "Ponta Delgada"
+  ],
+  "discount_text": "desde 34€",
+  "id": "tp-tap-madeira-e-acores-desde-34-317c7db0",
+  "origin_airports": [
+   "LIS",
+   "OPO",
+   "FAO"
+  ],
+  "price_from": 34.0,
+  "source": "exemplo",
+  "title": "TAP — Madeira e Açores desde 34€",
+  "travel_end": "2026-11-29",
+  "travel_start": "2026-09-05",
+  "url": "https://www.flytap.com/pt-pt/promocoes"
+ },
+ {
+  "airline": "W6",
+  "airline_name": "Wizz Air",
+  "booking_end": "2026-09-04",
+  "booking_start": "2026-08-26",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "10% extra para membros do Wizz Discount Club em voos desde Lisboa e Porto.",
+  "destinations": [
+   "Budapeste",
+   "Varsóvia",
+   "Bucareste",
+   "Cracóvia"
+  ],
+  "discount_text": "10% de desconto",
+  "id": "w6-wizz-air-desconto-de-membro-wdc-2a5ed123",
+  "origin_airports": [
+   "LIS",
+   "OPO"
+  ],
+  "price_from": 22.0,
+  "source": "exemplo",
+  "title": "Wizz Air — Desconto de membro WDC",
+  "travel_end": "2026-12-09",
+  "travel_start": "2026-09-12",
+  "url": "https://www.wizzair.com/pt-pt"
+ },
+ {
+  "airline": "TP",
+  "airline_name": "TAP Air Portugal",
+  "booking_end": "2026-09-06",
+  "booking_start": "2026-08-28",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "Descontos em voos para Europa, Brasil e EUA a partir de Lisboa e Porto.",
+  "destinations": [
+   "Madrid",
+   "Paris",
+   "Roma",
+   "Rio de Janeiro",
+   "Nova Iorque"
+  ],
+  "discount_text": "até 25% de desconto",
+  "id": "tp-promocao-de-outono-tap-europa-e-atlantic-98aaffcf",
+  "origin_airports": [
+   "LIS",
+   "OPO"
+  ],
+  "price_from": 39.0,
+  "source": "exemplo",
+  "title": "Promoção de Outono TAP — Europa e Atlântico",
+  "travel_end": "2026-12-29",
+  "travel_start": "2026-09-20",
+  "url": "https://www.flytap.com/pt-pt/promocoes"
+ },
+ {
+  "airline": "U2",
+  "airline_name": "easyJet",
+  "booking_end": "2026-09-09",
+  "booking_start": "2026-08-30",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "Voos baratos para city breaks europeus com partidas dos três aeroportos.",
+  "destinations": [
+   "Londres",
+   "Genebra",
+   "Lyon",
+   "Amesterdão"
+  ],
+  "discount_text": "desde 19,99€",
+  "id": "u2-easyjet-escapadinhas-de-outono-d12d6744",
+  "origin_airports": [
+   "LIS",
+   "OPO",
+   "FAO"
+  ],
+  "price_from": 19.99,
+  "source": "exemplo",
+  "title": "easyJet — Escapadinhas de outono",
+  "travel_end": "2026-11-29",
+  "travel_start": "2026-09-15",
+  "url": "https://www.easyjet.com/pt/ofertas"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-09-02",
+  "booking_start": "2026-09-01",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "Tarifas desde 14,99€ em rotas selecionadas a partir de Lisboa, Porto e Faro.",
+  "destinations": [
+   "Madrid",
+   "Barcelona",
+   "Londres",
+   "Milão",
+   "Marselha"
+  ],
+  "discount_text": "desde 14,99€",
+  "id": "fr-flash-sale-ryanair-24-horas-e5220cb5",
+  "origin_airports": [
+   "LIS",
+   "OPO",
+   "FAO"
+  ],
+  "price_from": 14.99,
+  "source": "exemplo",
+  "title": "Flash Sale Ryanair — 24 horas",
+  "travel_end": "2026-10-30",
+  "travel_start": "2026-09-10",
+  "url": "https://www.ryanair.com/pt/pt/ofertas"
+ },
+ {
+  "airline": "S4",
+  "airline_name": "Azores Airlines (SATA)",
+  "booking_end": "2026-09-12",
+  "booking_start": "2026-09-02",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "Lisboa e Porto para Ponta Delgada e Terceira a preços especiais.",
+  "destinations": [
+   "Ponta Delgada",
+   "Terceira"
+  ],
+  "discount_text": "desde 49€ ida e volta",
+  "id": "s4-acores-em-promocao-sata-5a4b0be1",
+  "origin_airports": [
+   "LIS",
+   "OPO"
+  ],
+  "price_from": 49.0,
+  "source": "exemplo",
+  "title": "Açores em promoção — SATA",
+  "travel_end": "2026-12-29",
+  "travel_start": "2026-09-30",
+  "url": "https://www.azoresairlines.pt/pt-pt/promocoes"
+ },
+ {
+  "airline": "VY",
+  "airline_name": "Vueling",
+  "booking_end": "2026-09-08",
+  "booking_start": "2026-09-04",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "20% de desconto em todas as rotas com origem em Portugal.",
+  "destinations": [
+   "Barcelona",
+   "Bilbau",
+   "Sevilha",
+   "Florença"
+  ],
+  "discount_text": "20% de desconto",
+  "id": "vy-vueling-big-sale-f0b21671",
+  "origin_airports": [
+   "LIS",
+   "OPO",
+   "FAO"
+  ],
+  "price_from": 24.0,
+  "source": "exemplo",
+  "title": "Vueling Big Sale",
+  "travel_end": "2027-01-28",
+  "travel_start": "2026-09-25",
+  "url": "https://www.vueling.com/pt/ofertas-de-voos"
+ },
+ {
+  "airline": "KL",
+  "airline_name": "KLM",
+  "booking_end": "2026-09-19",
+  "booking_start": "2026-09-05",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "Promoção intercontinental via Amesterdão, partidas de Lisboa e Porto.",
+  "destinations": [
+   "Curaçau",
+   "Singapura",
+   "Cidade do Cabo",
+   "Toronto"
+  ],
+  "discount_text": "até 25% de desconto",
+  "id": "kl-klm-dream-deals-b7008ad5",
+  "origin_airports": [
+   "LIS",
+   "OPO"
+  ],
+  "price_from": 380.0,
+  "source": "exemplo",
+  "title": "KLM — Dream Deals",
+  "travel_end": "2027-02-17",
+  "travel_start": "2026-10-20",
+  "url": "https://www.klm.pt/ofertas"
+ },
+ {
+  "airline": "HV",
+  "airline_name": "Transavia",
+  "booking_end": "2026-09-14",
+  "booking_start": "2026-09-07",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "Tarifas reduzidas para França e Países Baixos em novembro.",
+  "destinations": [
+   "Paris-Orly",
+   "Amesterdão",
+   "Roterdão",
+   "Nantes"
+  ],
+  "discount_text": "desde 29€",
+  "id": "hv-transavia-novembro-em-promocao-83a3ea23",
+  "origin_airports": [
+   "LIS",
+   "OPO",
+   "FAO"
+  ],
+  "price_from": 29.0,
+  "source": "exemplo",
+  "title": "Transavia — Novembro em promoção",
+  "travel_end": "2026-11-29",
+  "travel_start": "2026-10-15",
+  "url": "https://www.transavia.com/pt-PT/promocoes/"
+ },
+ {
+  "airline": "IB",
+  "airline_name": "Iberia",
+  "booking_end": "2026-09-17",
+  "booking_start": "2026-09-10",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "Descontos em voos para a América Latina via Madrid.",
+  "destinations": [
+   "Buenos Aires",
+   "Bogotá",
+   "Cidade do México",
+   "Lima"
+  ],
+  "discount_text": "até 30% de desconto",
+  "id": "ib-iberia-semana-das-americas-07f4b442",
+  "origin_airports": [
+   "LIS",
+   "OPO"
+  ],
+  "price_from": 320.0,
+  "source": "exemplo",
+  "title": "Iberia — Semana das Américas",
+  "travel_end": "2027-02-27",
+  "travel_start": "2026-10-30",
+  "url": "https://www.iberia.com/pt/ofertas/"
+ },
+ {
+  "airline": "LH",
+  "airline_name": "Lufthansa",
+  "booking_end": "2026-09-28",
+  "booking_start": "2026-09-14",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "Tarifas promocionais para a Alemanha e ligações intercontinentais.",
+  "destinations": [
+   "Frankfurt",
+   "Munique",
+   "Banguecoque",
+   "Tóquio"
+  ],
+  "discount_text": "desde 89€",
+  "id": "lh-lufthansa-ofertas-de-inverno-0e34b19d",
+  "origin_airports": [
+   "LIS",
+   "OPO",
+   "FAO"
+  ],
+  "price_from": 89.0,
+  "source": "exemplo",
+  "title": "Lufthansa — Ofertas de inverno",
+  "travel_end": "2027-03-19",
+  "travel_start": "2026-10-30",
+  "url": "https://www.lufthansa.com/pt/pt/ofertas-de-voos"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-09-29",
+  "booking_start": "2026-09-25",
+  "collected_at": "2026-08-31T16:27:59+00:00",
+  "confidence": "exemplo",
+  "description": "Milhares de lugares com desconto para viajar até março.",
+  "destinations": [
+   "Sevilha",
+   "Dublin",
+   "Manchester",
+   "Bruxelas",
+   "Edimburgo"
+  ],
+  "discount_text": "até 20% de desconto",
+  "id": "fr-ryanair-black-friday-antecipada-66ef0947",
+  "origin_airports": [
+   "LIS",
+   "OPO",
+   "FAO"
+  ],
+  "price_from": 12.99,
+  "source": "exemplo",
+  "title": "Ryanair — Black Friday antecipada",
+  "travel_end": "2027-03-29",
+  "travel_start": "2026-10-10",
+  "url": "https://www.ryanair.com/pt/pt/ofertas"
+ }
+]

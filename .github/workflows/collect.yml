@@ -1,0 +1,74 @@
+name: Recolha diária de promoções
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # todos os dias às 06:17 UTC (~07:17 em Lisboa)
+  workflow_dispatch: {}     # permite correr manualmente no separador Actions
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Recolher promoções e preços
+        run: python -m collector.collect
+
+      - name: Guardar dados atualizados
+        run: |
+          git config user.name "voos-ferias-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "Sem alterações nos dados."
+          else
+            git commit -m "dados: recolha automática $(date -u +%F)"
+            git push
+          fi
+
+      - name: Alerta de preços (issue → email)
+        if: ${{ hashFiles('alert_body.md') != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create alerta --color FF4500 --description "Alertas automáticos de preços" 2>/dev/null || true
+          gh issue create \
+            --title "🔥 Alerta de voos — $(date -u +%F)" \
+            --body-file alert_body.md \
+            --label alerta \
+            --repo "$GITHUB_REPOSITORY"
+
+  # Republica o site no GitHub Pages com os dados acabados de recolher.
+  deploy:
+    needs: collect
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
