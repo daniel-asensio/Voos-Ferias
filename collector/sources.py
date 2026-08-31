@@ -75,9 +75,18 @@ AIRLINE_NAME_PATTERNS = {
 
 AIRPORT_PATTERNS = {
     "LIS": re.compile(r"\bLisboa\b|Humberto Delgado|Portela", re.I),
-    "OPO": re.compile(r"\bPorto\b|S[aá] Carneiro", re.I),
+    # lookahead evita falsos positivos com Porto Alegre/Seguro/Velho/Rico (Brasil)
+    "OPO": re.compile(r"\bPorto\b(?!\s+(?:Alegre|Seguro|Velho|Rico))|S[aá] Carneiro", re.I),
     "FAO": re.compile(r"\bFaro\b|Gago Coutinho", re.I),
 }
+
+PORTUGAL_PATTERN = re.compile(r"\bPortugal\b|portugues|\bMadeira\b|\bA[çc]ores\b|\bAlgarve\b", re.I)
+
+
+def is_relevant_news(item: dict) -> bool:
+    """Só interessa o que toca Portugal, os nossos aeroportos ou companhias."""
+    return bool(item.get("airlines") or item.get("airports")
+                or PORTUGAL_PATTERN.search(item.get("title", "")))
 
 
 def classify_news(text: str) -> tuple[str, list[str], list[str]]:
@@ -118,7 +127,10 @@ def fetch_news(today: dt.date) -> list[dict]:
                     published = email.utils.parsedate_to_datetime(item.findtext("pubDate")).date().isoformat()
                 except Exception:  # noqa: BLE001
                     pass
-            category, airlines, airports = classify_news(f"{title} {desc}")
+            text = f"{title} {desc}"
+            category, airlines, airports = classify_news(text)
+            if not (airlines or airports or PORTUGAL_PATTERN.search(text)):
+                continue  # notícia sem ligação a Portugal / LIS / OPO / FAO
             key = title.lower()[:120]
             if key in items:
                 continue
