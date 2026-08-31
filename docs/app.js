@@ -13,7 +13,16 @@
     view: "calendar",
     month: null,          // Date do 1º dia do mês visível
     selectedDay: null,    // "YYYY-MM-DD"
+    newsCat: null,        // filtro de categoria no separador Notícias
     filters: { airports: new Set(), airlines: new Set(), dest: "" },
+  };
+
+  const NEWS_CATS = {
+    greve: { label: "⚠️ Greves", cls: "cat-greve" },
+    problema: { label: "🔧 Problemas e atrasos", cls: "cat-problema" },
+    promocao: { label: "🏷️ Promoções", cls: "cat-promocao" },
+    novidade: { label: "🆕 Novidades e rotas", cls: "cat-novidade" },
+    geral: { label: "📄 Geral", cls: "cat-geral" },
   };
 
   /* ---------- utilidades de datas ---------- */
@@ -34,12 +43,13 @@
       if (!r.ok) throw new Error(f + ": " + r.status);
       return r.json();
     });
-    const [airlines, promotions, history, meta, alerts] = await Promise.all([
+    const [airlines, promotions, history, meta, alerts, news] = await Promise.all([
       get("airlines.json"), get("promotions.json"), get("price_history.json"),
       get("meta.json").catch(() => ({})),
       get("alerts.json").catch(() => ({ alerts: [] })),
+      get("news.json").catch(() => ({ items: [] })),
     ]);
-    return { airlines, promotions, history, meta, alerts };
+    return { airlines, promotions, history, meta, alerts, news };
   }
 
   function airlineOf(code) {
@@ -96,6 +106,11 @@
     const al = state.data.alerts;
     if (al && al.date === todayIso() && (al.alerts || []).length) {
       $("#stats").innerHTML += `<span class="stat">🔥 <b>${al.alerts.length}</b> em mínimo histórico hoje</span>`;
+    }
+    const strikes = strikeAirlines();
+    if (strikes.size) {
+      const names = [...strikes].map((c) => airlineOf(c).name.split(" ")[0]).join(", ");
+      $("#stats").innerHTML += `<span class="stat">⚠️ greve nas notícias: <b>${names}</b></span>`;
     }
   }
 
@@ -164,11 +179,13 @@
     const extra = p.confidence === "baixa"
       ? `<span class="badge" title="Detetada automaticamente — confirmar no site">deteção automática</span>` : "";
     const demo = p.source === "exemplo" ? `<span class="badge">exemplo</span>` : "";
+    const strike = strikeAirlines().has(p.airline)
+      ? `<span class="badge ending" title="Há notícias de greve desta companhia — ver separador Notícias">⚠️ greve nas notícias</span>` : "";
     return `<article class="promo-card" style="border-left-color:${a.color}">
       <div class="promo-head">
         <span class="promo-airline" style="color:${a.color}">${esc(a.name)}</span>
         <span class="promo-title">${esc(p.title)}</span>
-        ${badges[st]}${extra}${demo}
+        ${badges[st]}${extra}${demo}${strike}
       </div>
       ${p.description ? `<p class="promo-desc">${esc(p.description)}</p>` : ""}
       <div class="promo-meta">
@@ -195,6 +212,57 @@
       section("⏳ Vão começar", groups.soon.sort((a, b) => a.booking_start.localeCompare(b.booking_start))) +
       section("📁 Terminadas recentemente", groups.over.sort((a, b) => b.booking_end.localeCompare(a.booking_end)));
     $("#promo-list").innerHTML = html || `<p class="empty">Nenhuma promoção corresponde aos filtros.</p>`;
+  }
+
+  /* ---------- notícias ---------- */
+  function newsItems() { return (state.data.news && state.data.news.items) || []; }
+
+  // Companhias com greve nas notícias dos últimos 10 dias → aviso nos cartões.
+  function strikeAirlines() {
+    const cutoff = iso(new Date(Date.now() - 10 * 864e5));
+    const set = new Set();
+    newsItems().forEach((n) => {
+      if (n.category === "greve" && n.published >= cutoff) (n.airlines || []).forEach((a) => set.add(a));
+    });
+    return set;
+  }
+
+  function newsMatchesFilters(n) {
+    const f = state.filters;
+    if (state.newsCat && n.category !== state.newsCat) return false;
+    if (f.airlines.size && !(n.airlines || []).some((a) => f.airlines.has(a))) return false;
+    if (f.airports.size && !(n.airports || []).some((a) => f.airports.has(a))) return false;
+    if (f.dest && !n.title.toLowerCase().includes(f.dest.toLowerCase())) return false;
+    return true;
+  }
+
+  function renderNews() {
+    const items = newsItems();
+    const counts = {};
+    items.forEach((n) => { counts[n.category] = (counts[n.category] || 0) + 1; });
+    $("#news-cats").innerHTML =
+      `<button class="chip ${state.newsCat === null ? "on" : ""}" data-cat="">Todas (${items.length})</button>` +
+      Object.entries(NEWS_CATS).filter(([c]) => counts[c]).map(([c, m]) =>
+        `<button class="chip ${state.newsCat === c ? "on" : ""}" data-cat="${c}">${m.label} (${counts[c]})</button>`
+      ).join("");
+    const list = items.filter(newsMatchesFilters);
+    $("#news-list").innerHTML = list.length ? list.map((n) => {
+      const cat = NEWS_CATS[n.category] || NEWS_CATS.geral;
+      const tags = (n.airlines || []).map((a) => {
+        const al = airlineOf(a);
+        return `<span class="chip mini"><span class="dot" style="background:${al.color}"></span>${esc(al.name.split(" ")[0])}</span>`;
+      }).join("") + (n.airports || []).map((a) => `<span class="chip mini">🛫 ${a}</span>`).join("");
+      return `<article class="news-card">
+        <span class="cat-pill ${cat.cls}">${cat.label}</span>
+        <div class="news-body">
+          <a class="news-title" href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a>
+          <div class="news-meta">${n.source ? esc(n.source) + " · " : ""}${fmtDate(n.published)}</div>
+          ${tags ? `<div class="news-tags">${tags}</div>` : ""}
+        </div>
+      </article>`;
+    }).join("") : `<p class="empty">${items.length
+      ? "Nenhuma notícia corresponde aos filtros."
+      : "Ainda sem notícias — são recolhidas automaticamente na próxima atualização diária."}</p>`;
   }
 
   /* ---------- preços ---------- */
@@ -321,6 +389,7 @@
     renderStats();
     if (state.view === "calendar") renderCalendar();
     if (state.view === "list") renderList();
+    if (state.view === "news") renderNews();
     if (state.view === "prices") { renderRouteSelect(); renderBestNow(); }
   }
 
@@ -364,6 +433,12 @@
       if (!day) return;
       state.selectedDay = day.dataset.day;
       renderCalendar();
+    });
+    $("#news-cats").addEventListener("click", (e) => {
+      const c = e.target.closest("[data-cat]");
+      if (!c) return;
+      state.newsCat = c.dataset.cat || null;
+      renderNews();
     });
     $("#route-select").addEventListener("change", (e) => renderPriceChart(e.target.value));
     $("#price-date").addEventListener("change", answerPriceAt);

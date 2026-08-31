@@ -26,6 +26,9 @@ DATA_DIR = ROOT / "docs" / "data"
 KEEP_EXPIRED_DAYS = 45
 # Histórico de preços mantido por rota.
 KEEP_HISTORY_DAYS = 400
+# Notícias publicadas há mais de este nº de dias são removidas.
+KEEP_NEWS_DAYS = 45
+MAX_NEWS = 120
 
 
 def load_json(path: Path, default):
@@ -80,6 +83,22 @@ def merge_history(history: dict, records: list[dict]) -> dict:
     return history
 
 
+def merge_news(existing: list[dict], new: list[dict], today: dt.date) -> tuple[list[dict], list[dict]]:
+    """Funde notícias por título normalizado; devolve (todas, greves novas)."""
+    by_key = {n["title"].lower()[:120]: n for n in existing}
+    fresh_strikes = []
+    for item in new:
+        key = item["title"].lower()[:120]
+        if key not in by_key:
+            by_key[key] = item
+            if item["category"] == "greve":
+                fresh_strikes.append(item)
+    cutoff = (today - dt.timedelta(days=KEEP_NEWS_DAYS)).isoformat()
+    kept = [n for n in by_key.values() if n.get("published", "") >= cutoff]
+    kept.sort(key=lambda n: n.get("published", ""), reverse=True)
+    return kept[:MAX_NEWS], fresh_strikes
+
+
 def compute_price_alerts(history: dict, records: list[dict]) -> list[dict]:
     """Rotas cujo preço de hoje iguala ou bate o mínimo histórico.
 
@@ -102,10 +121,11 @@ def compute_price_alerts(history: dict, records: list[dict]) -> list[dict]:
     return sorted(alerts, key=lambda a: a["price"])
 
 
-def write_alert_body(alerts: list[dict], fresh_promos: list[dict], today: dt.date) -> None:
+def write_alert_body(alerts: list[dict], fresh_promos: list[dict], fresh_strikes: list[dict],
+                     today: dt.date) -> None:
     """Gera alert_body.md na raiz — o workflow abre uma issue (→ email) com ele."""
     path = ROOT / "alert_body.md"
-    if not alerts and not fresh_promos:
+    if not alerts and not fresh_promos and not fresh_strikes:
         path.unlink(missing_ok=True)
         return
     lines = [f"Alerta automático do Voos & Férias — {today.isoformat()}", ""]
@@ -122,9 +142,15 @@ def write_alert_body(alerts: list[dict], fresh_promos: list[dict], today: dt.dat
         for p in fresh_promos:
             lines.append(f"- **{p['airline_name']}** — {p['title']} ({p['url']})")
         lines.append("")
-    lines.append("Consulta tudo no site do projeto (separador Preços / Promoções).")
+    if fresh_strikes:
+        lines += ["## ⚠️ Greves nas notícias", ""]
+        for n in fresh_strikes:
+            lines.append(f"- {n['title']} ({n['url']})")
+        lines.append("")
+    lines.append("Consulta tudo no site do projeto (separador Preços / Promoções / Notícias).")
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"Alertas: {len(alerts)} mínimos, {len(fresh_promos)} campanhas novas → alert_body.md")
+    print(f"Alertas: {len(alerts)} mínimos, {len(fresh_promos)} campanhas novas, "
+          f"{len(fresh_strikes)} greves → alert_body.md")
 
 
 def run(dry_run: bool = False) -> int:
@@ -133,12 +159,14 @@ def run(dry_run: bool = False) -> int:
 
     promotions = load_json(DATA_DIR / "promotions.json", [])
     history = load_json(DATA_DIR / "price_history.json", {"routes": {}})
+    news = load_json(DATA_DIR / "news.json", {"items": []})["items"]
     had_demo = any(p.get("source") == "exemplo" for p in promotions)
 
     new_promos: list[dict] = []
     for airline in config["airlines"]:
         new_promos.extend(sources.scan_promo_page(airline, today))
     price_records = sources.fetch_ryanair_fares(config, today)
+    new_news = sources.fetch_news(today)
 
     got_real_data = bool(new_promos or price_records)
     if got_real_data and had_demo:
@@ -153,6 +181,7 @@ def run(dry_run: bool = False) -> int:
 
     promotions = merge_promotions(promotions, new_promos, today)
     history = merge_history(history, price_records)
+    news, fresh_strikes = merge_news(news, new_news, today)
 
     meta = {
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
@@ -174,7 +203,8 @@ def run(dry_run: bool = False) -> int:
     save_json(DATA_DIR / "airlines.json", config)
     save_json(DATA_DIR / "meta.json", meta)
     save_json(DATA_DIR / "alerts.json", {"date": today.isoformat(), "alerts": alerts})
-    write_alert_body(alerts, fresh_promos, today)
+    save_json(DATA_DIR / "news.json", {"items": news})
+    write_alert_body(alerts, fresh_promos, fresh_strikes, today)
     print(f"Dados gravados em {DATA_DIR}")
     return 0
 
