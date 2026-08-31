@@ -84,14 +84,22 @@ def merge_history(history: dict, records: list[dict]) -> dict:
 
 
 def merge_news(existing: list[dict], new: list[dict], today: dt.date) -> tuple[list[dict], list[dict]]:
-    """Funde notícias por título normalizado; devolve (todas, greves novas)."""
-    by_key = {n["title"].lower()[:120]: n for n in existing}
+    """Funde notícias por título normalizado; devolve (todas, greves novas).
+
+    Greves só contam como alerta quando publicadas nos últimos 3 dias —
+    evita inundar o email na primeira recolha ou com notícias antigas.
+    """
+    # Reclassifica o que está guardado — regras novas aplicam-se ao histórico.
+    for n in existing:
+        n["category"], n["airlines"], n["airports"] = sources.classify_news(n["title"])
+    by_key = {n["title"].lower()[:120]: n for n in existing if sources.is_relevant_news(n)}
+    strike_cutoff = (today - dt.timedelta(days=3)).isoformat()
     fresh_strikes = []
     for item in new:
         key = item["title"].lower()[:120]
         if key not in by_key:
             by_key[key] = item
-            if item["category"] == "greve":
+            if item["category"] == "greve" and item.get("published", "") >= strike_cutoff:
                 fresh_strikes.append(item)
     cutoff = (today - dt.timedelta(days=KEEP_NEWS_DAYS)).isoformat()
     kept = [n for n in by_key.values() if n.get("published", "") >= cutoff]
@@ -144,8 +152,10 @@ def write_alert_body(alerts: list[dict], fresh_promos: list[dict], fresh_strikes
         lines.append("")
     if fresh_strikes:
         lines += ["## ⚠️ Greves nas notícias", ""]
-        for n in fresh_strikes:
+        for n in fresh_strikes[:10]:
             lines.append(f"- {n['title']} ({n['url']})")
+        if len(fresh_strikes) > 10:
+            lines.append(f"- … e mais {len(fresh_strikes) - 10} notícias de greve no site")
         lines.append("")
     lines.append("Consulta tudo no site do projeto (separador Preços / Promoções / Notícias).")
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
