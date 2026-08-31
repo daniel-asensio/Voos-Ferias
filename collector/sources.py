@@ -50,6 +50,92 @@ def _get(url: str) -> requests.Response:
     return resp
 
 
+GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q={query}&hl=pt-PT&gl=PT&ceid=PT:pt-150"
+
+NEWS_QUERIES = [
+    '(greve OR paralisação) (aeroporto OR aviação OR "companhia aérea" OR TAP OR Ryanair OR easyJet OR SATA)',
+    'promoção voos (TAP OR Ryanair OR easyJet OR Vueling OR "Wizz Air" OR Transavia)',
+    '("nova rota" OR "novas rotas" OR "novo voo") (Lisboa OR Porto OR Faro)',
+    'aeroporto (Lisboa OR Porto OR Faro) (atrasos OR cancelamentos OR avaria OR caos)',
+]
+
+NEWS_CATEGORIES = [
+    ("greve", re.compile(r"greve|paralisa[çc][aã]o|plen[aá]rio|protesto", re.I)),
+    ("problema", re.compile(r"avaria|falha|cancelad|atras|incidente|caos|interrompid|encerrad", re.I)),
+    ("promocao", re.compile(r"promo[çc][aã]o|desconto|campanha|tarifas?\s+baixa|voos?\s+barato|saldos|oferta", re.I)),
+    ("novidade", re.compile(r"nova\s+rota|novas\s+rotas|novo\s+voo|inaugura|lan[çc]a|refor[çc]a|expans[aã]o|estreia", re.I)),
+]
+
+AIRLINE_NAME_PATTERNS = {
+    "TP": r"\bTAP\b|Air Portugal", "FR": r"Ryanair", "U2": r"easyJet", "VY": r"Vueling",
+    "HV": r"Transavia", "W6": r"Wizz", "S4": r"\bSATA\b|Azores Airlines", "IB": r"Iberia",
+    "LH": r"Lufthansa", "AF": r"Air France", "KL": r"\bKLM\b", "SN": r"Brussels Airlines",
+    "EW": r"Eurowings", "LX": r"\bSWISS\b|\bSwiss\b",
+}
+
+AIRPORT_PATTERNS = {
+    "LIS": re.compile(r"\bLisboa\b|Humberto Delgado|Portela", re.I),
+    "OPO": re.compile(r"\bPorto\b|S[aá] Carneiro", re.I),
+    "FAO": re.compile(r"\bFaro\b|Gago Coutinho", re.I),
+}
+
+
+def classify_news(text: str) -> tuple[str, list[str], list[str]]:
+    """Devolve (categoria, companhias, aeroportos) detetados no texto."""
+    category = "geral"
+    for cat, pattern in NEWS_CATEGORIES:
+        if pattern.search(text):
+            category = cat
+            break
+    airlines = [code for code, pat in AIRLINE_NAME_PATTERNS.items() if re.search(pat, text)]
+    airports = [code for code, pat in AIRPORT_PATTERNS.items() if pat.search(text)]
+    return category, airlines, airports
+
+
+def fetch_news(today: dt.date) -> list[dict]:
+    """Notícias de aviação (greves, promoções, problemas, novas rotas) via Google News RSS."""
+    import email.utils
+    import urllib.parse
+    import xml.etree.ElementTree as ET
+
+    items: dict[str, dict] = {}
+    for query in NEWS_QUERIES:
+        url = GOOGLE_NEWS_RSS.format(query=urllib.parse.quote(query))
+        try:
+            root = ET.fromstring(_get(url).content)
+        except Exception as exc:  # noqa: BLE001
+            print(f"[news] falha na pesquisa «{query[:40]}…»: {exc}")
+            continue
+        for item in root.iter("item"):
+            title = (item.findtext("title") or "").strip()
+            link = (item.findtext("link") or "").strip()
+            if not title or not link:
+                continue
+            desc = re.sub(r"<[^>]+>", " ", item.findtext("description") or "")
+            published = None
+            if item.findtext("pubDate"):
+                try:
+                    published = email.utils.parsedate_to_datetime(item.findtext("pubDate")).date().isoformat()
+                except Exception:  # noqa: BLE001
+                    pass
+            category, airlines, airports = classify_news(f"{title} {desc}")
+            key = title.lower()[:120]
+            if key in items:
+                continue
+            items[key] = {
+                "title": title,
+                "url": link,
+                "source": (item.findtext("source") or "").strip() or None,
+                "published": published or today.isoformat(),
+                "category": category,
+                "airlines": airlines,
+                "airports": airports,
+            }
+    result = list(items.values())
+    print(f"[news] {len(result)} notícias recolhidas")
+    return result
+
+
 def fetch_ryanair_fares(config: dict, today: dt.date) -> list[dict]:
     """Tarifa mais barata por rota via API pública de tarifas da Ryanair.
 

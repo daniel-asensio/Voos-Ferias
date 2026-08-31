@@ -24,6 +24,7 @@
   <button class="tab active" data-view="calendar">📅 Calendário</button>
   <button class="tab" data-view="list">🏷️ Promoções</button>
   <button class="tab" data-view="prices">📈 Preços</button>
+  <button class="tab" data-view="news">📰 Notícias</button>
 </nav>
 
 <section class="filters" id="filters">
@@ -57,6 +58,11 @@
 
   <section id="view-list" class="view" hidden>
     <div id="promo-list"></div>
+  </section>
+
+  <section id="view-news" class="view" hidden>
+    <div id="news-cats" class="chips news-cats"></div>
+    <div id="news-list"></div>
   </section>
 
   <section id="view-prices" class="view" hidden>
