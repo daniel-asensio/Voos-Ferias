@@ -2,51 +2,6 @@
  "items": [
   {
    "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-31",
-   "source": "RTP África",
-   "title": "A greve na aviação do Quénia a causar o caos - RTP África",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSml4aE1pX2Q2T2pzRFJtdi1SVHBSUHVaRGtnRHNzblltRkRzMERDai0wcWw0WmJ5NUVEbXEzeDllV0FWWGhkcTJpZGxYTmZ0cXVDTHZQcmM2c2NFV0dHbmxySDlRb3FfUnlyTkM5OEpJRXNabzluM1ZGczNyQTFhd1lEM3k0UmJHUTU4?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-31",
-   "source": "NewsAvia",
-   "title": "Trabalhadores da Airbus Espanha prosseguem greve por tempo indeterminado - NewsAvia",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWMxaUVxckNKaGowVDVMMENXNjYwb3hpMFJKczdDYkZVVlVhUHlJQnF3TUx2YTNsMjN0TjNkYUxFSHJmSWs1eVh6SFN0MjRfbng3UVo0TDdrQ0VWbGRBVXJDVHNhNTVRa1h5US1rSzFpZ1JKQklpZlZFX3BxbjgzUFBRQjFWRzV0SENaUWxtSF9FMGtiZWY2UE1B?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-31",
-   "source": "cnnbrasil.com.br",
-   "title": "Greve de funcionários atrasa voos no principal aeroporto do Quênia - cnnbrasil.com.br",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdYZnU2SXpPRW03MFZDQTd4Q3V3QzF2Q0ZMV2VadW5uajVvVzVabjBDV3NlS1VMS1k3dGNVR28yY2ZsdkdpLVc5UXpYeDJyMTY1TTVZbm9wUEdpVHJrNklqMU15Qnk3ZDBkMXE0eE5qMmRhUzhRdk5EcEhYdmxOSWVwTDlka09TcDVYa0JnNUdEcFZpTm4zaHUyQkF3SDZKenNOY0RSOUdYYjNSbXdF?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-31",
-   "source": "Mercado e Eventos",
-   "title": "Greve de funcionários provoca atrasos e cancelamentos no principal aeroporto do Quênia - Mercado e Eventos",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaFd6bDBPSXRvZy1mQUc5MGFxVHhxeU9iRC1Hbno5S0JVcHdBcW5FbWc1ZWRad21NRHFxNmpGVkVEcmVNVHc5c2JsWC0zbjBPMFlsQ1Y0ay1sS1MyTmJaQWFNUVR1QnItcHJ1TVdGUE5makwwSjNmSG0xSWNpc3BuR3g1bU5XZUlDVi0wVk8tc2w0MHFBVmtjVG1TRnpOanZtNWdDc3kyZDd3elFlbXRsb1V0N0JmOVQyQVlLMC1LeEVNNHF6VzVCX3NDWk8?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-31",
-   "source": "Brasilturis",
-   "title": "Greve no principal aeroporto do Quênia provoca atrasos e cancelamentos - Brasilturis",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEU0bTZEZEgtdmRzdjJ0YkI4WmtRRUhSc1AwV252cm1FRTRtMFlIN3Q3RzVQckVyWEp6RC1TUUNmdXdVNW9nZzhCSXY1Qi0xVUk1d1NwMzZPeDNhWlI3bkhCeTJZUW9EYkVZelZxQlhCcm11TDhkVHJ1N29WeUVEd3BtcEdicHZrdlNub0V0T2kwdG9zQ3NNWUxEbjlzUmR4T2VRS1Q1N0EyTTFMSGc?oc=5"
-  },
-  {
-   "airlines": [],
    "airports": [
     "OPO"
    ],
@@ -75,30 +30,10 @@
     "OPO"
    ],
    "category": "novidade",
-   "published": "2026-08-29",
-   "source": "Radar News",
-   "title": "Porto Seguro ganha nova rota internacional com voos diretos de Buenos Aires - Radar News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnVQSnVfVGFDMHhfV0F1X01fXzBXUEJyRnF0eUQ0RjUwQWgwOS04bmdQU3JOckU2anZwbklOem5pMnRjNHJWVndBbUlvRm1qYk1zN2swd0dVV2t3d3NFakdtZWRvZ0ZiSmQxSWYwMi1wNTlrN2F4bFJkZG9meVBSRk91MzlXWWlkTGtFeHp3RTMxWjQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
    "published": "2026-08-28",
    "source": "nit.pt",
    "title": "American Airlines lança nova rota direta entre Porto e Filadélfia - nit.pt",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWmJtbF9iZ3lhd2VmUGotZ1VMdU1vQlhjOEVSS2Ruc1pZU19oV1kzejdQMk5SU2duNjM5aFdDQXlKcXh1MGk5cklmNDQ5SVJwQW9aNk1VYUR6ZnB0M2pIZGhiQW90TUhFVklYQWk2dUdRUV9OaG1WQjNtTmZZOFdja25kTGRSamkySnZXdm9jalBVRklVeHA2cHdkZ2pMdk94VUp1ejhBOEMycWk1X0E?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-27",
-   "source": "RTP Arquivos",
-   "title": "Greve da Sata - RTP Arquivos",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCeW9wcEZKeDMxQnRiZDM4dEFoY0J4RXQxUEpSdmNNMEV3TjF0Qk9OMl9xbS02UlBqakxxWGxtRG9lZkRKWWZFM3NMYWstSWlmRU00ZWpiSjc1WTdQaDk4?oc=5"
   },
   {
    "airlines": [
@@ -123,17 +58,6 @@
    "source": "Presstur",
    "title": "American Airlines anuncia nova rota Filadélfia – Porto no próximo Verão - Presstur",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0ZLMWRDUElUeWdTRTl1SXRlRUk4bG9GZlRsUDZ6RXR0RGRyb0NqcjM2MHlPdGZLZnNJU0VJenoxcTFGU0dMX01PaThORzV6ZXNiUzJVT0RIclpyVmVzUjNqNC1Yc3FuVjhHUUdlMThzRjFPYnR6SlZTQVNRSXJvNHNfOF9lU0o0UDBZa1RxMGh4aVJrakE?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-27",
-   "source": "Diário do Turismo",
-   "title": "Porto Seguro terá nova rota internacional durante o verão - Diário do Turismo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMGllQVRoclJWZ3V5WGxpRFFGdTlLSXlHdUV5NU5ZZHo2aTZ4TGhRa3FRdk55OHBnNzhqU0FHRDdZUmU3SGVydjY4eExnaTlmUWVZOEIwNnViczJVR0ZFQUkwc25hUmxPQ3RaLXBPQzZvNnBsandZblIxMHpSN2s2OEJWOFB5VlRZWm4xVmRlM01FZlU?oc=5"
   },
   {
    "airlines": [],
@@ -225,21 +149,49 @@
   },
   {
    "airlines": [],
-   "airports": [],
+   "airports": [
+    "OPO"
+   ],
    "category": "geral",
-   "published": "2026-08-26",
-   "source": "Dinheiro Vivo",
-   "title": "Presidente do Turismo lamenta que se tenha abandonado solução Montijo para futuro aeroporto - Dinheiro Vivo",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjY1d3hTODRMcDYwMTB3QzFlZUNrUHpNTFAtVDZ5OWNhR0I1RkFJVkFUWGJsSVBLZFJzZ1hpNXVJRGJRU3BRTDREcXcwckVERnQ1eDRTTnRENmI0dVV5MWx3Z2lMSWRWUzJ3NUdxeVVoTk9nZFlUT2gyR3Q1S3h2SndGTnU1OTUzSDhtMGoyZGd0cnhBT1Q1TXkyR1RranVkWVM1SDN3SGo4eGIydVE2YWU5LW9QQmw3enJzdEp5TGE3QQ?oc=5"
+   "published": "2026-08-27",
+   "source": "Observador",
+   "title": "Mau tempo cancela oito voos e diverge outros sete do aeroporto do Porto - Observador",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVlMR2I0YWhnTHZwajEyZzVOMU1mWHh0Q0pUZDdvWE9acDVNV01ZVmtEcmY0alVXZEpibE5mNkdUaHJiUjU0WDdYVEVvMXpQamlZY1NTd2pxekFuN3BnMWQ5OHRrMUpabnI4R1pFdFZ2NDdoWHNmdVV4UmhmclBQb01XaDVnZTkwc2JveWNjZzl0dlRiNG1FSmI5cWM2dVN5cUJxNXh5NlY?oc=5"
   },
   {
    "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "geral",
+   "published": "2026-08-27",
+   "source": "Diário de Notícias",
+   "title": "Mau tempo cancela oito voos e diverge outros sete no aeroporto do Porto - Diário de Notícias",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0c4aTBzZHk3QzVvOEVYOGtCSTBoWEhpUV9EbXBINjAxdXFuNUFYanhMZGI4Wmk5TU1IWTVtdE50LVpmUzBMdHFjdmsxeVY1ZkdqeVZScFRVdjBYRWtGN3NpTTVhRFNNNDU1TThoWXdINmlvbWpHX0ZOSXQ3QW5SQzk2S3BQYWpJWVVQeUpXMDFfdV9ERHRXd3Vjbl8wRkVk?oc=5"
+  },
+  {
+   "airlines": [
+    "HV"
+   ],
    "airports": [],
-   "category": "greve",
+   "category": "novidade",
    "published": "2026-08-25",
-   "source": "Brasilturis",
-   "title": "Greve no aeroporto de Barcelona pode se estender até setembro - Brasilturis",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3JZZlFIR3pId2ZPUFMtQWNBYlBtQmtmMVdyM09QeEdtRVNRalNkLTZaTER3d0pseWx3ZF9rZ09Kb3lqX04taTE4MHF3ZldBR0xiVms1Q0VDWlpaVDRfRXRaak9uQUhvMWFld1VBSHh2ZEdCY1BQTEF0Q1kzNWZ4ZVg5ZFp3VHB6SGY3alpBTEkyUzZpRGg4TXZlUGpPcGZxSFE?oc=5"
+   "source": "Dinheiro Vivo",
+   "title": "Transavia inaugura rota entre Ponta Delgada e Bruxelas no verão de 2027 - Dinheiro Vivo",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXllMTZnbVpjVGM3elMtZHlPMmdTbTBpVmEwTURVYzMtZHpuekNsNkJfSGpseEx1cS1RdkkzWkNaalZNaEU0RzZQWEZ6NFYwY3Q1NWVDeG9IbHJ4STBuQWUyVkRKZTV2MW9KVFB0bEhndDNFNUJDUWI0YUlyeVNVc1QxUlMxa1RTR3ZTUHI4dkFTby1JdzlkNHd1d2p1ZzdwbWdRMVF5dTQ?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-25",
+   "source": "VIVA! Porto - Tudo sobre o Grande Porto",
+   "title": "TAP anuncia novo voo direto do Porto para a paradisíaca Ilha do Sal - VIVA! Porto - Tudo sobre o Grande Porto",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlRNMkc1YzJBN1lCcWVTVFBUWDM0bG1LNDdIVFBVdnNlaXBXNFFWUlRhV2ItbjZwQTB3Tk9ralU2TEc2ZFdnX0JiTzVfOW9yRWphd1hDd3hBVl9xbTBfcUVDemw5OEtsSUxZM0V6Ul9UNUNOUHpSdFNxVjZab1RVQmdacy0xN21MN1dfMFRpdlJ0TXRW?oc=5"
   },
   {
    "airlines": [],
@@ -253,13 +205,43 @@
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS0p0d01jN0FsUWlvb3FvMWZEc3BJdzY5R0JYZGZkdXRlakswanBuZUhLZ2ZONVZtU3RfbHljenFhcERKQUZGUUprbUxDOEx1UmJ2ZVFCQUxMLS1NR1NkX1A5UWp6bElPZFk2QmdvM0R6SkI1MjZabWEyRFRhVDZFcmU0dXh6V0ZaMXIxRDZ3RlJ6Smk0UkRfcGVnTXBVVGp3WkowR0RNQm8xZGphWFpLVDU5TGdjRWxrbFFpQlo4OE9UUnJ4a2l2LUVtdGNLOThMWl9J?oc=5"
   },
   {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
    "published": "2026-08-20",
-   "source": "Vietnam.vn",
-   "title": "Israel: Aeroporto Internacional Ben Gurion paralisado devido à paralisação inesperada das atividades por parte da equipe. - Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHZFdHJLQnAzSko3TzJ3YXFzenBmUHU4U1dsclBrR2tZeV9PWXZ3eGRwWXdUNmVyZ01tZmEwQ09HMmE4WVI2OWpodEFWZUNFQXIxZGw2RWNINlVIN2xhT2JsVXlyTEVWNVhGS2NUb3c1QVNKWEgyaHo4OWN4TnluZGRTSS1GZENzVnlHRWQ4VDFfUlllRjhRQzNaLXhYbVJ4cGc?oc=5"
+   "source": "NewsAvia",
+   "title": "TAP programa nova rota entre a cidade do Porto e o Sal (Cabo Verde) para outubro este ano - NewsAvia",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUV4ckhubnNVMjhIZGx2dnczd09ldXlQRmx1djNBYWJGQVVldEVmLWhZNEUtdXJpUjh6NjFWRnFScjZJMEkyZ3VNTE5FWllKRFZMOGduNFVuYU5rZG1rMWxLTHNJVlRiUDR1TmFicEk3dmRsODl4WEJTZHF5ZFJiT1lMc0NfeFhPbmpSbG5vX29MT2xBYUlabktHUHFyeWxadk9CVGREWnA0VWg1SkE?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-20",
+   "source": "The Portugal News",
+   "title": "TAP Air Portugal lança nova rota a partir do Porto - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmp6dGkwVUtTZ0VyRGszb1ZfTXh0WmhUMWQ5QXNrWmxVR21OLVFXWmJQQmk0dWhwOU00d1BZdXppOFVGVEF3dDYyRGx6NEp5YVJwWUFZejl6NTgxYUxTQ2g3Uktyek9hX29RaDcwVUN3MkdBS0tSSFpGbTNYU3Nja2h3QlhaOFAwWHY4T3RFajVUWEFvNE5SYW41NDk2RDRKZ1dWVGhFMDZxeG8zckRKVzRSaw?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-20",
+   "source": "The Portugal News",
+   "title": "A TAP Air Portugal lança uma nova rota a partir do Porto - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW5aOGlnQXZnaDRGRy1DcldTWHZvSFhOcGh2ZFJGSHFtanl2S0ZfNmRtM2FFVjg0N1ROdWNqLUpJX3NmMGVBSVUtYjNRNkl3cXpsUTlRSDdhemxTRG9CaEJILWs5TV9HRnNCeGZxVjJFS0JiZ2F1dGpPLVJtNzVtUmVNcHJvamNURkZaSDV0OVhUQkZQZG0wdmJiZ2NjbDN3cnJIYnh4ZW1GcmdzZjVrdEl4OA?oc=5"
   },
   {
    "airlines": [
@@ -271,6 +253,30 @@
    "source": "nit.pt",
    "title": "Ilha do Sal vai ficar mais perto com esta nova rota da TAP - nit.pt",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORm1HNzQwblZNTFNTVWJudllxZzBKVXYwVjRjSFY1Y0tGYzhpOWNzdHZpWVVrQThteXVYSVUxY09LR2F4d1FnalNIX1AwWXoxMjZEQnF2TUxmY003LWhrSDljQV9pcE9vaHloV0I4TXJoaVVsZ2JabjVJNXFsTzNqb2ZieE9CSzdrTjk4dHo4czdudFl2MkdndFNTa2llLWtwUEE?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-19",
+   "source": "AEROIN",
+   "title": "TAP planeja nova rota entre Porto e Ilha do Sal para o inverno europeu com voos semanais - AEROIN",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWklpMC1RLWYzZUlfODJDT2hkQWlISUVyQkZtV2lXSWIweFR4Snp2TmltZnVBeUJ4YXh1RTZYX3VlMFo1Y3dWbU5mVDgxZ092MGUtbGZiV0NndzhYdlFMUDZwZ0VMWldmR19GM1NDUU05S1l6WFVvSl9nNENlOEpfekZTN3drRVdldE5ob0U1UVlZWnZHdFVmVU1QeERWUEFwNW5yRDRUZmo3eWk10gGsAUFVX3lxTE5aSWkwLVEtZjNlSV84MkNPaGRBaUhJRXJCRm1XaVdJYjB4VHhKenZOaW1mdUF5QnhheHVFNlhfdWUwWjVjd1ZtTmZUODFnT3YwZS1sZmJXQ2d3OFh2UUxQNnBnRUxaV2ZHX0YzU0NRTTlLWXpYVW9KX2c0Q2U4Sl96RlM3d2tFV2V0TmhvRTVRWVladkd0VWZVTVB4RFZQQXA1bnJENFRmajd5aTU?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-19",
+   "source": "Tribuna Online",
+   "title": "Nova rota leva ferro-gusa de Minas a porto do ES com R$ 130 milhões - Tribuna Online",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJNTmNMU0tfZlFMUEVIa1cxd2hXcmhGQVBIckg5UVpZYzg3dUJhTGo1QzR4V0JnZWhjT2dVcm5lR0hvYW1wbmFsdmkya1gyMDB1ak1JR0ZnOHJmQmJsdGd0SzB3cEZpc01PTk42MjEyZDRyUmdZS1JBR0dsY19lOWxJUThVTmI5RTNpMUpKRFJMc0dTcXUyUUlKRmVEcmVxOTF0YXEwQjVTSVY4WktyeNIBuAFBVV95cUxNSWtKbTR2MXdUcUlPNTkxRkZycElwalR4dGlQWXBhdmtGNU81WkwzazhLa2tpc2ZCMjRSN2xhVHVaTmJGTy1oRTJfSmkxT2JSR1lRY3FMS280d25Ubm9wLXNNbDc3MzAzdzU2MEFkSlFUa1VaektJNWhCYjctUVZjZHJGbmFXRkMtenhqdkNvcGpkbHRKckRZbjVwVWRSSzZOaVRyWl9zaDI5N0YtdkpYejRHV2lXZlpq?oc=5"
   },
   {
    "airlines": [
@@ -296,12 +302,25 @@
   },
   {
    "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-17",
-   "source": "R7",
-   "title": "Passageiros da EasyJet ficam retidos devido à greve da tripulação de cabine - R7",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXItYkxXb1FBSEo1T3MwNkxjeG4tWngzOEFFWnNEMTVCWHBqWmczZWpERUQ5RzZadEFtbGtEQUlSdmRMTlVZVExZQUFYSjJOako4cVNFTnpkT0hhWE90WFRaNFRUbmxaSU5oQXJ2aUxwSldaSGxpRlo0REZHTERBMWZSNWptSVcxbmpudjFhXzVYZDNocjJwWUhzMzRtZ2FXRUFFN2NoUFcyX21ZVGJScU5SZm9yMm9mTGZtYk9VRHY0Q3VYM216OGluTC04WktQ?oc=5"
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-18",
+   "source": "panrotas.com.br",
+   "title": "Tap anuncia nova rota entre Porto e Ilha do Sal, em Cabo Verde - panrotas.com.br",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ3dIcWxHUFNQaFFHMTExLWJrdTBaYndkRVJrSnJyblI0OVhsUURRN0hrbVY3ajVhd256bVNyc0JXbktGOUFhWHduT1hsdXNJRlJ3ajJoazVkOThKSHA3QnNIOFo4Rks4WjI3VXBua1E1Z0lNdTRQb0FCc3BSZlBaWjVoRHc0M1VrU1JpLW9vOWw4RmdwcEQxOFNyRGt1dS11WTVtdU02UzM4VkJ2Nk1EU0QxTHBTVVRfd0h0dHJlbnlLdTZRSXl5ZQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "FAO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-18",
+   "source": "Portugal Resident",
+   "title": "A Jet2.com anuncia nova rota a partir do aeroporto de Faro. - Portugal Resident",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFdyTmRBWkpIRWF4SEtTLUhJMWJZcmh6NF94T0dqXzZGdl9Wa2dIcnYwWFFZbWlYb01fYmM5a2hpWnZaeWRPVmtFSlhPWUFTOVJWRzlxemRGaGtwYVFjd2VFWC1fVkx0Y05qbGFSaGM4VVlCejloTlhieVctLXZ2emQ2bVAxSUw3blAxTHBpcS03d19sTHBv?oc=5"
   },
   {
    "airlines": [
@@ -313,6 +332,45 @@
    "source": "Portugal Resident",
    "title": "Tripulação de cabine da Ryanair confirma que \"greve na Páscoa\". - Portugal Resident",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGgxcUxRTGJpNWZZMzhiZ2dnbHAyTTJrQ1Jrc1lWWlRuSzdYNHo4U0FIWVZZRk80ZjRDUUdBQWE5T2RZci1tSHY4dmRSbEdDRXcyMm9zQ0Iybi1sU240MmxlNklOVzRfQWY1SWtscUktUFd3ckp3cjJmd2JqY2ZSUmI0cXZLZTJJeVdOcWJTZDZrdGs4cktLYjJjOVZWWmhLV0V6SW1EZlIzYTNkQ3VWMkdRQ3Q?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-17",
+   "source": "Executive Digest",
+   "title": "TAP reforça ligações internacionais do Porto com novo voo para o Sal - Executive Digest",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjN3VXg3dWZyOGpBM09oOTdSaGRRNS1GTjhJRldhV1drVHZueGJlTF9CMXU4RlQyejBzb2JfV3haU1VYTERscWFROTVhZ2hzejF6ZWkxSGhJVzRfRnExMlhjdVpUZ01WODRLcl82TnRlSk4zNnhZUmoxelF4RUl0cHM3SVNpdjNoSjAxZnFoaEtNRFRQNjkwUG1WUTFvcm1vSE9N?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-08-17",
+   "source": "Portugal Resident",
+   "title": "Nova rota Lisboa-Madrid da easyJet - Portugal Resident",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PVTBEa1VPU2JtQndvUl9aMG9VdGk5c1U2ZlhtLWdYazlaSFZWNU9XLUQxWlYwTnpHRHF1c214SEFJdDA5ejNUcVV4c19vdHU5dGMxUVBTSkNORzUtbFhXQTg5UUgweVZtYlN3YjRLdVg4OFM2enk5VDBvUEhOQQ?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-17",
+   "source": "Echo Boomer",
+   "title": "TAP Air Portugal vai ligar o Porto ao Sal com nova rota intercontinental - Echo Boomer",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXT202bFNBbWdWa0VORWw0ZVVnaUVCZGdyVm90SlRLanBxVktZVXdWeWMyNlVwVDlZLS1hVVY5bklVNG8zMUtrSjBJNWVQR3d3SlJsN0hHS1lzd2NSV0FEQXhIaHRyZGpsZUswU3R4azZwcTA?oc=5"
   },
   {
    "airlines": [
@@ -339,33 +397,6 @@
    "airports": [],
    "category": "greve",
    "published": "2026-08-15",
-   "source": "oglobo.globo.com",
-   "title": "EasyJet cancela cerca de cem voos na França devido à greve de tripulantes - oglobo.globo.com",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcG5nMjdWaU9BTkxyMVp0RUc0V2QxcnU1d0pJUVY4b3VDQS1EV29vSC1LaEtKNk5RWmhqZU1Uc3hQbV95RUFkbFkxY2c4MUFFaHU1Ul9sZGZwY1ZTYjVmQU9yV2RWNGJvQ0JQNlAxMFFVNkcwQUNuVGtlMThKalFEdjF3dTB0X1ZUeTEzNUJaVEZWOXJPSzNHNWdkZ3FYVDlvOGdGM1dLaTlMYlk4UXJha1JIdnFpWWktUGZwSHBzZ1NmTGdXSllYal9DZWHSAdsBQVVfeXFMTTZkU0FXb25NaDhqY1B5RmlzZ0haZUpVNF9FVXd5dHQ5cF95NFBvbWc3VVJsekVpMVptVWs0YkRiZGt5b3JYUV9MdHpxcG5BQXJLR2gzSTV4ZmJHa2hLcFpiOEJwWEhOVmJqbXZtSktadUtLNWRGZzNhZUZJcm0wSUQ3NlA5LTlvbzN5dlp0bkxfeHB4MUZqX0hTVVAxVzV0TlVQand3YnA0bzNyRjR0aVNsMUhVeXZ0czlNaVM4MnVMSTdlT3EyY3o2NFJVRnFiMHFIZDFxNzBPZjRR?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-15",
-   "source": "RFI",
-   "title": "Greve de companhia ‘low cost’ cancela quase 100 voos na França - RFI",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3hzNXZuVmxpZ3daSVFSUzdBMy1NZm9HRTZkQm81RHY2eWpmR1hjcmptVnJvMHY3SWpQOXcwcVRQNExKTVZ0dzI5ZDVXX01neU9GNHpfRktRd2g5UlJJWTJBRENNd0ZucmhDUmUyaFBUT1Z5TE5RR2JLaFJjNGwyREl1TEVOZ0R5aVNoMmJ5R1dYWUE2dmZmVXRnR1VoREJWZGVXSVp0TkNzendj?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-15",
-   "source": "InfoMoney",
-   "title": "Greve atinge companhia aérea e cancela quase 100 voos em pleno verão europeu - InfoMoney",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVRuaWZWQ2F4RGtrX2UzRHNiUzUxckRrd2pSYXJ0bHdiLXpjbW5nRjlGQnlmRmJOZklkNzQ5YnJqZXF6S1BfaF9rNC1KZk5vTlE3dzkyZ1VLRzNBRW83aUJZbGRvLVphdUxDb09pOS1nR2pHeXliRGFRWDNsZUEtRXQ4N21vZXdiYW41enJ2QUFwVXNacEF6bGlaSkVLSHNLMXNHX0dEMElQQWhmME1kMUJHUHVyQdIBuwFBVV95cUxPT0NDZ2V6QUJlZU9LbFJac2tjeVVUaV9yZnF5NVZKR0JqdThlbFRnUC1CRlRQYmxWZUlIakNtcWp1YmN3eFRicVlzVFFqS2NnaEJGSGRtQlVMT2ZYRzlBXzB2bmNMVEp4OFozTDNVeVZuNENRWGtsUDhyY3FmREliWTRjdUMtbjBzZWo2WHRUNVF4UnN6eDBSZ3F2M3pwejZwU3BEYnRIV21WVEdWR2xiZTV3SXpZX0dBdHZn?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-15",
    "source": "Portugal Resident",
    "title": "A greve nos aeroportos, que ocorrerá entre 1 e 3 de julho, será \"uma das maiores de sempre\". - Portugal Resident",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONk5Ram9GbE83YzVacUhJYi1FNXk4dmlveDVEYktpSTl0TkVsSlhVVkZOYlhGR1VxSGs0RkY3bnYtS0UxWlBTUGtQZFEwNVNLTU1ZZ24wLVRzT29zZk9kek1Ick13SU9MT0owd2dWSWdfb0EzRGMtWnBPd3Z1cUxvUHp1Ym9RX2V1ZWRFa2YzRlJFR3JQYUVNRWlaR1huUW43dXdzZlZOV01laE0wbkNSM01FNEJNQ2RkUi03QURzZjM?oc=5"
@@ -384,36 +415,18 @@
    "airports": [],
    "category": "greve",
    "published": "2026-08-14",
-   "source": "Correio da Manhã",
-   "title": "Greve na EasyJet cancela pelo menos 40 voos no fim de semana em França - Correio da Manhã",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVVsLTQ4YlA2b3NtUEF5alVYTER2Uk1VSUVFVXlEUGpTSFI1bDRPSXJUbkFuM1J0Q095M2dLN0lPeXBhYjdqRmRYYmx3NUozVk9RZTEweVA2bEdkaGtPREd4SmpmR1VHdGM2VWNBR3JuVXZJVFZhRWphMXhfVXBMWFhUb3RpQ2l4SDlOa1pqVEVCMFhfWmhsOV9XblVyYk1NQ2hhYWlJN3dGYkxj0gGnAUFVX3lxTFBYa2RsV0lsOXdVSDhmYkRKVzZpVVh3VXpHbzZ1M0JfbUNnOTVlQ1FxcXNCNzF1MWNubm9VY0pKVW9GSlM1UFlNOWNxZE9MNDBCZVZyM3JJTlpGdkQzRlVQcWE0TlI5SGFoaXB1dHlPZnR5dHlCWlBtM2ZLeVk1NEdZdDFnM2RYMWVVM2dyb0F2cUYydjFVVTVsOTMwcXMwb0J6b2x1aUNN?oc=5"
+   "source": "Observador",
+   "title": "EasyJet cancela seis voos entre França e Portugal devido à greve da tripulação de cabine - Observador",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjJnV3NLM2Z0ZEhua0VrbjBGSHk2WVBWX0tPa1hpMGhPbkgzbkdZTXF0UTlHOWowcHFNSFpTbUU4S0RnRDEzZEpxeWF0X2l1WmhtN2pBdHNqTTdzX2ZLVzdCek9zLVp4cjJoWDRJVzhHcEU0V2VwLW1BelZhQV9BWkJNMEQ5akk0X1RFUERYRzA4b1AybzdKcnQ5eUhJakVJcEtNQWQzQzRLSjRldThYS211T0JlZWk0RzRZQ1kxMA?oc=5"
   },
   {
    "airlines": [],
    "airports": [],
    "category": "greve",
    "published": "2026-08-14",
-   "source": "Lusa",
-   "title": "Greve na EasyJet cancela pelo menos 40 voos no fim de semana em França - Lusa",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSnRlc1NjbjlwSEFuQnE0Ylc0bDhLQTUwdHBfUmRNQS1QV3hCMXJMQVBiUjhRQXgtYzRvLU1CZkhOd3FJTFd1R0hlOWVQODByanpEZjlYTkNMZm1ZbExWSUlwWG9BRU5ySnhEY0JBSkhYbTBZT05YT2hqbFNnUkNCYjI2UU8tOURtdVc2SDl2NXJVa2ZFSjNRMjRpa0hYUzR1dzJuckxzVENpdDBuX2puUTY4ODNHTGphTGhKMzE1Ty16MmVvLW02TVl5T1A?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-14",
-   "source": "bomdia.eu",
-   "title": "EasyJet cancela pelo menos 40 voos em França devido a greve - bomdia.eu",
+   "source": "BOM DIA - Portugal no Mundo",
+   "title": "EasyJet cancela pelo menos 40 voos em França devido a greve - BOM DIA - Portugal no Mundo",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWGFxM1h4eTBfbFRoZW15NGtnQjlKdzF2OFV2eXJJdmRkV0tJLW8xUkxBX21HSWtQZjl2UFVpT0ZNcld4RF9JdWZMclJVNHJvN1p1RjlqUFF2VTA0bE51ajhiWmtKSFQtOXVXNW5hM0FtMXZ6em9FREVNdUx3eG9WRk9ZZnQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-13",
-   "source": "dnoticias.pt",
-   "title": "Trabalhadores do INEM em greve a 14 e 28 de Setembro - dnoticias.pt",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHNoMk1nWGppb2lwazU3QUlnMjVWdkJBTkVEanJWR0pxOG9fdlQ0UDA5MzF2LW44QUZfMS01TGlGRWJKNXZCdXROeU5vQVZHYWlneFBRLTZtOGd1d0JWNFd1N19mazFDOVNyN2xwdE8tXzdfMG9wY21ZMVFEQzdqdzhpZlF5eGlkUUVUSHp2Z2ZhUXRJR21ZN093UQ?oc=5"
   },
   {
    "airlines": [],
@@ -426,84 +439,14 @@
   },
   {
    "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-12",
-   "source": "eco.sapo.pt",
-   "title": "Pessoal de cabine da EasyJet em França convoca greve para o fim de semana - eco.sapo.pt",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXVLdjlxSzJYN1lDN1Zob3Q1WVlNa2hsVWJ1M09NbS1XUFROVWcxSXBiYUI2WEJXdUI5Rk9ray1EV2FxeHVOckJIRWduVTA0QkZMZm1oMTF3ZHI4cXZJb3g3bDlHaG5VblAyUDJXUjh2MVBsMkFxc09halVIRHJ4a2E0RGVEanU4ZVdFWmo0SW5NTHlYbUM2OUpCc2RfM1RDRjB2TlBnS0s?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-12",
-   "source": "24Horas.pt",
-   "title": "GREVE DA EASYJET AMEAÇA VOOS EM FRANÇA - 24Horas.pt",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4REFtUGtVbk1qNndWZjJzNGlWQnlsWHBlMEYzd3JIc0VjbjhWTlU4c1JkYms2ck9BRTBZTzNHdW5EaUJlQnIySFl3bDlFN0loM2pzbWxZd1N2bF9LSDh6T1Q5MFFqOG5RWkRBMkRZRFdIbHc?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-12",
-   "source": "Executive Digest",
-   "title": "Pessoal de cabine da EasyJet em França convoca greve para o fim de semana - Executive Digest",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNUxOWjQ5RWNTaEpqTVU2a0QyajBlRzJHXzZRaXZvd1p4VTkybzZ4MnBmT0xob3pfMzIwN0pRV1NmMlNOZkIwSmxBd2VZVVh6TEhUeHhMSThUY3hXaVpWRE9iRS02SEVUdE92MlNtLWlpS1UwZFhVUmd0akV0a0hsZGlWQW5FZDZZOWg4bTJqNHFLUGhBTHhHZUFteEVHNDRTOVpRaFhmR0ZuZw?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-05",
-   "source": "Panrotas",
-   "title": "Greve em Barcelona cancela voos e pode afetar 2 milhões de passageiros - Panrotas",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONmhPcnhKNHhMZUNvTjNCRDhqS0RaUVZQdWNsWjdxcHlPT2VYdVFnNEZFeGxmSWZwRGtSZU1uZUQwMG1RVGlkcHcxaDhyTGVWMjZXX1BsckJYRHlBQUNBWDhId2NydzRlcEUxaEdPb1MxMURYNURjb05TS3k5THkxT2JXUWNaWUttTWJHWVVZTVVncDZuQVBMUWEySWNiLVBfd1ZuVkVvY1dsWFVobnJDQzZaX2RQZlBCRm9qT0lzdXp6WU91QUNBNGV4N01pN1IzRlNN?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-05",
-   "source": "Consumidor Global",
-   "title": "Cancelam-se outros 18 voos no Aeroporto de Barcelona pela greve indefinida de Groundforce - Consumidor Global",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTmZuMjVERlhkN1ZPQmZYSXoyYU1oeDYtSXhxZGdERmhCOEtQYWkyS3dmNy1EclZJMHg3aFY4cElRc3ZMVktlWFJReXJuM3pKY1A0Q1BNRzdENGNmcDdoU3g1bnhhMDB6RHJQeS1HVk5rNTNmRXUxR0h2VmpTWmJHcGs5TWhFQW8xdUdBVVVLdFpDdURYeXpNbFJXbjV5ZmV0X1JrUUpCY3VzaGNUUjVQVEhpSGM3UmNsa1MtTzZkc3RmRjNjVEladnBFaGp1aGxpUzBXSENZTnBkNWx3V0JuLXhWTWFsMU1yakxfWEhOU2ltNFY0d0d2Sktsb1pfQTBnbHZLMm1RTWw3UdIBjwJBVV95cUxPdFRGZl9KUTlUMG10Z1dLUnZ0YzdDQ2g1bk1NMmkxRzFfNklXanllbnJHMDd0ZVVkemp4bXZtUFN6XzM0akNWLUdjZVpSUzNOaXZudnVhRjhJSTFtVFdxQXRqU3RuNGF1QTRSTVpHNWplVnVCVWhFVnRvN3FSY2dRcXpyNkJTS2tGZWpNT2h5X05OZGdLWmt4VVBRY3I1aWQ2S3lHYnZGbHRVNUt2RHdpRHNDMldmNDRxeWZSeVJPdFd6WDN1bm0yVEZPOVQ0OEpjcDNDcjlRVWhJaWtxbnB2SkFUSFVfT2pGQ20zVTcwZ1lOTEJTMzBiV29IT1ZjWjEyb254Y0tBbW4wX2pYSjdB?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "problema",
-   "published": "2026-08-05",
-   "source": "Expresso",
-   "title": "Filas longas e voos perdidos: novos controlos de passaportes da UE geram caos nos aeroportos - Expresso",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcWFSaUFueWlsckdlYjg1cG9QYXl1bFhrVGVRd1Y2VktkeVpIWjJSb1NyVXJFcWJCVDZCaTlLRlB0b1dZZGl6M2h5eHNkdWdvSmNrQThGS3F1d2ZEakY0d1hMa016TkIteV95SzdlaTc1enhEOHA5T21Jd2NIMDk3bThSdjluc0JRbjE3OXZ6bk5XbHBuNkpvbEp5dnRIaXotV2RRbUNIZENqSHN3REhTNGl3S0hGYXpGLW1YVlZUS3BGeHg3TUhhMXQ2eXoybWlUR01XeWlWamJCUWZVaE9uYw?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-04",
-   "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "title": "Tripulação de cabine da EasyJet França entra com aviso de greve - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXFWQmlQbjdVSWpoNlFIXzNoUEZWeDJnQWx6dWFRMTh6QzZQSHNYbGY1ZlhtV2g2bjMyU3dSSVhYdmR3bzNLbkdGZXRMbmEyay1iWlQ5ZW9KazlKZjV0WWNVdXBLYUxPYTRNMnk4QktkSXc2RGFqMjh1NURhOFh3T2lSTFVjd1lrMDVwcmlQNGlUaG1ZcjF1eGhPc1o0elBJdjF5bW1BZkZHMnFCYnVDQ2FxNWRISnYyaFFQajdvTWpPZw?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-03",
-   "source": "Consumidor Global",
-   "title": "Greve indefinida no aeroporto de Barcelona: Os passageiros afectados podem reclamar compensação? - Consumidor Global",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeU0yUExSQVUxY0pOVWpFZndzVEd4NmZxYXBsRDhNbnhZM042UjJwRDh3LXFxMDU4MW1IX1pfS0JxWkpxU2oxVVc0QXJ5eGJjTlA1UnpieHBCRmo1Z0dvbmVMcmF4VmQ4b0ZlLWZWNnhmUENPOVJFdjg1V0gxckZwNldIMnBoWnh1ejNTaUlUcU5DYjlIWjcxaC1pTHpUT2cxZ09lT3hWRjVLS1dGWHZ5N1psLU9PMmpZN3hHbmt4T0NFN2RVdW95UXhPczZpVE9NNi00MTVDTXpKZzJLRGVNZ2wwRldydVRYcVZsVlZhYktid9IB9wFBVV95cUxOaTYxOEtQZzhGaXpMbC1sM091bFVPU09HckpYdUpPb3dYN3F2NnJfN0xwVHhKMnJyallZWW9yc21odDZvdml3TUd1QjY0YmJLVGdnODNxTzd4UUFVUWtNZ3pYS1ZVdjNSdjZYanFpWjRMY0RqVHhXN29qeE5hQ0dlYUpMcXREa0xMZzY4cGxwQ21WT0c4WmhZRlM1OWFTdEJod1ZycWxCU2paV1FEMmFXM3ozUzVpYUo3QkkyRHhPRzVSUk1COEtNRFBJX01PcjNYTGVVa3FLcnkydm05VWc0QTRHMks4SllMbHItNkpCQXJEeUV3S2ZV?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-02",
-   "source": "observador.pt",
-   "title": "Assistentes de bordo da WestJet em greve por aumentos salariais - observador.pt",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdGZpN0pXZThGY2JsSmJjN3o2Z1pjdTdoeFQ4bTR3NjZTcjJzV3VfLXdKMS1XVjV4VkhYVnpLRTJGVmVRand4c2pUT2xQN1FWTEJ0R1d3OFl2aUp4SkZ6YWg2OXdwRXVhUzlDVm9mTU5lN0NtRWZNdWJ6UW50WGE3SFhtc3RLVndkb1ZnUWZkbGlfX0YwTXJnLUtMNnJ4dw?oc=5"
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-07",
+   "source": "VIVA! Porto - Tudo sobre o Grande Porto",
+   "title": "Porto ganha novo voo direto até uma das principais capitais da Europa - VIVA! Porto - Tudo sobre o Grande Porto",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUUzaENEYnNDQlItSWZPYTNlbE9yZm5oQk4tdHdsaUpNdFJnTFRobDd3ZlQ1c2t5Ym9GZWNLSVpOOUdtdmlNWWFndWJpTFpxNGxoLXd4Y3hLOUF0SWo0OHpIM1NjSW9YaFk0YW9jVUtZUVBfSUc5b09PaUhGREdDYk4tOHpOVUpWOVoxNF9WcHdPWEFWc3BR?oc=5"
   },
   {
    "airlines": [
@@ -529,6 +472,61 @@
    "source": "AEROIN",
    "title": "Lufthansa destaca possibilidade de ampliar voos para a América Latina em oferta pela TAP Air Portugal - AEROIN",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1hiOHpiYnFUM3otVGpRcUQ3SlU4RGFCaVNPM2ZRX1NkcHVXbVUzTkNxdWNhMkN2SlkyT3NxVngxb3ZnMW82VWZZTmN0YUEzTXotNUZkTEJwSWpTdHhQVVhoZklEcXN0VDJrM0s0eF91b0RqWm5kbTVUaVd2Z0VNdloyUTAtRS1hRXE2RW1jYWR4UVRqVkMzWUxIUDNTMEZjOG5oMTVHa2tiMXIxNXQ2YjdaS24zM0NOSE5ON2hB0gG-AUFVX3lxTE5zWGI4emJicVQzei1UalFxRDdKVThEYUJpU08zZlFfU2RwdVdtVTNOQ3F1Y2EyQ3ZKWTJPc3FWeDFvdmcxbzZVZllOY3RhQTNNei01RmRMQnBJalN0eFBVWGhmSURxc3RUMmszSzR4X3VvRGpabmRtNVRpV3ZnRU12WjJRMC1FLWFFcTZFbWNhZHhRVGpWQzNZTEhQM1MwRmM4bmgxNUdra2IxcjE1dDZiN1pLbjMzQ05ITk43aEE?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-07-28",
+   "source": "The Portugal News",
+   "title": "Ryanair lança voos de 14,99€ de Portugal para destinos em toda a Europa - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObVM3R2xNWlQzVTVEU3NGY05iZEltUjZTNXdKalNrNE5veVhSZXh6Q3h0WWVFdU12VXNKTDlrWUY4ZmZRWDA4YnhScHFGaVc3dGhXY3k1N2p1RjZjRDdXMmJ0OFVuS3R4WTZELVJHZTZaSFNUUTRaRFA1bWxkTWRxMGpvbGhWRU5jZjVXQVh2aUxDZUE4dVJWd0UwZ3dSbjRyZmhmZWFKejZXTlpSWjRIMVFsSS1aUUZxSjN4VUN3cFlSQzNXdWZuTA?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-07-28",
+   "source": "Lisboa Secreta",
+   "title": "Adeus, Cais do Sodré: nova rota no rio Tejo liga a Trafaria a Algés e evita filas da Ponte 25 de Abril - Lisboa Secreta",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iSkZEekh0UHQ0bDQ5QW1JNUt5b3pGRXFYTGdzWDVWckZkYnVzV2xlVUlxa2NkWEhmQ3ZSV1c1VE9UWlVCSHpBOEVjN0NVUGRMdG9kMWZJekk3SVV1akZpQWVJWFpDSm9teG5UenJnd1BmRFA1UEpUSThR?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-07-22",
+   "source": "Melhores Destinos",
+   "title": "Portugal com a Gol muito bom! Promo do novo voo para Lisboa a partir de R$ 3.064 ida e volta saindo de várias cidades - Melhores Destinos",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTWliQ2dMQVVDQjZyQUNxTDNrd01kX1RFRGxYamp2cGJQQThZT1JpdzB0azNCOHFJd0p3S2tMLTBUeDdZb0g2LVNwWVBYRGwtZ3BWenpwM1l1OUJ1b0pFMTIyT2FQZDkzN1NkdnIwYV9Uc0NCT0R6VHBvSzJmU3BOVDlaOTJZQjN5QXJiSzJxdkRXTkxMN3FweXFWVlRubWtJbXcyMGZzQy1VRFh2WW4yQUNhdEp4QlhYRGJldkhrYmpnUVRETWp3cFR5Z2R3WE5vRDZfcmNYc1V2Zw?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-07-22",
+   "source": "Echo Boomer",
+   "title": "Travessias fluviais entre Porto e Gaia arrancam com duas novas rotas e integração no Andante - Echo Boomer",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yTVI1S3R1U29EX1VtUjdQTGdPUlY4XzFobnppMlU0YVQ3b3pESGdfS0ZYTVRFREpqOEZlUVVQRjZTcXFBZ1lIeW1YeEdwcllDTGphclY3cDktTDlnREhxVmZrdGVJMTM3dExkYXk4RE1wUmlRVnc?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-07-19",
+   "source": "tempo.pt",
+   "title": "Esta nova rota percorre 35,5 km e passa pelo ponto mais alto do distrito do Porto - tempo.pt",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVEJhNFc5c1pCa1RDdUZwSXk4MmxwZ3J1REdaNS1WaHEzMFVSSzJaeVlnMG5LZU5Dd3ZLdlMwVl9CcUxuN3ZsN3RXTW5oa2RWREN0MVJOOHh3ZmItcTYyemN2MWFheWxLeTY2amxWUFpJMTBoYVVrU1VoOUlyY1dQRl9HLVA4ZDlXNHZ0MzFpcVAwel92T1VzekhuZWxORmtBNVp2a0Fzd3BmZjJBM3UxdjRvbG4xN2t0OXcxWXA1Yw?oc=5"
   },
   {
    "airlines": [],
