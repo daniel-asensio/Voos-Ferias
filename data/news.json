@@ -194,6 +194,17 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV1hOSVg4Nk1lTGFpSHFxUGdrbm5rSmFJOFJ6UkZlbHIwRzdZR1dSendialZ1cVJrTXQ2YjBtaWNTYXliTTRDNFRRc0FxSjRnMmxYVTBPYzU1NlZibXhGdGplS2J5RnF3TlBqRUpSV3FuejVidDBBbGMtRklfblN0LUlBSGpqc25xT05LbkhfQk93UQ?oc=5"
   },
   {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "problema",
+   "published": "2026-08-27",
+   "source": "CNN Portugal",
+   "title": "Chuva intensa condiciona aeroporto do Porto: oito voos cancelados e sete desviados - CNN Portugal",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY2JBcFA4eHVzM3RWWUdFeHhKcGcwTG94UG8wYzR6bVpzRHhOQV9Zc3F2U2Yybm9TaWlqV1RUYk9hSXRTdGJrc29INTJtT2lGeHg3OWxxMnJaMFFFZ1Blek00T09Ed29GbUVtc3BSTTdVSktSa3NsOUUwcDY4VVhYQXh6WkE4UXo2SnVxS0JCMS10ZXFLYk53UTZfWTlfR1BtQU1jSHlqQVVreWZQZnRNajg3b2k1R2pCNGVkY1pkd25TazZtTV9RUU96YzJvYVlXR091RlBtZFJ6eWpwZVJNT25RNkZVcHE4RWxhdEtMQQ?oc=5"
+  },
+  {
    "airlines": [
     "HV"
    ],
@@ -512,6 +523,15 @@
   {
    "airlines": [],
    "airports": [],
+   "category": "greve",
+   "published": "2026-08-14",
+   "source": "CNN Portugal",
+   "title": "EasyJet cancela voos entre Portugal e França devido à greve - CNN Portugal",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONEgzVHpHVjYwaDZEMFJvUUxDZjFGQ3N1TzlWS1Bpb2lGbjJrNVdKMVBRcFlpamd6ZFhRTmtOZmx6VGNvcHZyYmh4Tk4tcmk5cXNvc2xLaTQ3a0tnWTFWVk5PNkREREZwem9qYmVMU3NBb1pXYzBEcGZiR1cydUlQaTlNaVR4ZGgtT0I0bTE3eVVzZzBKcDNIc2ZKdUw2MVUxRXRGSHNRU3dEMzVBQlh5LS1GMFVNX25jQTFzVjl4YlA5bllCNDVKSWgyVnNYRnFhUEFkbGYyekNsYmFZ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
    "category": "geral",
    "published": "2026-08-13",
    "source": "Correio da Manhã",
@@ -561,6 +581,18 @@
    "published": "2026-07-29",
    "source": "AEROIN",
    "title": "Lufthansa destaca possibilidade de ampliar voos para a América Latina em oferta pela TAP Air Portugal - AEROIN",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1hiOHpiYnFUM3otVGpRcUQ3SlU4RGFCaVNPM2ZRX1NkcHVXbVUzTkNxdWNhMkN2SlkyT3NxVngxb3ZnMW82VWZZTmN0YUEzTXotNUZkTEJwSWpTdHhQVVhoZklEcXN0VDJrM0s0eF91b0RqWm5kbTVUaVd2Z0VNdloyUTAtRS1hRXE2RW1jYWR4UVRqVkMzWUxIUDNTMEZjOG5oMTVHa2tiMXIxNXQ2YjdaS24zM0NOSE5ON2hB0gG-AUFVX3lxTE5zWGI4emJicVQzei1UalFxRDdKVThEYUJpU08zZlFfU2RwdVdtVTNOQ3F1Y2EyQ3ZKWTJPc3FWeDFvdmcxbzZVZllOY3RhQTNNei01RmRMQnBJalN0eFBVWGhmSURxc3RUMmszSzR4X3VvRGpabmRtNVRpV3ZnRU12WjJRMC1FLWFFcTZFbWNhZHhRVGpWQzNZTEhQM1MwRmM4bmgxNUdra2IxcjE1dDZiN1pLbjMzQ05ITk43aEE?oc=5"
+  },
+  {
+   "airlines": [
+    "TP",
+    "LH"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-07-29",
+   "source": "aeroin.net",
+   "title": "Lufthansa destaca possibilidade de ampliar voos para a América Latina em oferta pela TAP Air Portugal - aeroin.net",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1hiOHpiYnFUM3otVGpRcUQ3SlU4RGFCaVNPM2ZRX1NkcHVXbVUzTkNxdWNhMkN2SlkyT3NxVngxb3ZnMW82VWZZTmN0YUEzTXotNUZkTEJwSWpTdHhQVVhoZklEcXN0VDJrM0s0eF91b0RqWm5kbTVUaVd2Z0VNdloyUTAtRS1hRXE2RW1jYWR4UVRqVkMzWUxIUDNTMEZjOG5oMTVHa2tiMXIxNXQ2YjdaS24zM0NOSE5ON2hB0gG-AUFVX3lxTE5zWGI4emJicVQzei1UalFxRDdKVThEYUJpU08zZlFfU2RwdVdtVTNOQ3F1Y2EyQ3ZKWTJPc3FWeDFvdmcxbzZVZllOY3RhQTNNei01RmRMQnBJalN0eFBVWGhmSURxc3RUMmszSzR4X3VvRGpabmRtNVRpV3ZnRU12WjJRMC1FLWFFcTZFbWNhZHhRVGpWQzNZTEhQM1MwRmM4bmgxNUdra2IxcjE1dDZiN1pLbjMzQ05ITk43aEE?oc=5"
   },
   {
