@@ -20,6 +20,12 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/126.0 Safari/537.36 VoosFeriasBot/1.0"
 )
 TIMEOUT = 25
+BROWSER_HEADERS = {
+    "User-Agent": USER_AGENT.replace(" VoosFeriasBot/1.0", ""),
+    "Accept-Language": "pt-PT,pt;q=0.9,en;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Sec-Fetch-Site": "same-origin", "Sec-Fetch-Mode": "cors", "Sec-Fetch-Dest": "empty",
+}
 
 # Padrões que indicam uma promoção numa página de ofertas.
 PROMO_PATTERNS = [
@@ -189,7 +195,8 @@ def fetch_easyjet_calendar(origin: str, dest: str, today: dt.date) -> dict[str, 
     try:
         resp = requests.get(
             EASYJET_CALENDAR_URL.format(origin=origin, dest=dest),
-            headers={"User-Agent": USER_AGENT, "Accept": "application/json"}, timeout=TIMEOUT,
+            headers={**BROWSER_HEADERS, "Accept": "application/json, text/plain, */*",
+                     "Referer": f"https://www.easyjet.com/pt/voos-baratos/{origin.lower()}"}, timeout=TIMEOUT,
         )
         resp.raise_for_status()
         data = resp.json()
@@ -210,12 +217,23 @@ _wizz_api_url: str | None = None
 
 def _wizz_api() -> str | None:
     global _wizz_api_url
-    if _wizz_api_url is None:
+    if _wizz_api_url is not None:
+        return _wizz_api_url or None
+    _wizz_api_url = ""
+    for url in ("https://wizzair.com/buildnumber", "https://www.wizzair.com/buildnumber",
+                WIZZ_METADATA_URL, WIZZ_METADATA_URL.replace("//wizzair", "//www.wizzair")):
         try:
-            _wizz_api_url = _get(WIZZ_METADATA_URL).json().get("apiUrl") or ""
+            resp = requests.get(url, headers=BROWSER_HEADERS, timeout=TIMEOUT)
+            resp.raise_for_status()
+            text = resp.text.strip()
+            match = re.search(r"https://be\.wizzair\.com/[\w.\-]+", text)
+            if match:
+                _wizz_api_url = match.group(0).rstrip("/")
+                break
         except Exception as exc:  # noqa: BLE001
-            print(f"[W6] metadata inacessível: {exc}")
-            _wizz_api_url = ""
+            print(f"[W6] {url}: {exc}")
+    if not _wizz_api_url:
+        print("[W6] não foi possível descobrir a API — Wizz Air sem tarifas nesta recolha")
     return _wizz_api_url or None
 
 
@@ -235,8 +253,8 @@ def fetch_wizz_calendar(origin: str, dest: str, today: dt.date) -> dict[str, flo
         }
         try:
             resp = requests.post(f"{api}/Api/search/timetable", json=payload, timeout=TIMEOUT,
-                                 headers={"User-Agent": USER_AGENT, "Accept": "application/json",
-                                          "Origin": "https://wizzair.com", "Referer": "https://wizzair.com/"})
+                                 headers={**BROWSER_HEADERS, "Accept": "application/json, text/plain, */*",
+                                          "Origin": "https://www.wizzair.com", "Referer": "https://www.wizzair.com/"})
             resp.raise_for_status()
             flights = resp.json().get("outboundFlights", [])
         except Exception as exc:  # noqa: BLE001
@@ -269,9 +287,12 @@ def fetch_fare_calendars(config: dict, today: dt.date) -> tuple[dict, list[dict]
         fetcher = CALENDAR_FETCHERS.get(airline)
         if not fetcher:
             continue
-        found = 0
+        found = attempts = 0
         for origin, dests in origins.items():
             for dest in dests:
+                if attempts >= 3 and found == 0:
+                    break  # bloqueado ou em baixo: não insistir nas restantes rotas
+                attempts += 1
                 fares = {d: p for d, p in fetcher(origin, dest, today).items() if d >= min_day}
                 if not fares:
                     continue
