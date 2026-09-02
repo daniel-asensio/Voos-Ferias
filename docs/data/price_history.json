@@ -1,988 +1,1094 @@
 {
  "routes": {
+  "FAO-BFS": {
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 29.99,
+      "travel_date": "2026-10-13"
+     }
+    ]
+   },
+   "destination_name": "Belfast"
+  },
   "FAO-BHX": {
-   "airline": "FR",
-   "destination_name": "Birmingham",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 26.86,
-     "travel_date": "2026-09-15"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 24.99,
-     "travel_date": "2026-09-15"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 24.99,
-     "travel_date": "2026-09-15"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 26.86,
+      "travel_date": "2026-09-15"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 24.99,
+      "travel_date": "2026-09-15"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 24.99,
+      "travel_date": "2026-09-15"
+     }
+    ]
+   },
+   "destination_name": "Birmingham"
   },
   "FAO-BRS": {
-   "airline": "FR",
-   "destination_name": "Bristol",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 22.99,
-     "travel_date": "2026-09-09"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 25.99,
-     "travel_date": "2026-10-17"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 17.99,
-     "travel_date": "2026-10-08"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 22.99,
+      "travel_date": "2026-09-09"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 25.99,
+      "travel_date": "2026-10-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 17.99,
+      "travel_date": "2026-10-08"
+     }
+    ]
+   },
+   "destination_name": "Bristol"
   },
   "FAO-CRL": {
-   "airline": "FR",
-   "destination_name": "Bruxelas Charleroi",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 19.99,
-     "travel_date": "2026-10-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 19.99,
-     "travel_date": "2026-10-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 18.99,
-     "travel_date": "2026-10-14"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 19.99,
+      "travel_date": "2026-10-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 19.99,
+      "travel_date": "2026-10-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 18.99,
+      "travel_date": "2026-10-14"
+     }
+    ]
+   },
+   "destination_name": "Bruxelas Charleroi"
   },
   "FAO-CWL": {
-   "airline": "FR",
-   "destination_name": "Cardiff",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 24.99,
-     "travel_date": "2026-09-08"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 24.99,
-     "travel_date": "2026-09-15"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 23.99,
-     "travel_date": "2026-10-16"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 24.99,
+      "travel_date": "2026-09-08"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 24.99,
+      "travel_date": "2026-09-15"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 22.99,
+      "travel_date": "2026-10-16"
+     }
+    ]
+   },
+   "destination_name": "Cardiff"
   },
   "FAO-DUB": {
-   "airline": "FR",
-   "destination_name": "Dublin",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 24.99,
-     "travel_date": "2026-09-10"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 24.99,
-     "travel_date": "2026-09-17"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 24.99,
-     "travel_date": "2026-09-08"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 24.99,
+      "travel_date": "2026-09-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 24.99,
+      "travel_date": "2026-09-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 24.99,
+      "travel_date": "2026-09-08"
+     }
+    ]
+   },
+   "destination_name": "Dublin"
   },
   "FAO-EDI": {
-   "airline": "FR",
-   "destination_name": "Edimburgo",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 18.99,
-     "travel_date": "2026-09-09"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 26.99,
-     "travel_date": "2026-09-15"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 15.99,
-     "travel_date": "2026-09-11"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 18.99,
+      "travel_date": "2026-09-09"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 26.99,
+      "travel_date": "2026-09-15"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 15.99,
+      "travel_date": "2026-09-11"
+     }
+    ]
+   },
+   "destination_name": "Edimburgo"
   },
   "FAO-EIN": {
-   "airline": "FR",
-   "destination_name": "Eindhoven",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 43.15,
-     "travel_date": "2026-11-22"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 29.99,
-     "travel_date": "2026-11-20"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 29.99,
-     "travel_date": "2026-11-20"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 43.15,
+      "travel_date": "2026-11-22"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 29.99,
+      "travel_date": "2026-11-20"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 29.99,
+      "travel_date": "2026-11-20"
+     }
+    ]
+   },
+   "destination_name": "Eindhoven"
   },
   "FAO-HHN": {
-   "airline": "FR",
-   "destination_name": "Frankfurt–Hahn",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 55.99,
-     "travel_date": "2026-09-03"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 66.19,
-     "travel_date": "2026-09-21"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 62.99,
-     "travel_date": "2026-09-21"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 55.99,
+      "travel_date": "2026-09-03"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 66.19,
+      "travel_date": "2026-09-21"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 62.99,
+      "travel_date": "2026-09-21"
+     }
+    ]
+   },
+   "destination_name": "Frankfurt Hahn"
   },
   "FAO-LPL": {
-   "airline": "FR",
-   "destination_name": "Liverpool",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 14.99,
-     "travel_date": "2026-09-10"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 15.99,
-     "travel_date": "2026-09-10"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 14.99,
-     "travel_date": "2026-09-10"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 14.99,
+      "travel_date": "2026-09-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 15.99,
+      "travel_date": "2026-09-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-09-10"
+     }
+    ]
+   },
+   "destination_name": "Liverpool"
   },
   "FAO-LTN": {
-   "airline": "FR",
-   "destination_name": "Londres Luton",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 14.99,
-     "travel_date": "2026-10-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 14.99,
-     "travel_date": "2026-10-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 14.99,
-     "travel_date": "2026-09-23"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 14.99,
+      "travel_date": "2026-10-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 14.99,
+      "travel_date": "2026-10-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-09-23"
+     }
+    ]
+   },
+   "destination_name": "Londres Luton"
   },
   "FAO-MAN": {
-   "airline": "FR",
-   "destination_name": "Manchester",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 14.99,
-     "travel_date": "2026-09-30"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 18.99,
-     "travel_date": "2026-09-15"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 14.99,
-     "travel_date": "2026-09-30"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 14.99,
+      "travel_date": "2026-09-30"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 18.99,
+      "travel_date": "2026-09-15"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-09-30"
+     }
+    ]
+   },
+   "destination_name": "Manchester"
   },
   "FAO-NCL": {
-   "airline": "FR",
-   "destination_name": "Newcastle",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 24.99,
-     "travel_date": "2026-09-30"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 24.99,
-     "travel_date": "2026-09-23"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 24.99,
-     "travel_date": "2026-09-23"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 24.99,
+      "travel_date": "2026-09-30"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 24.99,
+      "travel_date": "2026-09-23"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 24.99,
+      "travel_date": "2026-09-23"
+     }
+    ]
+   },
+   "destination_name": "Newcastle"
   },
   "FAO-ORK": {
-   "airline": "FR",
-   "destination_name": "Cork",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 14.99,
-     "travel_date": "2026-09-09"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 15.99,
-     "travel_date": "2026-09-09"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 14.99,
-     "travel_date": "2026-09-09"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 14.99,
+      "travel_date": "2026-09-09"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 15.99,
+      "travel_date": "2026-09-09"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-09-09"
+     }
+    ]
+   },
+   "destination_name": "Cork"
   },
   "FAO-STN": {
-   "airline": "FR",
-   "destination_name": "Londres Stansted",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 19.99,
-     "travel_date": "2026-10-15"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 19.99,
-     "travel_date": "2026-10-21"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 19.99,
-     "travel_date": "2026-10-20"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 19.99,
+      "travel_date": "2026-10-15"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 19.99,
+      "travel_date": "2026-10-21"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 19.99,
+      "travel_date": "2026-10-20"
+     }
+    ]
+   },
+   "destination_name": "Londres Stansted"
   },
   "LIS-AGP": {
-   "airline": "FR",
-   "destination_name": "Málaga",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 14.99,
-     "travel_date": "2026-10-13"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 14.99,
-     "travel_date": "2026-10-05"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 14.99,
-     "travel_date": "2026-10-14"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 14.99,
+      "travel_date": "2026-10-13"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 14.99,
+      "travel_date": "2026-10-05"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-10-14"
+     }
+    ]
+   },
+   "destination_name": "Málaga"
   },
   "LIS-BCN": {
-   "airline": "FR",
-   "destination_name": "Barcelona El Prat",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 19.99,
-     "travel_date": "2026-10-27"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 19.99,
-     "travel_date": "2026-11-21"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 16.99,
-     "travel_date": "2026-10-26"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 19.99,
+      "travel_date": "2026-10-27"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 19.99,
+      "travel_date": "2026-11-21"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 16.99,
+      "travel_date": "2026-10-26"
+     }
+    ]
+   },
+   "destination_name": "Barcelona"
   },
   "LIS-BGY": {
-   "airline": "FR",
-   "destination_name": "Milão Bérgamo",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 24.99,
-     "travel_date": "2026-10-20"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 24.99,
-     "travel_date": "2026-10-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 25.99,
-     "travel_date": "2026-10-28"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 24.99,
+      "travel_date": "2026-10-20"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 24.99,
+      "travel_date": "2026-10-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 25.99,
+      "travel_date": "2026-10-28"
+     }
+    ]
+   },
+   "destination_name": "Milão Bérgamo"
+  },
+  "LIS-BUD": {
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 29.99,
+      "travel_date": "2026-11-07"
+     }
+    ]
+   },
+   "destination_name": "Budapeste"
   },
   "LIS-CRL": {
-   "airline": "FR",
-   "destination_name": "Bruxelas Charleroi",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 30.34,
-     "travel_date": "2026-10-19"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 34.99,
-     "travel_date": "2026-11-21"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 20.99,
-     "travel_date": "2026-10-20"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 30.34,
+      "travel_date": "2026-10-19"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 34.99,
+      "travel_date": "2026-11-21"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 20.99,
+      "travel_date": "2026-10-20"
+     }
+    ]
+   },
+   "destination_name": "Bruxelas Charleroi"
   },
   "LIS-DUB": {
-   "airline": "FR",
-   "destination_name": "Dublin",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 28.99,
-     "travel_date": "2026-10-07"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 27.99,
-     "travel_date": "2026-10-07"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 27.99,
-     "travel_date": "2026-10-06"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 28.99,
+      "travel_date": "2026-10-07"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 27.99,
+      "travel_date": "2026-10-07"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 27.99,
+      "travel_date": "2026-10-06"
+     }
+    ]
+   },
+   "destination_name": "Dublin"
   },
   "LIS-EDI": {
-   "airline": "FR",
-   "destination_name": "Edimburgo",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 49.23,
-     "travel_date": "2026-10-27"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 54.39,
-     "travel_date": "2026-11-17"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 54.39,
-     "travel_date": "2026-11-17"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 49.23,
+      "travel_date": "2026-10-27"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 54.39,
+      "travel_date": "2026-11-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 54.39,
+      "travel_date": "2026-11-17"
+     }
+    ]
+   },
+   "destination_name": "Edimburgo"
   },
   "LIS-FCO": {
-   "airline": "FR",
-   "destination_name": "Roma Fiumicino",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 30.67,
-     "travel_date": "2026-11-20"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 24.99,
-     "travel_date": "2026-10-31"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 21.99,
-     "travel_date": "2026-10-31"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 30.67,
+      "travel_date": "2026-11-20"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 24.99,
+      "travel_date": "2026-10-31"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 21.99,
+      "travel_date": "2026-10-31"
+     }
+    ]
+   },
+   "destination_name": "Roma Fiumicino"
   },
   "LIS-MAD": {
-   "airline": "FR",
-   "destination_name": "Madrid",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 14.99,
-     "travel_date": "2026-09-22"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 19.99,
-     "travel_date": "2026-11-23"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 16.99,
-     "travel_date": "2026-10-19"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 14.99,
+      "travel_date": "2026-09-22"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 19.99,
+      "travel_date": "2026-11-23"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 16.99,
+      "travel_date": "2026-10-19"
+     }
+    ]
+   },
+   "destination_name": "Madrid"
   },
   "LIS-MRS": {
-   "airline": "FR",
-   "destination_name": "Marselha",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 27.99,
-     "travel_date": "2026-10-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 21.99,
-     "travel_date": "2026-09-17"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 24.99,
-     "travel_date": "2026-09-25"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 27.99,
+      "travel_date": "2026-10-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 21.99,
+      "travel_date": "2026-09-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 24.99,
+      "travel_date": "2026-09-25"
+     }
+    ]
+   },
+   "destination_name": "Marselha"
   },
   "LIS-NAP": {
-   "airline": "FR",
-   "destination_name": "Naples",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 58.99,
-     "travel_date": "2026-10-19"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 64.99,
-     "travel_date": "2026-10-19"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 50.99,
-     "travel_date": "2026-10-19"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 58.99,
+      "travel_date": "2026-10-19"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 64.99,
+      "travel_date": "2026-10-19"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 50.99,
+      "travel_date": "2026-10-19"
+     }
+    ]
+   },
+   "destination_name": "Nápoles"
   },
   "LIS-STN": {
-   "airline": "FR",
-   "destination_name": "Londres Stansted",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 21.99,
-     "travel_date": "2026-10-09"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 19.99,
-     "travel_date": "2026-10-09"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 15.99,
-     "travel_date": "2026-10-09"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 21.99,
+      "travel_date": "2026-10-09"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 19.99,
+      "travel_date": "2026-10-09"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 15.99,
+      "travel_date": "2026-10-09"
+     }
+    ]
+   },
+   "destination_name": "Londres Stansted"
   },
   "LIS-SVQ": {
-   "airline": "FR",
-   "destination_name": "Sevilha",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 14.99,
-     "travel_date": "2026-10-09"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 14.99,
-     "travel_date": "2026-11-06"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 14.99,
-     "travel_date": "2026-10-15"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 14.99,
+      "travel_date": "2026-10-09"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 14.99,
+      "travel_date": "2026-11-06"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-10-15"
+     }
+    ]
+   },
+   "destination_name": "Sevilha"
   },
   "LIS-TLS": {
-   "airline": "FR",
-   "destination_name": "Toulouse",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 19.99,
-     "travel_date": "2026-10-07"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 19.99,
-     "travel_date": "2026-10-07"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 15.99,
-     "travel_date": "2026-10-07"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 19.99,
+      "travel_date": "2026-10-07"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 19.99,
+      "travel_date": "2026-10-07"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 15.99,
+      "travel_date": "2026-10-07"
+     }
+    ]
+   },
+   "destination_name": "Toulouse"
   },
   "LIS-VLC": {
-   "airline": "FR",
-   "destination_name": "Valência",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 14.99,
-     "travel_date": "2026-10-10"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 14.99,
-     "travel_date": "2026-11-05"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 14.99,
-     "travel_date": "2026-10-07"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 14.99,
+      "travel_date": "2026-10-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 14.99,
+      "travel_date": "2026-11-05"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-10-07"
+     }
+    ]
+   },
+   "destination_name": "Valência"
   },
   "OPO-BCN": {
-   "airline": "FR",
-   "destination_name": "Barcelona El Prat",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 24.99,
-     "travel_date": "2026-10-17"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 24.99,
-     "travel_date": "2026-11-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 24.99,
-     "travel_date": "2026-10-20"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 24.99,
+      "travel_date": "2026-10-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 24.99,
+      "travel_date": "2026-11-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 24.99,
+      "travel_date": "2026-10-20"
+     }
+    ]
+   },
+   "destination_name": "Barcelona"
+  },
+  "OPO-BER": {
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 61.99,
+      "travel_date": "2026-11-12"
+     }
+    ]
+   },
+   "destination_name": "Berlim"
   },
   "OPO-BGY": {
-   "airline": "FR",
-   "destination_name": "Milão Bérgamo",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 18.99,
-     "travel_date": "2026-10-29"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 19.99,
-     "travel_date": "2026-10-29"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 19.99,
-     "travel_date": "2026-10-29"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 18.99,
+      "travel_date": "2026-10-29"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 19.99,
+      "travel_date": "2026-10-29"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 19.99,
+      "travel_date": "2026-10-29"
+     }
+    ]
+   },
+   "destination_name": "Milão Bérgamo"
   },
   "OPO-BVA": {
-   "airline": "FR",
-   "destination_name": "Paris Beauvais",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 24.99,
-     "travel_date": "2026-10-20"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 24.99,
-     "travel_date": "2026-10-18"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 24.99,
-     "travel_date": "2026-10-22"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 24.99,
+      "travel_date": "2026-10-20"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 24.99,
+      "travel_date": "2026-10-18"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 24.99,
+      "travel_date": "2026-10-22"
+     }
+    ]
+   },
+   "destination_name": "Paris Beauvais"
   },
   "OPO-CRL": {
-   "airline": "FR",
-   "destination_name": "Bruxelas Charleroi",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 20.99,
-     "travel_date": "2026-10-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 20.99,
-     "travel_date": "2026-10-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 19.99,
-     "travel_date": "2026-10-14"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 20.99,
+      "travel_date": "2026-10-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 20.99,
+      "travel_date": "2026-10-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 19.99,
+      "travel_date": "2026-10-14"
+     }
+    ]
+   },
+   "destination_name": "Bruxelas Charleroi"
   },
   "OPO-DUB": {
-   "airline": "FR",
-   "destination_name": "Dublin",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 30.99,
-     "travel_date": "2026-09-22"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 32.99,
-     "travel_date": "2026-09-22"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 29.99,
-     "travel_date": "2026-10-19"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 30.99,
+      "travel_date": "2026-09-22"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 32.99,
+      "travel_date": "2026-09-22"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 29.99,
+      "travel_date": "2026-10-19"
+     }
+    ]
+   },
+   "destination_name": "Dublin"
+  },
+  "OPO-EDI": {
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-09-10"
+     }
+    ]
+   },
+   "destination_name": "Edimburgo"
   },
   "OPO-EIN": {
-   "airline": "FR",
-   "destination_name": "Eindhoven",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 46.24,
-     "travel_date": "2026-11-19"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 34.99,
-     "travel_date": "2026-11-18"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 45.27,
-     "travel_date": "2026-11-26"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 46.24,
+      "travel_date": "2026-11-19"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 34.99,
+      "travel_date": "2026-11-18"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 45.27,
+      "travel_date": "2026-11-26"
+     }
+    ]
+   },
+   "destination_name": "Eindhoven"
   },
   "OPO-FCO": {
-   "airline": "FR",
-   "destination_name": "Roma Fiumicino",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 27.08,
-     "travel_date": "2026-10-29"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 21.99,
-     "travel_date": "2026-10-29"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 19.99,
-     "travel_date": "2026-10-29"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 27.08,
+      "travel_date": "2026-10-29"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 21.99,
+      "travel_date": "2026-10-29"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 19.99,
+      "travel_date": "2026-10-29"
+     }
+    ]
+   },
+   "destination_name": "Roma Fiumicino"
   },
   "OPO-HHN": {
-   "airline": "FR",
-   "destination_name": "Frankfurt–Hahn",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 33.95,
-     "travel_date": "2026-11-15"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 33.11,
-     "travel_date": "2026-11-20"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 32.99,
-     "travel_date": "2026-11-15"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 33.95,
+      "travel_date": "2026-11-15"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 33.11,
+      "travel_date": "2026-11-20"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 32.99,
+      "travel_date": "2026-11-15"
+     }
+    ]
+   },
+   "destination_name": "Frankfurt Hahn"
   },
   "OPO-LPL": {
-   "airline": "FR",
-   "destination_name": "Liverpool",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 18.99,
-     "travel_date": "2026-09-23"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 17.99,
-     "travel_date": "2026-09-23"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 14.99,
-     "travel_date": "2026-09-23"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 18.99,
+      "travel_date": "2026-09-23"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 17.99,
+      "travel_date": "2026-09-23"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-09-23"
+     }
+    ]
+   },
+   "destination_name": "Liverpool"
   },
   "OPO-MAD": {
-   "airline": "FR",
-   "destination_name": "Madrid",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 20.12,
-     "travel_date": "2026-11-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 16.99,
-     "travel_date": "2026-11-07"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 14.99,
-     "travel_date": "2026-10-20"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 20.12,
+      "travel_date": "2026-11-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 16.99,
+      "travel_date": "2026-11-07"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-10-20"
+     }
+    ]
+   },
+   "destination_name": "Madrid"
+  },
+  "OPO-MAN": {
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 21.99,
+      "travel_date": "2026-10-08"
+     }
+    ]
+   },
+   "destination_name": "Manchester"
   },
   "OPO-MXP": {
-   "airline": "FR",
-   "destination_name": "Milão Malpensa",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 19.99,
-     "travel_date": "2026-10-29"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 19.99,
-     "travel_date": "2026-10-14"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 16.99,
-     "travel_date": "2026-10-13"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 19.99,
+      "travel_date": "2026-10-29"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 19.99,
+      "travel_date": "2026-10-14"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 16.99,
+      "travel_date": "2026-10-13"
+     }
+    ]
+   },
+   "destination_name": "Milão Malpensa"
   },
   "OPO-STN": {
-   "airline": "FR",
-   "destination_name": "Londres Stansted",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 18.99,
-     "travel_date": "2026-10-13"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 17.99,
-     "travel_date": "2026-10-13"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 16.99,
-     "travel_date": "2026-10-15"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 18.99,
+      "travel_date": "2026-10-13"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 17.99,
+      "travel_date": "2026-10-13"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 16.99,
+      "travel_date": "2026-10-15"
+     }
+    ]
+   },
+   "destination_name": "Londres Stansted"
   },
   "OPO-TLS": {
-   "airline": "FR",
-   "destination_name": "Toulouse",
-   "snapshots": [
-    {
-     "currency": "EUR",
-     "date": "2026-08-31",
-     "price": 18.99,
-     "travel_date": "2026-10-10"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-01",
-     "price": 17.99,
-     "travel_date": "2026-10-10"
-    },
-    {
-     "currency": "EUR",
-     "date": "2026-09-02",
-     "price": 14.99,
-     "travel_date": "2026-10-10"
-    }
-   ]
+   "airlines": {
+    "FR": [
+     {
+      "currency": "EUR",
+      "date": "2026-08-31",
+      "price": 18.99,
+      "travel_date": "2026-10-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-01",
+      "price": 17.99,
+      "travel_date": "2026-10-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-09-02",
+      "price": 14.99,
+      "travel_date": "2026-10-10"
+     }
+    ]
+   },
+   "destination_name": "Toulouse"
   }
  }
 }
