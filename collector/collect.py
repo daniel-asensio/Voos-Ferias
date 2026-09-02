@@ -68,16 +68,26 @@ def merge_promotions(existing: list[dict], new: list[dict], today: dt.date) -> l
     return kept
 
 
+def migrate_history(history: dict) -> dict:
+    """Converte o formato antigo (uma companhia por rota) para o formato
+    atual: ``routes[rota]["airlines"][companhia] = [snapshots]``."""
+    for route in history.get("routes", {}).values():
+        if "snapshots" in route:
+            route["airlines"] = {route.pop("airline", "FR"): route.pop("snapshots")}
+    return history
+
+
+def route_snapshots(history: dict, route: str, airline: str) -> list[dict]:
+    return history.get("routes", {}).get(route, {}).get("airlines", {}).get(airline, [])
+
+
 def merge_history(history: dict, records: list[dict]) -> dict:
     routes = history.setdefault("routes", {})
     for rec in records:
-        route = routes.setdefault(
-            rec["route"],
-            {"airline": rec["airline"], "destination_name": rec.get("destination_name"), "snapshots": []},
-        )
+        route = routes.setdefault(rec["route"], {"destination_name": rec.get("destination_name"), "airlines": {}})
         if rec.get("destination_name"):
             route["destination_name"] = rec["destination_name"]
-        snapshots = {s["date"]: s for s in route["snapshots"]}
+        snapshots = {s["date"]: s for s in route["airlines"].get(rec["airline"], [])}
         prev = snapshots.get(rec["date"])
         if prev is None or rec["price"] < prev["price"]:
             snapshots[rec["date"]] = {
@@ -86,7 +96,7 @@ def merge_history(history: dict, records: list[dict]) -> dict:
                 "currency": rec.get("currency", "EUR"),
                 "travel_date": rec.get("travel_date"),
             }
-        route["snapshots"] = sorted(snapshots.values(), key=lambda s: s["date"])[-KEEP_HISTORY_DAYS:]
+        route["airlines"][rec["airline"]] = sorted(snapshots.values(), key=lambda s: s["date"])[-KEEP_HISTORY_DAYS:]
     return history
 
 
@@ -126,7 +136,7 @@ def price_drop_promos(history: dict, records: list[dict], config: dict, today: d
     airports = config.get("airports", {})
     promos = []
     for rec in records:
-        snaps = history.get("routes", {}).get(rec["route"], {}).get("snapshots", [])
+        snaps = route_snapshots(history, rec["route"], rec["airline"])
         prev = [s["price"] for s in snaps if s["date"] < rec["date"] and not s.get("demo")]
         if len(prev) < 5:
             continue
@@ -170,7 +180,7 @@ def compute_price_alerts(history: dict, records: list[dict]) -> list[dict]:
     """
     alerts = []
     for rec in records:
-        snaps = history.get("routes", {}).get(rec["route"], {}).get("snapshots", [])
+        snaps = route_snapshots(history, rec["route"], rec["airline"])
         prev = [s["price"] for s in snaps if s["date"] < rec["date"] and not s.get("demo")]
         if len(prev) >= 5 and rec["price"] <= min(prev):
             alerts.append({
@@ -223,21 +233,22 @@ def run(dry_run: bool = False) -> int:
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
 
     promotions = load_json(DATA_DIR / "promotions.json", [])
-    history = load_json(DATA_DIR / "price_history.json", {"routes": {}})
+    history = migrate_history(load_json(DATA_DIR / "price_history.json", {"routes": {}}))
     news = load_json(DATA_DIR / "news.json", {"items": []})["items"]
     had_demo = any(p.get("source") == "exemplo" for p in promotions)
 
     new_promos: list[dict] = []
     for airline in config["airlines"]:
         new_promos.extend(sources.scan_promo_page(airline, today))
-    price_records = sources.fetch_ryanair_fares(config, today)
+    calendars, price_records = sources.fetch_fare_calendars(config, today)
     new_news = sources.fetch_news(today)
 
     got_real_data = bool(new_promos or price_records)
     if got_real_data and had_demo:
         # Primeira recolha real: descartar os dados de demonstração.
         promotions = [p for p in promotions if p.get("source") != "exemplo"]
-        if any(s.get("demo") for r in history["routes"].values() for s in r["snapshots"]):
+        if any(s.get("demo") for r in history["routes"].values()
+               for snaps in r["airlines"].values() for s in snaps):
             history = {"routes": {}}
 
     new_promos.extend(price_drop_promos(history, price_records, config, today))
@@ -267,6 +278,8 @@ def run(dry_run: bool = False) -> int:
 
     save_json(DATA_DIR / "promotions.json", promotions)
     save_json(DATA_DIR / "price_history.json", history)
+    if calendars:  # sem rede, mantém o calendário de tarifas anterior
+        save_json(DATA_DIR / "fare_calendar.json", {"generated_at": today.isoformat(), "routes": calendars})
     save_json(DATA_DIR / "airlines.json", config)
     save_json(DATA_DIR / "meta.json", meta)
     save_json(DATA_DIR / "alerts.json", {"date": today.isoformat(), "alerts": alerts})

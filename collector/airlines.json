@@ -105,9 +105,37 @@
       "promo_url": "https://www.swiss.com/pt/pt/book/ofertas"
     }
   ],
-  "ryanair_routes": [
-    { "origin": "LIS", "destinations": ["MAD", "BCN", "ORY", "MXP", "BGY", "STN", "CRL", "HAM", "MRS", "TLS", "SVQ", "VLC", "PMI", "AGP", "NAP", "FCO", "DUB", "EDI"] },
-    { "origin": "OPO", "destinations": ["MAD", "BCN", "ORY", "STN", "BVA", "GVA", "MXP", "BSL", "BGY", "CRL", "EIN", "TLS", "DUB", "LPL", "NTE", "SXF", "HHN", "FCO"] },
-    { "origin": "FAO", "destinations": ["STN", "MAN", "DUB", "CRL", "EIN", "HHN", "EDI", "BHX", "BRS", "LPL", "GLA", "ORK", "NCL", "LTN", "SEN", "CWL"] }
-  ]
+  "destination_names": {
+    "MAD": "Madrid", "BCN": "Barcelona", "ORY": "Paris Orly", "CDG": "Paris Charles de Gaulle", "BVA": "Paris Beauvais",
+    "MXP": "Milão Malpensa", "BGY": "Milão Bérgamo", "LIN": "Milão Linate", "STN": "Londres Stansted", "LTN": "Londres Luton",
+    "LGW": "Londres Gatwick", "LHR": "Londres Heathrow", "SEN": "Londres Southend", "CRL": "Bruxelas Charleroi", "BRU": "Bruxelas",
+    "HAM": "Hamburgo", "MRS": "Marselha", "TLS": "Toulouse", "SVQ": "Sevilha", "VLC": "Valência", "PMI": "Palma de Maiorca",
+    "AGP": "Málaga", "NAP": "Nápoles", "FCO": "Roma Fiumicino", "CIA": "Roma Ciampino", "DUB": "Dublin", "EDI": "Edimburgo",
+    "GVA": "Genebra", "BSL": "Basileia", "EIN": "Eindhoven", "AMS": "Amesterdão", "LPL": "Liverpool", "NTE": "Nantes",
+    "SXF": "Berlim", "BER": "Berlim", "HHN": "Frankfurt Hahn", "FRA": "Frankfurt", "MAN": "Manchester", "BHX": "Birmingham",
+    "BRS": "Bristol", "GLA": "Glasgow", "ORK": "Cork", "NCL": "Newcastle", "CWL": "Cardiff", "BFS": "Belfast", "LYS": "Lyon",
+    "NCE": "Nice", "VCE": "Veneza", "BUD": "Budapeste", "WAW": "Varsóvia", "KTW": "Katowice", "KRK": "Cracóvia", "GDN": "Gdansk",
+    "OTP": "Bucareste", "IAS": "Iasi", "SOF": "Sófia", "VIE": "Viena", "CLJ": "Cluj", "MLA": "Malta", "FNC": "Funchal",
+    "PDL": "Ponta Delgada", "TER": "Terceira", "BIO": "Bilbau", "ALC": "Alicante", "IBZ": "Ibiza", "DUS": "Dusseldórfia",
+    "MUC": "Munique", "ZRH": "Zurique", "CPH": "Copenhaga", "ARN": "Estocolmo", "OSL": "Oslo", "PRG": "Praga", "BLQ": "Bolonha",
+    "PSA": "Pisa", "TRN": "Turim", "CAG": "Cagliari", "PMO": "Palermo", "BDS": "Brindisi", "BRI": "Bari", "TLV": "Telavive",
+    "RAK": "Marraquexe", "AGA": "Agadir", "TNG": "Tânger", "LUX": "Luxemburgo", "BOD": "Bordéus", "LIL": "Lille", "NRN": "Weeze"
+  },
+  "watched_routes": {
+    "FR": {
+      "LIS": ["MAD", "BCN", "ORY", "MXP", "BGY", "STN", "CRL", "HAM", "MRS", "TLS", "SVQ", "VLC", "PMI", "AGP", "NAP", "FCO", "DUB", "EDI", "LTN", "BUD", "WAW", "PRG"],
+      "OPO": ["MAD", "BCN", "ORY", "STN", "BVA", "GVA", "MXP", "BSL", "BGY", "CRL", "EIN", "TLS", "DUB", "LPL", "NTE", "BER", "HHN", "FCO", "LTN", "LGW", "MAN", "EDI"],
+      "FAO": ["STN", "MAN", "DUB", "CRL", "EIN", "HHN", "EDI", "BHX", "BRS", "LPL", "GLA", "ORK", "NCL", "LTN", "SEN", "CWL", "LGW", "BFS"]
+    },
+    "U2": {
+      "LIS": ["LGW", "LTN", "MAN", "BRS", "GVA", "LYS", "ORY", "BSL", "NCE", "MXP", "AMS", "VCE", "EDI", "BFS"],
+      "OPO": ["LGW", "LTN", "MAN", "BRS", "GVA", "LYS", "ORY", "BSL", "CDG", "NCE", "MXP", "AMS", "LPL", "EDI"],
+      "FAO": ["LGW", "LTN", "BRS", "MAN", "LPL", "EDI", "GLA", "NCL", "BFS", "GVA", "BSL", "AMS", "BHX", "LYS"]
+    },
+    "W6": {
+      "LIS": ["LTN", "LGW", "BUD", "WAW", "KTW", "KRK", "GDN", "OTP", "IAS", "SOF", "VIE", "CLJ", "MLA"],
+      "OPO": ["LTN", "LGW", "BUD", "WAW", "KTW", "KRK", "GDN", "OTP", "IAS", "SOF", "VIE"],
+      "FAO": ["LTN", "LGW", "BUD", "WAW", "KTW", "VIE"]
+    }
+  }
 }

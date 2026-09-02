@@ -1,4 +1,4 @@
-/* Voos & Férias — app de consulta de promoções (LIS · OPO · FAO) */
+/* Voos & Férias — app de consulta de promoções e preços (LIS · OPO · FAO) */
 (function () {
   "use strict";
 
@@ -13,6 +13,7 @@
     view: "calendar",
     month: null,          // Date do 1º dia do mês visível
     selectedDay: null,    // "YYYY-MM-DD"
+    calRoute: null,       // rota cujos preços diários se mostram no calendário
     newsCat: null,        // filtro de categoria no separador Notícias
     filters: { airports: new Set(), airlines: new Set(), dest: "" },
   };
@@ -25,7 +26,7 @@
     geral: { label: "📄 Geral", cls: "cat-geral" },
   };
 
-  /* ---------- utilidades de datas ---------- */
+  /* ---------- utilidades ---------- */
   const iso = (d) => d.toISOString().slice(0, 10);
   const todayIso = () => iso(new Date());
   function parseIso(s) { const [y, m, d] = s.split("-").map(Number); return new Date(y, m - 1, d); }
@@ -35,25 +36,40 @@
     return `${d.getDate()} ${MESES[d.getMonth()].slice(0, 3)} ${d.getFullYear()}`;
   }
   function daysBetween(a, b) { return Math.round((parseIso(b) - parseIso(a)) / 864e5); }
+  const eur = (n) => `${Number(n).toFixed(2).replace(".", ",")}€`;
+  function esc(s) {
+    return String(s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  }
+  function airlineOf(code) {
+    return state.airlineById[code] || { code, name: code, color: "#888", airports: [] };
+  }
+  const dot = (code) => `<span class="dot" style="background:${airlineOf(code).color}"></span>`;
+  const shortName = (code) => esc(airlineOf(code).name.split(" (")[0].split(" ")[0]);
 
   /* ---------- carregamento de dados ---------- */
   async function loadData() {
-    if (window.__DATA__) return window.__DATA__;
-    const get = (f) => fetch("data/" + f).then((r) => {
+    if (window.__DATA__) return normalize(window.__DATA__);
+    const get = (f) => fetch("data/" + f, { cache: "no-cache" }).then((r) => {
       if (!r.ok) throw new Error(f + ": " + r.status);
       return r.json();
     });
-    const [airlines, promotions, history, meta, alerts, news] = await Promise.all([
+    const [airlines, promotions, history, meta, alerts, news, calendar] = await Promise.all([
       get("airlines.json"), get("promotions.json"), get("price_history.json"),
       get("meta.json").catch(() => ({})),
       get("alerts.json").catch(() => ({ alerts: [] })),
       get("news.json").catch(() => ({ items: [] })),
+      get("fare_calendar.json").catch(() => ({ routes: {} })),
     ]);
-    return { airlines, promotions, history, meta, alerts, news };
+    return normalize({ airlines, promotions, history, meta, alerts, news, calendar });
   }
 
-  function airlineOf(code) {
-    return state.airlineById[code] || { code, name: code, color: "#888", airports: [] };
+  // Aceita o formato antigo do histórico (uma companhia por rota).
+  function normalize(data) {
+    Object.values((data.history && data.history.routes) || {}).forEach((r) => {
+      if (r.snapshots) { r.airlines = { [r.airline || "FR"]: r.snapshots }; delete r.snapshots; }
+    });
+    data.calendar = data.calendar || { routes: {} };
+    return data;
   }
 
   /* ---------- filtros ---------- */
@@ -78,6 +94,9 @@
   }
 
   const filteredPromos = () => state.data.promotions.filter(matchesFilters);
+  const activeFilterCount = () => state.filters.airports.size + state.filters.airlines.size + (state.filters.dest ? 1 : 0);
+  const clearButton = () => activeFilterCount()
+    ? ` <button class="btn-ghost" data-clear>Limpar filtros (${activeFilterCount()})</button>` : "";
 
   function renderChips() {
     const airports = state.data.airlines.airports;
@@ -88,20 +107,76 @@
       `<button class="chip ${state.filters.airlines.has(a.code) ? "on" : ""}" data-airline="${a.code}">
          <span class="dot" style="background:${a.color}"></span>${a.name.split(" ")[0]}</button>`
     ).join("");
+    const n = activeFilterCount();
+    $("#clear-filters").textContent = n ? `Limpar (${n})` : "Limpar";
+    $("#clear-filters").classList.toggle("btn-primary", n > 0);
+  }
+
+  /* ---------- rotas e preços (dados partilhados) ---------- */
+  const routes = () => (state.data.history && state.data.history.routes) || {};
+
+  // Companhias de uma rota que passam no filtro de companhia.
+  function routeAirlines(key) {
+    const f = state.filters.airlines;
+    return Object.keys(routes()[key].airlines || {}).filter((a) => !f.size || f.has(a));
+  }
+
+  // Os filtros globais (aeroporto, companhia, destino) aplicam-se às rotas.
+  function filteredRouteKeys() {
+    const f = state.filters;
+    return Object.keys(routes()).filter((k) => {
+      const r = routes()[k];
+      const origin = k.split("-")[0];
+      if (f.airports.size && !f.airports.has(origin)) return false;
+      if (!routeAirlines(k).length) return false;
+      if (f.dest) {
+        const q = f.dest.toLowerCase();
+        if (!k.toLowerCase().includes(q) && !(r.destination_name || "").toLowerCase().includes(q)) return false;
+      }
+      return true;
+    }).sort();
+  }
+
+  function routeLabel(key, withAirlines = true) {
+    const r = routes()[key];
+    const [o, d] = key.split("-");
+    const names = withAirlines ? ` · ${routeAirlines(key).map((a) => airlineOf(a).name.split(" ")[0]).join(", ")}` : "";
+    return `${o} → ${d}${r.destination_name ? ` (${r.destination_name})` : ""}${names}`;
+  }
+
+  // Último preço recolhido por companhia numa rota.
+  function latestByAirline(key) {
+    return routeAirlines(key).map((a) => {
+      const snaps = routes()[key].airlines[a];
+      return snaps.length ? { airline: a, snap: snaps[snaps.length - 1], min: Math.min(...snaps.map((s) => s.price)) } : null;
+    }).filter(Boolean).sort((x, y) => x.snap.price - y.snap.price);
+  }
+
+  // Tarifas diárias (calendário) de uma rota: {dia: [{airline, price}...]} ordenado por preço.
+  function dailyFares(key) {
+    const cal = (state.data.calendar.routes || {})[key] || {};
+    const f = state.filters.airlines;
+    const byDay = {};
+    Object.entries(cal).forEach(([airline, days]) => {
+      if (f.size && !f.has(airline)) return;
+      Object.entries(days).forEach(([day, price]) => { (byDay[day] = byDay[day] || []).push({ airline, price }); });
+    });
+    Object.values(byDay).forEach((l) => l.sort((a, b) => a.price - b.price));
+    return byDay;
   }
 
   /* ---------- estatísticas do topo ---------- */
   function renderStats() {
     const promos = state.data.promotions;
-    const live = promos.filter((p) => promoStatus(p) === "live" || promoStatus(p) === "ending").length;
+    const live = promos.filter((p) => ["live", "ending"].includes(promoStatus(p))).length;
     const soon = promos.filter((p) => promoStatus(p) === "soon").length;
-    const airlines = new Set(promos.map((p) => p.airline)).size;
-    const routes = Object.keys(state.data.history.routes || {}).length;
+    const priceAirlines = new Set();
+    Object.values(routes()).forEach((r) => Object.keys(r.airlines || {}).forEach((a) => priceAirlines.add(a)));
     $("#stats").innerHTML = [
-      `<span class="stat"><b>${live}</b> a decorrer</span>`,
+      `<span class="stat"><b>${live}</b> promoções a decorrer</span>`,
       `<span class="stat"><b>${soon}</b> vão começar</span>`,
-      `<span class="stat"><b>${airlines}</b> companhias</span>`,
-      `<span class="stat"><b>${routes}</b> rotas com histórico</span>`,
+      `<span class="stat"><b>${Object.keys(routes()).length}</b> rotas com preços</span>`,
+      `<span class="stat"><b>${priceAirlines.size}</b> companhias com preços</span>`,
     ].join("");
     const al = state.data.alerts;
     if (al && al.date === todayIso() && (al.alerts || []).length) {
@@ -120,11 +195,32 @@
       p.booking_start <= dayIso && (!p.booking_end || p.booking_end >= dayIso));
   }
 
+  function renderCalRouteSelect() {
+    const keys = filteredRouteKeys().filter((k) => Object.keys((state.data.calendar.routes || {})[k] || {}).length);
+    if (!keys.includes(state.calRoute)) {
+      state.calRoute = keys.includes("LIS-MAD") ? "LIS-MAD" : (keys[0] || null);
+    }
+    $("#cal-route").innerHTML = `<option value="">— só promoções —</option>` +
+      keys.map((k) => `<option value="${k}" ${k === state.calRoute ? "selected" : ""}>${esc(routeLabel(k))}</option>`).join("");
+    $("#cal-route").disabled = !keys.length;
+  }
+
+  // Escalão de preço (barato / médio / caro) dentro da rota, para colorir os dias.
+  function priceTier(price, sorted) {
+    if (sorted.length < 3) return "mid";
+    if (price <= sorted[Math.floor(sorted.length * 0.33)]) return "low";
+    if (price >= sorted[Math.floor(sorted.length * 0.75)]) return "high";
+    return "mid";
+  }
+
   function renderCalendar() {
+    renderCalRouteSelect();
     const y = state.month.getFullYear(), m = state.month.getMonth();
     $("#cal-title").textContent = `${MESES[m]} ${y}`;
     const first = new Date(y, m, 1);
     const startOffset = (first.getDay() + 6) % 7; // semana começa à 2ª feira
+    const fares = state.calRoute ? dailyFares(state.calRoute) : {};
+    const allPrices = Object.values(fares).map((l) => l[0].price).sort((a, b) => a - b);
     const cells = [];
     DOW.forEach((d) => cells.push(`<div class="cal-dow">${d}</div>`));
     const t = todayIso();
@@ -133,40 +229,64 @@
       const dIso = iso(new Date(date.getTime() - date.getTimezoneOffset() * 6e4));
       const inMonth = date.getMonth() === m;
       const promos = promosOnDay(dIso);
-      const bars = promos.slice(0, 3).map((p) => {
+      const best = (fares[dIso] || [])[0];
+      const price = best
+        ? `<span class="cal-price tier-${priceTier(best.price, allPrices)}" title="${esc(airlineOf(best.airline).name)}: ${eur(best.price)}">
+             ${dot(best.airline)}${Math.round(best.price)}€</span>` : "";
+      const bars = promos.slice(0, 2).map((p) => {
         const a = airlineOf(p.airline);
         const starts = p.booking_start === dIso ? "starts" : "";
         return `<span class="cal-bar ${starts}" style="background:${a.color}" title="${esc(p.title)}">${esc(p.title)}</span>`;
       }).join("");
-      const more = promos.length > 3 ? `<span class="cal-more">+${promos.length - 3} mais</span>` : "";
-      const dots = promos.slice(0, 6).map((p) =>
-        `<span class="dot" style="background:${airlineOf(p.airline).color}"></span>`).join("");
+      const more = promos.length > 2 ? `<span class="cal-more">+${promos.length - 2} promoções</span>` : "";
+      const dots = promos.slice(0, 6).map((p) => dot(p.airline)).join("");
       cells.push(
         `<div class="cal-day ${inMonth ? "" : "other"} ${dIso === t ? "today" : ""} ${dIso === state.selectedDay ? "selected" : ""}" data-day="${dIso}">
-           <span class="cal-num">${date.getDate()}</span>${bars}${more}
+           <span class="cal-num">${date.getDate()}</span>${price}${bars}${more}
            <span class="cal-dots">${dots}</span>
          </div>`);
     }
     $("#calendar").innerHTML = cells.join("");
+    const legend = $("#cal-legend");
+    if (state.calRoute) {
+      const airlines = Object.keys((state.data.calendar.routes || {})[state.calRoute] || {})
+        .filter((a) => !state.filters.airlines.size || state.filters.airlines.has(a));
+      legend.innerHTML = `Preço = tarifa mais barata para <b>partir</b> nesse dia em ${esc(routeLabel(state.calRoute, false))} ·
+        ${airlines.map((a) => `${dot(a)} ${shortName(a)}`).join(" ")} ·
+        <span class="cal-price tier-low">verde = barato</span> <span class="cal-price tier-high">vermelho = caro</span>`;
+    } else {
+      legend.innerHTML = Object.keys(state.data.calendar.routes || {}).length
+        ? "Escolhe uma rota em «Preços de:» para veres o preço de cada dia."
+        : "Os preços por dia aparecem no calendário após a próxima recolha diária.";
+    }
     renderDayDetail();
   }
 
   function renderDayDetail() {
     const el = $("#day-detail");
     if (!state.selectedDay) {
-      el.innerHTML = `<p class="empty">Clica num dia para veres as promoções em que podes reservar nesse dia.</p>`;
+      el.innerHTML = `<p class="empty">Clica num dia para veres os preços e as promoções desse dia.</p>`;
       return;
     }
+    let html = "";
+    if (state.calRoute) {
+      const list = dailyFares(state.calRoute)[state.selectedDay] || [];
+      html += `<h3 style="margin:0 0 8px">✈️ Partir a ${fmtDate(state.selectedDay)} — ${esc(routeLabel(state.calRoute, false))}</h3>`;
+      html += list.length ? `<div class="fare-list">${list.map((f, i) => `
+        <div class="fare-row ${i === 0 ? "best" : ""}">
+          ${dot(f.airline)} <span class="fare-airline">${esc(airlineOf(f.airline).name)}</span>
+          <span class="fare-price">${eur(f.price)}</span>${i === 0 && list.length > 1 ? `<span class="badge live">mais barata</span>` : ""}
+        </div>`).join("")}</div>`
+        : `<p class="empty">Sem voos com tarifa publicada neste dia (para esta rota e filtros).</p>`;
+    }
     const promos = promosOnDay(state.selectedDay);
-    el.innerHTML = `<h3 style="margin:0 0 8px">Promoções reserváveis a ${fmtDate(state.selectedDay)}</h3>` +
-      (promos.length ? promos.map(promoCard).join("") : `<p class="empty">Sem promoções neste dia (com os filtros atuais).</p>`);
+    html += `<h3 style="margin:16px 0 8px">🏷️ Promoções reserváveis a ${fmtDate(state.selectedDay)}</h3>` +
+      (promos.length ? promos.map(promoCard).join("")
+        : `<p class="empty">Sem promoções neste dia${activeFilterCount() ? " com os filtros atuais." + clearButton() : "."}</p>`);
+    el.innerHTML = html;
   }
 
-  /* ---------- lista ---------- */
-  function esc(s) {
-    return String(s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  }
-
+  /* ---------- cartões de promoção ---------- */
   function promoCard(p) {
     const a = airlineOf(p.airline);
     const st = promoStatus(p);
@@ -192,7 +312,7 @@
       ${p.description ? `<p class="promo-desc">${esc(p.description)}</p>` : ""}
       <div class="promo-meta">
         ${p.discount_text ? `<span class="promo-price">${esc(p.discount_text)}</span>` : ""}
-        ${p.price_from && !/desde/i.test(p.discount_text || "") ? `<span class="promo-price">desde ${p.price_from.toFixed(2).replace(".", ",")} €</span>` : ""}
+        ${p.price_from && !/desde/i.test(p.discount_text || "") ? `<span class="promo-price">desde ${eur(p.price_from)}</span>` : ""}
         <span>🛫 <b>${(p.origin_airports || []).join(" · ")}</b></span>
         ${(p.destinations || []).length ? `<span>📍 ${esc(p.destinations.join(", "))}</span>` : ""}
         <span>🗓️ Reservas: <b>${fmtDate(p.booking_start)} – ${fmtDate(p.booking_end)}</b></span>
@@ -213,7 +333,7 @@
       section("🔥 A decorrer", groups.live) +
       section("⏳ Vão começar", groups.soon.sort((a, b) => a.booking_start.localeCompare(b.booking_start))) +
       section("📁 Terminadas recentemente", groups.over.sort((a, b) => b.booking_end.localeCompare(a.booking_end)));
-    $("#promo-list").innerHTML = html || `<p class="empty">Nenhuma promoção corresponde aos filtros.</p>`;
+    $("#promo-list").innerHTML = html || `<p class="empty">Nenhuma promoção corresponde aos filtros.${clearButton()}</p>`;
   }
 
   /* ---------- notícias ---------- */
@@ -250,10 +370,9 @@
     const list = items.filter(newsMatchesFilters);
     $("#news-list").innerHTML = list.length ? list.map((n) => {
       const cat = NEWS_CATS[n.category] || NEWS_CATS.geral;
-      const tags = (n.airlines || []).map((a) => {
-        const al = airlineOf(a);
-        return `<span class="chip mini"><span class="dot" style="background:${al.color}"></span>${esc(al.name.split(" ")[0])}</span>`;
-      }).join("") + (n.airports || []).map((a) => `<span class="chip mini">🛫 ${a}</span>`).join("");
+      const tags = (n.airlines || []).map((a) =>
+        `<span class="chip mini">${dot(a)}${shortName(a)}</span>`).join("") +
+        (n.airports || []).map((a) => `<span class="chip mini">🛫 ${a}</span>`).join("");
       return `<article class="news-card">
         <span class="cat-pill ${cat.cls}">${cat.label}</span>
         <div class="news-body">
@@ -263,89 +382,75 @@
         </div>
       </article>`;
     }).join("") : `<p class="empty">${items.length
-      ? "Nenhuma notícia corresponde aos filtros."
+      ? "Nenhuma notícia corresponde aos filtros." + clearButton()
       : "Ainda sem notícias — são recolhidas automaticamente na próxima atualização diária."}</p>`;
   }
 
   /* ---------- preços ---------- */
-  function routeLabel(key) {
-    const r = state.data.history.routes[key];
-    const [o, d] = key.split("-");
-    return `${o} → ${d}${r.destination_name ? ` (${r.destination_name})` : ""} · ${airlineOf(r.airline).name}`;
-  }
-
-  // Os filtros globais (aeroporto, companhia, destino) aplicam-se às rotas.
-  function filteredRouteKeys() {
-    const routes = state.data.history.routes || {};
-    const f = state.filters;
-    return Object.keys(routes).filter((k) => {
-      const r = routes[k];
-      const origin = k.split("-")[0];
-      if (f.airports.size && !f.airports.has(origin)) return false;
-      if (f.airlines.size && !f.airlines.has(r.airline)) return false;
-      if (f.dest) {
-        const q = f.dest.toLowerCase();
-        if (!k.toLowerCase().includes(q) && !(r.destination_name || "").toLowerCase().includes(q)) return false;
-      }
-      return true;
-    }).sort();
-  }
-
   function renderRouteSelect() {
     const keys = filteredRouteKeys();
     const previous = $("#route-select").value;
     $("#route-select").innerHTML = keys.map((k) => `<option value="${k}">${esc(routeLabel(k))}</option>`).join("");
     if (keys.length) {
-      const selected = keys.includes(previous) ? previous : keys[0];
+      const selected = keys.includes(previous) ? previous : (keys.includes("LIS-MAD") ? "LIS-MAD" : keys[0]);
       $("#route-select").value = selected;
       renderPriceChart(selected);
     } else {
-      $("#price-chart").innerHTML = `<p class="empty">Nenhuma rota corresponde aos filtros (o histórico cresce a cada recolha diária).</p>`;
+      $("#price-chart").innerHTML = `<p class="empty">Nenhuma rota corresponde aos filtros.${clearButton()}</p>`;
       $("#price-summary").innerHTML = "";
       $("#price-answer").textContent = "";
     }
   }
 
   function renderPriceChart(routeKey) {
-    const route = state.data.history.routes[routeKey];
-    const snaps = route.snapshots;
-    if (!snaps.length) return;
+    const airlines = routeAirlines(routeKey);
+    const series = airlines.map((a) => ({ airline: a, snaps: routes()[routeKey].airlines[a] })).filter((s) => s.snaps.length);
+    if (!series.length) { $("#price-chart").innerHTML = ""; return; }
+    const dates = [...new Set(series.flatMap((s) => s.snaps.map((x) => x.date)))].sort();
+    const all = series.flatMap((s) => s.snaps.map((x) => x.price));
     const W = 900, H = 260, PAD = { l: 46, r: 14, t: 14, b: 30 };
-    const prices = snaps.map((s) => s.price);
-    const min = Math.min(...prices), max = Math.max(...prices);
+    const min = Math.min(...all), max = Math.max(...all);
     const span = Math.max(max - min, 1);
-    const x = (i) => PAD.l + (i / Math.max(snaps.length - 1, 1)) * (W - PAD.l - PAD.r);
+    const x = (date) => PAD.l + (dates.indexOf(date) / Math.max(dates.length - 1, 1)) * (W - PAD.l - PAD.r);
     const y = (p) => PAD.t + (1 - (p - min) / span) * (H - PAD.t - PAD.b);
-    const pts = snaps.map((s, i) => `${x(i).toFixed(1)},${y(s.price).toFixed(1)}`).join(" ");
-    const minIdx = prices.indexOf(min);
     const gridLines = [0, .25, .5, .75, 1].map((f) => {
       const val = min + span * (1 - f);
       const yy = PAD.t + f * (H - PAD.t - PAD.b);
       return `<line x1="${PAD.l}" y1="${yy}" x2="${W - PAD.r}" y2="${yy}" stroke="currentColor" opacity=".12"/>
               <text x="${PAD.l - 6}" y="${yy + 4}" text-anchor="end" font-size="11" fill="currentColor" opacity=".6">${val.toFixed(0)}€</text>`;
     }).join("");
-    const nLabels = Math.min(6, snaps.length);
+    const nLabels = Math.min(6, dates.length);
     const xLabels = Array.from({ length: nLabels }, (_, i) => {
-      const idx = Math.round(i * (snaps.length - 1) / Math.max(nLabels - 1, 1));
-      const anchor = idx === 0 ? "start" : idx === snaps.length - 1 ? "end" : "middle";
-      return `<text x="${x(idx)}" y="${H - 8}" text-anchor="${anchor}" font-size="11" fill="currentColor" opacity=".6">${fmtDate(snaps[idx].date)}</text>`;
+      const idx = Math.round(i * (dates.length - 1) / Math.max(nLabels - 1, 1));
+      const anchor = idx === 0 ? "start" : idx === dates.length - 1 ? "end" : "middle";
+      return `<text x="${x(dates[idx])}" y="${H - 8}" text-anchor="${anchor}" font-size="11" fill="currentColor" opacity=".6">${fmtDate(dates[idx])}</text>`;
     }).join("");
-    const color = airlineOf(route.airline).color;
+    const lines = series.map((s) => {
+      const color = airlineOf(s.airline).color;
+      const pts = s.snaps.map((p) => `${x(p.date).toFixed(1)},${y(p.price).toFixed(1)}`).join(" ");
+      const circles = s.snaps.length < 40 ? s.snaps.map((p) =>
+        `<circle cx="${x(p.date)}" cy="${y(p.price)}" r="3" fill="${color}"><title>${esc(airlineOf(s.airline).name)} ${fmtDate(p.date)}: ${eur(p.price)}</title></circle>`).join("") : "";
+      return `<polyline points="${pts}" fill="none" stroke="${color}" stroke-width="2.2" stroke-linejoin="round"/>${circles}`;
+    }).join("");
+    // marca o mínimo global
+    let best = null;
+    series.forEach((s) => s.snaps.forEach((p) => { if (!best || p.price < best.price) best = { ...p, airline: s.airline }; }));
+    const legend = series.map((s, i) => {
+      const color = airlineOf(s.airline).color;
+      return `<rect x="${PAD.l + i * 150}" y="${PAD.t - 2}" width="12" height="4" fill="${color}"/>
+              <text x="${PAD.l + i * 150 + 16}" y="${PAD.t + 3}" font-size="11" fill="currentColor" opacity=".75">${esc(airlineOf(s.airline).name)}</text>`;
+    }).join("");
     $("#price-chart").innerHTML =
       `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Evolução do preço ${esc(routeKey)}">
-        ${gridLines}${xLabels}
-        <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="2.2" stroke-linejoin="round"/>
-        <circle cx="${x(minIdx)}" cy="${y(min)}" r="5" fill="${color}"/>
-        <text x="${x(minIdx)}" y="${y(min) - 9}" text-anchor="middle" font-size="12" font-weight="700" fill="currentColor">mín. ${min.toFixed(2)}€ (${fmtDate(snaps[minIdx].date)})</text>
+        ${gridLines}${xLabels}${lines}${legend}
+        <circle cx="${x(best.date)}" cy="${y(best.price)}" r="6" fill="none" stroke="currentColor" stroke-width="1.5"/>
+        <text x="${x(best.date)}" y="${y(best.price) - 10}" text-anchor="${x(best.date) > W * 0.75 ? "end" : x(best.date) < W * 0.25 ? "start" : "middle"}" font-size="12" font-weight="700" fill="currentColor">mín. ${eur(best.price)} · ${shortName(best.airline)} (${fmtDate(best.date)})</text>
       </svg>`;
-    const avg = prices.reduce((a, b) => a + b, 0) / prices.length;
-    const last = snaps[snaps.length - 1];
-    $("#price-summary").innerHTML = [
-      `<span class="stat"><b>${last.price.toFixed(2)}€</b> última recolha (${fmtDate(last.date)})</span>`,
-      `<span class="stat"><b>${min.toFixed(2)}€</b> mínimo histórico</span>`,
-      `<span class="stat"><b>${max.toFixed(2)}€</b> máximo</span>`,
-      `<span class="stat"><b>${avg.toFixed(2)}€</b> média</span>`,
-    ].join("");
+    const latest = latestByAirline(routeKey);
+    $("#price-summary").innerHTML =
+      latest.map((l) => `<span class="stat">${dot(l.airline)} <b>${eur(l.snap.price)}</b> ${esc(airlineOf(l.airline).name)}
+        <small>(${fmtDate(l.snap.date)}${l.snap.travel_date ? `, voo a ${fmtDate(l.snap.travel_date)}` : ""})</small></span>`).join("") +
+      `<span class="stat"><b>${eur(min)}</b> mínimo histórico</span><span class="stat"><b>${eur(max)}</b> máximo</span>`;
     answerPriceAt();
   }
 
@@ -354,35 +459,32 @@
     const dateVal = $("#price-date").value;
     const out = $("#price-answer");
     if (!routeKey || !dateVal) { out.textContent = ""; return; }
-    const snaps = state.data.history.routes[routeKey].snapshots;
     let best = null;
-    for (const s of snaps) {
-      if (!best || Math.abs(daysBetween(s.date, dateVal)) < Math.abs(daysBetween(best.date, dateVal))) best = s;
-    }
+    routeAirlines(routeKey).forEach((a) => routes()[routeKey].airlines[a].forEach((s) => {
+      const dist = Math.abs(daysBetween(s.date, dateVal));
+      if (!best || dist < best.dist || (dist === best.dist && s.price < best.price)) best = { ...s, airline: a, dist };
+    }));
     if (!best) { out.textContent = "sem dados"; return; }
-    const exact = best.date === dateVal ? "" : ` (recolha mais próxima: ${fmtDate(best.date)})`;
-    out.textContent = `≈ ${best.price.toFixed(2)}€${exact}`;
+    const exact = best.dist === 0 ? "" : ` (recolha mais próxima: ${fmtDate(best.date)})`;
+    out.textContent = `≈ ${eur(best.price)} · ${airlineOf(best.airline).name}${exact}`;
   }
 
   function renderBestNow() {
-    const routes = state.data.history.routes || {};
-    const rows = filteredRouteKeys().map((key) => [key, routes[key]]).map(([key, r]) => {
-      const last = r.snapshots[r.snapshots.length - 1];
-      if (!last) return null;
-      const min = Math.min(...r.snapshots.map((s) => s.price));
-      const isMin = last.price <= min + 0.01;
-      return { key, r, last, isMin };
-    }).filter(Boolean).sort((a, b) => a.last.price - b.last.price);
-    $("#best-now").innerHTML = rows.length ? `<table class="best">
-      <tr><th>Rota</th><th>Companhia</th><th>Preço atual</th><th>Data de recolha</th><th></th></tr>
-      ${rows.map(({ key, r, last, isMin }) => `<tr>
+    const rows = filteredRouteKeys().map((key) => {
+      const latest = latestByAirline(key);
+      if (!latest.length) return null;
+      return { key, r: routes()[key], best: latest[0], others: latest.slice(1) };
+    }).filter(Boolean).sort((a, b) => a.best.snap.price - b.best.snap.price);
+    $("#best-now").innerHTML = rows.length ? `<div style="overflow-x:auto"><table class="best">
+      <tr><th>Rota</th><th>Mais barata</th><th>Preço</th><th>Outras companhias</th><th></th></tr>
+      ${rows.map(({ key, r, best, others }) => `<tr>
         <td><b>${key.replace("-", " → ")}</b>${r.destination_name ? ` · ${esc(r.destination_name)}` : ""}</td>
-        <td><span class="dot" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:${airlineOf(r.airline).color}"></span> ${esc(airlineOf(r.airline).name)}</td>
-        <td><b>${last.price.toFixed(2)}€</b></td>
-        <td>${fmtDate(last.date)}</td>
-        <td>${isMin ? `<span class="badge live">mínimo histórico 🔥</span>` : ""}</td>
+        <td>${dot(best.airline)} ${esc(airlineOf(best.airline).name)}</td>
+        <td><b>${eur(best.snap.price)}</b><br><small>voo a ${fmtDate(best.snap.travel_date)}</small></td>
+        <td>${others.length ? others.map((o) => `${dot(o.airline)} ${shortName(o.airline)} ${eur(o.snap.price)}`).join("<br>") : "<small>—</small>"}</td>
+        <td>${best.snap.price <= best.min + 0.01 && routes()[key].airlines[best.airline].length > 1 ? `<span class="badge live">mínimo histórico 🔥</span>` : ""}</td>
       </tr>`).join("")}
-    </table>` : `<p class="empty">Sem dados de tarifas ainda.</p>`;
+    </table></div>` : `<p class="empty">Sem dados de tarifas para estes filtros.${clearButton()}</p>`;
   }
 
   /* ---------- exportação ICS ---------- */
@@ -421,6 +523,12 @@
     if (state.view === "prices") { renderRouteSelect(); renderBestNow(); }
   }
 
+  function clearFilters() {
+    state.filters = { airports: new Set(), airlines: new Set(), dest: "" };
+    $("#dest-search").value = "";
+    rerender();
+  }
+
   function bindEvents() {
     document.querySelectorAll(".tab").forEach((tab) => tab.addEventListener("click", () => {
       state.view = tab.dataset.view;
@@ -441,11 +549,8 @@
       rerender();
     });
     $("#dest-search").addEventListener("input", (e) => { state.filters.dest = e.target.value.trim(); rerender(); });
-    $("#clear-filters").addEventListener("click", () => {
-      state.filters = { airports: new Set(), airlines: new Set(), dest: "" };
-      $("#dest-search").value = "";
-      rerender();
-    });
+    $("#clear-filters").addEventListener("click", clearFilters);
+    document.addEventListener("click", (e) => { if (e.target.closest("[data-clear]")) clearFilters(); });
     $("#export-ics").addEventListener("click", exportIcs);
     $("#cal-prev").addEventListener("click", () => { state.month.setMonth(state.month.getMonth() - 1); renderCalendar(); });
     $("#cal-next").addEventListener("click", () => { state.month.setMonth(state.month.getMonth() + 1); renderCalendar(); });
@@ -455,6 +560,7 @@
       state.selectedDay = todayIso();
       renderCalendar();
     });
+    $("#cal-route").addEventListener("change", (e) => { state.calRoute = e.target.value || null; renderCalendar(); });
     $("#calendar").addEventListener("click", (e) => {
       const day = e.target.closest("[data-day]");
       if (!day) return;
