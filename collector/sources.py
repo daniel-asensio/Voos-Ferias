@@ -21,8 +21,6 @@ USER_AGENT = (
 )
 TIMEOUT = 25
 
-RYANAIR_FARES_URL = "https://services-api.ryanair.com/farfnd/v4/oneWayFares"
-
 # Padrões que indicam uma promoção numa página de ofertas.
 PROMO_PATTERNS = [
     re.compile(r"(?:até\s+)?(\d{1,2})\s?%\s*(?:de\s+)?(?:desconto|off|dto)", re.I),
@@ -148,48 +146,146 @@ def fetch_news(today: dt.date) -> list[dict]:
     return result
 
 
-def fetch_ryanair_fares(config: dict, today: dt.date) -> list[dict]:
-    """Tarifa mais barata por rota via API pública de tarifas da Ryanair.
+RYANAIR_CALENDAR_URL = (
+    "https://services-api.ryanair.com/farfnd/v4/oneWayFares/{origin}/{dest}/cheapestPerDay"
+    "?outboundMonthOfDate={month}-01&currency=EUR"
+)
+EASYJET_CALENDAR_URL = (
+    "https://www.easyjet.com/api/routepricing/v3/searchfares/GetLowestDailyFares"
+    "?departureAirport={origin}&arrivalAirport={dest}&currency=EUR"
+)
+WIZZ_METADATA_URL = "https://wizzair.com/static_fe/metadata.json"
+CALENDAR_MONTHS = 3  # meses de tarifas diárias recolhidos por rota
 
-    Devolve registos de preço: um snapshot por rota e por dia de recolha,
-    que alimenta o histórico "quanto custava o voo X na altura Y".
-    """
-    records = []
-    date_from = today + dt.timedelta(days=3)
-    date_to = today + dt.timedelta(days=90)
-    for group in config.get("ryanair_routes", []):
-        origin = group["origin"]
+
+def _months(today: dt.date, count: int) -> list[str]:
+    months, year, month = [], today.year, today.month
+    for _ in range(count):
+        months.append(f"{year:04d}-{month:02d}")
+        month += 1
+        if month > 12:
+            month, year = 1, year + 1
+    return months
+
+
+def fetch_ryanair_calendar(origin: str, dest: str, today: dt.date) -> dict[str, float]:
+    """Tarifa mais barata por dia de partida (API pública da Ryanair)."""
+    fares: dict[str, float] = {}
+    for month in _months(today, CALENDAR_MONTHS):
         try:
-            resp = _get(
-                f"{RYANAIR_FARES_URL}?departureAirportIataCode={origin}"
-                f"&outboundDepartureDateFrom={date_from}&outboundDepartureDateTo={date_to}"
-                "&market=pt-pt&limit=200"
-            )
-            fares = resp.json().get("fares", [])
-        except Exception as exc:  # noqa: BLE001 — fonte externa, seguir em frente
-            print(f"[ryanair] falha em {origin}: {exc}")
+            data = _get(RYANAIR_CALENDAR_URL.format(origin=origin, dest=dest, month=month)).json()
+        except Exception as exc:  # noqa: BLE001
+            print(f"[FR] {origin}-{dest} {month}: {exc}")
+            break
+        for fare in (data.get("outbound") or {}).get("fares", []):
+            price = (fare.get("price") or {}).get("value")
+            if price is not None and not fare.get("unavailable") and not fare.get("soldOut"):
+                fares[fare["day"]] = round(float(price), 2)
+    return fares
+
+
+def fetch_easyjet_calendar(origin: str, dest: str, today: dt.date) -> dict[str, float]:
+    """Tarifa mais barata por dia (serviço 'lowest daily fares' do site da easyJet)."""
+    try:
+        resp = requests.get(
+            EASYJET_CALENDAR_URL.format(origin=origin, dest=dest),
+            headers={"User-Agent": USER_AGENT, "Accept": "application/json"}, timeout=TIMEOUT,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception as exc:  # noqa: BLE001
+        print(f"[U2] {origin}-{dest}: {exc}")
+        return {}
+    fares: dict[str, float] = {}
+    for item in data if isinstance(data, list) else data.get("fares", []):
+        day = (item.get("departureDateTime") or item.get("departureDate") or "")[:10]
+        price = item.get("price")
+        if day and price is not None:
+            fares[day] = min(fares.get(day, float("inf")), round(float(price), 2))
+    return fares
+
+
+_wizz_api_url: str | None = None
+
+
+def _wizz_api() -> str | None:
+    global _wizz_api_url
+    if _wizz_api_url is None:
+        try:
+            _wizz_api_url = _get(WIZZ_METADATA_URL).json().get("apiUrl") or ""
+        except Exception as exc:  # noqa: BLE001
+            print(f"[W6] metadata inacessível: {exc}")
+            _wizz_api_url = ""
+    return _wizz_api_url or None
+
+
+def fetch_wizz_calendar(origin: str, dest: str, today: dt.date) -> dict[str, float]:
+    """Tarifa mais barata por dia (API de horários usada pelo site da Wizz Air)."""
+    api = _wizz_api()
+    if not api:
+        return {}
+    fares: dict[str, float] = {}
+    for month in _months(today, CALENDAR_MONTHS):
+        year, mon = (int(x) for x in month.split("-"))
+        last_day = (dt.date(year + (mon == 12), mon % 12 + 1, 1) - dt.timedelta(days=1)).day
+        payload = {
+            "flightList": [{"departureStation": origin, "arrivalStation": dest,
+                            "from": f"{month}-01", "to": f"{month}-{last_day:02d}"}],
+            "priceType": "regular", "adultCount": 1, "childCount": 0, "infantCount": 0,
+        }
+        try:
+            resp = requests.post(f"{api}/Api/search/timetable", json=payload, timeout=TIMEOUT,
+                                 headers={"User-Agent": USER_AGENT, "Accept": "application/json",
+                                          "Origin": "https://wizzair.com", "Referer": "https://wizzair.com/"})
+            resp.raise_for_status()
+            flights = resp.json().get("outboundFlights", [])
+        except Exception as exc:  # noqa: BLE001
+            print(f"[W6] {origin}-{dest} {month}: {exc}")
+            break
+        for f in flights:
+            price = (f.get("price") or {}).get("amount")
+            day = (f.get("departureDate") or "")[:10]
+            if day and price is not None and float(price) > 0:
+                fares[day] = min(fares.get(day, float("inf")), round(float(price), 2))
+    return fares
+
+
+CALENDAR_FETCHERS = {"FR": fetch_ryanair_calendar, "U2": fetch_easyjet_calendar, "W6": fetch_wizz_calendar}
+
+
+def fetch_fare_calendars(config: dict, today: dt.date) -> tuple[dict, list[dict]]:
+    """Recolhe as tarifas diárias de todas as rotas vigiadas.
+
+    Devolve (calendars, records):
+      calendars = {"LIS-MAD": {"FR": {"2026-09-15": 19.99, ...}, "U2": {...}}}
+      records   = um snapshot por (rota, companhia) com a tarifa mínima dos
+                  próximos meses — alimenta o histórico de preços.
+    """
+    names = config.get("destination_names", {})
+    calendars: dict[str, dict[str, dict[str, float]]] = {}
+    records: list[dict] = []
+    min_day = (today + dt.timedelta(days=1)).isoformat()
+    for airline, origins in config.get("watched_routes", {}).items():
+        fetcher = CALENDAR_FETCHERS.get(airline)
+        if not fetcher:
             continue
-        wanted = set(group["destinations"])
-        best: dict[str, dict] = {}
-        for fare in fares:
-            out = fare.get("outbound") or {}
-            arr = (out.get("arrivalAirport") or {}).get("iataCode")
-            price = (out.get("price") or {}).get("value")
-            if not arr or price is None or (wanted and arr not in wanted):
-                continue
-            route = f"{origin}-{arr}"
-            if route not in best or price < best[route]["price"]:
-                best[route] = {
-                    "route": route,
-                    "airline": "FR",
-                    "date": today.isoformat(),
-                    "price": round(float(price), 2),
-                    "currency": (out.get("price") or {}).get("currencyCode", "EUR"),
-                    "travel_date": (out.get("departureDate") or "")[:10],
-                    "destination_name": (out.get("arrivalAirport") or {}).get("name", arr),
-                }
-        records.extend(best.values())
-    return records
+        found = 0
+        for origin, dests in origins.items():
+            for dest in dests:
+                fares = {d: p for d, p in fetcher(origin, dest, today).items() if d >= min_day}
+                if not fares:
+                    continue
+                found += 1
+                route = f"{origin}-{dest}"
+                calendars.setdefault(route, {})[airline] = dict(sorted(fares.items()))
+                best_day = min(fares, key=fares.get)
+                records.append({
+                    "route": route, "airline": airline, "date": today.isoformat(),
+                    "price": fares[best_day], "currency": "EUR", "travel_date": best_day,
+                    "destination_name": names.get(dest, dest),
+                })
+        print(f"[{airline}] tarifas diárias em {found} rotas")
+    return calendars, records
 
 
 def scan_promo_page(airline: dict, today: dt.date) -> list[dict]:

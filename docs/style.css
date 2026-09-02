@@ -117,6 +117,32 @@ main { max-width: 1100px; margin: 0 auto; padding: 0 20px 40px; }
 .cal-bar.starts::before { content: "▶ "; font-size: 8px; }
 .cal-more { font-size: 10.5px; color: var(--muted); }
 
+.cal-route-label { font-size: 13px; color: var(--muted); margin-left: auto; }
+#cal-route { width: auto; max-width: 320px; padding: 7px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); font-size: 14px; }
+.cal-legend { font-size: 12.5px; color: var(--muted); margin: -4px 0 10px; }
+.cal-price {
+  display: inline-flex; align-items: center; gap: 4px; font-size: 13px; font-weight: 700;
+  border-radius: 6px; padding: 1px 6px; width: fit-content;
+  background: var(--tier-bg, var(--bg)); color: var(--tier-ink, var(--ink));
+}
+.cal-price .dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; }
+.tier-low  { --tier-bg: #e5f7ec; --tier-ink: #14713d; }
+.tier-high { --tier-bg: #fdeaea; --tier-ink: #a02020; }
+@media (prefers-color-scheme: dark) {
+  .tier-low  { --tier-bg: #14351f; --tier-ink: #7ed3a2; }
+  .tier-high { --tier-bg: #3d1a1a; --tier-ink: #f2a6a6; }
+}
+.fare-list { display: flex; flex-direction: column; gap: 6px; margin-bottom: 6px; }
+.fare-row {
+  display: flex; align-items: center; gap: 10px; padding: 8px 12px;
+  background: var(--card); border: 1px solid var(--line); border-radius: 8px;
+}
+.fare-row.best { border-color: #7ed3a2; }
+.fare-row .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.fare-airline { flex: 1; }
+.fare-price { font-weight: 700; font-size: 16px; color: var(--accent); }
+.stat small { font-weight: 400; opacity: .75; }
+.stat .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; margin-right: 3px; }
 .day-detail { margin-top: 16px; }
 
 /* ---- Cartões de promoção ---- */

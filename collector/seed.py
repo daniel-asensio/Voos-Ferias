@@ -148,7 +148,7 @@ def build_history(days: int = 120) -> dict:
                 "travel_date": (date + dt.timedelta(days=45)).isoformat(),
                 "demo": True,
             })
-        routes[route] = {"airline": airline, "destination_name": dest_name, "snapshots": snapshots}
+        routes[route] = {"destination_name": dest_name, "airlines": {airline: snapshots}}
     return {"routes": routes}
 
 
@@ -161,6 +161,7 @@ def main() -> None:
     save_json(DATA_DIR / "airlines.json", config)
     save_json(DATA_DIR / "alerts.json", {"date": TODAY.isoformat(), "alerts": []})
     save_json(DATA_DIR / "news.json", {"items": []})
+    save_json(DATA_DIR / "fare_calendar.json", {"generated_at": TODAY.isoformat(), "routes": {}})
     save_json(DATA_DIR / "meta.json", {
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "promotions": len(promotions),
