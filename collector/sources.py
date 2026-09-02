@@ -221,13 +221,12 @@ def scan_promo_page(airline: dict, today: dt.date) -> list[dict]:
     if match:
         price_from = float(match.group(1).replace(",", "."))
 
-    title_match = re.search(r"<title[^>]*>(.*?)</title>", text, re.S | re.I)
-    title = html.unescape(title_match.group(1)).strip() if title_match else f"Ofertas {airline['name']}"
-    title = re.sub(r"\s+", " ", title)[:120]
-
+    # Título limpo e id estável por companhia: um cartão por página de ofertas,
+    # cuja janela se estende enquanto a campanha continuar visível.
+    title = f"Ofertas {airline['name']}"
     start = today.isoformat()
     promo = {
-        "id": make_promo_id(airline["code"], title, start),
+        "id": make_promo_id(airline["code"], "pagina-ofertas", ""),
         "airline": airline["code"],
         "airline_name": airline["name"],
         "title": title,
