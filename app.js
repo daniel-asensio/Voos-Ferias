@@ -179,13 +179,15 @@
     const extra = p.confidence === "baixa"
       ? `<span class="badge" title="Detetada automaticamente — confirmar no site">deteção automática</span>` : "";
     const demo = p.source === "exemplo" ? `<span class="badge">exemplo</span>` : "";
+    const drop = p.source === "price_drop"
+      ? `<span class="badge live" title="Detetada pelo nosso histórico de preços">💸 queda de preço</span>` : "";
     const strike = strikeAirlines().has(p.airline)
       ? `<span class="badge ending" title="Há notícias de greve desta companhia — ver separador Notícias">⚠️ greve nas notícias</span>` : "";
     return `<article class="promo-card" style="border-left-color:${a.color}">
       <div class="promo-head">
         <span class="promo-airline" style="color:${a.color}">${esc(a.name)}</span>
         <span class="promo-title">${esc(p.title)}</span>
-        ${badges[st]}${extra}${demo}${strike}
+        ${badges[st]}${drop}${extra}${demo}${strike}
       </div>
       ${p.description ? `<p class="promo-desc">${esc(p.description)}</p>` : ""}
       <div class="promo-meta">
@@ -272,11 +274,36 @@
     return `${o} → ${d}${r.destination_name ? ` (${r.destination_name})` : ""} · ${airlineOf(r.airline).name}`;
   }
 
+  // Os filtros globais (aeroporto, companhia, destino) aplicam-se às rotas.
+  function filteredRouteKeys() {
+    const routes = state.data.history.routes || {};
+    const f = state.filters;
+    return Object.keys(routes).filter((k) => {
+      const r = routes[k];
+      const origin = k.split("-")[0];
+      if (f.airports.size && !f.airports.has(origin)) return false;
+      if (f.airlines.size && !f.airlines.has(r.airline)) return false;
+      if (f.dest) {
+        const q = f.dest.toLowerCase();
+        if (!k.toLowerCase().includes(q) && !(r.destination_name || "").toLowerCase().includes(q)) return false;
+      }
+      return true;
+    }).sort();
+  }
+
   function renderRouteSelect() {
-    const keys = Object.keys(state.data.history.routes || {}).sort();
+    const keys = filteredRouteKeys();
+    const previous = $("#route-select").value;
     $("#route-select").innerHTML = keys.map((k) => `<option value="${k}">${esc(routeLabel(k))}</option>`).join("");
-    if (keys.length) renderPriceChart(keys[0]);
-    else $("#price-chart").innerHTML = `<p class="empty">Ainda sem histórico de preços — aparece após a primeira recolha.</p>`;
+    if (keys.length) {
+      const selected = keys.includes(previous) ? previous : keys[0];
+      $("#route-select").value = selected;
+      renderPriceChart(selected);
+    } else {
+      $("#price-chart").innerHTML = `<p class="empty">Nenhuma rota corresponde aos filtros (o histórico cresce a cada recolha diária).</p>`;
+      $("#price-summary").innerHTML = "";
+      $("#price-answer").textContent = "";
+    }
   }
 
   function renderPriceChart(routeKey) {
@@ -338,7 +365,8 @@
   }
 
   function renderBestNow() {
-    const rows = Object.entries(state.data.history.routes || {}).map(([key, r]) => {
+    const routes = state.data.history.routes || {};
+    const rows = filteredRouteKeys().map((key) => [key, routes[key]]).map(([key, r]) => {
       const last = r.snapshots[r.snapshots.length - 1];
       if (!last) return null;
       const min = Math.min(...r.snapshots.map((s) => s.price));
@@ -398,7 +426,6 @@
       state.view = tab.dataset.view;
       document.querySelectorAll(".tab").forEach((t) => t.classList.toggle("active", t === tab));
       document.querySelectorAll(".view").forEach((v) => { v.hidden = v.id !== "view-" + state.view; });
-      $("#filters").hidden = state.view === "prices";
       rerender();
     }));
     $("#airport-chips").addEventListener("click", (e) => {
