@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Voos &amp; Férias — Promoções LIS · OPO · FAO</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✈️</text></svg>">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=3">
 </head>
 <body>
 <header class="topbar">
@@ -51,7 +51,10 @@
       <h2 id="cal-title"></h2>
       <button id="cal-next" class="btn-ghost">›</button>
       <button id="cal-today" class="btn-ghost">Hoje</button>
+      <label class="cal-route-label" for="cal-route">Preços de:</label>
+      <select id="cal-route"></select>
     </div>
+    <div id="cal-legend" class="cal-legend"></div>
     <div id="calendar" class="calendar"></div>
     <div id="day-detail" class="day-detail"></div>
   </section>
@@ -85,6 +88,6 @@
   <span>Dados recolhidos automaticamente · Confirma sempre as condições no site da companhia.</span>
 </footer>
 
-<script src="app.js"></script>
+<script src="app.js?v=3"></script>
 </body>
 </html>
