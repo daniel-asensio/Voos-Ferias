@@ -182,6 +182,19 @@
   },
   {
    "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-27",
+   "source": "jornaldamaia.pt",
+   "title": "TAP anuncia nova rota regular entre o Porto e a Ilha do Sal - jornaldamaia.pt",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV1hOSVg4Nk1lTGFpSHFxUGdrbm5rSmFJOFJ6UkZlbHIwRzdZR1dSendialZ1cVJrTXQ2YjBtaWNTYXliTTRDNFRRc0FxSjRnMmxYVTBPYzU1NlZibXhGdGplS2J5RnF3TlBqRUpSV3FuejVidDBBbGMtRklfblN0LUlBSGpqc25xT05LbkhfQk93UQ?oc=5"
+  },
+  {
+   "airlines": [
     "HV"
    ],
    "airports": [],
@@ -371,6 +384,15 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ3dIcWxHUFNQaFFHMTExLWJrdTBaYndkRVJrSnJyblI0OVhsUURRN0hrbVY3ajVhd256bVNyc0JXbktGOUFhWHduT1hsdXNJRlJ3ajJoazVkOThKSHA3QnNIOFo4Rks4WjI3VXBua1E1Z0lNdTRQb0FCc3BSZlBaWjVoRHc0M1VrU1JpLW9vOWw4RmdwcEQxOFNyRGt1dS11WTVtdU02UzM4VkJ2Nk1EU0QxTHBTVVRfd0h0dHJlbnlLdTZRSXl5ZQ?oc=5"
   },
   {
+   "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-08-18",
+   "source": "Portugal Resident",
+   "title": "Nova greve no aeroporto “pode afetar passageiros” - Portugal Resident",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0Q0SFhqb1JWQ0VaZWJjVUJJaEhIUXlIUUsza0wwci1rUGYtelhrYnpuald6Y3paTFNPSVV0U1JrY3ZXWE5VekJ1czZNMzdMaHEzNnRDNEhNTjhuTzQyT2VxdE5VQU9JVzJSaVV2N0pFRjBiTlBfSDlROWJaR01yUFh0V05RbFZfMWNGWA?oc=5"
+  },
+  {
    "airlines": [
     "FR"
    ],
@@ -419,6 +441,17 @@
    "source": "Echo Boomer",
    "title": "TAP Air Portugal vai ligar o Porto ao Sal com nova rota intercontinental - Echo Boomer",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXT202bFNBbWdWa0VORWw0ZVVnaUVCZGdyVm90SlRLanBxVktZVXdWeWMyNlVwVDlZLS1hVVY5bklVNG8zMUtrSjBJNWVQR3d3SlJsN0hHS1lzd2NSV0FEQXhIaHRyZGpsZUswU3R4azZwcTA?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "problema",
+   "published": "2026-08-17",
+   "source": "Portugal Resident",
+   "title": "Tentativas terroristas em Londres causam caos no aeroporto de Lisboa - Portugal Resident",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2xIX0FtY1ZsSWV0YWlnWmJwaHF6STBaa3NFVll6d1RzX0g1dlk0aHFpRWxFbzVfQUdIR0Z1SUY3SUw0TW5XSFd1TEM4eW95RnNQWEp6SGJzbXBXSDBlOHpjUk1Sbk1SdGRsb2ZNbmFnTXBBY0Z0YV9meUM0ZWVja3VnS3VxOHhhY3l6RjN5anNqV0hPSVBIMmtKZjFHM3pZanRWb2IwVDY?oc=5"
   },
   {
    "airlines": [
@@ -575,6 +608,17 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObVM3R2xNWlQzVTVEU3NGY05iZEltUjZTNXdKalNrNE5veVhSZXh6Q3h0WWVFdU12VXNKTDlrWUY4ZmZRWDA4YnhScHFGaVc3dGhXY3k1N2p1RjZjRDdXMmJ0OFVuS3R4WTZELVJHZTZaSFNUUTRaRFA1bWxkTWRxMGpvbGhWRU5jZjVXQVh2aUxDZUE4dVJWd0UwZ3dSbjRyZmhmZWFKejZXTlpSWjRIMVFsSS1aUUZxSjN4VUN3cFlSQzNXdWZuTA?oc=5"
   },
   {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-07-28",
+   "source": "The Portugal News",
+   "title": "A Ryanair lança voos a 14,99 € de Portugal para destinos em toda a Europa - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc1FFdmxDUHBJcFVnQUlXQ29tdE10ZFJYN2xsU05zYWZMVjFOenhNd0lyOGFzWFotM3VWVUpOazRHVlVibzdWb3hCSXdOY2haQTZZWEFxMWFfSFVSX3dWbVJIQWM5TkZpazR1LWRKS3pveW14LU1NQ1E4aVNtd0ZRS1Y5M1FtVzNKQWVoT2h4SmJCVDJJamFLbTFpTHE2U1lqT2Q5QUZ2X3JGYldjRFBQZFo3QlJ2Wk5YaXk0REVON0pmLXBTQVhkOThGUWNvZw?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "LIS"
@@ -605,6 +649,17 @@
    "published": "2026-07-19",
    "source": "tempo.pt",
    "title": "Esta nova rota percorre 35,5 km e passa pelo ponto mais alto do distrito do Porto - tempo.pt",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVEJhNFc5c1pCa1RDdUZwSXk4MmxwZ3J1REdaNS1WaHEzMFVSSzJaeVlnMG5LZU5Dd3ZLdlMwVl9CcUxuN3ZsN3RXTW5oa2RWREN0MVJOOHh3ZmItcTYyemN2MWFheWxLeTY2amxWUFpJMTBoYVVrU1VoOUlyY1dQRl9HLVA4ZDlXNHZ0MzFpcVAwel92T1VzekhuZWxORmtBNVp2a0Fzd3BmZjJBM3UxdjRvbG4xN2t0OXcxWXA1Yw?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-07-19",
+   "source": "Meteored Portugal",
+   "title": "Esta nova rota percorre 35,5 km e passa pelo ponto mais alto do distrito do Porto - Meteored Portugal",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVEJhNFc5c1pCa1RDdUZwSXk4MmxwZ3J1REdaNS1WaHEzMFVSSzJaeVlnMG5LZU5Dd3ZLdlMwVl9CcUxuN3ZsN3RXTW5oa2RWREN0MVJOOHh3ZmItcTYyemN2MWFheWxLeTY2amxWUFpJMTBoYVVrU1VoOUlyY1dQRl9HLVA4ZDlXNHZ0MzFpcVAwel92T1VzekhuZWxORmtBNVp2a0Fzd3BmZjJBM3UxdjRvbG4xN2t0OXcxWXA1Yw?oc=5"
   }
  ]
