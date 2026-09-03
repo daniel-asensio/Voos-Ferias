@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "geral",
+   "published": "2026-09-02",
+   "source": "AEROIN",
+   "title": "TAP Air Portugal anuncia preços reduzidos em voos em toda a sua malha, incluindo para o Brasil - AEROIN",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp1bDNJeUFFcDczUUZkUUpMUGJKTmZCNWotQVZWMGp3VDBXdEJ3YVVYRlJyd0NTcXNzZ2Y0UHRDQ2ZIN25WY1pnM3NvRXlycDVPeDF2SFFCSDhNcjlwYnA3YkNlNks4NW1DNk5ROWxDdm5XeEtDMU5BXzZsY0RwZjcyczhVYWF4ejlXdkdGNjd4ZFcyQWdtbVVJa3NrZU1LNWEwU2Q2OGxXTk9nazRfblJXQdIBswFBVV95cUxPdXp1bDNJeUFFcDczUUZkUUpMUGJKTmZCNWotQVZWMGp3VDBXdEJ3YVVYRlJyd0NTcXNzZ2Y0UHRDQ2ZIN25WY1pnM3NvRXlycDVPeDF2SFFCSDhNcjlwYnA3YkNlNks4NW1DNk5ROWxDdm5XeEtDMU5BXzZsY0RwZjcyczhVYWF4ejlXdkdGNjd4ZFcyQWdtbVVJa3NrZU1LNWEwU2Q2OGxXTk9nazRfblJXQQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-02",
+   "source": "The Portugal News",
+   "title": "Nova rota de ônibus conecta Lisboa com a Espanha a partir de €10 - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc2VwUnNzREZEbDVEc3I5aVpQc3pUMU1aQ3pKVUlNUDRfcERhMGxoNzJSTjhMS0lBcG1mY3Nub0loUkV3U01ZQnBlb3VCY3d6cVowX0tZckJRU0d0TVBHeUwwN29kUHhDc1ZMVF9YNEtMaEtXYTF6M3c4U3E1SzFYLVo0OUZsWHM2UVRtLVR3NksxV21JVDRhMVUwcTc2YjVac2s2dTdfNFpSc0ZjdC01M0RRc210cXB1cHpacGtBUTN1OHBR?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "OPO"
@@ -386,6 +408,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWRMVGpkMXpFSXNQb0V4dW9oTzJyVnFxMTVRLVp4bE5oZjNCOElocW4yZWM5WFNjTmNuVGRFUl83ZTU4YnVwd2otSUxveDRneVdjcWFadnV4RnRPMi1rMEwtMzI0Ulk3S0hIZDlVZnNnWlRqOXFOOFQ1anRDaG42YlB6VGpWcGZpSmRz?oc=5"
   },
   {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-19",
+   "source": "tribunaonline.com.br",
+   "title": "Nova rota leva ferro-gusa de Minas a porto do ES com R$ 130 milhões - tribunaonline.com.br",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJNTmNMU0tfZlFMUEVIa1cxd2hXcmhGQVBIckg5UVpZYzg3dUJhTGo1QzR4V0JnZWhjT2dVcm5lR0hvYW1wbmFsdmkya1gyMDB1ak1JR0ZnOHJmQmJsdGd0SzB3cEZpc01PTk42MjEyZDRyUmdZS1JBR0dsY19lOWxJUThVTmI5RTNpMUpKRFJMc0dTcXUyUUlKRmVEcmVxOTF0YXEwQjVTSVY4WktyeNIBuAFBVV95cUxNSWtKbTR2MXdUcUlPNTkxRkZycElwalR4dGlQWXBhdmtGNU81WkwzazhLa2tpc2ZCMjRSN2xhVHVaTmJGTy1oRTJfSmkxT2JSR1lRY3FMS280d25Ubm9wLXNNbDc3MzAzdzU2MEFkSlFUa1VaektJNWhCYjctUVZjZHJGbmFXRkMtenhqdkNvcGpkbHRKckRZbjVwVWRSSzZOaVRyWl9zaDI5N0YtdkpYejRHV2lXZlpq?oc=5"
+  },
+  {
    "airlines": [
     "TP"
    ],
@@ -748,28 +781,6 @@
    "source": "diarioeconomico.co.mz",
    "title": "Porto de Maputo Ganha Nova Rota Ferroviária Para Exportação de Minério de Lítio do Zimbabué - diarioeconomico.co.mz",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY0tLZ2VDQVh3ZUxraldMQmdYdzJqSEZQczZkOFBZNktLUFpvUl8zWkM4OW1ENHZuLWtJOFYwbGxVSnRnMms1LVU1Z3dSVTlXWkZKSUVnc3ptR0RCQ3RzNG5jYnBUUy04aDRENnlGcjdtQ1l0a3VjVnNONG1xNUtwVHBiSEpneTFUUG5pQzJxaU5CVTc2d0IzQUtvZERtVzlOQ1h1SnNQYkJyWndZZWdTMGxrbF9MdlV6akJZMm1hbGdWaG0xenBqbXVTeWhlMXo4SWZNUEdCSjRydXhoODJkR0E0dnJXMlk?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-07-19",
-   "source": "tempo.pt",
-   "title": "Esta nova rota percorre 35,5 km e passa pelo ponto mais alto do distrito do Porto - tempo.pt",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVEJhNFc5c1pCa1RDdUZwSXk4MmxwZ3J1REdaNS1WaHEzMFVSSzJaeVlnMG5LZU5Dd3ZLdlMwVl9CcUxuN3ZsN3RXTW5oa2RWREN0MVJOOHh3ZmItcTYyemN2MWFheWxLeTY2amxWUFpJMTBoYVVrU1VoOUlyY1dQRl9HLVA4ZDlXNHZ0MzFpcVAwel92T1VzekhuZWxORmtBNVp2a0Fzd3BmZjJBM3UxdjRvbG4xN2t0OXcxWXA1Yw?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-07-19",
-   "source": "Meteored Portugal",
-   "title": "Esta nova rota percorre 35,5 km e passa pelo ponto mais alto do distrito do Porto - Meteored Portugal",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVEJhNFc5c1pCa1RDdUZwSXk4MmxwZ3J1REdaNS1WaHEzMFVSSzJaeVlnMG5LZU5Dd3ZLdlMwVl9CcUxuN3ZsN3RXTW5oa2RWREN0MVJOOHh3ZmItcTYyemN2MWFheWxLeTY2amxWUFpJMTBoYVVrU1VoOUlyY1dQRl9HLVA4ZDlXNHZ0MzFpcVAwel92T1VzekhuZWxORmtBNVp2a0Fzd3BmZjJBM3UxdjRvbG4xN2t0OXcxWXA1Yw?oc=5"
   }
  ]
 }
