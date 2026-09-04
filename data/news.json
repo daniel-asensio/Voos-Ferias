@@ -2,6 +2,50 @@
  "items": [
   {
    "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-03",
+   "source": "nit.pt",
+   "title": "easyJet lança promoção relâmpago com voos desde 14,49€ (para oferecer no Dia do Pai) - nit.pt",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSG5DVWdKVExNYmw3V055OTVUTnREemx4NjNDSWZKUTl5Rk9fdnhkWk0wbkVRMDFjNVRqa3FGOG9fZVA2cXQwaEQyUTlZOV9JM3Z1c3FLb0g4QlFwTnlRYUlFNjY5VWZ5aHRpT3NCS2VKVjM4dzlNVUFyOGFrcnBkN2dNZm9qc1hrQ2xBQ0g5RGZldXBSai1abVNHOGw3dUx6aG15TVFfODJicENqclRxRU9mQ21KTkN4OS1MaDNn?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-03",
+   "source": "The Portugal News",
+   "title": "A Ryanair vai reduzir a oferta de voos no inverno - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbEgxVE5xVWtieGV1WHQ3MnozN1oweGRmWUlpRUpnVTdYelZCWDVrLVhhRTd3aUJtMHBxb293amhvTUhkVDl0UkFlbXI5ZkU3WlN6VnB0eVMwNF9EdnQ5V21sZ3J0WGpWVER2YTI2ZHhSa1h0OEd5bkp4RXc1Q2h2QXRraS1uMk5HOWlxanFWcHdwajhMMHJfZ3J0M3V3STZTc21KdTV4LXRKRkV1U3Q0?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-03",
+   "source": "El Trapezio",
+   "title": "Nova rota da Rede Expressos vai ligar Lisboa a Badajoz com bilhetes a menos de 10 euros - El Trapezio",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbnFsZkt0YXg2RzBHZld0bWZrNVo5ai1Rd1BVNHdfaVJrS2RWMVFadXlYTTExanA4X0s3a2llZzlYeEhxbFd1TE9DTUZqQWZrUi0yN2VNWk1FZ3B5aUdMakZlUnYyaGpsTnVBQnF1cFZQd2NTeDFzcXFpSkdPVEZDTzZyOWZlc3d3Nm5nRVNCNmtFX1JrQjU1MGRiMThPcjlVcDlRc2pXdko4blVmcDZwNTkxd2R6blhGVF9XMkNXdnRHWXZWbUNYeUN3?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-03",
+   "source": "O GLOBO",
+   "title": "Gol decide aumentar frequência de voos na nova rota entre Rio e Lisboa - O GLOBO",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMi1ITVBqWFgxUEJHS3ZsbkJubnpUOWE4OWlzajRzSG5fTWlSZFhUUmdlQ2I2b1NfSWY3S1luNVdaQlZmQ0FlOHRnWmxxek9SOUpWYThOUXZFaGZYWk05eDFGM0U4OWZ2eV9OVmxfMUdLbFp3MkVJbDhIOUhsQklOaDVyaERGUG9xYmUzaDRES3Z0VndLMlFUaVRtYlV2cEdSekItN0V3c2lOdGx3RFp6ODY4SUk1R3k3LTR2SWY0U08zekxWLWN30gHWAUFVX3lxTFBpRkFnNXRfQ2RvYTRfeURMZWNIUkJZdHBuOU0zRzctWHczdFFnQW94VDVuSFpLSXBLc25oNkE2cWdGdHREZnBINlk2bDI1MzhEeVdiUjBlLTlPNnhFUjAzRmNVVlNhSGdkd2VlVXJOMkd4c2djOEV4aWlZT0lkNEhZNnRmQkFoUmNPYzlPSUplbmtzbVdva0JxdzVET2NOb2o1LVpWMmhJbGVwS3ZaU1VNQkJjVmxDYS0xWmVxbnhrZ0N2Z3ZLRFBGZlVzcDhISUd5dllOTHc?oc=5"
+  },
+  {
+   "airlines": [
     "TP"
    ],
    "airports": [],
@@ -21,6 +65,39 @@
    "source": "The Portugal News",
    "title": "Nova rota de ônibus conecta Lisboa com a Espanha a partir de €10 - The Portugal News",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc2VwUnNzREZEbDVEc3I5aVpQc3pUMU1aQ3pKVUlNUDRfcERhMGxoNzJSTjhMS0lBcG1mY3Nub0loUkV3U01ZQnBlb3VCY3d6cVowX0tZckJRU0d0TVBHeUwwN29kUHhDc1ZMVF9YNEtMaEtXYTF6M3c4U3E1SzFYLVo0OUZsWHM2UVRtLVR3NksxV21JVDRhMVUwcTc2YjVac2s2dTdfNFpSc0ZjdC01M0RRc210cXB1cHpacGtBUTN1OHBR?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-02",
+   "source": "nit.pt",
+   "title": "Nova campanha da TAP tem voos para mais de 90 destinos desde 49€ - nit.pt",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWFmZE54YVIzYTJKako1MVNNWGdoQ05idTNjR2phRXZPUmdqaWVkUnlTOU5tMEtZY2VaYXNNQl9Ob0FIZ3hFNXVpRUpTc0t2NzlxN0wyemJIUjZmczdxRTljVWJRcTlHM2VUNGpKYktCTTJId1hzMmZUWnp4Z2ZQZ2hmeWItWkt3dUhRMXl3TkdoTkJaOTNIbENWM3BXQkZzUWxnaUFBMA?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "geral",
+   "published": "2026-09-02",
+   "source": "The Portugal News",
+   "title": "TAP anuncia promoções de preços de voos - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTDNFSVJHVndJdkVESFFHaEhQeG9xM3NHQ3BWSVJIMk1rT1JyamRPMXhyNWxsdDVKOUFrZ2xGTGtDRnVEM3dBN0FnZEl4djBvWEZqX1ZncWs4MHltUGhjMER5LVdINjlIT1FGUVppUXpKeXNyRUNmbDI1QzRIX2QtcGoySmZGdF9aYzFRSU13WmlGVTNncFpTX0RyQjJFa1AxOGc2Yw?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "geral",
+   "published": "2026-09-02",
+   "source": "The Portugal News",
+   "title": "A TAP anuncia promoções nos preços dos voos - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzZPNUc3U3I5d2syYU1OMlNHaFFxNURTazhEeVFuSWdFTURvVjFmdjRRR0dIZTljNmNFQzRUN3FwUXp6d1lZLTgzN1VlOUJIZ2FOQlNKS3hmaTRpX2tBcG9PZ3BzM0ZoaWlOSEtaQkJfREl5NWZPQ1piQXp4S1NKNjYyekJ0TDJjWXdUNlB1V21ZRExTRXcxODB5UWRoTS1nUnRFT3RuYw?oc=5"
   },
   {
    "airlines": [],
@@ -249,6 +326,30 @@
    "source": "cnnportugal.iol.pt",
    "title": "Chuva intensa condiciona aeroporto do Porto: oito voos cancelados e sete desviados - cnnportugal.iol.pt",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY2JBcFA4eHVzM3RWWUdFeHhKcGcwTG94UG8wYzR6bVpzRHhOQV9Zc3F2U2Yybm9TaWlqV1RUYk9hSXRTdGJrc29INTJtT2lGeHg3OWxxMnJaMFFFZ1Blek00T09Ed29GbUVtc3BSTTdVSktSa3NsOUUwcDY4VVhYQXh6WkE4UXo2SnVxS0JCMS10ZXFLYk53UTZfWTlfR1BtQU1jSHlqQVVreWZQZnRNajg3b2k1R2pCNGVkY1pkd25TazZtTV9RUU96YzJvYVlXR091RlBtZFJ6eWpwZVJNT25RNkZVcHE4RWxhdEtMQQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "problema",
+   "published": "2026-08-27",
+   "source": "publico.pt",
+   "title": "Aeroporto do Porto: falha na drenagem de água na pista causa atrasos nos voos - publico.pt",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHFCTWlxSlh6S3V0NV9uZDlqcTBvOFRwdGl4SzZ1cTVhdnRRdFpYYXc1dGhmV0llTF8zZGhnS2NCNUc0VGRSNXhhX3ZjYlQ0U0RBVGgxUzdVWHVLZmh1S1lLcUJzSUlUb2RlXzNlcnJRX2wyRGYzeWdLbV82ZG9faUstVmhvTnhzUVlYRDhlZzJJZ3pqUWF6WnVYOVdRRVIzaXo1eUhxUHdnSjB0THpaazl5S1p1UXc?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-08-26",
+   "source": "Melhores Destinos",
+   "title": "Bons preços de executiva para Europa! Voos para Lisboa desde R$ 8.837 ida e volta com Latam, TAP e Gol - Melhores Destinos",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uTUg0UVNidE41X2cxcUZBMGtCSXlycXJnOHhsRWVnajR3Z1dUNEhfdFJTSXlUUFo2UHlpMU83eWpzUzhxTUlaZ3kxaTU4Vl9qalB6Y1Q3QkM4YkFUU3RHVTk0bWxKV0V3elpLWV9uTXVYRjlLZnJwT0h1SzVfdw?oc=5"
   },
   {
    "airlines": [
@@ -545,6 +646,19 @@
   },
   {
    "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-17",
+   "source": "executivedigest.sapo.pt",
+   "title": "TAP reforça ligações internacionais do Porto com novo voo para o Sal - executivedigest.sapo.pt",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjN3VXg3dWZyOGpBM09oOTdSaGRRNS1GTjhJRldhV1drVHZueGJlTF9CMXU4RlQyejBzb2JfV3haU1VYTERscWFROTVhZ2hzejF6ZWkxSGhJVzRfRnExMlhjdVpUZ01WODRLcl82TnRlSk4zNnhZUmoxelF4RUl0cHM3SVNpdjNoSjAxZnFoaEtNRFRQNjkwUG1WUTFvcm1vSE9N?oc=5"
+  },
+  {
+   "airlines": [
     "FR"
    ],
    "airports": [],
@@ -693,6 +807,17 @@
    "source": "aloalobahia.com",
    "title": "Fiol e Porto Sul devem transformar a Bahia em nova rota de exportação de grãos - aloalobahia.com",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZi1pV3N0aXlMbDl0eGxOY1VNT2FrMFNvazhmOFBrNklwWWdPT2t3YlNGMmtISkVQS2RQOWZrR0tJY1JtbTlDd2hMSElUZ0VuNWt0c3JBc1QxSFRreUNuOEVEVXllVjJ4b1dVdENvY0ZMd05SVDVNdTFBOGstNkt1dUJ2WHR1R1JLOTRVcVYtWWJnR2hIS010N3ZwbEdDTmdiQmNWYm5lM0tueXdwQnFZY2Fic0V4OFJHYy10c2VOc2M?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-07-29",
+   "source": "Expresso",
+   "title": "Circulação totalmente restabelecida na linha vermelha do Metro de Lisboa - Expresso",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHl3c1JnbFhkSm5qbTFnal93elpVa1Y3QVFPeFU1aXNiZ2FMNWVtT1NCdnVlaHM3TnAzTld3YzZ1ek9VVU1oWmV5M2lwZGpRSXVJNXJFSlNPS2Z1NEJxVkpMMnhmMFNqd1RHN3hCUjJ6LUNmUlZVQVdjUVdleXBudVlCUmJIZ0FXR3dlanh3U2VmTHpKS0NMbFhsR1NSR0JXZGVHUVV2UGJkd0F6emFVaDdHWlVaelJ0OHJqMEdHaVByUTM0VW9J?oc=5"
   },
   {
    "airlines": [
