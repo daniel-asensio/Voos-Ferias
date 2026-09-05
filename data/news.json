@@ -46,6 +46,17 @@
   },
   {
    "airlines": [
+    "FR"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-03",
+   "source": "The Portugal News",
+   "title": "Ryanair reduzirá oferta de voos no inverno - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnZQUHoxLXJzSzJsVVRseGhIcTJxc1VRLTJBbzltTDc0NHN1YzFGVDhUdmVwRWVMMllhQzV0YTZ5MG1oQjBmbUFFVWllMGRwWmhBQVpWZFRNZGhFcmhXcjJSRmk4OXZ1LUlMN2cwT3R0d19xLTMxRVlNdHVhdzh1ak52Yk5nbTRPOURsS1pSdjZFMjBWQXhjeWNyZ2hmVUZ1VDZxeVE0RjlIMkk?oc=5"
+  },
+  {
+   "airlines": [
     "TP"
    ],
    "airports": [],
@@ -373,6 +384,19 @@
    "published": "2026-08-25",
    "source": "VIVA! Porto - Tudo sobre o Grande Porto",
    "title": "TAP anuncia novo voo direto do Porto para a paradisíaca Ilha do Sal - VIVA! Porto - Tudo sobre o Grande Porto",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlRNMkc1YzJBN1lCcWVTVFBUWDM0bG1LNDdIVFBVdnNlaXBXNFFWUlRhV2ItbjZwQTB3Tk9ralU2TEc2ZFdnX0JiTzVfOW9yRWphd1hDd3hBVl9xbTBfcUVDemw5OEtsSUxZM0V6Ul9UNUNOUHpSdFNxVjZab1RVQmdacy0xN21MN1dfMFRpdlJ0TXRW?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-25",
+   "source": "viva-porto.pt",
+   "title": "TAP anuncia novo voo direto do Porto para a paradisíaca Ilha do Sal - viva-porto.pt",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlRNMkc1YzJBN1lCcWVTVFBUWDM0bG1LNDdIVFBVdnNlaXBXNFFWUlRhV2ItbjZwQTB3Tk9ralU2TEc2ZFdnX0JiTzVfOW9yRWphd1hDd3hBVl9xbTBfcUVDemw5OEtsSUxZM0V6Ul9UNUNOUHpSdFNxVjZab1RVQmdacy0xN21MN1dfMFRpdlJ0TXRW?oc=5"
   },
   {
@@ -734,6 +758,15 @@
   {
    "airlines": [],
    "airports": [],
+   "category": "greve",
+   "published": "2026-08-14",
+   "source": "Renascença",
+   "title": "EasyJet cancela seis voos entre França e Portugal devido à greve da tripulação de cabine - Renascença",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWms1MXpfQ1VkNUVKLXhQdVhZVEQ1TEdQdm1fYm9HNnJTdGdkb3BvQWNjc211cVhJQzNnZlNXdktPR0J1aWdyMUVFZXE4WTNPeWdFSG5KaUlYNjdLbWtNTE5Ld29VRWRlT0NMQ2FubGhsUE84ZDlZay00TUlPNEV6Z0ZJbjU0RElDZmYtdkxHWUlFUy1qZlQ5dWdUaGZpU3NFZUhIUmlUbzk2aEs3Z3owc3FNalZQbVNjSjRHNHZWbUN5eEdFYU5GZ2xTUW9hQXPSAdQBQVVfeXFMUG9UM082YTVQN2cwLU5QU3VNMUtPUWoxY3BFUGtNSkpUV0swY3VrbmpuQXBqbXV0Z05FeTV5S2piY0tFcEw3d1Q3OTJfZW9NODVKOTFTb0stZjd3MkF0ZFU1bnZTMEtWeVBqd3ZTTERWcHJZdk42QjhqeWRROVhXVm43NXlJUjhIM3YzdmxEQkJKVEVhOTFZeU9mVm1ldXh5OWdGOHBlcEtCNVpoUmN6ZTE3M3AwcnpQYUEyOFZhaUVaOFhPQlh5d3d0Y2NrU1V3dERxZEs?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
    "category": "geral",
    "published": "2026-08-13",
    "source": "Correio da Manhã",
@@ -750,6 +783,17 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRmo4ZDVMdkU1TmRRT3FrbUc0MFJkN3JqbnZaS3hkSV81Z1RlX3ZWUkFTQ1Y3SVJfOGFqT1lNQ2gzdGlfZ2pjM3NVUmhDd3FEU0FnM1N3UkstejRkc2R3T3RpZ01hSFBFQ2F2ajAtenNlTUZRQ20wUUE0MFJNQ3BYYUdOMmRjN1RXd2ZtR2dLV1Flc3FLNWVrMk5HUlVSMHRfSHlxMV95eXZfWEtyVk1kczFB?oc=5"
   },
   {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-08-11",
+   "source": "The Portugal News",
+   "title": "Ryanair lança nova rota de e para Portugal - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVdYd1lqb1BLbWI4aGZvNEgwdHZ6QzR1bHhwNXlkT1RhZXZSa0hibUFyREZvUVNxS1ZSMWNrbzcyRUJxQ0Z6WlJXQzBvZE5TczdFWEpsbHZkN01TUG52TllrTEpOOUNBTF9YalFTUGZWc0IxOUI3Y21ZcHk4YmFicWxpSjRkTThEdjFlVHJ4dmk4RFZPcjZCZ2lFOEo3RFVzS01uUDhrSG8?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "OPO"
@@ -758,6 +802,17 @@
    "published": "2026-08-07",
    "source": "VIVA! Porto - Tudo sobre o Grande Porto",
    "title": "Porto ganha novo voo direto até uma das principais capitais da Europa - VIVA! Porto - Tudo sobre o Grande Porto",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUUzaENEYnNDQlItSWZPYTNlbE9yZm5oQk4tdHdsaUpNdFJnTFRobDd3ZlQ1c2t5Ym9GZWNLSVpOOUdtdmlNWWFndWJpTFpxNGxoLXd4Y3hLOUF0SWo0OHpIM1NjSW9YaFk0YW9jVUtZUVBfSUc5b09PaUhGREdDYk4tOHpOVUpWOVoxNF9WcHdPWEFWc3BR?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-07",
+   "source": "viva-porto.pt",
+   "title": "Porto ganha novo voo direto até uma das principais capitais da Europa - viva-porto.pt",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUUzaENEYnNDQlItSWZPYTNlbE9yZm5oQk4tdHdsaUpNdFJnTFRobDd3ZlQ1c2t5Ym9GZWNLSVpOOUdtdmlNWWFndWJpTFpxNGxoLXd4Y3hLOUF0SWo0OHpIM1NjSW9YaFk0YW9jVUtZUVBfSUc5b09PaUhGREdDYk4tOHpOVUpWOVoxNF9WcHdPWEFWc3BR?oc=5"
   },
   {

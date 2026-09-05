@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-09-11",
+  "booking_end": "2026-09-12",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-09-04T11:15:56+00:00",
+  "collected_at": "2026-09-05T10:33:20+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -21,5 +21,51 @@
   "travel_end": null,
   "travel_start": null,
   "url": "https://www.wizzair.com/pt-pt"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-09-07",
+  "booking_start": "2026-09-05",
+  "collected_at": "2026-09-05T10:35:04+00:00",
+  "confidence": "média",
+  "description": "Tarifa de hoje bem abaixo da mediana de 22.99€ dos últimos 5 dias de recolha. Voo mais barato a 2026-10-16.",
+  "destinations": [
+   "Cardiff (CWL)"
+  ],
+  "discount_text": "−35% vs. habitual",
+  "id": "fr-queda-fao-cwl-d1b5a096",
+  "origin_airports": [
+   "FAO"
+  ],
+  "price_from": 14.99,
+  "source": "price_drop",
+  "title": "Faro → Cardiff a 14.99€ (−35% vs. habitual)",
+  "travel_end": null,
+  "travel_start": "2026-10-16",
+  "url": "https://www.ryanair.com/pt/pt"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-09-07",
+  "booking_start": "2026-09-05",
+  "collected_at": "2026-09-05T10:35:04+00:00",
+  "confidence": "média",
+  "description": "Tarifa de hoje bem abaixo da mediana de 62.99€ dos últimos 5 dias de recolha. Voo mais barato a 2026-11-20.",
+  "destinations": [
+   "Frankfurt Hahn (HHN)"
+  ],
+  "discount_text": "−30% vs. habitual",
+  "id": "fr-queda-fao-hhn-3c0791b1",
+  "origin_airports": [
+   "FAO"
+  ],
+  "price_from": 43.89,
+  "source": "price_drop",
+  "title": "Faro → Frankfurt Hahn a 43.89€ (−30% vs. habitual)",
+  "travel_end": null,
+  "travel_start": "2026-11-20",
+  "url": "https://www.ryanair.com/pt/pt"
  }
 ]
