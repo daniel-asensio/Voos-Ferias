@@ -1,6 +1,17 @@
 {
  "items": [
   {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-09-05",
+   "source": "Jornal Opção",
+   "title": "Porto da Flórida pode abrir nova rota para minerais críticos de Goiás e do Brasil aos EUA - Jornal Opção",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXFrLXhBUnlJcTNKTHYzbXJHdWw2Y241Nk8zVEl5Q3Vub0FkdzVaT2tMSEdGMDF2OUNOT1VlbW5oYVRKME1BbGhmanRpaV93X0t3eFo5djh1VTU1bURBaTRLb1ViTkwxRXNxUUhkV0x6dW8zTkRkR09RS2gwR1l3TlhheTZmSjhiaWxNV01jZktlVFlnTFhtSHNLNkZvaDctTlNjNnd0aEx2RXRoa25tczVnOGRnSzRVMy1TakRiMF9vYkcyWlpGd25ESU1rZ2Z4NEJvQ2V3ZERXMmljLUE?oc=5"
+  },
+  {
    "airlines": [
     "U2"
    ],
@@ -109,6 +120,17 @@
    "source": "The Portugal News",
    "title": "A TAP anuncia promoções nos preços dos voos - The Portugal News",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzZPNUc3U3I5d2syYU1OMlNHaFFxNURTazhEeVFuSWdFTURvVjFmdjRRR0dIZTljNmNFQzRUN3FwUXp6d1lZLTgzN1VlOUJIZ2FOQlNKS3hmaTRpX2tBcG9PZ3BzM0ZoaWlOSEtaQkJfREl5NWZPQ1piQXp4S1NKNjYyekJ0TDJjWXdUNlB1V21ZRExTRXcxODB5UWRoTS1nUnRFT3RuYw?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "geral",
+   "published": "2026-09-02",
+   "source": "aeroin.net",
+   "title": "TAP Air Portugal anuncia preços reduzidos em voos em toda a sua malha, incluindo para o Brasil - aeroin.net",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp1bDNJeUFFcDczUUZkUUpMUGJKTmZCNWotQVZWMGp3VDBXdEJ3YVVYRlJyd0NTcXNzZ2Y0UHRDQ2ZIN25WY1pnM3NvRXlycDVPeDF2SFFCSDhNcjlwYnA3YkNlNks4NW1DNk5ROWxDdm5XeEtDMU5BXzZsY0RwZjcyczhVYWF4ejlXdkdGNjd4ZFcyQWdtbVVJa3NrZU1LNWEwU2Q2OGxXTk9nazRfblJXQdIBswFBVV95cUxPdXp1bDNJeUFFcDczUUZkUUpMUGJKTmZCNWotQVZWMGp3VDBXdEJ3YVVYRlJyd0NTcXNzZ2Y0UHRDQ2ZIN25WY1pnM3NvRXlycDVPeDF2SFFCSDhNcjlwYnA3YkNlNks4NW1DNk5ROWxDdm5XeEtDMU5BXzZsY0RwZjcyczhVYWF4ejlXdkdGNjd4ZFcyQWdtbVVJa3NrZU1LNWEwU2Q2OGxXTk9nazRfblJXQQ?oc=5"
   },
   {
    "airlines": [],
@@ -400,6 +422,17 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlRNMkc1YzJBN1lCcWVTVFBUWDM0bG1LNDdIVFBVdnNlaXBXNFFWUlRhV2ItbjZwQTB3Tk9ralU2TEc2ZFdnX0JiTzVfOW9yRWphd1hDd3hBVl9xbTBfcUVDemw5OEtsSUxZM0V6Ul9UNUNOUHpSdFNxVjZab1RVQmdacy0xN21MN1dfMFRpdlJ0TXRW?oc=5"
   },
   {
+   "airlines": [
+    "HV"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-08-25",
+   "source": "dinheirovivo.dn.pt",
+   "title": "Transavia inaugura rota entre Ponta Delgada e Bruxelas no verão de 2027 - dinheirovivo.dn.pt",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXllMTZnbVpjVGM3elMtZHlPMmdTbTBpVmEwTURVYzMtZHpuekNsNkJfSGpseEx1cS1RdkkzWkNaalZNaEU0RzZQWEZ6NFYwY3Q1NWVDeG9IbHJ4STBuQWUyVkRKZTV2MW9KVFB0bEhndDNFNUJDUWI0YUlyeVNVc1QxUlMxa1RTR3ZTUHI4dkFTby1JdzlkNHd1d2p1ZzdwbWdRMVF5dTQ?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "FAO"
@@ -542,6 +575,19 @@
    "source": "tribunaonline.com.br",
    "title": "Nova rota leva ferro-gusa de Minas a porto do ES com R$ 130 milhões - tribunaonline.com.br",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJNTmNMU0tfZlFMUEVIa1cxd2hXcmhGQVBIckg5UVpZYzg3dUJhTGo1QzR4V0JnZWhjT2dVcm5lR0hvYW1wbmFsdmkya1gyMDB1ak1JR0ZnOHJmQmJsdGd0SzB3cEZpc01PTk42MjEyZDRyUmdZS1JBR0dsY19lOWxJUThVTmI5RTNpMUpKRFJMc0dTcXUyUUlKRmVEcmVxOTF0YXEwQjVTSVY4WktyeNIBuAFBVV95cUxNSWtKbTR2MXdUcUlPNTkxRkZycElwalR4dGlQWXBhdmtGNU81WkwzazhLa2tpc2ZCMjRSN2xhVHVaTmJGTy1oRTJfSmkxT2JSR1lRY3FMS280d25Ubm9wLXNNbDc3MzAzdzU2MEFkSlFUa1VaektJNWhCYjctUVZjZHJGbmFXRkMtenhqdkNvcGpkbHRKckRZbjVwVWRSSzZOaVRyWl9zaDI5N0YtdkpYejRHV2lXZlpq?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-19",
+   "source": "aeroin.net",
+   "title": "TAP planeja nova rota entre Porto e Ilha do Sal para o inverno europeu com voos semanais - aeroin.net",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWklpMC1RLWYzZUlfODJDT2hkQWlISUVyQkZtV2lXSWIweFR4Snp2TmltZnVBeUJ4YXh1RTZYX3VlMFo1Y3dWbU5mVDgxZ092MGUtbGZiV0NndzhYdlFMUDZwZ0VMWldmR19GM1NDUU05S1l6WFVvSl9nNENlOEpfekZTN3drRVdldE5ob0U1UVlZWnZHdFVmVU1QeERWUEFwNW5yRDRUZmo3eWk10gGsAUFVX3lxTE5aSWkwLVEtZjNlSV84MkNPaGRBaUhJRXJCRm1XaVdJYjB4VHhKenZOaW1mdUF5QnhheHVFNlhfdWUwWjVjd1ZtTmZUODFnT3YwZS1sZmJXQ2d3OFh2UUxQNnBnRUxaV2ZHX0YzU0NRTTlLWXpYVW9KX2c0Q2U4Sl96RlM3d2tFV2V0TmhvRTVRWVladkd0VWZVTVB4RFZQQXA1bnJENFRmajd5aTU?oc=5"
   },
   {
    "airlines": [
@@ -796,6 +842,17 @@
   {
    "airlines": [],
    "airports": [
+    "FAO"
+   ],
+   "category": "problema",
+   "published": "2026-08-09",
+   "source": "Portugal Resident",
+   "title": "“Caos no Aeroporto de Faro”: Filas enormes no controle de passaportes - Portugal Resident",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1JxR3BGN00zMnFzT3lVUUNhNTZiRHc5T3hJdFFjUXRiT0xLamRKZVhoMXZsaWdMcTJxdEpNdEl3LU5ScWZmRVBtV3dEOC1zUG9kdXpvc1RoeHZTeHUxcG95eUNTUmxYM0ViMVlJV3BuWnE1UTVmejJpc2ZXbml1WkpIaUlvT3lHeUhVZVBWY0ZkcEp6YlcxaDV5dHJhVHZxLUxMVTZENnh1UzA?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
     "OPO"
    ],
    "category": "novidade",
@@ -928,39 +985,6 @@
    "source": "The Portugal News",
    "title": "A Ryanair lança voos a 14,99 € de Portugal para destinos em toda a Europa - The Portugal News",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc1FFdmxDUHBJcFVnQUlXQ29tdE10ZFJYN2xsU05zYWZMVjFOenhNd0lyOGFzWFotM3VWVUpOazRHVlVibzdWb3hCSXdOY2haQTZZWEFxMWFfSFVSX3dWbVJIQWM5TkZpazR1LWRKS3pveW14LU1NQ1E4aVNtd0ZRS1Y5M1FtVzNKQWVoT2h4SmJCVDJJamFLbTFpTHE2U1lqT2Q5QUZ2X3JGYldjRFBQZFo3QlJ2Wk5YaXk0REVON0pmLXBTQVhkOThGUWNvZw?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-07-22",
-   "source": "Melhores Destinos",
-   "title": "Portugal com a Gol muito bom! Promo do novo voo para Lisboa a partir de R$ 3.064 ida e volta saindo de várias cidades - Melhores Destinos",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTWliQ2dMQVVDQjZyQUNxTDNrd01kX1RFRGxYamp2cGJQQThZT1JpdzB0azNCOHFJd0p3S2tMLTBUeDdZb0g2LVNwWVBYRGwtZ3BWenpwM1l1OUJ1b0pFMTIyT2FQZDkzN1NkdnIwYV9Uc0NCT0R6VHBvSzJmU3BOVDlaOTJZQjN5QXJiSzJxdkRXTkxMN3FweXFWVlRubWtJbXcyMGZzQy1VRFh2WW4yQUNhdEp4QlhYRGJldkhrYmpnUVRETWp3cFR5Z2R3WE5vRDZfcmNYc1V2Zw?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-07-22",
-   "source": "Echo Boomer",
-   "title": "Travessias fluviais entre Porto e Gaia arrancam com duas novas rotas e integração no Andante - Echo Boomer",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yTVI1S3R1U29EX1VtUjdQTGdPUlY4XzFobnppMlU0YVQ3b3pESGdfS0ZYTVRFREpqOEZlUVVQRjZTcXFBZ1lIeW1YeEdwcllDTGphclY3cDktTDlnREhxVmZrdGVJMTM3dExkYXk4RE1wUmlRVnc?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-07-22",
-   "source": "diarioeconomico.co.mz",
-   "title": "Porto de Maputo Ganha Nova Rota Ferroviária Para Exportação de Minério de Lítio do Zimbabué - diarioeconomico.co.mz",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY0tLZ2VDQVh3ZUxraldMQmdYdzJqSEZQczZkOFBZNktLUFpvUl8zWkM4OW1ENHZuLWtJOFYwbGxVSnRnMms1LVU1Z3dSVTlXWkZKSUVnc3ptR0RCQ3RzNG5jYnBUUy04aDRENnlGcjdtQ1l0a3VjVnNONG1xNUtwVHBiSEpneTFUUG5pQzJxaU5CVTc2d0IzQUtvZERtVzlOQ1h1SnNQYkJyWndZZWdTMGxrbF9MdlV6akJZMm1hbGdWaG0xenBqbXVTeWhlMXo4SWZNUEdCSjRydXhoODJkR0E0dnJXMlk?oc=5"
   }
  ]
 }
