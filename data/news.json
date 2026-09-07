@@ -155,6 +155,17 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORk9TY1hOT2Mza1U5R25QVWZyWkpPR213T2gtUDJwWFg2a0RoX0k3eTRZMUE2b20tcTdHY0VpTmN6eC05cnlKUHJZcG9CcmgxVUVEQlhSbXhSaGQwUzF3ZlVGZlRzdkNoWERPcjAyVzU3RlQzN3dfelhLY0ptbGprdHFGazVFMHBtN0dacTQxRkh1eVFEa2ZwVDdRNmc2SEhwVDg1QWp6Zk1BWEVPNnNOXzVRSQ?oc=5"
   },
   {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-31",
+   "source": "ambitur.pt",
+   "title": "EUA reforçam ligações à Europa em 2027, com novas rotas para Porto e Terceira - ambitur.pt",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1VUYzhYNENzT0VvUGl1S0RyXzh6ZWZoQmFINFlrVDY2VnBJWjV0QmM0bGhEUHRieGc5MW8yZ3JfWm56RTQ5RnRncVdWajRoSHpKRVZXenVCQ3ltVHZkVDBCbjNSU2htaTdOWEMxSF9UUnMtYTFEYUlBT1lCc1B3U0tfRjRKbGV6ajJVVjJwXzQxVUZlTk1xN0FvOG8waDB1c2c?oc=5"
+  },
+  {
    "airlines": [
     "TP"
    ],
@@ -370,6 +381,39 @@
    "source": "publico.pt",
    "title": "Aeroporto do Porto: falha na drenagem de água na pista causa atrasos nos voos - publico.pt",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHFCTWlxSlh6S3V0NV9uZDlqcTBvOFRwdGl4SzZ1cTVhdnRRdFpYYXc1dGhmV0llTF8zZGhnS2NCNUc0VGRSNXhhX3ZjYlQ0U0RBVGgxUzdVWHVLZmh1S1lLcUJzSUlUb2RlXzNlcnJRX2wyRGYzeWdLbV82ZG9faUstVmhvTnhzUVlYRDhlZzJJZ3pqUWF6WnVYOVdRRVIzaXo1eUhxUHdnSjB0THpaazl5S1p1UXc?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "problema",
+   "published": "2026-08-27",
+   "source": "sicnoticias.pt",
+   "title": "Aeroporto do Porto: vários voos atrasados e cancelados devido a falha no escoamento de água - sicnoticias.pt",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX2xMYmExbl9UNk5KY1RWZ0k3QmJ1NEFJWkw4RVItZzhkN01CbFdSUE9COVRuZ1owMFFjMFFnOG5wYXF0X0h4eFhJQmJGb0tEZVpUdU5uTGNBQWdIRmpfQkp0ZldlQ1U3YW9HTThuYmF5ZUdTdE1hcnlJcFlfQk02aEd3d1hfQnN2RnpkSHdGejVLRm1MUmtCbEEtUTRCYi1CZ3A5RmFURnMxTUg4bU4zSlNjNDJEMGE4Wjd3cUpCZE9xMDRoOVVwM0FLLUdXRmNnNGNGSXliYw?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "geral",
+   "published": "2026-08-27",
+   "source": "radiometropolitanaporto.pt",
+   "title": "Chuva intensa provoca cancelamentos e desvios de voos no Aeroporto do Porto - radiometropolitanaporto.pt",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUF2M2tockFaNWdKeXRlTkRWQUp2YUFqdDhGVVhpY2lpd1dKZ1RRRnNZT20wX1FxOEdHU0JoZEVLTmZJSFB6NDMwNXV5d0lHeFVoeHZoM2NMYzJQWlFXSm9TaFRudFhxQ2hrcjZxWFNVT1k4VFlwZTlhNWhXM2l5RmVtM0hOWmY0MHoycTVxcTBlaW5HMnlBRVZhd1QzRWE3ZUhscGhDQjZodFJyZWxXaXJrRUw0UQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "problema",
+   "published": "2026-08-27",
+   "source": "sicnoticias.pt",
+   "title": "15 minutos: chuva provocou vários atrasos nos voos no aeroporto Francisco Sá Carneiro, no Porto - sicnoticias.pt",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZUJqOVIwMldlQmZhQUtYX2ItbVR2TXZfdGE2bU9NR291RlNlb3VGNXAyTnZQS1k4ZHhselUzTXJvbVR5aTFhSVdOSTNGRFYzNXdEdWg5Sk1mLU9VdXE3eGdxTzllSG13NXJfSkpKaUlGaUc0SDZDR2NuU2VXLTZoT0hLeDVRSXpnMHhOdk9feTNJak9tU2FHcXhCQnJjMldkWG5DT2FUUExnbE9TRk5jRlB2R1FmR2plbURQOUNma2Vhbk4wR250YmljYWliT0Fpcl9TVElTY0NBNHBRVDhUSzFCRk92THZZaDZEYmx6YTd2ZFhMTFlaNGdlMlR3dWNfamRlTFZhdDBYaHo2RlFpTHc2cFZYT0FWdDdlOQ?oc=5"
   },
   {
    "airlines": [
@@ -726,6 +770,19 @@
    "source": "executivedigest.sapo.pt",
    "title": "TAP reforça ligações internacionais do Porto com novo voo para o Sal - executivedigest.sapo.pt",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjN3VXg3dWZyOGpBM09oOTdSaGRRNS1GTjhJRldhV1drVHZueGJlTF9CMXU4RlQyejBzb2JfV3haU1VYTERscWFROTVhZ2hzejF6ZWkxSGhJVzRfRnExMlhjdVpUZ01WODRLcl82TnRlSk4zNnhZUmoxelF4RUl0cHM3SVNpdjNoSjAxZnFoaEtNRFRQNjkwUG1WUTFvcm1vSE9N?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-08-17",
+   "source": "echoboomer.pt",
+   "title": "TAP Air Portugal vai ligar o Porto ao Sal com nova rota intercontinental - echoboomer.pt",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXT202bFNBbWdWa0VORWw0ZVVnaUVCZGdyVm90SlRLanBxVktZVXdWeWMyNlVwVDlZLS1hVVY5bklVNG8zMUtrSjBJNWVQR3d3SlJsN0hHS1lzd2NSV0FEQXhIaHRyZGpsZUswU3R4azZwcTA?oc=5"
   },
   {
    "airlines": [
