@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-07",
+   "source": "catracalivre.com.br",
+   "title": "TAP lança promoção com voos para Europa a partir de R$ 4.212 - catracalivre.com.br",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGp1ZzB1TzhxRkFmdzBCOHcwWE10NmdCMmNxV0Q1NlpPUTBMSDFqVHQ4M1BfN1BkeVhvdHAyN3hfUFZ5Q1BwT29zUFo2TGMwT3V5OGdzX1VXd0RFWU90U0RuSVIxQXdIQmdkMV84WUpoNXJxY0ZHZkh1TGUwZGo1VnRvSHVNTFBQWDJHSDVuRFM2S24yZnRoeTNyanYtY3BuQkZv?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "geral",
+   "published": "2026-09-07",
+   "source": "Expresso",
+   "title": "Emblemática Rota do Chá no Porto renasce como restaurante madeirense - Expresso",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTHl5Nm1hSFhtQUx0aU8zQ3pQMFgzU0stMWZRN1FybGthYTlhdmhIY2c5U1QzQ0d0VDM2MGVieE40NG5ScmNoV3VmRUp4UkJsSWFNOHkxdXg3WVBIUmsyV1RkV2xFSnRuNVB4VUZNYUhsSnhWcTUycEFmeURoSExYMTFxSTItTThXVnpQVmFDVlBZaXh2WlhBNHVkcVJDU01zS24zNGlwQWdmeEEzZjl4MUtibUc1X2ctWDhxTW9pa2tFd1Vka2I3TVFuZXBNTFVKTXp0ZmRiOHlueXp5cENLS2JqZEZ6WF9pTklSd2xLbFBFdlo1SjNJUEhMRHg1aUNi?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "OPO"
@@ -65,6 +87,17 @@
    "source": "The Portugal News",
    "title": "Ryanair reduzirá oferta de voos no inverno - The Portugal News",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnZQUHoxLXJzSzJsVVRseGhIcTJxc1VRLTJBbzltTDc0NHN1YzFGVDhUdmVwRWVMMllhQzV0YTZ5MG1oQjBmbUFFVWllMGRwWmhBQVpWZFRNZGhFcmhXcjJSRmk4OXZ1LUlMN2cwT3R0d19xLTMxRVlNdHVhdzh1ak52Yk5nbTRPOURsS1pSdjZFMjBWQXhjeWNyZ2hmVUZ1VDZxeVE0RjlIMkk?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-03",
+   "source": "oglobo.globo.com",
+   "title": "Gol decide aumentar frequência de voos na nova rota entre Rio e Lisboa - oglobo.globo.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMi1ITVBqWFgxUEJHS3ZsbkJubnpUOWE4OWlzajRzSG5fTWlSZFhUUmdlQ2I2b1NfSWY3S1luNVdaQlZmQ0FlOHRnWmxxek9SOUpWYThOUXZFaGZYWk05eDFGM0U4OWZ2eV9OVmxfMUdLbFp3MkVJbDhIOUhsQklOaDVyaERGUG9xYmUzaDRES3Z0VndLMlFUaVRtYlV2cEdSekItN0V3c2lOdGx3RFp6ODY4SUk1R3k3LTR2SWY0U08zekxWLWN30gHWAUFVX3lxTFBpRkFnNXRfQ2RvYTRfeURMZWNIUkJZdHBuOU0zRzctWHczdFFnQW94VDVuSFpLSXBLc25oNkE2cWdGdHREZnBINlk2bDI1MzhEeVdiUjBlLTlPNnhFUjAzRmNVVlNhSGdkd2VlVXJOMkd4c2djOEV4aWlZT0lkNEhZNnRmQkFoUmNPYzlPSUplbmtzbVdva0JxdzVET2NOb2o1LVpWMmhJbGVwS3ZaU1VNQkJjVmxDYS0xWmVxbnhrZ0N2Z3ZLRFBGZlVzcDhISUd5dllOTHc?oc=5"
   },
   {
    "airlines": [
