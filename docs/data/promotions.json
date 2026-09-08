@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-09-14",
+  "booking_end": "2026-09-15",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-09-07T12:29:19+00:00",
+  "collected_at": "2026-09-08T11:16:47+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -89,6 +89,29 @@
   "title": "Porto → Barcelona a 16.99€ (−32% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-09-30",
+  "url": "https://www.ryanair.com/pt/pt"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-09-10",
+  "booking_start": "2026-09-08",
+  "collected_at": "2026-09-08T11:18:23+00:00",
+  "confidence": "média",
+  "description": "Tarifa de hoje bem abaixo da mediana de 47.73€ dos últimos 6 dias de recolha. Voo mais barato a 2026-11-22.",
+  "destinations": [
+   "Budapeste (BUD)"
+  ],
+  "discount_text": "−37% vs. habitual",
+  "id": "fr-queda-lis-bud-ef9cdff6",
+  "origin_airports": [
+   "LIS"
+  ],
+  "price_from": 29.99,
+  "source": "price_drop",
+  "title": "Lisboa → Budapeste a 29.99€ (−37% vs. habitual)",
+  "travel_end": null,
+  "travel_start": "2026-11-22",
   "url": "https://www.ryanair.com/pt/pt"
  }
 ]
