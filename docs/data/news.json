@@ -1,6 +1,35 @@
 {
  "items": [
   {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-09-09",
+   "source": "Diário de Notícias",
+   "title": "Aeroportos do Reino Unido vivem segundo dia de caos. Nove voos de Portugal para Londres são cancelados - Diário de Notícias",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWpNc3I4eUVncFZGcEdsekFzb3JDc2tYVDlUeHo0UVlQTDVsTlB1Y2E3TTNCNlF5dEZNdnU1NEdRYTc3aFM1MVJEd0lEUWFRZE1lenNpOERKd29tempfSmVuUVlzbERCSWNtNjRWNDhnaE9uZjZ1UjZwU0tuX294cko5WE9UM25UMFVZX1p6Tkg0N0pqVGlwdWxpU1pvSTlXaU93X0FCTEtxQ0gwNTBXRmxOeTZoUTRQY0RiVzdqTHZ3eUJNYUFjcERSdnE?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-08",
+   "source": "CNN Portugal",
+   "title": "Indonésia retoma tráfego aéreo gradualmente após erupção vulcânica. Paralisação deixou mais de 340 mil passageiros retidos - CNN Portugal",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPNW5VbU5QdEkySzBmSC0wa3ppaEdncHhiRF82Tms0aV9CejFJd2F5b1hGZHBRYWc0M2xtMG85N0dXSTVGSmZQR1dCV1dDS1RoY21fUzFnSE1OOEo4bzZYUkJuc2lEaDRZWElUZHZldUZNTGw5cFQ3Tm5XWWYtUzlJWU14djdWSl82MDdLSHF5TXJ1WFBQNnM4blZKNDhNNzJOM05oRVM4dHE4dmJsWExQTU9WeDhSbmNOM2hkbWN4RHExSkNmLVU0UkJndnNpQ3VLOWw5aVpoeWpsNmJFbTluUGNVNmJpRnpWZWZEWmZ6eVJVaTQ4WXg2Wk0xNGplT2NhSE55alpXUDJXRUVLTVhwN2pRbElHTnBjdDFCS3dwRlEycWpwRmJqLWttQ09DbGc?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-09-08",
+   "source": "marketeer.sapo.pt",
+   "title": "Porto ganha uma nova rota de cocktails inspirada em dragões, tigres e outras criaturas míticas - marketeer.sapo.pt",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRy05TU05NmhLTHliVEkzeDRxY1A4dGQwejNSa2VuRWZjS2tNNktfZHR6a05rRE9HbFpyNW9xWF9EYlpFVXdHR2ptZkNndVFlLVFxZzE4TnJzYUI5OWlpc0x6WWptTHk5TjRMOG9CTy11cjhGSlZSS1EyS3loeEY3SUlnbTU3elRIbGhwSk1zU1FlQ3dJSHVJbF9sa3VUdnZnRmpqd3ZVWlJ6bUVsTGdiUG9ZUEpMc0ZLM1FMVQ?oc=5"
+  },
+  {
    "airlines": [
     "TP"
    ],
@@ -21,6 +50,17 @@
    "source": "Expresso",
    "title": "Emblemática Rota do Chá no Porto renasce como restaurante madeirense - Expresso",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTHl5Nm1hSFhtQUx0aU8zQ3pQMFgzU0stMWZRN1FybGthYTlhdmhIY2c5U1QzQ0d0VDM2MGVieE40NG5ScmNoV3VmRUp4UkJsSWFNOHkxdXg3WVBIUmsyV1RkV2xFSnRuNVB4VUZNYUhsSnhWcTUycEFmeURoSExYMTFxSTItTThXVnpQVmFDVlBZaXh2WlhBNHVkcVJDU01zS24zNGlwQWdmeEEzZjl4MUtibUc1X2ctWDhxTW9pa2tFd1Vka2I3TVFuZXBNTFVKTXp0ZmRiOHlueXp5cENLS2JqZEZ6WF9pTklSd2xLbFBFdlo1SjNJUEhMRHg1aUNi?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-07",
+   "source": "Catraca Livre",
+   "title": "TAP lança promoção com voos para Europa a partir de R$ 4.212 - Catraca Livre",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGp1ZzB1TzhxRkFmdzBCOHcwWE10NmdCMmNxV0Q1NlpPUTBMSDFqVHQ4M1BfN1BkeVhvdHAyN3hfUFZ5Q1BwT29zUFo2TGMwT3V5OGdzX1VXd0RFWU90U0RuSVIxQXdIQmdkMV84WUpoNXJxY0ZHZkh1TGUwZGo1VnRvSHVNTFBQWDJHSDVuRFM2S24yZnRoeTNyanYtY3BuQkZv?oc=5"
   },
   {
    "airlines": [],
@@ -899,6 +939,15 @@
    "source": "Renascença",
    "title": "EasyJet cancela seis voos entre França e Portugal devido à greve da tripulação de cabine - Renascença",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWms1MXpfQ1VkNUVKLXhQdVhZVEQ1TEdQdm1fYm9HNnJTdGdkb3BvQWNjc211cVhJQzNnZlNXdktPR0J1aWdyMUVFZXE4WTNPeWdFSG5KaUlYNjdLbWtNTE5Ld29VRWRlT0NMQ2FubGhsUE84ZDlZay00TUlPNEV6Z0ZJbjU0RElDZmYtdkxHWUlFUy1qZlQ5dWdUaGZpU3NFZUhIUmlUbzk2aEs3Z3owc3FNalZQbVNjSjRHNHZWbUN5eEdFYU5GZ2xTUW9hQXPSAdQBQVVfeXFMUG9UM082YTVQN2cwLU5QU3VNMUtPUWoxY3BFUGtNSkpUV0swY3VrbmpuQXBqbXV0Z05FeTV5S2piY0tFcEw3d1Q3OTJfZW9NODVKOTFTb0stZjd3MkF0ZFU1bnZTMEtWeVBqd3ZTTERWcHJZdk42QjhqeWRROVhXVm43NXlJUjhIM3YzdmxEQkJKVEVhOTFZeU9mVm1ldXh5OWdGOHBlcEtCNVpoUmN6ZTE3M3AwcnpQYUEyOFZhaUVaOFhPQlh5d3d0Y2NrU1V3dERxZEs?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-08-14",
+   "source": "Notícias de Coimbra",
+   "title": "Greve na EasyJet cancela seis voos entre França e Portugal - Notícias de Coimbra",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmRvdXNZYkJ2NE96akFDdGdudldXVWFESTd6RXdBeElqdUU4ckgtVVFwYkZZdTAxMGs5YVd1UXh3Q2RnT2FkajFwN2dWaXpXWGZXNi1QUEVUZm9UTXhfb21rUFExT3FVbm1PQVdVeEZXb0s5enN2LU1MSGNJWW1sbnZ2VHNQcFh5ejFhQjRNVmg5TDFmOTI4?oc=5"
   },
   {
    "airlines": [],
