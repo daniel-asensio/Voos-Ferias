@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-09-16",
+  "booking_end": "2026-09-17",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-09-09T11:20:25+00:00",
+  "collected_at": "2026-09-10T11:17:03+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -112,6 +112,29 @@
   "title": "Lisboa → Budapeste a 29.99€ (−37% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-11-22",
+  "url": "https://www.ryanair.com/pt/pt"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-09-12",
+  "booking_start": "2026-09-10",
+  "collected_at": "2026-09-10T11:18:25+00:00",
+  "confidence": "média",
+  "description": "Tarifa de hoje bem abaixo da mediana de 21.49€ dos últimos 10 dias de recolha. Voo mais barato a 2026-10-08.",
+  "destinations": [
+   "Bristol (BRS)"
+  ],
+  "discount_text": "−30% vs. habitual",
+  "id": "fr-queda-fao-brs-5e73e5b3",
+  "origin_airports": [
+   "FAO"
+  ],
+  "price_from": 14.99,
+  "source": "price_drop",
+  "title": "Faro → Bristol a 14.99€ (−30% vs. habitual)",
+  "travel_end": null,
+  "travel_start": "2026-10-08",
   "url": "https://www.ryanair.com/pt/pt"
  }
 ]

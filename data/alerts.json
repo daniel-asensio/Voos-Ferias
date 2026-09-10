@@ -14,7 +14,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-09-24"
+   "travel_date": "2026-10-08"
   },
   {
    "airline": "FR",
@@ -22,7 +22,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-VLC",
-   "travel_date": "2026-10-06"
+   "travel_date": "2026-10-07"
   },
   {
    "airline": "FR",
@@ -30,7 +30,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-AGP",
-   "travel_date": "2026-10-14"
+   "travel_date": "2026-10-05"
   },
   {
    "airline": "FR",
@@ -38,15 +38,31 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "OPO-MAD",
-   "travel_date": "2026-10-20"
+   "travel_date": "2026-10-06"
   },
   {
    "airline": "FR",
-   "destination_name": "Bruxelas Charleroi",
+   "destination_name": "Londres Stansted",
+   "previous_min": 15.99,
+   "price": 14.99,
+   "route": "OPO-STN",
+   "travel_date": "2026-10-08"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Manchester",
    "previous_min": 14.99,
    "price": 14.99,
-   "route": "FAO-CRL",
-   "travel_date": "2026-10-14"
+   "route": "FAO-MAN",
+   "travel_date": "2026-10-22"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Bristol",
+   "previous_min": 17.99,
+   "price": 14.99,
+   "route": "FAO-BRS",
+   "travel_date": "2026-10-08"
   },
   {
    "airline": "FR",
@@ -54,15 +70,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-LTN",
-   "travel_date": "2026-10-07"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Barcelona",
-   "previous_min": 16.99,
-   "price": 16.99,
-   "route": "LIS-BCN",
-   "travel_date": "2026-10-26"
+   "travel_date": "2026-10-14"
   },
   {
    "airline": "FR",
@@ -70,7 +78,7 @@
    "previous_min": 16.99,
    "price": 16.99,
    "route": "OPO-MXP",
-   "travel_date": "2026-10-28"
+   "travel_date": "2026-10-13"
   },
   {
    "airline": "FR",
@@ -78,7 +86,15 @@
    "previous_min": 19.99,
    "price": 19.99,
    "route": "FAO-STN",
-   "travel_date": "2026-10-07"
+   "travel_date": "2026-09-15"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Milão Bérgamo",
+   "previous_min": 24.99,
+   "price": 24.99,
+   "route": "LIS-BGY",
+   "travel_date": "2026-10-29"
   },
   {
    "airline": "FR",
@@ -102,24 +118,16 @@
    "previous_min": 24.99,
    "price": 24.99,
    "route": "FAO-NCL",
-   "travel_date": "2026-09-16"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Eindhoven",
-   "previous_min": 29.99,
-   "price": 29.99,
-   "route": "FAO-EIN",
-   "travel_date": "2026-11-22"
+   "travel_date": "2026-09-23"
   },
   {
    "airline": "FR",
    "destination_name": "Edimburgo",
-   "previous_min": 49.23,
+   "previous_min": 46.95,
    "price": 46.95,
    "route": "LIS-EDI",
    "travel_date": "2026-11-11"
   }
  ],
- "date": "2026-09-09"
+ "date": "2026-09-10"
 }
