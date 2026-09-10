@@ -12,6 +12,15 @@
   {
    "airlines": [],
    "airports": [],
+   "category": "problema",
+   "published": "2026-09-09",
+   "source": "Público",
+   "title": "Falha no controlo aéreo britânico cancela nove voos de Portugal para Londres - Público",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXBQbWFWdjlpdkcyUlNhblRqWmtZaVZsRFJfQ0lPX21ZTzBkdVdXZDk0bDB5WUlYSVp1YUN5REJ1RWZRNUtwYUZ5VlI3ZVpsSnV2VXlqeVh1NERPc1VaMThZekZ1Vm1JOXlMOUMwcmdIZ1djTTRCajNKaDN2eW1DYU15S2tGZVFKdENBeElCek9uOHZ2T3lGTU11dmxNbEpPZV9TbkR3XzVkaU94ZDN6U002QWVqVGNBa0dPdGxn?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
    "category": "greve",
    "published": "2026-09-08",
    "source": "CNN Portugal",
@@ -27,6 +36,17 @@
    "published": "2026-09-08",
    "source": "marketeer.sapo.pt",
    "title": "Porto ganha uma nova rota de cocktails inspirada em dragões, tigres e outras criaturas míticas - marketeer.sapo.pt",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRy05TU05NmhLTHliVEkzeDRxY1A4dGQwejNSa2VuRWZjS2tNNktfZHR6a05rRE9HbFpyNW9xWF9EYlpFVXdHR2ptZkNndVFlLVFxZzE4TnJzYUI5OWlpc0x6WWptTHk5TjRMOG9CTy11cjhGSlZSS1EyS3loeEY3SUlnbTU3elRIbGhwSk1zU1FlQ3dJSHVJbF9sa3VUdnZnRmpqd3ZVWlJ6bUVsTGdiUG9ZUEpMc0ZLM1FMVQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-09-08",
+   "source": "Marketeer",
+   "title": "Porto ganha uma nova rota de cocktails inspirada em dragões, tigres e outras criaturas míticas - Marketeer",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRy05TU05NmhLTHliVEkzeDRxY1A4dGQwejNSa2VuRWZjS2tNNktfZHR6a05rRE9HbFpyNW9xWF9EYlpFVXdHR2ptZkNndVFlLVFxZzE4TnJzYUI5OWlpc0x6WWptTHk5TjRMOG9CTy11cjhGSlZSS1EyS3loeEY3SUlnbTU3elRIbGhwSk1zU1FlQ3dJSHVJbF9sa3VUdnZnRmpqd3ZVWlJ6bUVsTGdiUG9ZUEpMc0ZLM1FMVQ?oc=5"
   },
   {
@@ -947,6 +967,15 @@
    "published": "2026-08-14",
    "source": "Notícias de Coimbra",
    "title": "Greve na EasyJet cancela seis voos entre França e Portugal - Notícias de Coimbra",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmRvdXNZYkJ2NE96akFDdGdudldXVWFESTd6RXdBeElqdUU4ckgtVVFwYkZZdTAxMGs5YVd1UXh3Q2RnT2FkajFwN2dWaXpXWGZXNi1QUEVUZm9UTXhfb21rUFExT3FVbm1PQVdVeEZXb0s5enN2LU1MSGNJWW1sbnZ2VHNQcFh5ejFhQjRNVmg5TDFmOTI4?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-08-14",
+   "source": "noticiasdecoimbra.pt",
+   "title": "Greve na EasyJet cancela seis voos entre França e Portugal - noticiasdecoimbra.pt",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmRvdXNZYkJ2NE96akFDdGdudldXVWFESTd6RXdBeElqdUU4ckgtVVFwYkZZdTAxMGs5YVd1UXh3Q2RnT2FkajFwN2dWaXpXWGZXNi1QUEVUZm9UTXhfb21rUFExT3FVbm1PQVdVeEZXb0s5enN2LU1MSGNJWW1sbnZ2VHNQcFh5ejFhQjRNVmg5TDFmOTI4?oc=5"
   },
   {
