@@ -21,6 +21,15 @@
   {
    "airlines": [],
    "airports": [],
+   "category": "problema",
+   "published": "2026-09-09",
+   "source": "publico.pt",
+   "title": "Falha no controlo aéreo britânico cancela nove voos de Portugal para Londres - publico.pt",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXBQbWFWdjlpdkcyUlNhblRqWmtZaVZsRFJfQ0lPX21ZTzBkdVdXZDk0bDB5WUlYSVp1YUN5REJ1RWZRNUtwYUZ5VlI3ZVpsSnV2VXlqeVh1NERPc1VaMThZekZ1Vm1JOXlMOUMwcmdIZ1djTTRCajNKaDN2eW1DYU15S2tGZVFKdENBeElCek9uOHZ2T3lGTU11dmxNbEpPZV9TbkR3XzVkaU94ZDN6U002QWVqVGNBa0dPdGxn?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
    "category": "greve",
    "published": "2026-09-08",
    "source": "CNN Portugal",
@@ -507,6 +516,17 @@
    "source": "sicnoticias.pt",
    "title": "15 minutos: chuva provocou vários atrasos nos voos no aeroporto Francisco Sá Carneiro, no Porto - sicnoticias.pt",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZUJqOVIwMldlQmZhQUtYX2ItbVR2TXZfdGE2bU9NR291RlNlb3VGNXAyTnZQS1k4ZHhselUzTXJvbVR5aTFhSVdOSTNGRFYzNXdEdWg5Sk1mLU9VdXE3eGdxTzllSG13NXJfSkpKaUlGaUc0SDZDR2NuU2VXLTZoT0hLeDVRSXpnMHhOdk9feTNJak9tU2FHcXhCQnJjMldkWG5DT2FUUExnbE9TRk5jRlB2R1FmR2plbURQOUNma2Vhbk4wR250YmljYWliT0Fpcl9TVElTY0NBNHBRVDhUSzFCRk92THZZaDZEYmx6YTd2ZFhMTFlaNGdlMlR3dWNfamRlTFZhdDBYaHo2RlFpTHc2cFZYT0FWdDdlOQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "geral",
+   "published": "2026-08-27",
+   "source": "Kiosque da Aviação",
+   "title": "American Airlines adiciona sete novos destinos: voo entre Filadélfia e o Porto é um dos destaques - Kiosque da Aviação",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGRkZ2ZpVUlJd2RCa3JJUmhydkRWWEtjWXJjRVBtZ3VPR2NUd2phdXo0bTlKMk13NU9PNFpQcTF3MWdkakVZcFdOUkU5OHRnSjFlZUhGUjBfdXFlWDhPVGVMVXViS0d1aTFGRlVOTERMS2M4aV9PTEdHQWtzSzVnSVUtbm9qc09DV29vUU5FellEb3Q0MzU4ZXdoVDZZdDdUVDZnMzk5QzAtMlhMbkpnem1vOWFteTV5RXFGNkZJck9HcjQ?oc=5"
   },
   {
    "airlines": [
