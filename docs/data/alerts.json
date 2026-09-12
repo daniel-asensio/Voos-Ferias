@@ -14,7 +14,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-09-24"
+   "travel_date": "2026-10-08"
   },
   {
    "airline": "FR",
@@ -22,7 +22,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-VLC",
-   "travel_date": "2026-10-06"
+   "travel_date": "2026-10-08"
   },
   {
    "airline": "FR",
@@ -58,27 +58,11 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Bruxelas Charleroi",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "FAO-CRL",
-   "travel_date": "2026-10-14"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Bristol",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "FAO-BRS",
-   "travel_date": "2026-10-08"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Londres Luton",
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-LTN",
-   "travel_date": "2026-09-23"
+   "travel_date": "2026-10-21"
   },
   {
    "airline": "FR",
@@ -86,14 +70,6 @@
    "previous_min": 16.99,
    "price": 16.99,
    "route": "OPO-MXP",
-   "travel_date": "2026-10-13"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Milão Bérgamo",
-   "previous_min": 24.99,
-   "price": 18.99,
-   "route": "LIS-BGY",
    "travel_date": "2026-10-28"
   },
   {
@@ -102,7 +78,7 @@
    "previous_min": 19.99,
    "price": 19.99,
    "route": "FAO-STN",
-   "travel_date": "2026-09-18"
+   "travel_date": "2026-09-22"
   },
   {
    "airline": "FR",
@@ -110,15 +86,15 @@
    "previous_min": 24.99,
    "price": 24.99,
    "route": "OPO-BVA",
-   "travel_date": "2026-10-13"
+   "travel_date": "2026-10-14"
   },
   {
    "airline": "FR",
-   "destination_name": "Newcastle",
-   "previous_min": 24.99,
-   "price": 24.99,
-   "route": "FAO-NCL",
-   "travel_date": "2026-09-30"
+   "destination_name": "Frankfurt Hahn",
+   "previous_min": 43.89,
+   "price": 29.76,
+   "route": "FAO-HHN",
+   "travel_date": "2026-11-29"
   },
   {
    "airline": "FR",
@@ -126,8 +102,8 @@
    "previous_min": 46.95,
    "price": 46.95,
    "route": "LIS-EDI",
-   "travel_date": "2026-11-11"
+   "travel_date": "2026-11-10"
   }
  ],
- "date": "2026-09-11"
+ "date": "2026-09-12"
 }
