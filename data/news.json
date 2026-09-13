@@ -3,6 +3,15 @@
   {
    "airlines": [],
    "airports": [],
+   "category": "geral",
+   "published": "2026-09-12",
+   "source": "dnoticias.pt",
+   "title": "Oito voos divergidos do Aeroporto da Madeira devido ao vento forte - dnoticias.pt",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORThtYVJCdXc3azlwajh2R21pM2o1djlpQ29nNkRRNDhiNW9GN3ZicERBeHplazVUcWhJZVpBcmxMWHRJZ2wwMTVPQ0s0eEFzWnNxQ2NkZW5ZYm03dmhEb1hqdkpNYmt2eUIzel9LSHZwSjBLYldkeXNKTWt4OFJMQTJ6YUNoN0p1MkZtS3VCaFRlZmYtdTVnSkRXeW9nWmUzQmxmTmkwcHBBWkZMTVE?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
    "category": "problema",
    "published": "2026-09-09",
    "source": "Diário de Notícias",
@@ -26,6 +35,19 @@
    "source": "publico.pt",
    "title": "Falha no controlo aéreo britânico cancela nove voos de Portugal para Londres - publico.pt",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXBQbWFWdjlpdkcyUlNhblRqWmtZaVZsRFJfQ0lPX21ZTzBkdVdXZDk0bDB5WUlYSVp1YUN5REJ1RWZRNUtwYUZ5VlI3ZVpsSnV2VXlqeVh1NERPc1VaMThZekZ1Vm1JOXlMOUMwcmdIZ1djTTRCajNKaDN2eW1DYU15S2tGZVFKdENBeElCek9uOHZ2T3lGTU11dmxNbEpPZV9TbkR3XzVkaU94ZDN6U002QWVqVGNBa0dPdGxn?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "LIS"
+   ],
+   "category": "problema",
+   "published": "2026-09-09",
+   "source": "JM Madeira",
+   "title": "Avaria deixa avião da TAP imobilizado na pista antes de levantar voo para Lisboa (com vídeo) - JM Madeira",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSENVNnluTHBDVHN6T1NxQjdjdjFSS0ZpdDlGOGUwOVU3bnl6c1dDZDVuMVk4OEVXc1N2bmxXdkdjOXNwMWh4dWdZbUZDT3ZNb3BHd2Z1R3ZUZWZDTHhWN0w1N0JMYmdDMk5OUS1HdW90TG5lalVTUFZZYkktN1VjV2hHWkJxSU93eVAxVFZ3N1Y1TTlocVd6Z1g1UHdKbmVXM3BZTklYTEREZjJpWFZkMGJwZmpDVS1nbDJ1cVFXMjVfRVc4bm8wMWJZY0E2TTFKUGlXd1FrVE1kQ0RnV05zLVJB?oc=5"
   },
   {
    "airlines": [],
@@ -667,6 +689,17 @@
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcFVTRUNuZWZVYWk4UzBCTi1GdXBqZGk4a2d3ZDA4dHlwUVlaRl94Vjh5S0FjY2QyQ1VCT20wNkRBYWh4ZmpSdDZqUEpHdFJwUWl5YUp3cTFZc2RuRlJFWWFvMGdadmVucVNVOWY4OHlCNFRRa2ZPLUZjdUFkOTNUQXlBdHFWSDZfYmx4TDZtV0VnNHU0Vm1vTUtjV0xIMVJjNXF1UXY4aEpUZWQtQ01zYXFUMUMyMWoyUnJMZWNoQnNJQlNDUkp3Q1NMalU1R2piM0p1a2pn0gHbAUFVX3lxTE1QR1o0UmQ0cDY3aW8tOXI5SVR1dl8wUEo1MTJuTjdzVnpZaXI5Wm9RX0J0N1o0WEJtU3lyVEIyRlIxcllfXzdUYjh5Y21PTGdjalhtZnh4UEFQVWs1REtFaXRjUS0ybDRVRGJud1VSMm95RExkOWhUZUNzTllvT1Z0MXhjMlljOHdLaC05djFnbVhuTjBfa2hPR0pzaXYydWM2YlF3MGhaRkI4bHJwME01ZHU5SEZubEVCSGpPYnYzWnUxbHVlRkwyenh3Sm5WSk9taGQ4V1dDOGRSbw?oc=5"
   },
   {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "geral",
+   "published": "2026-08-22",
+   "source": "Bem Paraná",
+   "title": "A nova ‘rota do tráfico internacional’ do PCC e CV passa pelo Porto do Paraná e terminais regionais - Bem Paraná",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcFVTRUNuZWZVYWk4UzBCTi1GdXBqZGk4a2d3ZDA4dHlwUVlaRl94Vjh5S0FjY2QyQ1VCT20wNkRBYWh4ZmpSdDZqUEpHdFJwUWl5YUp3cTFZc2RuRlJFWWFvMGdadmVucVNVOWY4OHlCNFRRa2ZPLUZjdUFkOTNUQXlBdHFWSDZfYmx4TDZtV0VnNHU0Vm1vTUtjV0xIMVJjNXF1UXY4aEpUZWQtQ01zYXFUMUMyMWoyUnJMZWNoQnNJQlNDUkp3Q1NMalU1R2piM0p1a2pn0gHbAUFVX3lxTE1QR1o0UmQ0cDY3aW8tOXI5SVR1dl8wUEo1MTJuTjdzVnpZaXI5Wm9RX0J0N1o0WEJtU3lyVEIyRlIxcllfXzdUYjh5Y21PTGdjalhtZnh4UEFQVWs1REtFaXRjUS0ybDRVRGJud1VSMm95RExkOWhUZUNzTllvT1Z0MXhjMlljOHdLaC05djFnbVhuTjBfa2hPR0pzaXYydWM2YlF3MGhaRkI4bHJwME01ZHU5SEZubEVCSGpPYnYzWnUxbHVlRkwyenh3Sm5WSk9taGQ4V1dDOGRSbw?oc=5"
+  },
+  {
    "airlines": [
     "TP"
    ],
@@ -1122,57 +1155,11 @@
    "airports": [
     "LIS"
    ],
-   "category": "geral",
-   "published": "2026-07-30",
-   "source": "cnnportugal.iol.pt",
-   "title": "Voo da TAP declara \"PAN PAN\" e regressa a Lisboa após ficar sem motor: \"Os pilotos são treinados para estas emergências\" - cnnportugal.iol.pt",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOLTJlVm5tbC1pOW0yVGtjaFVZQkN2RDJwT0l6TkdrdmpvMWF6N01tWnlaQlppM1VHUmp0Ulh4X0RZT2FjSVI1aUp6d0JHckd6SnFNUmtpVGlKUG1WOU51ZGg1RDgtV2Q2SGhXcnRSTVJHb0NmZnpXN1hSTEJYamR3bng2dGVtczIzdFpnVTMwSUlDM2FaMkFmVnY0eFJzaGRrTElrNGQ1T1F1VWdIbDY0d0FkZGJxNHVmRGdxOWpWenZXMkNrR24wSmZ1bkpScDgzVndzaXNTQXhXUVhhanB1c1liWEJTNmZIVzk0dnAxTVRGc08tamw0eVh1RnVUMjBLcXNMaXhJNHNzbHEyMHV3MFlqNU9vQU1SaFJsY3BqOF9jNlU?oc=5"
-  },
-  {
-   "airlines": [
-    "TP",
-    "LH"
-   ],
-   "airports": [],
-   "category": "promocao",
-   "published": "2026-07-29",
-   "source": "AEROIN",
-   "title": "Lufthansa destaca possibilidade de ampliar voos para a América Latina em oferta pela TAP Air Portugal - AEROIN",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1hiOHpiYnFUM3otVGpRcUQ3SlU4RGFCaVNPM2ZRX1NkcHVXbVUzTkNxdWNhMkN2SlkyT3NxVngxb3ZnMW82VWZZTmN0YUEzTXotNUZkTEJwSWpTdHhQVVhoZklEcXN0VDJrM0s0eF91b0RqWm5kbTVUaVd2Z0VNdloyUTAtRS1hRXE2RW1jYWR4UVRqVkMzWUxIUDNTMEZjOG5oMTVHa2tiMXIxNXQ2YjdaS24zM0NOSE5ON2hB0gG-AUFVX3lxTE5zWGI4emJicVQzei1UalFxRDdKVThEYUJpU08zZlFfU2RwdVdtVTNOQ3F1Y2EyQ3ZKWTJPc3FWeDFvdmcxbzZVZllOY3RhQTNNei01RmRMQnBJalN0eFBVWGhmSURxc3RUMmszSzR4X3VvRGpabmRtNVRpV3ZnRU12WjJRMC1FLWFFcTZFbWNhZHhRVGpWQzNZTEhQM1MwRmM4bmgxNUdra2IxcjE1dDZiN1pLbjMzQ05ITk43aEE?oc=5"
-  },
-  {
-   "airlines": [
-    "TP",
-    "LH"
-   ],
-   "airports": [],
-   "category": "promocao",
-   "published": "2026-07-29",
-   "source": "aeroin.net",
-   "title": "Lufthansa destaca possibilidade de ampliar voos para a América Latina em oferta pela TAP Air Portugal - aeroin.net",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1hiOHpiYnFUM3otVGpRcUQ3SlU4RGFCaVNPM2ZRX1NkcHVXbVUzTkNxdWNhMkN2SlkyT3NxVngxb3ZnMW82VWZZTmN0YUEzTXotNUZkTEJwSWpTdHhQVVhoZklEcXN0VDJrM0s0eF91b0RqWm5kbTVUaVd2Z0VNdloyUTAtRS1hRXE2RW1jYWR4UVRqVkMzWUxIUDNTMEZjOG5oMTVHa2tiMXIxNXQ2YjdaS24zM0NOSE5ON2hB0gG-AUFVX3lxTE5zWGI4emJicVQzei1UalFxRDdKVThEYUJpU08zZlFfU2RwdVdtVTNOQ3F1Y2EyQ3ZKWTJPc3FWeDFvdmcxbzZVZllOY3RhQTNNei01RmRMQnBJalN0eFBVWGhmSURxc3RUMmszSzR4X3VvRGpabmRtNVRpV3ZnRU12WjJRMC1FLWFFcTZFbWNhZHhRVGpWQzNZTEhQM1MwRmM4bmgxNUdra2IxcjE1dDZiN1pLbjMzQ05ITk43aEE?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
    "category": "novidade",
-   "published": "2026-07-29",
-   "source": "aloalobahia.com",
-   "title": "Fiol e Porto Sul devem transformar a Bahia em nova rota de exportação de grãos - aloalobahia.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZi1pV3N0aXlMbDl0eGxOY1VNT2FrMFNvazhmOFBrNklwWWdPT2t3YlNGMmtISkVQS2RQOWZrR0tJY1JtbTlDd2hMSElUZ0VuNWt0c3JBc1QxSFRreUNuOEVEVXllVjJ4b1dVdENvY0ZMd05SVDVNdTFBOGstNkt1dUJ2WHR1R1JLOTRVcVYtWWJnR2hIS010N3ZwbEdDTmdiQmNWYm5lM0tueXdwQnFZY2Fic0V4OFJHYy10c2VOc2M?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "geral",
-   "published": "2026-07-29",
-   "source": "Expresso",
-   "title": "Circulação totalmente restabelecida na linha vermelha do Metro de Lisboa - Expresso",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHl3c1JnbFhkSm5qbTFnal93elpVa1Y3QVFPeFU1aXNiZ2FMNWVtT1NCdnVlaHM3TnAzTld3YzZ1ek9VVU1oWmV5M2lwZGpRSXVJNXJFSlNPS2Z1NEJxVkpMMnhmMFNqd1RHN3hCUjJ6LUNmUlZVQVdjUVdleXBudVlCUmJIZ0FXR3dlanh3U2VmTHpKS0NMbFhsR1NSR0JXZGVHUVV2UGJkd0F6emFVaDdHWlVaelJ0OHJqMEdHaVByUTM0VW9J?oc=5"
+   "published": "2026-08-07",
+   "source": "Tribuna do Paraná",
+   "title": "TAP cancela voo da nova rota entre Curitiba e Lisboa; passageiros reclamam de abandono - Tribuna do Paraná",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDJpOFhTZEN3RnRTZ01HQS1xSjlncnd5TTFOVnl5MDJYTENNYmZUTXBTRkxaYmJCcnBrMFFtdmozcjA1U2xJRDR1Wm0yWjVlRUdNNTl6SnVVdDZHRW5zVWx6TGdSYmN3STctd0RTTG93dzlibTNUb3BIMFltcVVUbFlham9oeE8wT0VoWWR0ZUVONVNJd205dU9Xc9IBoAFBVV95cUxPWHMyM1dPTC16b3lPTlRQMjNvZjY0OXJnRlFxVTlDNGNZM2hNOUlwMUNvbXZHMUdjQzlndkctbHJNVjc1VHk1cTV1aUZMRDBneW5DdjRsaGYxUEN4RjlfZVIxb0pCVHc5Z2Z1ZDItRDNHdW5zY3l2R1l4Q1lsNXpIX0d5WlBYVXdGeS1qaEZHMjRaWDhlNk9Pc0J3TV9oU1RJ?oc=5"
   },
   {
    "airlines": [
@@ -1181,11 +1168,11 @@
    "airports": [
     "LIS"
    ],
-   "category": "novidade",
-   "published": "2026-07-29",
-   "source": "topview.com.br",
-   "title": "VIEW in TOP: Nova rota da TAP Air Portugal liga Curitiba a Lisboa - topview.com.br",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPREpSdl9CMTZTQ2wtd2tvNjFkQ0dhNHJBOVRkd2FHSlFzQUpyWHNRSFVDbE92NXpwdWZHU0pEeFZQU1RPblhiTXZKM3NEXzRxNU51ZGJMUkhZMTNmMFJrN2NRaTRzZ09oYmhkN2hMSXZUczBfSDBBS1JfQTdiRy1KUnI0STI1V3QweGJVUlN4VUtBYllY?oc=5"
+   "category": "geral",
+   "published": "2026-07-30",
+   "source": "cnnportugal.iol.pt",
+   "title": "Voo da TAP declara \"PAN PAN\" e regressa a Lisboa após ficar sem motor: \"Os pilotos são treinados para estas emergências\" - cnnportugal.iol.pt",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOLTJlVm5tbC1pOW0yVGtjaFVZQkN2RDJwT0l6TkdrdmpvMWF6N01tWnlaQlppM1VHUmp0Ulh4X0RZT2FjSVI1aUp6d0JHckd6SnFNUmtpVGlKUG1WOU51ZGg1RDgtV2Q2SGhXcnRSTVJHb0NmZnpXN1hSTEJYamR3bng2dGVtczIzdFpnVTMwSUlDM2FaMkFmVnY0eFJzaGRrTElrNGQ1T1F1VWdIbDY0d0FkZGJxNHVmRGdxOWpWenZXMkNrR24wSmZ1bkpScDgzVndzaXNTQXhXUVhhanB1c1liWEJTNmZIVzk0dnAxTVRGc08tamw0eVh1RnVUMjBLcXNMaXhJNHNzbHEyMHV3MFlqNU9vQU1SaFJsY3BqOF9jNlU?oc=5"
   }
  ]
 }

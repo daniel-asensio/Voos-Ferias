@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-09-19",
+  "booking_end": "2026-09-20",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-09-12T10:43:35+00:00",
+  "collected_at": "2026-09-13T11:49:06+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -48,11 +48,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-09-14",
+  "booking_end": "2026-09-15",
   "booking_start": "2026-09-05",
-  "collected_at": "2026-09-12T10:45:14+00:00",
+  "collected_at": "2026-09-13T11:50:44+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 50.19€ dos últimos 12 dias de recolha. Voo mais barato a 2026-11-29.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 50.19€ dos últimos 13 dias de recolha. Voo mais barato a 2026-11-29.",
   "destinations": [
    "Frankfurt Hahn (HHN)"
   ],
