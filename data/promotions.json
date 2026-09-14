@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-09-20",
+  "booking_end": "2026-09-21",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-09-13T11:49:06+00:00",
+  "collected_at": "2026-09-14T12:43:25+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -48,22 +48,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-09-15",
+  "booking_end": "2026-09-16",
   "booking_start": "2026-09-05",
-  "collected_at": "2026-09-13T11:50:44+00:00",
+  "collected_at": "2026-09-14T12:45:01+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 50.19€ dos últimos 13 dias de recolha. Voo mais barato a 2026-11-29.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 50.19€ dos últimos 14 dias de recolha. Voo mais barato a 2026-11-29.",
   "destinations": [
    "Frankfurt Hahn (HHN)"
   ],
-  "discount_text": "−41% vs. habitual",
+  "discount_text": "−39% vs. habitual",
   "id": "fr-queda-fao-hhn-3c0791b1",
   "origin_airports": [
    "FAO"
   ],
-  "price_from": 29.76,
+  "price_from": 30.76,
   "source": "price_drop",
-  "title": "Faro → Frankfurt Hahn a 29.76€ (−41% vs. habitual)",
+  "title": "Faro → Frankfurt Hahn a 30.76€ (−39% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-11-20",
   "url": "https://www.ryanair.com/pt/pt"
