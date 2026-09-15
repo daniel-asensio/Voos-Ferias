@@ -1,6 +1,61 @@
 {
  "items": [
   {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-15",
+   "source": "RTP",
+   "title": "Tripulantes da easyJet reúnem-se em assembleia de emergência e sindicato não exclui greve - RTP",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZUV2aGtRUW9kNlVaYlduRmFQSk9pbk9HNmhWUVFJVGxVSktkZjhXX2pRWmMtejdTWjlrRlVNM3NEMnBvTC0yMUxINGxkTGlOTnRWZDZlcDg3U2lpQjZneW5abFRpR2VidlFSOTBnUVd0THdJTnI4WmMzVkhDLUVvZ0xnSXowNlB5SUJCZlRJYjNuRUU2UjUtSm9tTkN5YVp5a01WYTdmV0hsM3VNck1pbV9PdmJnUmV6T3ludGtmVUF2bE94cVpUVzRENmg5Si1I?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-15",
+   "source": "Lusa",
+   "title": "Tripulantes da easyJet reúnem-se em assembleia de emergência e sindicato não exclui greve - Lusa",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRlpReDFRVVcxVGNlVVRIVWFFWDRPbDhmcmJ6OHdPeTk5cXgwWmNZT0lpSklRX2J1YmhSMXRVWldqT3JmdnlidzVOQ051c3QtNEhjbzZrWTExYlJPNm52SWNYOHpwcUYwelpvYk11OGRJQmZLRG51QjVoeHlQMXpnTDM0dGJHaEQ1ejZRR3dKNmNWUG5WVlVGSllSQndfcjVDM09ZZmh0YlFFNXhfVWlLVnF5a1EwczNBa2N2SGZGZFktcDZaVmV0T2RidVd0YkM5dUVmbzJOMDc?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-15",
+   "source": "Notícias ao Minuto",
+   "title": "Tripulantes da easyJet reúnem-se em assembleia de emergência. Há greve? - Notícias ao Minuto",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTGkzYzhHRGpXZDdaVUh3MWxRSVZlZ1JBVHZha3A2T3Nla1Y3MGVkNHZMdjdubzIwel82cTdYODdhUXpmOWM3dUFNRDZROW1vNTZtcnpxVHlfdDRERm1nU3lvTEtIWHBVWlRoVVZPdjZHdzNPUi1XR1J5YnZXNV94RUUzaTBPcUJWdWtOSGtHa28tRk5yYTF3eHh4TzJ5eURzWm16Rl9CUnk1dnd6ZEdLQy1PNHVkU0JoRnln?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-15",
+   "source": "SAPO",
+   "title": "Voos com descontos até 20%. 8 escapadinhas de outono da easyJet a partir de 40,48€ - Promoções - TRAVELMAGG - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR1VDQ1pJd3lWZ3BDY19VUzhjVUN1WmZSRkZ3aGJwOHhNQXFQeEd1eWVva1hWRk5UaUZmX1haUnpqNG9jM0RGZGhHLVJMRUZlRmVmVkFMODRXODRzMTc4LVJzYVVvUXZoakZOaXZJcUdzSlBGdmx0VHZ2S1MxQ09Feml2ZDlMQzRLa3dGaTRGRENPWE1WUkh4ZnUzbnk1Q2hIWjN2Zm1XblZZZ1V0MXhQclItMnY4UU55amt0SnRZQWZmNlh0RS13V2JSaw?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-15",
+   "source": "anoticia.pt",
+   "title": "Saldos easyJet regressam com descontos até 20% para viajar pela Europa e África - anoticia.pt",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QbXppZlVpWUlUeVozX00tMjRVeVdmaENTbDJ2RzZ3eWFja0hpcXZhd1otNTJNNHM4aWFSRUxIa3BXY2ZObjFSb1pNUHNScWpoQWVKM2VkXzBlZw?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [],
    "category": "greve",
@@ -10,6 +65,28 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHA3cFBZUEE4WnVRamt1RWNmWmgtRlRiZEVVLW92akE1MG5wS3d5UlNMRDBnSzNPenAzX3JmWFQyZVhNVVpGaGNScE1pTDRtZGsybmhfaU9MazdTdjlPcWY0Umt1azZQLV9aQkNoclg0YkxvdjBnX3oxNF9kNWg0YUx6aEZxWnp4ZzRIejV6c2tiVmRDYXhmRDQ4MDJobktSdHJKNUxR?oc=5"
   },
   {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-14",
+   "source": "Turisver",
+   "title": "“Mega saldos” da easyJet trazem descontos até 20% em voos de e para Portugal - Turisver",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUZQN2E4bnlTNEVSN3hqLW9Ja0gtVm5oc1IxSW5fY0dCX1RRM1hYSVEyZXRZaXVZaW9FakNHcEV1bmNNc01sek51OXNHRG1xMHd1R2VOdHFGMFFCWWVyYV8ycUpiXzF1S2JYV19WN3lZaWV6VzdMMkVza3RYaUYxOHZFWVBUbGhxeFJmUzlNNzctNEI5NU5kR1NR?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-14",
+   "source": "Vousair.pt",
+   "title": "easyJet baixa os preços: há voos até 20% de desconto para estes destinos - Vousair.pt",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZDNFUlNDY1pBRHo0YUx4ZTkzdDNqMDY3UGNIdDVMTHNIckY1bnRxaUw0empaZ3FPNlRfdTh2SUlUVC13bHJ0WDM5N2thNk1seF9fOUNHUmFGeTBEODVFVWdzdHhyb252R3pmcGZ2RDVxRGpJekhTeXhhak1nTjJtNXNNS0tuWF9uTFhLS0dtdHFjOEFV?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [],
    "category": "geral",
@@ -17,6 +94,17 @@
    "source": "dnoticias.pt",
    "title": "Oito voos divergidos do Aeroporto da Madeira devido ao vento forte - dnoticias.pt",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORThtYVJCdXc3azlwajh2R21pM2o1djlpQ29nNkRRNDhiNW9GN3ZicERBeHplazVUcWhJZVpBcmxMWHRJZ2wwMTVPQ0s0eEFzWnNxQ2NkZW5ZYm03dmhEb1hqdkpNYmt2eUIzel9LSHZwSjBLYldkeXNKTWt4OFJMQTJ6YUNoN0p1MkZtS3VCaFRlZmYtdTVnSkRXeW9nWmUzQmxmTmkwcHBBWkZMTVE?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "geral",
+   "published": "2026-09-11",
+   "source": "Exame",
+   "title": "Tecon Santos 10: o novo capítulo na disputa pelo megaterminal do Porto de Santos - Exame",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2ZHTG9CMFNjRGZzNnMzWTFpNkppZWZSdzB2dXM4aXoyYnNicGQzcUxvOVdadWVnT1ZrOVo1Z2FhajlpU3R0SVh4TmJhNE0ybnFrblJuMnZvWFNLY3dQdERsTUJJM3dReldYSXdVMXV6eXI5ZkQ5VG5Md3JtN2Y2WXNOY1JhdkE3MjJKUlQ0RDFaaEpWUjNQZQ?oc=5"
   },
   {
    "airlines": [],
