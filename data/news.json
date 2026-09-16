@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-16",
+   "source": "nit.pt",
+   "title": "Companhia aérea brasileira estreia nova rota entre Lisboa e Rio de Janeiro - nit.pt",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVE1oN2RuZmE4Qnpka2pPelB3YTEzZXlFQm5GUlRGX0gtVmQtZDRLYUNpYl8xLXJFcDVtdms5aDVaSi1UNmRaekZGakpFdWRwNWJwc1g1emR1V1pSME5WdHVQX3pNQ3czLWZMZWlOcldVdW90UkVybXpFMVl4Tl9YTkRXeXppVldCaHhYU3RZRVlpRmtRRHBLVnVhN24zU1R4ZmJZRV9xcXhNS3hlVTRVdjZidk0?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-16",
+   "source": "Kiosque da Aviação",
+   "title": "GOL inaugura esta quarta-feira a sua nova rota entre Lisboa e o Rio de Janeiro - Kiosque da Aviação",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDdKampJUmdVS19wd3dpU2xjZ1lKVG9BcWZ6Z19HLXpydlFScGVwWE9uVWQwSm9pMDNYSUhRMFZrdnVERkl2R0l0MHFUdTNlVVBSSHNmRG5PRVpoWm5oZFY5SjlWNGlCNXdQcmdIQ3AzUXd3bVZSNVpzdG5fZ1VCZGVtY0NwQU03TmFZVU5GTVZwQ2hQQ2FGaTB5dzJManJUUzRqS0xmZ2ZKRUU?oc=5"
+  },
+  {
    "airlines": [
     "U2"
    ],
@@ -56,6 +78,81 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QbXppZlVpWUlUeVozX00tMjRVeVdmaENTbDJ2RzZ3eWFja0hpcXZhd1otNTJNNHM4aWFSRUxIa3BXY2ZObjFSb1pNUHNScWpoQWVKM2VkXzBlZw?oc=5"
   },
   {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-15",
+   "source": "Dinheiro Vivo",
+   "title": "Tripulantes da easyJet reúnem-se em assembleia de emergência e sindicato não exclui greve - Dinheiro Vivo",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnp0a3NRSTd4WVdnQzRRMmJmX3I4T0ljSkEwV3BxckRuanJRUGlfVFpkYVVka3BjS29HSXZYdkgwVFhzUUlmOTdidUtOOUxoR18ybTZzOW5HaE81SjgtUm9IejlqLWNyUDFXX1MtUVEzbHU2VnJaLXY4YmhxbEJBblBQdVhhTEE0czFEUkUwUUNCcG90UUpNZ3NfTThjRnRzYzVuLUhsSWRKOHhuUENUd2QtbjBacGNfVnJCR3JR?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-15",
+   "source": "rtp.pt",
+   "title": "Tripulantes da easyJet reúnem-se em assembleia de emergência e sindicato não exclui greve - rtp.pt",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZUV2aGtRUW9kNlVaYlduRmFQSk9pbk9HNmhWUVFJVGxVSktkZjhXX2pRWmMtejdTWjlrRlVNM3NEMnBvTC0yMUxINGxkTGlOTnRWZDZlcDg3U2lpQjZneW5abFRpR2VidlFSOTBnUVd0THdJTnI4WmMzVkhDLUVvZ0xnSXowNlB5SUJCZlRJYjNuRUU2UjUtSm9tTkN5YVp5a01WYTdmV0hsM3VNck1pbV9PdmJnUmV6T3ludGtmVUF2bE94cVpUVzRENmg5Si1I?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-15",
+   "source": "BOM DIA - Portugal no Mundo",
+   "title": "Greve de controladores aéreos preocupa responsáveis do Aeroporto de Bruxelas - BOM DIA - Portugal no Mundo",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU2dvTGhSTURCMFJ5dldtZERndVlkeEVabFU3dmFreDRZMk5MTmR0RmlWQm0zd29tTm5ZWDBrd2lxUTYtQ0VRaFVLMjV4SEE3dk55OUJ2SnN0T0xNajVTdFBIWEduM2NjbGNSZ01UeHhVTkczZEZuQXJrRnpxVUpNb0JPRGJ1TlJGRXdBTEFDSDNIN2RJVzBTdThlYw?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-15",
+   "source": "The Portugal News",
+   "title": "A easyJet lança uma promoção com descontos de até 20 % em voos a partir de Portugal - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ1FJWmZYSzJGTWUxLVZ5Z2FiRzUtTnFTaW5qdjRLa1pMaHJ5UFMyM1dDRU5jTFJMajU4SEpkOUN0Vmk0MkVCa0ZJS09SNGhMbzNRN21jbGhOWjg0X3FUTGxIMEk1TTFwTVhaS3NnaElZd091LUZDRERPNDdUbTgwcWh0N1BibTNHLXZ3by0wckxTUlJZQXNCdm56TVJpQlRaSHhqZHJvcnFRU0RqX0JKdjljNUNPT2lQeGZ0TG1SWXppdk1aTThhc2hib3RqUjBIZlE0?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-15",
+   "source": "sapo.pt",
+   "title": "Voos com descontos até 20%. 8 escapadinhas de outono da easyJet a partir de 40,48€ - Promoções - TRAVELMAGG - sapo.pt",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2U3Y1NlSWw4U2ZrTVhvOW93NEJGQVZ6LUZHbjFKYnFqLVl2OEh2Q3FtUTVZUzhnaDBrd21MZlBhNGhwWFEzQnI2c2M2M2tEa1dQcWhVUUR1NktIVFFYRHA1N3BVb1FxMWhlcl9rd2xZY2Y2ZDFJemxkMFlHT1lRMklpQjJlVHkxVjNBSzVrX0JabEUyZ3czQ2t6R2tQMXhPd1pmOGlkLWtBdmNrQWswOFdLZ3ZGUFJBNm8wRUYxWEJTc3dyZlE?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-15",
+   "source": "A Próxima Viagem",
+   "title": "easyJet lança descontos até 20% em voos até março de 2027 - A Próxima Viagem",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5md2NaZ0tERlBUX1k1eWVyV2tHRlgyZUU3VHlSSkdlajlYREFMT3dDZVZicjdFYnhpSEdYcDRubnY4WDVzdVpBYWdjZUlZTUFkMDJwQzNKci1XR0tQNXFJc1FCMEdiUnZPQzB0aG1FaVpOZFVscFNGVWRkUDY?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-15",
+   "source": "The Portugal News",
+   "title": "easyJet lança venda com até 20% de desconto em voos a partir de Portugal - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTctQ19XNG9rQlVJUTh0SFphdHZTNkxiRXh1RlkwTnZXM1ppZGlCQmxlalNWeXRsZ2MzNzhyNFRVN3ZDS1FzQWZYalVkNUVMQUE3eFJta3dtMWJsX3FpWFE5OWFDMkc3MjRtdGZIdDlha2RUcGZDMkNCbVdfbGxHUndlbXRaTE01bFVQSDctamZlV25ia255ZExxWVFpbWdIRndqX1JMZkhpb3pWZEhLLURhXzdDYlB4aGc5d3VEYUhEdHc?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [],
    "category": "greve",
@@ -85,6 +182,28 @@
    "source": "Vousair.pt",
    "title": "easyJet baixa os preços: há voos até 20% de desconto para estes destinos - Vousair.pt",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZDNFUlNDY1pBRHo0YUx4ZTkzdDNqMDY3UGNIdDVMTHNIckY1bnRxaUw0empaZ3FPNlRfdTh2SUlUVC13bHJ0WDM5N2thNk1seF9fOUNHUmFGeTBEODVFVWdzdHhyb252R3pmcGZ2RDVxRGpJekhTeXhhak1nTjJtNXNNS0tuWF9uTFhLS0dtdHFjOEFV?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-14",
+   "source": "VOU SAIR",
+   "title": "easyJet baixa os preços: há voos até 20% de desconto para estes destinos - VOU SAIR",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZDNFUlNDY1pBRHo0YUx4ZTkzdDNqMDY3UGNIdDVMTHNIckY1bnRxaUw0empaZ3FPNlRfdTh2SUlUVC13bHJ0WDM5N2thNk1seF9fOUNHUmFGeTBEODVFVWdzdHhyb252R3pmcGZ2RDVxRGpJekhTeXhhak1nTjJtNXNNS0tuWF9uTFhLS0dtdHFjOEFV?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "geral",
+   "published": "2026-09-13",
+   "source": "Melhores Destinos",
+   "title": "TAP Air Portugal: como é voar e tudo que você precisa saber antes de embarcar - Melhores Destinos",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WZW9xSlMzTU9PUU5iSnZlc2JSb3FoazM4LXg3OEtmMlkwN1ZtT0tpZ1A2dTloTHJFek9RSWFUbEdUNlNIc1RaMndFV1ZVZk44eXJYX3ZDNms4VHhGM0k2MnltVQ?oc=5"
   },
   {
    "airlines": [],
@@ -1200,63 +1319,6 @@
    "source": "cmjornal.pt",
    "title": "Vários portugueses retidos no aeroporto de Barcelona durante dois dias - cmjornal.pt",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRmo4ZDVMdkU1TmRRT3FrbUc0MFJkN3JqbnZaS3hkSV81Z1RlX3ZWUkFTQ1Y3SVJfOGFqT1lNQ2gzdGlfZ2pjM3NVUmhDd3FEU0FnM1N3UkstejRkc2R3T3RpZ01hSFBFQ2F2ajAtenNlTUZRQ20wUUE0MFJNQ3BYYUdOMmRjN1RXd2ZtR2dLV1Flc3FLNWVrMk5HUlVSMHRfSHlxMV95eXZfWEtyVk1kczFB?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-08-11",
-   "source": "The Portugal News",
-   "title": "Ryanair lança nova rota de e para Portugal - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVdYd1lqb1BLbWI4aGZvNEgwdHZ6QzR1bHhwNXlkT1RhZXZSa0hibUFyREZvUVNxS1ZSMWNrbzcyRUJxQ0Z6WlJXQzBvZE5TczdFWEpsbHZkN01TUG52TllrTEpOOUNBTF9YalFTUGZWc0IxOUI3Y21ZcHk4YmFicWxpSjRkTThEdjFlVHJ4dmk4RFZPcjZCZ2lFOEo3RFVzS01uUDhrSG8?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "FAO"
-   ],
-   "category": "problema",
-   "published": "2026-08-09",
-   "source": "Portugal Resident",
-   "title": "“Caos no Aeroporto de Faro”: Filas enormes no controle de passaportes - Portugal Resident",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1JxR3BGN00zMnFzT3lVUUNhNTZiRHc5T3hJdFFjUXRiT0xLamRKZVhoMXZsaWdMcTJxdEpNdEl3LU5ScWZmRVBtV3dEOC1zUG9kdXpvc1RoeHZTeHUxcG95eUNTUmxYM0ViMVlJV3BuWnE1UTVmejJpc2ZXbml1WkpIaUlvT3lHeUhVZVBWY0ZkcEp6YlcxaDV5dHJhVHZxLUxMVTZENnh1UzA?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-07",
-   "source": "VIVA! Porto - Tudo sobre o Grande Porto",
-   "title": "Porto ganha novo voo direto até uma das principais capitais da Europa - VIVA! Porto - Tudo sobre o Grande Porto",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUUzaENEYnNDQlItSWZPYTNlbE9yZm5oQk4tdHdsaUpNdFJnTFRobDd3ZlQ1c2t5Ym9GZWNLSVpOOUdtdmlNWWFndWJpTFpxNGxoLXd4Y3hLOUF0SWo0OHpIM1NjSW9YaFk0YW9jVUtZUVBfSUc5b09PaUhGREdDYk4tOHpOVUpWOVoxNF9WcHdPWEFWc3BR?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-07",
-   "source": "viva-porto.pt",
-   "title": "Porto ganha novo voo direto até uma das principais capitais da Europa - viva-porto.pt",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUUzaENEYnNDQlItSWZPYTNlbE9yZm5oQk4tdHdsaUpNdFJnTFRobDd3ZlQ1c2t5Ym9GZWNLSVpOOUdtdmlNWWFndWJpTFpxNGxoLXd4Y3hLOUF0SWo0OHpIM1NjSW9YaFk0YW9jVUtZUVBfSUc5b09PaUhGREdDYk4tOHpOVUpWOVoxNF9WcHdPWEFWc3BR?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-08-07",
-   "source": "Tribuna do Paraná",
-   "title": "TAP cancela voo da nova rota entre Curitiba e Lisboa; passageiros reclamam de abandono - Tribuna do Paraná",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDJpOFhTZEN3RnRTZ01HQS1xSjlncnd5TTFOVnl5MDJYTENNYmZUTXBTRkxaYmJCcnBrMFFtdmozcjA1U2xJRDR1Wm0yWjVlRUdNNTl6SnVVdDZHRW5zVWx6TGdSYmN3STctd0RTTG93dzlibTNUb3BIMFltcVVUbFlham9oeE8wT0VoWWR0ZUVONVNJd205dU9Xc9IBoAFBVV95cUxPWHMyM1dPTC16b3lPTlRQMjNvZjY0OXJnRlFxVTlDNGNZM2hNOUlwMUNvbXZHMUdjQzlndkctbHJNVjc1VHk1cTV1aUZMRDBneW5DdjRsaGYxUEN4RjlfZVIxb0pCVHc5Z2Z1ZDItRDNHdW5zY3l2R1l4Q1lsNXpIX0d5WlBYVXdGeS1qaEZHMjRaWDhlNk9Pc0J3TV9oU1RJ?oc=5"
   }
  ]
 }
