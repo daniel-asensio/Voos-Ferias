@@ -6,7 +6,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-10-08"
+   "travel_date": "2026-10-22"
   },
   {
    "airline": "FR",
@@ -14,7 +14,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-VLC",
-   "travel_date": "2026-10-22"
+   "travel_date": "2026-11-05"
   },
   {
    "airline": "FR",
@@ -23,6 +23,22 @@
    "price": 14.99,
    "route": "LIS-AGP",
    "travel_date": "2026-10-14"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Madrid",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-MAD",
+   "travel_date": "2026-10-20"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Toulouse",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-TLS",
+   "travel_date": "2026-10-07"
   },
   {
    "airline": "FR",
@@ -46,14 +62,6 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-LTN",
-   "travel_date": "2026-10-07"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Milão Bérgamo",
-   "previous_min": 17.99,
-   "price": 15.99,
-   "route": "OPO-BGY",
    "travel_date": "2026-10-14"
   },
   {
@@ -62,7 +70,7 @@
    "previous_min": 16.99,
    "price": 16.99,
    "route": "OPO-MXP",
-   "travel_date": "2026-10-27"
+   "travel_date": "2026-10-29"
   },
   {
    "airline": "FR",
@@ -82,20 +90,28 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Eindhoven",
-   "previous_min": 29.99,
-   "price": 29.99,
-   "route": "FAO-EIN",
-   "travel_date": "2026-11-13"
+   "destination_name": "Dublin",
+   "previous_min": 27.99,
+   "price": 27.99,
+   "route": "OPO-DUB",
+   "travel_date": "2026-11-20"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Belfast",
+   "previous_min": 27.99,
+   "price": 27.99,
+   "route": "FAO-BFS",
+   "travel_date": "2026-11-19"
   },
   {
    "airline": "FR",
    "destination_name": "Edimburgo",
    "previous_min": 45.44,
-   "price": 45.44,
+   "price": 38.99,
    "route": "LIS-EDI",
    "travel_date": "2026-11-10"
   }
  ],
- "date": "2026-09-16"
+ "date": "2026-09-17"
 }
