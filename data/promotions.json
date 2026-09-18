@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-09-24",
+  "booking_end": "2026-09-25",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-09-17T11:39:19+00:00",
+  "collected_at": "2026-09-18T11:11:31+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -71,22 +71,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-09-08",
+  "booking_end": "2026-09-20",
   "booking_start": "2026-09-06",
-  "collected_at": "2026-09-06T10:55:27+00:00",
+  "collected_at": "2026-09-18T11:13:31+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 6 dias de recolha. Voo mais barato a 2026-09-30.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 18 dias de recolha. Voo mais barato a 2026-11-07.",
   "destinations": [
    "Barcelona (BCN)"
   ],
-  "discount_text": "−32% vs. habitual",
+  "discount_text": "−40% vs. habitual",
   "id": "fr-queda-opo-bcn-7792c2fc",
   "origin_airports": [
    "OPO"
   ],
-  "price_from": 16.99,
+  "price_from": 14.99,
   "source": "price_drop",
-  "title": "Porto → Barcelona a 16.99€ (−32% vs. habitual)",
+  "title": "Porto → Barcelona a 14.99€ (−40% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-09-30",
   "url": "https://www.ryanair.com/pt/pt"
@@ -135,6 +135,29 @@
   "title": "Faro → Bristol a 14.99€ (−30% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-10-08",
+  "url": "https://www.ryanair.com/pt/pt"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-09-20",
+  "booking_start": "2026-09-18",
+  "collected_at": "2026-09-18T11:13:31+00:00",
+  "confidence": "média",
+  "description": "Tarifa de hoje bem abaixo da mediana de 48.09€ dos últimos 18 dias de recolha. Voo mais barato a 2026-11-17.",
+  "destinations": [
+   "Edimburgo (EDI)"
+  ],
+  "discount_text": "−33% vs. habitual",
+  "id": "fr-queda-lis-edi-2ad4906c",
+  "origin_airports": [
+   "LIS"
+  ],
+  "price_from": 31.99,
+  "source": "price_drop",
+  "title": "Lisboa → Edimburgo a 31.99€ (−33% vs. habitual)",
+  "travel_end": null,
+  "travel_start": "2026-11-17",
   "url": "https://www.ryanair.com/pt/pt"
  }
 ]
