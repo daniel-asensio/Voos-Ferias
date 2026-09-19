@@ -6,10 +6,54 @@
    ],
    "airports": [],
    "category": "greve",
+   "published": "2026-09-19",
+   "source": "newinporto.nit.pt",
+   "title": "easyJet vai entrar em greve: viagens no feriado de outubro e no Natal em perigo - newinporto.nit.pt",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFJzbWp4enVPTG1la2E1R1FteHFWMm5OUWVkMTlnTmNQZG1nQ1l3VUZXa0wzWmgxNnJyRHpEbzhGQW5UbUkwWDROREIzMVhsNnhvbFlGMFhzdk5haVRkM0llM3JCZ2NZbVB5MUZ0dWtkWnctVWNWT2Z3UEhVYlFQSHF5VzN5Zkl6eG1sZVRtZ0ljdTVqUDUyaEo0ZXA2YXpubXhlTkNTcVBTUGg5SlZkU2RiakJQdXpv?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-19",
+   "source": "New in Oeiras",
+   "title": "Companhia aérea brasileira estreia nova rota entre Lisboa e Rio de Janeiro - New in Oeiras",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXpscnRfSTBmWHkzS20tb21wZEFtRU85dHVOVjVWekdTYURPU1VNLUdVeDZHMWVIZ0dWTS1STkp0VFpPRktfRjB6QWF6UERzZnpiR0dDU25JQVlNVFVlSlFoSTdPeFBOVy1FamVxSllhZC1laDZrUmFySEl4SXZZWDBQaDNVSHo0TEdvYUVJS1JGUktYdG5GS3puclExcHlFRDlBMUVVM2tlbTNjejdEZGRsaGI?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
    "published": "2026-09-18",
    "source": "New in Cascais",
    "title": "easyJet vai entrar em greve: viagens no feriado de outubro e no Natal em perigo - New in Cascais",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXNyMmhOc2JhTzl2aVpMQnZVNmNXaVdCV0x2eTBIclp6UmRiNXNBcmxfRHlrbElWM21mT3NqUlJsdWdjTGpvWXR6V2VMNDc5ZWVxX1Y3Qk9iMWRxVHJaMmtwLW1PT2RTeGVscjBadVhLWS1oMVZuUEgxSFpkVGVDVkhlOVd0WmNxUjhRSzFwUUFJQnNEM0ZmV1g3ZlJ6ZkxNblpTNW1hOHJhQWJxMktaTVMtX19hVlNFcUFz?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-18",
+   "source": "Euronews.com",
+   "title": "Tripulantes da easyJet em Portugal marcam greves para outubro e dezembro - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWWZ5TnV6YVNmTFNrQ2tvbm5vSFROMzQ2dnFaZWpNdGxOZGJOajNaYU5uUWNuaWJ3eDFua21Jc3N4dGl1djQ1RTlYSHRpRXVDRWN3ZVVGMEFHWk1tcURMQWxSYy1BV3d4bkROMnQwZHNuT24zdlo4SER2VFl1YkhvcHhSd0NmOGdBYUExY2dIMjRNdzlyQ1pEV0QtMzJpQ3Vxc20zbllhaEZMNUk?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-09-18",
+   "source": "Panrotas",
+   "title": "Gol decola primeiro voo do Rio de Janeiro para Lisboa com celebração no Galeão - Panrotas",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkdzSER3NlRqZW1vOUN2c2RBam5ST3VwVGVoOVQzT25sdnZUM1JKWTVBOFJPdHRGcjNEWG9qcFgwaTVDUElJbkQ1NFdBdHRfZVVyRGk2cXRsQkNERGFHTW9ocmxVb0M3d1prVVhvZndxSnpaejA3SFdYTHlmODdwZDNyM0Z1dmVVa29VTmdscEdpVi1JRUJFVV9JaTZleUw5LWxXYnd1QzRwQTQ2bkc3SjY5LWtRUjJrazl1UUZXcmVlTC1WUV9tSXNTOXJDeW8yeGJBNy1sYldRbVJUUll3?oc=5"
   },
   {
    "airlines": [
@@ -211,6 +255,28 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeW9aY3E1Q2RxUGpZbU53bjZuaE5vc1JoV2hlcDVVSkV0TUU5TmJ1bWhpMjFSWHNMV01sZXBmek56cVpBZFZOVUFHay1HT3FxUXZBZEV1VXI5dnc4OEJFOHZ0RkNCaUpiSTBRNlJoTFN4LU84R29iYUIzUTN4WXRsSk5sRHl3ZnEzdkE1dGptVFRobjJDbkxiM2lXakVtcU9KeFE?oc=5"
   },
   {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-17",
+   "source": "LUSA",
+   "title": "Tripulantes da easyJet em greve de 02 a 06 de outubro e de 19 a 23 de dezembro - LUSA",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQS1KX0VxcDQ5M2xGaXl2Q21Fa1VVS3VsRVU1T0lIdGE0X2hEQWlaUGF5RGtDa2NLNUJjSjBxXzd2LXhLRy01RHdhUDJtVnJ0ZkNFVFlORUxpcnJabXlaZkZCUjhmUVZKN1FUVUJaT0JvTFM0bzhRNG5CUng1a1ZZWnFTLWE0QXVVNERkLU02dVphLWNKODZyR2g4aHNjaWp0ek5yYlN1emdJZkpfZTVPdzRDTFkwQQ?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-17",
+   "source": "Jornal SOL",
+   "title": "easyJet marca duas greves diferentes para outubro e dezembro - Jornal SOL",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSTRubTg5OHpVa0NDcktObW85VE5oVUx0RnVBbUQ4RE44NU5USjVldjlpblNaaE5XeVN1a3RpUDNPOTNMc2FVMUEtVHVYMUM1UnBYYUtfa1NxMEd1UnBvZTVyVGdUcFlIQUJEQzVOcEZWYXlobzN3Z29TNVR3MkFGN3NzV1JIWGF1QmZBa1BMSnNyWWs5ekZCWEVObkdaZUhSOFc1Ym9NbFN0ZUh5djZpa2pmQnRzSEp3Q0lVUENJbjZnZkNTSzdB?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "LIS"
@@ -275,6 +341,28 @@
    "source": "Panrotas",
    "title": "Gol chega à Europa com voo direto entre Rio de Janeiro e Lisboa - Panrotas",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdTI0a1B4clphSlp0d3BvNHcySlBCMHZVNE5tdXVWS2ROd0RJYmJpWlotUUJnVmU1cXFqdkRjTncweGQzd2JFMTdIMVNPWGJOajlFSzVFNmFUZ1c4a1IxdFhnTkNVVEEwMEJ0Q1VKYmJ5dDFEVlgwd256TGdPT2thYU8tczNlY0ZuamtFRW9Id2lMNGZPWWoyVXRTS2J5VDVUNXEwRDhKUzNTakFHakhvRnp3VXlKVHlHVHA4dFJockFxSzRxLU9kTHdSWQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-16",
+   "source": "kiosquedaaviacao.pt",
+   "title": "GOL inaugura esta quarta-feira a sua nova rota entre Lisboa e o Rio de Janeiro - kiosquedaaviacao.pt",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDdKampJUmdVS19wd3dpU2xjZ1lKVG9BcWZ6Z19HLXpydlFScGVwWE9uVWQwSm9pMDNYSUhRMFZrdnVERkl2R0l0MHFUdTNlVVBSSHNmRG5PRVpoWm5oZFY5SjlWNGlCNXdQcmdIQ3AzUXd3bVZSNVpzdG5fZ1VCZGVtY0NwQU03TmFZVU5GTVZwQ2hQQ2FGaTB5dzJManJUUzRqS0xmZ2ZKRUU?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-16",
+   "source": "diariodoturismo.com.br",
+   "title": "Rio ganha novo voo direto para Lisboa com conexões para mais de 30 destinos - diariodoturismo.com.br",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlFURFlXT1kyLVEzWEU0YUtEMUUtTXgyRF9pa2hoT3ZyTk5sNThCMFktLTFMd0ppaENUOFRNeHRBUEt4LVh1d3VwOFhjS3pITmdCWG04eGZCWlBYUjdhVXNxOG1oTHh6amVXQkpFQ1BRajkyMkdjSFB5M1dkZ0J3NlFRdjdvYkZPYm90VEJsVHBpWXh6OXdvRUMyWTZnSVdENk83U3dubE9NWWM?oc=5"
   },
   {
    "airlines": [
@@ -542,6 +630,15 @@
   {
    "airlines": [],
    "airports": [],
+   "category": "geral",
+   "published": "2026-09-09",
+   "source": "dnbrasil.dn.pt",
+   "title": "O jornal do Brasil em Portugal - dnbrasil.dn.pt",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaUY1NTZ3TnltUmd6Y2dONjhpVk83bEVQeFNmbXpuUVRkMHhUYm56Wkt3WThBTGJOTC01MVV5UzROWldmZmF6eGhKQ1hWMk9MaHpMQV82M0xqZDlJdHJEbzg5TE9tQm0tQkU2Ul8zR0NQT1BLczI1R2QyQXN5Unp1cFAyQWRSelFuVHo1cE94cDR2alZBaWZjYWZwLUJkRTgxbUdtaEVRaGhsZHR4WmdaZUlkT01vLWdWZVFyWi1qcnJKajhvVGJjT0lBRUo5bFlaYzYwN1J1UTMxcVRIYzFoR1p3?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
    "category": "greve",
    "published": "2026-09-08",
    "source": "CNN Portugal",
@@ -701,6 +798,17 @@
    "source": "theportugalnews.com",
    "title": "A Ryanair vai reduzir a oferta de voos no inverno - theportugalnews.com",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbEgxVE5xVWtieGV1WHQ3MnozN1oweGRmWUlpRUpnVTdYelZCWDVrLVhhRTd3aUJtMHBxb293amhvTUhkVDl0UkFlbXI5ZkU3WlN6VnB0eVMwNF9EdnQ5V21sZ3J0WGpWVER2YTI2ZHhSa1h0OEd5bkp4RXc1Q2h2QXRraS1uMk5HOWlxanFWcHdwajhMMHJfZ3J0M3V3STZTc21KdTV4LXRKRkV1U3Q0?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-09-03",
+   "source": "Panrotas",
+   "title": "Gol adicionará quinta frequência semanal na rota Rio-Lisboa em novembro - Panrotas",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV0Y4OHNoeVc2U3VKcWRVSmk4dkdHOURHWTlzRldOQ2xpNlJjZ1BZQkVDTWYzZ0VwM1JkNFlfbnA4YjJ0MW43Rk0tczNrRkhaT2otd2lzQm4wZW9wdTJYMTdwczI1NV9HM3gya2o1YldLSVVxcElmUXNuUkZiYjEzaVpaYlRTbjNFWkhmdmprbkJTTFpMTUFMWlBjbmdLZzlFdnh5VGRBcV9WcGtfanpYRTk0dkJNLUFVbWxLMU51N0Z0TWdWY0Q1SW54ZFVYOFotVXkta2t3?oc=5"
   },
   {
    "airlines": [
@@ -1118,6 +1226,17 @@
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNakdMRjIwZWhxT29wN0xpVndtakc2YUVQYzdpVDRkQTZUWE5rcHBSR2wzYmxQUjZUZ19GaU1NOWUyY1FZNk5hcmNoV1Nyck5tY01iTm5Kcm9aVnhlVGRiVkVEVExvVW1fN0gyeXEtM0N5UmJlVklHT3l2d0h2Z2dXWVRrVUY3ZmljWTNoNlhhX0hESUxBd0xIN0JxbHltMXQ4ZmZONThkUjBsTFZlX2VGZVkzb1NuSG5RLVB1TWhaV2JVQkdDUnR1WXR3Smc?oc=5"
   },
   {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "geral",
+   "published": "2026-08-27",
+   "source": "kiosquedaaviacao.pt",
+   "title": "American Airlines adiciona sete novos destinos: voo entre Filadélfia e o Porto é um dos destaques - kiosquedaaviacao.pt",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGRkZ2ZpVUlJd2RCa3JJUmhydkRWWEtjWXJjRVBtZ3VPR2NUd2phdXo0bTlKMk13NU9PNFpQcTF3MWdkakVZcFdOUkU5OHRnSjFlZUhGUjBfdXFlWDhPVGVMVXViS0d1aTFGRlVOTERMS2M4aV9PTEdHQWtzSzVnSVUtbm9qc09DV29vUU5FellEb3Q0MzU4ZXdoVDZZdDdUVDZnMzk5QzAtMlhMbkpnem1vOWFteTV5RXFGNkZJck9HcjQ?oc=5"
+  },
+  {
    "airlines": [
     "TP"
    ],
@@ -1199,139 +1318,6 @@
    "source": "Portugal Resident",
    "title": "O \"caos\" na chegada de passageiros ao aeroporto de Faro durou apenas uma hora e \"já foi resolvido\". - Portugal Resident",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS0p0d01jN0FsUWlvb3FvMWZEc3BJdzY5R0JYZGZkdXRlakswanBuZUhLZ2ZONVZtU3RfbHljenFhcERKQUZGUUprbUxDOEx1UmJ2ZVFCQUxMLS1NR1NkX1A5UWp6bElPZFk2QmdvM0R6SkI1MjZabWEyRFRhVDZFcmU0dXh6V0ZaMXIxRDZ3RlJ6Smk0UkRfcGVnTXBVVGp3WkowR0RNQm8xZGphWFpLVDU5TGdjRWxrbFFpQlo4OE9UUnJ4a2l2LUVtdGNLOThMWl9J?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "geral",
-   "published": "2026-08-22",
-   "source": "bemparana.com.br",
-   "title": "A nova ‘rota do tráfico internacional’ do PCC e CV passa pelo Porto do Paraná e terminais regionais - bemparana.com.br",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcFVTRUNuZWZVYWk4UzBCTi1GdXBqZGk4a2d3ZDA4dHlwUVlaRl94Vjh5S0FjY2QyQ1VCT20wNkRBYWh4ZmpSdDZqUEpHdFJwUWl5YUp3cTFZc2RuRlJFWWFvMGdadmVucVNVOWY4OHlCNFRRa2ZPLUZjdUFkOTNUQXlBdHFWSDZfYmx4TDZtV0VnNHU0Vm1vTUtjV0xIMVJjNXF1UXY4aEpUZWQtQ01zYXFUMUMyMWoyUnJMZWNoQnNJQlNDUkp3Q1NMalU1R2piM0p1a2pn0gHbAUFVX3lxTE1QR1o0UmQ0cDY3aW8tOXI5SVR1dl8wUEo1MTJuTjdzVnpZaXI5Wm9RX0J0N1o0WEJtU3lyVEIyRlIxcllfXzdUYjh5Y21PTGdjalhtZnh4UEFQVWs1REtFaXRjUS0ybDRVRGJud1VSMm95RExkOWhUZUNzTllvT1Z0MXhjMlljOHdLaC05djFnbVhuTjBfa2hPR0pzaXYydWM2YlF3MGhaRkI4bHJwME01ZHU5SEZubEVCSGpPYnYzWnUxbHVlRkwyenh3Sm5WSk9taGQ4V1dDOGRSbw?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "geral",
-   "published": "2026-08-22",
-   "source": "Bem Paraná",
-   "title": "A nova ‘rota do tráfico internacional’ do PCC e CV passa pelo Porto do Paraná e terminais regionais - Bem Paraná",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcFVTRUNuZWZVYWk4UzBCTi1GdXBqZGk4a2d3ZDA4dHlwUVlaRl94Vjh5S0FjY2QyQ1VCT20wNkRBYWh4ZmpSdDZqUEpHdFJwUWl5YUp3cTFZc2RuRlJFWWFvMGdadmVucVNVOWY4OHlCNFRRa2ZPLUZjdUFkOTNUQXlBdHFWSDZfYmx4TDZtV0VnNHU0Vm1vTUtjV0xIMVJjNXF1UXY4aEpUZWQtQ01zYXFUMUMyMWoyUnJMZWNoQnNJQlNDUkp3Q1NMalU1R2piM0p1a2pn0gHbAUFVX3lxTE1QR1o0UmQ0cDY3aW8tOXI5SVR1dl8wUEo1MTJuTjdzVnpZaXI5Wm9RX0J0N1o0WEJtU3lyVEIyRlIxcllfXzdUYjh5Y21PTGdjalhtZnh4UEFQVWs1REtFaXRjUS0ybDRVRGJud1VSMm95RExkOWhUZUNzTllvT1Z0MXhjMlljOHdLaC05djFnbVhuTjBfa2hPR0pzaXYydWM2YlF3MGhaRkI4bHJwME01ZHU5SEZubEVCSGpPYnYzWnUxbHVlRkwyenh3Sm5WSk9taGQ4V1dDOGRSbw?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-20",
-   "source": "NewsAvia",
-   "title": "TAP programa nova rota entre a cidade do Porto e o Sal (Cabo Verde) para outubro este ano - NewsAvia",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUV4ckhubnNVMjhIZGx2dnczd09ldXlQRmx1djNBYWJGQVVldEVmLWhZNEUtdXJpUjh6NjFWRnFScjZJMEkyZ3VNTE5FWllKRFZMOGduNFVuYU5rZG1rMWxLTHNJVlRiUDR1TmFicEk3dmRsODl4WEJTZHF5ZFJiT1lMc0NfeFhPbmpSbG5vX29MT2xBYUlabktHUHFyeWxadk9CVGREWnA0VWg1SkE?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-20",
-   "source": "The Portugal News",
-   "title": "TAP Air Portugal lança nova rota a partir do Porto - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmp6dGkwVUtTZ0VyRGszb1ZfTXh0WmhUMWQ5QXNrWmxVR21OLVFXWmJQQmk0dWhwOU00d1BZdXppOFVGVEF3dDYyRGx6NEp5YVJwWUFZejl6NTgxYUxTQ2g3Uktyek9hX29RaDcwVUN3MkdBS0tSSFpGbTNYU3Nja2h3QlhaOFAwWHY4T3RFajVUWEFvNE5SYW41NDk2RDRKZ1dWVGhFMDZxeG8zckRKVzRSaw?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-20",
-   "source": "The Portugal News",
-   "title": "A TAP Air Portugal lança uma nova rota a partir do Porto - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW5aOGlnQXZnaDRGRy1DcldTWHZvSFhOcGh2ZFJGSHFtanl2S0ZfNmRtM2FFVjg0N1ROdWNqLUpJX3NmMGVBSVUtYjNRNkl3cXpsUTlRSDdhemxTRG9CaEJILWs5TV9HRnNCeGZxVjJFS0JiZ2F1dGpPLVJtNzVtUmVNcHJvamNURkZaSDV0OVhUQkZQZG0wdmJiZ2NjbDN3cnJIYnh4ZW1GcmdzZjVrdEl4OA?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-20",
-   "source": "theportugalnews.com",
-   "title": "TAP Air Portugal lança nova rota a partir do Porto - theportugalnews.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmp6dGkwVUtTZ0VyRGszb1ZfTXh0WmhUMWQ5QXNrWmxVR21OLVFXWmJQQmk0dWhwOU00d1BZdXppOFVGVEF3dDYyRGx6NEp5YVJwWUFZejl6NTgxYUxTQ2g3Uktyek9hX29RaDcwVUN3MkdBS0tSSFpGbTNYU3Nja2h3QlhaOFAwWHY4T3RFajVUWEFvNE5SYW41NDk2RDRKZ1dWVGhFMDZxeG8zckRKVzRSaw?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-20",
-   "source": "theportugalnews.com",
-   "title": "A TAP Air Portugal lança uma nova rota a partir do Porto - theportugalnews.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW5aOGlnQXZnaDRGRy1DcldTWHZvSFhOcGh2ZFJGSHFtanl2S0ZfNmRtM2FFVjg0N1ROdWNqLUpJX3NmMGVBSVUtYjNRNkl3cXpsUTlRSDdhemxTRG9CaEJILWs5TV9HRnNCeGZxVjJFS0JiZ2F1dGpPLVJtNzVtUmVNcHJvamNURkZaSDV0OVhUQkZQZG0wdmJiZ2NjbDN3cnJIYnh4ZW1GcmdzZjVrdEl4OA?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-08-19",
-   "source": "nit.pt",
-   "title": "Ilha do Sal vai ficar mais perto com esta nova rota da TAP - nit.pt",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORm1HNzQwblZNTFNTVWJudllxZzBKVXYwVjRjSFY1Y0tGYzhpOWNzdHZpWVVrQThteXVYSVUxY09LR2F4d1FnalNIX1AwWXoxMjZEQnF2TUxmY003LWhrSDljQV9pcE9vaHloV0I4TXJoaVVsZ2JabjVJNXFsTzNqb2ZieE9CSzdrTjk4dHo4czdudFl2MkdndFNTa2llLWtwUEE?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-19",
-   "source": "AEROIN",
-   "title": "TAP planeja nova rota entre Porto e Ilha do Sal para o inverno europeu com voos semanais - AEROIN",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWklpMC1RLWYzZUlfODJDT2hkQWlISUVyQkZtV2lXSWIweFR4Snp2TmltZnVBeUJ4YXh1RTZYX3VlMFo1Y3dWbU5mVDgxZ092MGUtbGZiV0NndzhYdlFMUDZwZ0VMWldmR19GM1NDUU05S1l6WFVvSl9nNENlOEpfekZTN3drRVdldE5ob0U1UVlZWnZHdFVmVU1QeERWUEFwNW5yRDRUZmo3eWk10gGsAUFVX3lxTE5aSWkwLVEtZjNlSV84MkNPaGRBaUhJRXJCRm1XaVdJYjB4VHhKenZOaW1mdUF5QnhheHVFNlhfdWUwWjVjd1ZtTmZUODFnT3YwZS1sZmJXQ2d3OFh2UUxQNnBnRUxaV2ZHX0YzU0NRTTlLWXpYVW9KX2c0Q2U4Sl96RlM3d2tFV2V0TmhvRTVRWVladkd0VWZVTVB4RFZQQXA1bnJENFRmajd5aTU?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-19",
-   "source": "Tribuna Online",
-   "title": "Nova rota leva ferro-gusa de Minas a porto do ES com R$ 130 milhões - Tribuna Online",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJNTmNMU0tfZlFMUEVIa1cxd2hXcmhGQVBIckg5UVpZYzg3dUJhTGo1QzR4V0JnZWhjT2dVcm5lR0hvYW1wbmFsdmkya1gyMDB1ak1JR0ZnOHJmQmJsdGd0SzB3cEZpc01PTk42MjEyZDRyUmdZS1JBR0dsY19lOWxJUThVTmI5RTNpMUpKRFJMc0dTcXUyUUlKRmVEcmVxOTF0YXEwQjVTSVY4WktyeNIBuAFBVV95cUxNSWtKbTR2MXdUcUlPNTkxRkZycElwalR4dGlQWXBhdmtGNU81WkwzazhLa2tpc2ZCMjRSN2xhVHVaTmJGTy1oRTJfSmkxT2JSR1lRY3FMS280d25Ubm9wLXNNbDc3MzAzdzU2MEFkSlFUa1VaektJNWhCYjctUVZjZHJGbmFXRkMtenhqdkNvcGpkbHRKckRZbjVwVWRSSzZOaVRyWl9zaDI5N0YtdkpYejRHV2lXZlpq?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-08-19",
-   "source": "Portugal Resident",
-   "title": "A greve da Ryanair está marcada para 25 e 26 de julho. - Portugal Resident",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWRMVGpkMXpFSXNQb0V4dW9oTzJyVnFxMTVRLVp4bE5oZjNCOElocW4yZWM5WFNjTmNuVGRFUl83ZTU4YnVwd2otSUxveDRneVdjcWFadnV4RnRPMi1rMEwtMzI0Ulk3S0hIZDlVZnNnWlRqOXFOOFQ1anRDaG42YlB6VGpWcGZpSmRz?oc=5"
   }
  ]
 }
