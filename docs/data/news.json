@@ -26,6 +26,19 @@
    "airlines": [
     "U2"
    ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "greve",
+   "published": "2026-09-19",
+   "source": "New in Porto",
+   "title": "easyJet vai entrar em greve: viagens no feriado de outubro e no Natal em perigo - New in Porto",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFJzbWp4enVPTG1la2E1R1FteHFWMm5OUWVkMTlnTmNQZG1nQ1l3VUZXa0wzWmgxNnJyRHpEbzhGQW5UbUkwWDROREIzMVhsNnhvbFlGMFhzdk5haVRkM0llM3JCZ2NZbVB5MUZ0dWtkWnctVWNWT2Z3UEhVYlFQSHF5VzN5Zkl6eG1sZVRtZ0ljdTVqUDUyaEo0ZXA2YXpubXhlTkNTcVBTUGg5SlZkU2RiakJQdXpv?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
    "airports": [],
    "category": "greve",
    "published": "2026-09-18",
@@ -53,6 +66,17 @@
    "published": "2026-09-18",
    "source": "Panrotas",
    "title": "Gol decola primeiro voo do Rio de Janeiro para Lisboa com celebração no Galeão - Panrotas",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkdzSER3NlRqZW1vOUN2c2RBam5ST3VwVGVoOVQzT25sdnZUM1JKWTVBOFJPdHRGcjNEWG9qcFgwaTVDUElJbkQ1NFdBdHRfZVVyRGk2cXRsQkNERGFHTW9ocmxVb0M3d1prVVhvZndxSnpaejA3SFdYTHlmODdwZDNyM0Z1dmVVa29VTmdscEdpVi1JRUJFVV9JaTZleUw5LWxXYnd1QzRwQTQ2bkc3SjY5LWtRUjJrazl1UUZXcmVlTC1WUV9tSXNTOXJDeW8yeGJBNy1sYldRbVJUUll3?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-09-18",
+   "source": "panrotas.com.br",
+   "title": "Gol decola primeiro voo do Rio de Janeiro para Lisboa com celebração no Galeão - panrotas.com.br",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkdzSER3NlRqZW1vOUN2c2RBam5ST3VwVGVoOVQzT25sdnZUM1JKWTVBOFJPdHRGcjNEWG9qcFgwaTVDUElJbkQ1NFdBdHRfZVVyRGk2cXRsQkNERGFHTW9ocmxVb0M3d1prVVhvZndxSnpaejA3SFdYTHlmODdwZDNyM0Z1dmVVa29VTmdscEdpVi1JRUJFVV9JaTZleUw5LWxXYnd1QzRwQTQ2bkc3SjY5LWtRUjJrazl1UUZXcmVlTC1WUV9tSXNTOXJDeW8yeGJBNy1sYldRbVJUUll3?oc=5"
   },
   {
@@ -277,6 +301,17 @@
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSTRubTg5OHpVa0NDcktObW85VE5oVUx0RnVBbUQ4RE44NU5USjVldjlpblNaaE5XeVN1a3RpUDNPOTNMc2FVMUEtVHVYMUM1UnBYYUtfa1NxMEd1UnBvZTVyVGdUcFlIQUJEQzVOcEZWYXlobzN3Z29TNVR3MkFGN3NzV1JIWGF1QmZBa1BMSnNyWWs5ekZCWEVObkdaZUhSOFc1Ym9NbFN0ZUh5djZpa2pmQnRzSEp3Q0lVUENJbjZnZkNTSzdB?oc=5"
   },
   {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-17",
+   "source": "Kiosque da Aviação",
+   "title": "Tripulantes de Cabine da easyJet anunciam greve para início de outubro e véspera do Natal - Kiosque da Aviação",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDFIQnJVZjFQMTBBT0lmUXJSSlAybGJUelJycEtfdGw5OTU2TTlkNU1HVzREOGU3WWpOUi1jclgzVVFnVjNZX3ppNnc2M1JGLThLNW81Sy1CTElRWnBQSTNYYUhkelV6cWJuaUdPdTJYeE9KY3RhbldwcTM2T2JTcFZHNElPR0Z4UGJMZWJRVjh2dHZJZGhwZU4tZzFDcHFkd1QyQlpGRTlhdmlyRGJ5enhNVzVCUjB4R3c?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "LIS"
@@ -363,6 +398,28 @@
    "source": "diariodoturismo.com.br",
    "title": "Rio ganha novo voo direto para Lisboa com conexões para mais de 30 destinos - diariodoturismo.com.br",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlFURFlXT1kyLVEzWEU0YUtEMUUtTXgyRF9pa2hoT3ZyTk5sNThCMFktLTFMd0ppaENUOFRNeHRBUEt4LVh1d3VwOFhjS3pITmdCWG04eGZCWlBYUjdhVXNxOG1oTHh6amVXQkpFQ1BRajkyMkdjSFB5M1dkZ0J3NlFRdjdvYkZPYm90VEJsVHBpWXh6OXdvRUMyWTZnSVdENk83U3dubE9NWWM?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-16",
+   "source": "panrotas.com.br",
+   "title": "Lisboa-Rio: Embratur participa do lançamento da nova rota internacional da Gol - panrotas.com.br",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRy01b1RLX0tsbXlwdnl0ZVNSTk9aclQ3NkFnSjRRcW1ZNTBkdkZpR1NlcFBBbGp4eGZ6amMzYTFHRHJRc291ZHphWW9Ddy1rNk1QSndkeTVpMFdPWDF4c0tPOEtMZ1BkX1RZbXNpVmYzcUJyZWFBbDdZWHFKUGRLaVN1SWt5TEw3MDVtQ0JPSTdqTU5fcmpFUjNhWEJBeTcxVHpNSG05dk9jZTFXc3M2dkMtVGZBZGppeUdYMmdaNElHaHZYUGYyY0FtSnpIdW8xUFlWMld4ck13OTlQQm41MEFGcWVFejNv?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-09-16",
+   "source": "panrotas.com.br",
+   "title": "Gol chega à Europa com voo direto entre Rio de Janeiro e Lisboa - panrotas.com.br",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdTI0a1B4clphSlp0d3BvNHcySlBCMHZVNE5tdXVWS2ROd0RJYmJpWlotUUJnVmU1cXFqdkRjTncweGQzd2JFMTdIMVNPWGJOajlFSzVFNmFUZ1c4a1IxdFhnTkNVVEEwMEJ0Q1VKYmJ5dDFEVlgwd256TGdPT2thYU8tczNlY0ZuamtFRW9Id2lMNGZPWWoyVXRTS2J5VDVUNXEwRDhKUzNTakFHakhvRnp3VXlKVHlHVHA4dFJockFxSzRxLU9kTHdSWQ?oc=5"
   },
   {
    "airlines": [
@@ -811,6 +868,17 @@
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV0Y4OHNoeVc2U3VKcWRVSmk4dkdHOURHWTlzRldOQ2xpNlJjZ1BZQkVDTWYzZ0VwM1JkNFlfbnA4YjJ0MW43Rk0tczNrRkhaT2otd2lzQm4wZW9wdTJYMTdwczI1NV9HM3gya2o1YldLSVVxcElmUXNuUkZiYjEzaVpaYlRTbjNFWkhmdmprbkJTTFpMTUFMWlBjbmdLZzlFdnh5VGRBcV9WcGtfanpYRTk0dkJNLUFVbWxLMU51N0Z0TWdWY0Q1SW54ZFVYOFotVXkta2t3?oc=5"
   },
   {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-09-03",
+   "source": "panrotas.com.br",
+   "title": "Gol adicionará quinta frequência semanal na rota Rio-Lisboa em novembro - panrotas.com.br",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV0Y4OHNoeVc2U3VKcWRVSmk4dkdHOURHWTlzRldOQ2xpNlJjZ1BZQkVDTWYzZ0VwM1JkNFlfbnA4YjJ0MW43Rk0tczNrRkhaT2otd2lzQm4wZW9wdTJYMTdwczI1NV9HM3gya2o1YldLSVVxcElmUXNuUkZiYjEzaVpaYlRTbjNFWkhmdmprbkJTTFpMTUFMWlBjbmdLZzlFdnh5VGRBcV9WcGtfanpYRTk0dkJNLUFVbWxLMU51N0Z0TWdWY0Q1SW54ZFVYOFotVXkta2t3?oc=5"
+  },
+  {
    "airlines": [
     "TP"
    ],
@@ -1248,76 +1316,6 @@
    "source": "Melhores Destinos",
    "title": "Bons preços de executiva para Europa! Voos para Lisboa desde R$ 8.837 ida e volta com Latam, TAP e Gol - Melhores Destinos",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uTUg0UVNidE41X2cxcUZBMGtCSXlycXJnOHhsRWVnajR3Z1dUNEhfdFJTSXlUUFo2UHlpMU83eWpzUzhxTUlaZ3kxaTU4Vl9qalB6Y1Q3QkM4YkFUU3RHVTk0bWxKV0V3elpLWV9uTXVYRjlLZnJwT0h1SzVfdw?oc=5"
-  },
-  {
-   "airlines": [
-    "HV"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-08-25",
-   "source": "Dinheiro Vivo",
-   "title": "Transavia inaugura rota entre Ponta Delgada e Bruxelas no verão de 2027 - Dinheiro Vivo",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXllMTZnbVpjVGM3elMtZHlPMmdTbTBpVmEwTURVYzMtZHpuekNsNkJfSGpseEx1cS1RdkkzWkNaalZNaEU0RzZQWEZ6NFYwY3Q1NWVDeG9IbHJ4STBuQWUyVkRKZTV2MW9KVFB0bEhndDNFNUJDUWI0YUlyeVNVc1QxUlMxa1RTR3ZTUHI4dkFTby1JdzlkNHd1d2p1ZzdwbWdRMVF5dTQ?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-25",
-   "source": "VIVA! Porto - Tudo sobre o Grande Porto",
-   "title": "TAP anuncia novo voo direto do Porto para a paradisíaca Ilha do Sal - VIVA! Porto - Tudo sobre o Grande Porto",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlRNMkc1YzJBN1lCcWVTVFBUWDM0bG1LNDdIVFBVdnNlaXBXNFFWUlRhV2ItbjZwQTB3Tk9ralU2TEc2ZFdnX0JiTzVfOW9yRWphd1hDd3hBVl9xbTBfcUVDemw5OEtsSUxZM0V6Ul9UNUNOUHpSdFNxVjZab1RVQmdacy0xN21MN1dfMFRpdlJ0TXRW?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-08-25",
-   "source": "viva-porto.pt",
-   "title": "TAP anuncia novo voo direto do Porto para a paradisíaca Ilha do Sal - viva-porto.pt",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSlRNMkc1YzJBN1lCcWVTVFBUWDM0bG1LNDdIVFBVdnNlaXBXNFFWUlRhV2ItbjZwQTB3Tk9ralU2TEc2ZFdnX0JiTzVfOW9yRWphd1hDd3hBVl9xbTBfcUVDemw5OEtsSUxZM0V6Ul9UNUNOUHpSdFNxVjZab1RVQmdacy0xN21MN1dfMFRpdlJ0TXRW?oc=5"
-  },
-  {
-   "airlines": [
-    "HV"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-08-25",
-   "source": "dinheirovivo.dn.pt",
-   "title": "Transavia inaugura rota entre Ponta Delgada e Bruxelas no verão de 2027 - dinheirovivo.dn.pt",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXllMTZnbVpjVGM3elMtZHlPMmdTbTBpVmEwTURVYzMtZHpuekNsNkJfSGpseEx1cS1RdkkzWkNaalZNaEU0RzZQWEZ6NFYwY3Q1NWVDeG9IbHJ4STBuQWUyVkRKZTV2MW9KVFB0bEhndDNFNUJDUWI0YUlyeVNVc1QxUlMxa1RTR3ZTUHI4dkFTby1JdzlkNHd1d2p1ZzdwbWdRMVF5dTQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "geral",
-   "published": "2026-08-25",
-   "source": "Jornal de Notícias",
-   "title": "Açores ganham nova ligação direta aos EUA. Porto mantém voo para Nova Iorque - Jornal de Notícias",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM1NjdzhybWlqMXowRTRtRG5KZjh5TmV0SlM2U01ydkx6VGtsNERPeW5GQ1RTT0NKa0NMX1VQQmFIWmNOMTdhMGtjNVpmZUZEMUtsSmVWdWdrRjF0XzBETHRYUDdxdGZfNDBqR1U5UndXVjY0MmFPaHExUUtMQkN0Y1ZibnZjMmFqRzVkOTNvQUVTMGI2djAtMnVBeGlhcXltVmxxT2taREg2dGVKeTl5WFRnWUZ4S0FOczZTTmhwdWxsUdIBqgFBVV95cUxPQmp3NmRoMTBOMlFIamcxbjc3aWFUb1ZJcHF5cDFsRDAyYm5OdDY3OVN2QlJZbXg0OXI4em1lYm5DQTVxbnhRRW83LWdFN1VtM2h5WFY0WnRiU04zNjJpQmkteEVLemhFQzV5OWdxUEc2ZVIyOXlZY21uU21jckg3RFlZVW1zdWI4OHdNdWMxMXlFaVB3eVhSWFBkXzRMRUlBc1N0a1pCVjFBdw?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "FAO"
-   ],
-   "category": "problema",
-   "published": "2026-08-22",
-   "source": "Portugal Resident",
-   "title": "O \"caos\" na chegada de passageiros ao aeroporto de Faro durou apenas uma hora e \"já foi resolvido\". - Portugal Resident",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS0p0d01jN0FsUWlvb3FvMWZEc3BJdzY5R0JYZGZkdXRlakswanBuZUhLZ2ZONVZtU3RfbHljenFhcERKQUZGUUprbUxDOEx1UmJ2ZVFCQUxMLS1NR1NkX1A5UWp6bElPZFk2QmdvM0R6SkI1MjZabWEyRFRhVDZFcmU0dXh6V0ZaMXIxRDZ3RlJ6Smk0UkRfcGVnTXBVVGp3WkowR0RNQm8xZGphWFpLVDU5TGdjRWxrbFFpQlo4OE9UUnJ4a2l2LUVtdGNLOThMWl9J?oc=5"
   }
  ]
 }
