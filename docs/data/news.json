@@ -2,6 +2,31 @@
  "items": [
   {
    "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-23",
+   "source": "A Próxima Viagem",
+   "title": "Greve da easyJet aproxima-se: o que acontece ao seu dinheiro se o voo for cancelado? - A Próxima Viagem",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3NpSDdzeWZwdDl5Y3k1VjJDMldVWnItdjlCVHkybmZTUHRkUnNrZWQ4NWdhRGxqRnQtWjdMV3ctNG10SnBpVlpCeVZ2aEpRSng5RGl2VEhQUG05QzFacmxvVjRkZWVSZ0hiMHduZURIVkRodnFLQlEyRGJtWWNfZnpFQzBFMmx0MlV1TzY3WkhnUQ?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "LIS",
+    "OPO"
+   ],
+   "category": "geral",
+   "published": "2026-09-23",
+   "source": "Melhores Destinos",
+   "title": "Portugal! Voos diretos da TAP para Lisboa ou Porto a partir de R$ 3.181 em até 10x sem juros - Melhores Destinos",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3FlRVVsMEI4Y2EycjVPQlQ0QzR6M3BycG9PZWpHRGF0ZFJsTHVEeTVxT1VBZjRPLWZER1NHNmhKeXdPaTZ2ak55LXFZTl9DejVmd0NUY0dod044Vk53b2lQRHMzZFgxN1U2dkpBMXJDS2N3el83d1FzaTdkbkhLMGRseVo5azFUcFJLQmFHdW5sX0N0a0xfLQ?oc=5"
+  },
+  {
+   "airlines": [
     "TP"
    ],
    "airports": [
@@ -60,6 +85,32 @@
    "source": "SAPO",
    "title": "Soltrópico garante lugares em novo voo direto da TAP Porto-Ilha do Sal neste inverno - SAPO",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVWRYRFRETkFkX19tNUd6dFVIR3hPODlDSDlYWWtydkhIMEdfQ3FweDFfNFRwVW1Vd3VWd2VOeTZOaTU2bzNaQjBaVlAtaGUtdWpremNwZ1JaVjRRRTMtOU1VOU1IZGhlNG5MNkNyRGVIYnpvM1YzdlhabjhSN2NQX2ZJTFpNd2tqTGVmZ3YyV0dyeVJoSE1aUVNWLW9TZjFHLURrTnkybjJKTVJtRVVMMmNEWXR0dkpUUTZsMTlpNkxidXZrdGI1QlFrY1Q?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-09-22",
+   "source": "tnews.pt",
+   "title": "Soltrópico garante lugares no novo voo da TAP do Porto para a ilha do Sal este inverno - tnews.pt",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc1pNUFRCTU9BRkV5TFZaTVdHQ3lEdUVDZnFHZ2I3LV9kT3AtYXVOMTVGSV94UFhzNmZyX0gzV3d6bTlMUUxBTFQ1cnREeEJjZlZ0UkYwT0xnUFZfTy0tQlBuMGh2blFHTnAzQUtkUUJjQ01jR3Z4bjFxVl83WTUtX0JMZ0dFcFdWQ1hrdWVRQVhiTmFsNmRGOWs3QkplSTNCSklmbVJMSQ?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-09-22",
+   "source": "Turisver",
+   "title": "Soltrópico garante lugares no novo voo direto Porto-Sal da TAP neste inverno - Turisver",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMzI3MnVSTU1KUm9yQ2JpdF9TQVZjdGE2c0pQUWtlQzZEajUxQV9zWVFPaXE2UG9vYzJMOG9jdzFOSUpnM0hKRGNobWZTMzlkLTc0WlhrcWQySDNoaW9LSnI4ak10Zmhjd0JRQnZ0RDNJM013SFJZT29MMWdROXBvZVp1WDBQWWRYYUVpY1M1dzhwa1QzeDBQOFBB?oc=5"
   },
   {
    "airlines": [
@@ -133,6 +184,17 @@
    "source": "The Portugal News",
    "title": "A Ryanair lança voos especiais de outono a partir de Portugal - The Portugal News",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOEhxa04yZmoyNmdud00xUTZCeS1lal9MQW1OM0R5cElFQW16OC1SS3NveENOWTl0SnV1ZTAwS0JJNzRuUkhYNkxMUTlXdHh0YUc1N1NJMFlkTEx0Tmp2ZW5KMnkweHB2X2d6Qmh0bHIzTUdkQzhmNTlkZGVrQnV0TE83N0xGTkc5OWFpQTFyemp1WHZzX3BEVEpyZGtLb0VuSGx2dTUyVnFQbFB1ZEpTNGtLd3NUcHd0YXJaVmlZM1BGZw?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-20",
+   "source": "facebook.com",
+   "title": "Os tripulantes da easyJet anunciaram esta quinta-feira duas greves marcadas para 2 a 6 de outubro e de 19 a 23 de dezembro. Vão afetar 500 voos, os serviços mínimos serão negociados posteriormente. - facebook.com",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONHFvOU1od1VHdVVmT3h4NTRjbUFLd0Q2LVU0akF0dm5ib2VjUjBfNVdJbFoxdWx0UlpydklPNHVCNTkwSXlSdjctRUwyZ19zMTFaUXUzMjdOTmRnVTRyZWo0Wk1KWVBxTmZObFJWYXlCbUFhSG50eVpqRFBydEd6V09vWlEzcWFfYlppZk5vNndwc1Y1bHZ6M0dXQmlHaFRzMUpKVzZyeWNaRno5bmMwLXpLUFJoSTNNa0lPY3hCbjhsTzVUVjYwb3ExRHlNejBmcUNOTWxLQ0FWbXU3eXRv?oc=5"
   },
   {
    "airlines": [
@@ -871,6 +933,28 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTTJSN3oyNEdRZzVQa2lyREN3WFNWWEtiTW4yQW9mSkJwQjdGU2REN1dnTDV3eC1US2ZwTEVvRDZVWWZHTkZaMm50bS1vd09TV1kxQkhkOXVmbHU0bHRXTGV6c1BWRDRRTHpqVzVUT2Vzel9wVlZURnV5QWpHc2NEemg3WDVNa0RTUFZLU1A0WU1hTTBEdTlmWFFVZ0lOSGJnVTN1ZU1TMjZEN2gtVzFiYVhvcGhvNnlWNDNPbzNxM3E?oc=5"
   },
   {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-15",
+   "source": "nit.pt",
+   "title": "Mega saldos da easyJet estão de volta com voos mais baratos para Europa e África - nit.pt",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDM2S0k2dXN1MWJpMU9PYTFwZ2hCUkctcEppMHl5RENOdWNNVGk2TzNzRjc4dkhSZzAxMnN5MGNfUFlWbTE5SF8yMGx3azZMN3hKM29uaFE5Nk5tcWtkc181YVJlc0NBck1HTzctVk9UbUlYTW5va0JVa1BoVnE3T1hsMGRJakM4M2FnZF9QRzhuUTdsQ25MRGlhcjBFc05FcDZBaTJmWTNzM3JqVk1RSnBPZHpMb0ROcWdnOXVLQQ?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-09-15",
+   "source": "A Próxima Viagem",
+   "title": "easyJet corta até 20% no preço dos voos: descontos abrangem viagens até março de 2027 - A Próxima Viagem",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5md2NaZ0tERlBUX1k1eWVyV2tHRlgyZUU3VHlSSkdlajlYREFMT3dDZVZicjdFYnhpSEdYcDRubnY4WDVzdVpBYWdjZUlZTUFkMDJwQzNKci1XR0tQNXFJc1FCMEdiUnZPQzB0aG1FaVpOZFVscFNGVWRkUDY?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [],
    "category": "greve",
@@ -1229,83 +1313,6 @@
    "source": "AEROIN",
    "title": "TAP Air Portugal anuncia preços reduzidos em voos em toda a sua malha, incluindo para o Brasil - AEROIN",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp1bDNJeUFFcDczUUZkUUpMUGJKTmZCNWotQVZWMGp3VDBXdEJ3YVVYRlJyd0NTcXNzZ2Y0UHRDQ2ZIN25WY1pnM3NvRXlycDVPeDF2SFFCSDhNcjlwYnA3YkNlNks4NW1DNk5ROWxDdm5XeEtDMU5BXzZsY0RwZjcyczhVYWF4ejlXdkdGNjd4ZFcyQWdtbVVJa3NrZU1LNWEwU2Q2OGxXTk9nazRfblJXQdIBswFBVV95cUxPdXp1bDNJeUFFcDczUUZkUUpMUGJKTmZCNWotQVZWMGp3VDBXdEJ3YVVYRlJyd0NTcXNzZ2Y0UHRDQ2ZIN25WY1pnM3NvRXlycDVPeDF2SFFCSDhNcjlwYnA3YkNlNks4NW1DNk5ROWxDdm5XeEtDMU5BXzZsY0RwZjcyczhVYWF4ejlXdkdGNjd4ZFcyQWdtbVVJa3NrZU1LNWEwU2Q2OGxXTk9nazRfblJXQQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-09-02",
-   "source": "The Portugal News",
-   "title": "Nova rota de ônibus conecta Lisboa com a Espanha a partir de €10 - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc2VwUnNzREZEbDVEc3I5aVpQc3pUMU1aQ3pKVUlNUDRfcERhMGxoNzJSTjhMS0lBcG1mY3Nub0loUkV3U01ZQnBlb3VCY3d6cVowX0tZckJRU0d0TVBHeUwwN29kUHhDc1ZMVF9YNEtMaEtXYTF6M3c4U3E1SzFYLVo0OUZsWHM2UVRtLVR3NksxV21JVDRhMVUwcTc2YjVac2s2dTdfNFpSc0ZjdC01M0RRc210cXB1cHpacGtBUTN1OHBR?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "promocao",
-   "published": "2026-09-02",
-   "source": "nit.pt",
-   "title": "Nova campanha da TAP tem voos para mais de 90 destinos desde 49€ - nit.pt",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWFmZE54YVIzYTJKako1MVNNWGdoQ05idTNjR2phRXZPUmdqaWVkUnlTOU5tMEtZY2VaYXNNQl9Ob0FIZ3hFNXVpRUpTc0t2NzlxN0wyemJIUjZmczdxRTljVWJRcTlHM2VUNGpKYktCTTJId1hzMmZUWnp4Z2ZQZ2hmeWItWkt3dUhRMXl3TkdoTkJaOTNIbENWM3BXQkZzUWxnaUFBMA?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "geral",
-   "published": "2026-09-02",
-   "source": "The Portugal News",
-   "title": "TAP anuncia promoções de preços de voos - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTDNFSVJHVndJdkVESFFHaEhQeG9xM3NHQ3BWSVJIMk1rT1JyamRPMXhyNWxsdDVKOUFrZ2xGTGtDRnVEM3dBN0FnZEl4djBvWEZqX1ZncWs4MHltUGhjMER5LVdINjlIT1FGUVppUXpKeXNyRUNmbDI1QzRIX2QtcGoySmZGdF9aYzFRSU13WmlGVTNncFpTX0RyQjJFa1AxOGc2Yw?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "geral",
-   "published": "2026-09-02",
-   "source": "The Portugal News",
-   "title": "A TAP anuncia promoções nos preços dos voos - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzZPNUc3U3I5d2syYU1OMlNHaFFxNURTazhEeVFuSWdFTURvVjFmdjRRR0dIZTljNmNFQzRUN3FwUXp6d1lZLTgzN1VlOUJIZ2FOQlNKS3hmaTRpX2tBcG9PZ3BzM0ZoaWlOSEtaQkJfREl5NWZPQ1piQXp4S1NKNjYyekJ0TDJjWXdUNlB1V21ZRExTRXcxODB5UWRoTS1nUnRFT3RuYw?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "geral",
-   "published": "2026-09-02",
-   "source": "aeroin.net",
-   "title": "TAP Air Portugal anuncia preços reduzidos em voos em toda a sua malha, incluindo para o Brasil - aeroin.net",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXp1bDNJeUFFcDczUUZkUUpMUGJKTmZCNWotQVZWMGp3VDBXdEJ3YVVYRlJyd0NTcXNzZ2Y0UHRDQ2ZIN25WY1pnM3NvRXlycDVPeDF2SFFCSDhNcjlwYnA3YkNlNks4NW1DNk5ROWxDdm5XeEtDMU5BXzZsY0RwZjcyczhVYWF4ejlXdkdGNjd4ZFcyQWdtbVVJa3NrZU1LNWEwU2Q2OGxXTk9nazRfblJXQdIBswFBVV95cUxPdXp1bDNJeUFFcDczUUZkUUpMUGJKTmZCNWotQVZWMGp3VDBXdEJ3YVVYRlJyd0NTcXNzZ2Y0UHRDQ2ZIN25WY1pnM3NvRXlycDVPeDF2SFFCSDhNcjlwYnA3YkNlNks4NW1DNk5ROWxDdm5XeEtDMU5BXzZsY0RwZjcyczhVYWF4ejlXdkdGNjd4ZFcyQWdtbVVJa3NrZU1LNWEwU2Q2OGxXTk9nazRfblJXQQ?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "geral",
-   "published": "2026-09-02",
-   "source": "theportugalnews.com",
-   "title": "TAP anuncia promoções de preços de voos - theportugalnews.com",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTDNFSVJHVndJdkVESFFHaEhQeG9xM3NHQ3BWSVJIMk1rT1JyamRPMXhyNWxsdDVKOUFrZ2xGTGtDRnVEM3dBN0FnZEl4djBvWEZqX1ZncWs4MHltUGhjMER5LVdINjlIT1FGUVppUXpKeXNyRUNmbDI1QzRIX2QtcGoySmZGdF9aYzFRSU13WmlGVTNncFpTX0RyQjJFa1AxOGc2Yw?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "geral",
-   "published": "2026-09-02",
-   "source": "theportugalnews.com",
-   "title": "A TAP anuncia promoções nos preços dos voos - theportugalnews.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzZPNUc3U3I5d2syYU1OMlNHaFFxNURTazhEeVFuSWdFTURvVjFmdjRRR0dIZTljNmNFQzRUN3FwUXp6d1lZLTgzN1VlOUJIZ2FOQlNKS3hmaTRpX2tBcG9PZ3BzM0ZoaWlOSEtaQkJfREl5NWZPQ1piQXp4S1NKNjYyekJ0TDJjWXdUNlB1V21ZRExTRXcxODB5UWRoTS1nUnRFT3RuYw?oc=5"
   }
  ]
 }
