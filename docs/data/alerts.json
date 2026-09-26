@@ -14,15 +14,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-AGP",
-   "travel_date": "2026-10-14"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Madrid",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "OPO-MAD",
-   "travel_date": "2026-10-27"
+   "travel_date": "2026-10-20"
   },
   {
    "airline": "FR",
@@ -54,7 +46,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-MAN",
-   "travel_date": "2026-11-26"
+   "travel_date": "2026-10-22"
   },
   {
    "airline": "FR",
@@ -62,7 +54,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-LPL",
-   "travel_date": "2026-10-15"
+   "travel_date": "2026-11-06"
   },
   {
    "airline": "FR",
@@ -71,22 +63,6 @@
    "price": 14.99,
    "route": "FAO-LTN",
    "travel_date": "2026-10-07"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Barcelona",
-   "previous_min": 16.99,
-   "price": 15.99,
-   "route": "LIS-BCN",
-   "travel_date": "2026-11-23"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Marselha",
-   "previous_min": 15.99,
-   "price": 15.99,
-   "route": "LIS-MRS",
-   "travel_date": "2026-11-08"
   },
   {
    "airline": "FR",
@@ -99,35 +75,35 @@
   {
    "airline": "FR",
    "destination_name": "Roma Fiumicino",
-   "previous_min": 19.99,
+   "previous_min": 17.99,
    "price": 17.99,
    "route": "OPO-FCO",
    "travel_date": "2026-11-24"
   },
   {
    "airline": "FR",
-   "destination_name": "Frankfurt Hahn",
+   "destination_name": "Dublin",
    "previous_min": 19.99,
-   "price": 18.99,
-   "route": "FAO-HHN",
-   "travel_date": "2026-11-27"
+   "price": 17.99,
+   "route": "FAO-DUB",
+   "travel_date": "2026-11-14"
   },
   {
    "airline": "FR",
-   "destination_name": "Paris Beauvais",
+   "destination_name": "Frankfurt Hahn",
    "previous_min": 24.99,
    "price": 24.99,
-   "route": "OPO-BVA",
-   "travel_date": "2026-10-14"
+   "route": "OPO-HHN",
+   "travel_date": "2026-11-13"
   },
   {
    "airline": "FR",
    "destination_name": "Nápoles",
-   "previous_min": 39.99,
-   "price": 36.99,
+   "previous_min": 36.99,
+   "price": 33.16,
    "route": "LIS-NAP",
    "travel_date": "2026-10-29"
   }
  ],
- "date": "2026-09-25"
+ "date": "2026-09-26"
 }
