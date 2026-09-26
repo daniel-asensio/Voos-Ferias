@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-10-02",
+  "booking_end": "2026-10-03",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-09-25T11:48:36+00:00",
+  "collected_at": "2026-09-26T11:22:34+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -48,22 +48,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-09-27",
+  "booking_end": "2026-09-28",
   "booking_start": "2026-09-05",
-  "collected_at": "2026-09-25T11:50:00+00:00",
+  "collected_at": "2026-09-26T11:24:15+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 39.99€ dos últimos 25 dias de recolha. Voo mais barato a 2026-11-27.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 39.49€ dos últimos 26 dias de recolha. Voo mais barato a 2026-11-27.",
   "destinations": [
    "Frankfurt Hahn (HHN)"
   ],
-  "discount_text": "−53% vs. habitual",
+  "discount_text": "−47% vs. habitual",
   "id": "fr-queda-fao-hhn-3c0791b1",
   "origin_airports": [
    "FAO"
   ],
-  "price_from": 18.99,
+  "price_from": 20.99,
   "source": "price_drop",
-  "title": "Faro → Frankfurt Hahn a 18.99€ (−53% vs. habitual)",
+  "title": "Faro → Frankfurt Hahn a 20.99€ (−47% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-11-20",
   "url": "https://www.ryanair.com/pt/pt"
@@ -71,11 +71,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-09-27",
+  "booking_end": "2026-09-28",
   "booking_start": "2026-09-06",
-  "collected_at": "2026-09-25T11:50:00+00:00",
+  "collected_at": "2026-09-26T11:24:15+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 25 dias de recolha. Voo mais barato a 2026-11-07.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 26 dias de recolha. Voo mais barato a 2026-11-07.",
   "destinations": [
    "Barcelona (BCN)"
   ],
@@ -140,22 +140,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-09-27",
+  "booking_end": "2026-09-28",
   "booking_start": "2026-09-18",
-  "collected_at": "2026-09-25T11:50:00+00:00",
+  "collected_at": "2026-09-26T11:24:15+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 46.95€ dos últimos 25 dias de recolha. Voo mais barato a 2026-11-17.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 46.95€ dos últimos 26 dias de recolha. Voo mais barato a 2026-11-17.",
   "destinations": [
    "Edimburgo (EDI)"
   ],
-  "discount_text": "−49% vs. habitual",
+  "discount_text": "−53% vs. habitual",
   "id": "fr-queda-lis-edi-2ad4906c",
   "origin_airports": [
    "LIS"
   ],
-  "price_from": 23.99,
+  "price_from": 21.99,
   "source": "price_drop",
-  "title": "Lisboa → Edimburgo a 23.99€ (−49% vs. habitual)",
+  "title": "Lisboa → Edimburgo a 21.99€ (−53% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-11-17",
   "url": "https://www.ryanair.com/pt/pt"
@@ -186,11 +186,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-09-27",
+  "booking_end": "2026-09-28",
   "booking_start": "2026-09-20",
-  "collected_at": "2026-09-25T11:50:00+00:00",
+  "collected_at": "2026-09-26T11:24:15+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 25 dias de recolha. Voo mais barato a 2026-11-13.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 26 dias de recolha. Voo mais barato a 2026-11-13.",
   "destinations": [
    "Newcastle (NCL)"
   ],
@@ -273,6 +273,29 @@
   "title": "Porto → Edimburgo a 16.99€ (−37% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-10-08",
+  "url": "https://www.ryanair.com/pt/pt"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-09-28",
+  "booking_start": "2026-09-26",
+  "collected_at": "2026-09-26T11:24:15+00:00",
+  "confidence": "média",
+  "description": "Tarifa de hoje bem abaixo da mediana de 48.49€ dos últimos 26 dias de recolha. Voo mais barato a 2026-10-29.",
+  "destinations": [
+   "Nápoles (NAP)"
+  ],
+  "discount_text": "−32% vs. habitual",
+  "id": "fr-queda-lis-nap-f869fdf6",
+  "origin_airports": [
+   "LIS"
+  ],
+  "price_from": 33.16,
+  "source": "price_drop",
+  "title": "Lisboa → Nápoles a 33.16€ (−32% vs. habitual)",
+  "travel_end": null,
+  "travel_start": "2026-10-29",
   "url": "https://www.ryanair.com/pt/pt"
  }
 ]
