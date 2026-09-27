@@ -92,6 +92,28 @@
    "airlines": [
     "U2"
    ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-25",
+   "source": "dnoticias.pt",
+   "title": "Sindicato dos pilotos da easyJet France retira pré-aviso de greve para 1 e 2 de Outubro - dnoticias.pt",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObTQ1VUN6Q0x6bzMxQ1NXWU1ZYWZBLWNkclliUWpLdzNyUlBpakozNzlzM084X3B3M2ZRbGt6cG5Qa1NwQXprZDlKLV9NRVJmaEx3dlJ3c2xWS3hYMy1mYl8tZjU4RWdRb3VncmI3cnpZNVRtUWFkWGxfdHBJOEVUVmJlTzRYclVNTHd2YmZKR0hmV3B1WXdtVzhtamN5RG93RUgwRTROV0FTZG5VdEFuVF94Si16VnQ3ZHRHUDF6bEZUX3l1U3NwZDVhQnExQ3c?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-25",
+   "source": "ambitur.pt",
+   "title": "ANAV apela a acordo na easyJet e alerta para impacto da greve em passageiros e agências - ambitur.pt",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVHczSHdtS1VQNkJhNXUyNWVIUUl5MGoxa1VQRTlza25HZG8zbUw3cGEyMDFLY05iR1BQbHUwMHBjTHhPd0liUEpTd1BxSmJYd3VDUlhld0xfT2F3VEcxcTBzZGVZc0NSbXpiZE5CcFpXQV90Sko4RmhnYmNpc3BBQUI1RXltazIwYnQxd2ppVkV2Ull3Uy1kemU3aHpUVUg1VW5JWUlYTUdaM05wbUozag?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
    "airports": [
     "LIS",
     "OPO",
@@ -193,6 +215,17 @@
    "source": "Melhores Destinos",
    "title": "Portugal! Voos diretos da TAP para Lisboa ou Porto a partir de R$ 3.181 em até 10x sem juros - Melhores Destinos",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3FlRVVsMEI4Y2EycjVPQlQ0QzR6M3BycG9PZWpHRGF0ZFJsTHVEeTVxT1VBZjRPLWZER1NHNmhKeXdPaTZ2ak55LXFZTl9DejVmd0NUY0dod044Vk53b2lQRHMzZFgxN1U2dkpBMXJDS2N3el83d1FzaTdkbkhLMGRseVo5azFUcFJLQmFHdW5sX0N0a0xfLQ?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-23",
+   "source": "aproximaviagem.pt",
+   "title": "Greve da easyJet aproxima-se: o que acontece ao seu dinheiro se o voo for cancelado? - aproximaviagem.pt",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3NpSDdzeWZwdDl5Y3k1VjJDMldVWnItdjlCVHkybmZTUHRkUnNrZWQ4NWdhRGxqRnQtWjdMV3ctNG10SnBpVlpCeVZ2aEpRSng5RGl2VEhQUG05QzFacmxvVjRkZWVSZ0hiMHduZURIVkRodnFLQlEyRGJtWWNfZnpFQzBFMmx0MlV1TzY3WkhnUQ?oc=5"
   },
   {
    "airlines": [
@@ -866,6 +899,17 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3pHV2pmRWV0X0FhX2NxSnRGQnNDbG91b0stb2xsNm5UU1NZOGxEWnNUMFJ6U0tsTGVLZzRKRGc3dUVLb0VOakI5LVZFdmdRanBmZVNwNU5yRkxKbU5iVFBwdlFTdDVsYWsxZFhVRVRhbXVWUlVTT0g3SzVxN3ExeDNZWUhRR05SQ2tMWQ?oc=5"
   },
   {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-17",
+   "source": "Barlavento",
+   "title": "Tripulantes da easyJet marcam greve em outubro e dezembro - Barlavento",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HVGo5SkEySmRobldDNkpDdnZOcjdiUHpCSWlYOElpUnoxVHVhRVN6OExXek9LazlsRUF5djBSSTJnSkM0MmJYQVpUMzZUYW5sT21IUGFlcS0zc2ZYSVAtSkRtNUlJTUNkaDYwU2YxVDBwU3pmMkZ4Vg?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "LIS"
@@ -1285,44 +1329,6 @@
    "source": "Exame",
    "title": "Tecon Santos 10: o novo capítulo na disputa pelo megaterminal do Porto de Santos - Exame",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2ZHTG9CMFNjRGZzNnMzWTFpNkppZWZSdzB2dXM4aXoyYnNicGQzcUxvOVdadWVnT1ZrOVo1Z2FhajlpU3R0SVh4TmJhNE0ybnFrblJuMnZvWFNLY3dQdERsTUJJM3dReldYSXdVMXV6eXI5ZkQ5VG5Md3JtN2Y2WXNOY1JhdkE3MjJKUlQ0RDFaaEpWUjNQZQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "geral",
-   "published": "2026-09-11",
-   "source": "exame.com",
-   "title": "Tecon Santos 10: o novo capítulo na disputa pelo megaterminal do Porto de Santos - exame.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2ZHTG9CMFNjRGZzNnMzWTFpNkppZWZSdzB2dXM4aXoyYnNicGQzcUxvOVdadWVnT1ZrOVo1Z2FhajlpU3R0SVh4TmJhNE0ybnFrblJuMnZvWFNLY3dQdERsTUJJM3dReldYSXdVMXV6eXI5ZkQ5VG5Md3JtN2Y2WXNOY1JhdkE3MjJKUlQ0RDFaaEpWUjNQZQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "problema",
-   "published": "2026-09-09",
-   "source": "Diário de Notícias",
-   "title": "Aeroportos do Reino Unido vivem segundo dia de caos. Nove voos de Portugal para Londres são cancelados - Diário de Notícias",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWpNc3I4eUVncFZGcEdsekFzb3JDc2tYVDlUeHo0UVlQTDVsTlB1Y2E3TTNCNlF5dEZNdnU1NEdRYTc3aFM1MVJEd0lEUWFRZE1lenNpOERKd29tempfSmVuUVlzbERCSWNtNjRWNDhnaE9uZjZ1UjZwU0tuX294cko5WE9UM25UMFVZX1p6Tkg0N0pqVGlwdWxpU1pvSTlXaU93X0FCTEtxQ0gwNTBXRmxOeTZoUTRQY0RiVzdqTHZ3eUJNYUFjcERSdnE?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "problema",
-   "published": "2026-09-09",
-   "source": "Público",
-   "title": "Falha no controlo aéreo britânico cancela nove voos de Portugal para Londres - Público",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXBQbWFWdjlpdkcyUlNhblRqWmtZaVZsRFJfQ0lPX21ZTzBkdVdXZDk0bDB5WUlYSVp1YUN5REJ1RWZRNUtwYUZ5VlI3ZVpsSnV2VXlqeVh1NERPc1VaMThZekZ1Vm1JOXlMOUMwcmdIZ1djTTRCajNKaDN2eW1DYU15S2tGZVFKdENBeElCek9uOHZ2T3lGTU11dmxNbEpPZV9TbkR3XzVkaU94ZDN6U002QWVqVGNBa0dPdGxn?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "problema",
-   "published": "2026-09-09",
-   "source": "publico.pt",
-   "title": "Falha no controlo aéreo britânico cancela nove voos de Portugal para Londres - publico.pt",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXBQbWFWdjlpdkcyUlNhblRqWmtZaVZsRFJfQ0lPX21ZTzBkdVdXZDk0bDB5WUlYSVp1YUN5REJ1RWZRNUtwYUZ5VlI3ZVpsSnV2VXlqeVh1NERPc1VaMThZekZ1Vm1JOXlMOUMwcmdIZ1djTTRCajNKaDN2eW1DYU15S2tGZVFKdENBeElCek9uOHZ2T3lGTU11dmxNbEpPZV9TbkR3XzVkaU94ZDN6U002QWVqVGNBa0dPdGxn?oc=5"
   }
  ]
 }

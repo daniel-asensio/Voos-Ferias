@@ -2,6 +2,14 @@
  "alerts": [
   {
    "airline": "FR",
+   "destination_name": "Toulouse",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "LIS-TLS",
+   "travel_date": "2026-10-14"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Sevilha",
    "previous_min": 14.99,
    "price": 14.99,
@@ -14,7 +22,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-AGP",
-   "travel_date": "2026-10-20"
+   "travel_date": "2026-10-19"
   },
   {
    "airline": "FR",
@@ -23,14 +31,6 @@
    "price": 14.99,
    "route": "OPO-LPL",
    "travel_date": "2026-11-20"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Manchester",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "OPO-MAN",
-   "travel_date": "2026-11-14"
   },
   {
    "airline": "FR",
@@ -54,7 +54,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-LPL",
-   "travel_date": "2026-11-06"
+   "travel_date": "2026-10-15"
   },
   {
    "airline": "FR",
@@ -83,7 +83,7 @@
   {
    "airline": "FR",
    "destination_name": "Dublin",
-   "previous_min": 19.99,
+   "previous_min": 17.99,
    "price": 17.99,
    "route": "FAO-DUB",
    "travel_date": "2026-11-14"
@@ -92,18 +92,10 @@
    "airline": "FR",
    "destination_name": "Frankfurt Hahn",
    "previous_min": 24.99,
-   "price": 24.99,
+   "price": 23.99,
    "route": "OPO-HHN",
    "travel_date": "2026-11-13"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Nápoles",
-   "previous_min": 36.99,
-   "price": 33.16,
-   "route": "LIS-NAP",
-   "travel_date": "2026-10-29"
   }
  ],
- "date": "2026-09-26"
+ "date": "2026-09-27"
 }
