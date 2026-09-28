@@ -2,14 +2,6 @@
  "alerts": [
   {
    "airline": "FR",
-   "destination_name": "Toulouse",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-TLS",
-   "travel_date": "2026-10-14"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Sevilha",
    "previous_min": 14.99,
    "price": 14.99,
@@ -18,11 +10,19 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Valência",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "LIS-VLC",
+   "travel_date": "2026-10-30"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Málaga",
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-AGP",
-   "travel_date": "2026-10-19"
+   "travel_date": "2026-10-14"
   },
   {
    "airline": "FR",
@@ -31,6 +31,14 @@
    "price": 14.99,
    "route": "OPO-LPL",
    "travel_date": "2026-11-20"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Manchester",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-MAN",
+   "travel_date": "2026-11-14"
   },
   {
    "airline": "FR",
@@ -46,7 +54,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-MAN",
-   "travel_date": "2026-10-22"
+   "travel_date": "2026-11-26"
   },
   {
    "airline": "FR",
@@ -62,7 +70,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-LTN",
-   "travel_date": "2026-10-07"
+   "travel_date": "2026-10-14"
   },
   {
    "airline": "FR",
@@ -74,14 +82,6 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Roma Fiumicino",
-   "previous_min": 17.99,
-   "price": 17.99,
-   "route": "OPO-FCO",
-   "travel_date": "2026-11-24"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Dublin",
    "previous_min": 17.99,
    "price": 17.99,
@@ -90,12 +90,12 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Frankfurt Hahn",
-   "previous_min": 24.99,
-   "price": 23.99,
-   "route": "OPO-HHN",
-   "travel_date": "2026-11-13"
+   "destination_name": "Nápoles",
+   "previous_min": 33.16,
+   "price": 27.99,
+   "route": "LIS-NAP",
+   "travel_date": "2026-10-29"
   }
  ],
- "date": "2026-09-27"
+ "date": "2026-09-28"
 }
