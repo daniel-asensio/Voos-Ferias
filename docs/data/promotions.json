@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-10-06",
+  "booking_end": "2026-10-07",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-09-29T12:49:46+00:00",
+  "collected_at": "2026-09-30T12:31:56+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -48,22 +48,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-01",
+  "booking_end": "2026-10-02",
   "booking_start": "2026-09-05",
-  "collected_at": "2026-09-29T12:51:08+00:00",
+  "collected_at": "2026-09-30T12:33:32+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 38.99€ dos últimos 29 dias de recolha. Voo mais barato a 2026-11-22.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 38.49€ dos últimos 30 dias de recolha. Voo mais barato a 2026-11-13.",
   "destinations": [
    "Frankfurt Hahn (HHN)"
   ],
-  "discount_text": "−36% vs. habitual",
+  "discount_text": "−32% vs. habitual",
   "id": "fr-queda-fao-hhn-3c0791b1",
   "origin_airports": [
    "FAO"
   ],
-  "price_from": 24.99,
+  "price_from": 26.16,
   "source": "price_drop",
-  "title": "Faro → Frankfurt Hahn a 24.99€ (−36% vs. habitual)",
+  "title": "Faro → Frankfurt Hahn a 26.16€ (−32% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-11-20",
   "url": "https://www.ryanair.com/pt/pt"
@@ -140,22 +140,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-01",
+  "booking_end": "2026-10-02",
   "booking_start": "2026-09-18",
-  "collected_at": "2026-09-29T12:51:08+00:00",
+  "collected_at": "2026-09-30T12:33:32+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 46.95€ dos últimos 29 dias de recolha. Voo mais barato a 2026-11-24.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 46.20€ dos últimos 30 dias de recolha. Voo mais barato a 2026-11-24.",
   "destinations": [
    "Edimburgo (EDI)"
   ],
-  "discount_text": "−43% vs. habitual",
+  "discount_text": "−46% vs. habitual",
   "id": "fr-queda-lis-edi-2ad4906c",
   "origin_airports": [
    "LIS"
   ],
-  "price_from": 26.99,
+  "price_from": 24.99,
   "source": "price_drop",
-  "title": "Lisboa → Edimburgo a 26.99€ (−43% vs. habitual)",
+  "title": "Lisboa → Edimburgo a 24.99€ (−46% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-11-17",
   "url": "https://www.ryanair.com/pt/pt"
@@ -186,11 +186,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-01",
+  "booking_end": "2026-10-02",
   "booking_start": "2026-09-20",
-  "collected_at": "2026-09-29T12:51:08+00:00",
+  "collected_at": "2026-09-30T12:33:32+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 29 dias de recolha. Voo mais barato a 2026-11-13.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 30 dias de recolha. Voo mais barato a 2026-11-13.",
   "destinations": [
    "Newcastle (NCL)"
   ],
@@ -255,11 +255,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-09-26",
+  "booking_end": "2026-10-02",
   "booking_start": "2026-09-24",
-  "collected_at": "2026-09-24T11:44:31+00:00",
+  "collected_at": "2026-09-30T12:33:32+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 26.99€ dos últimos 22 dias de recolha. Voo mais barato a 2026-10-08.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 26.99€ dos últimos 28 dias de recolha. Voo mais barato a 2026-10-08.",
   "destinations": [
    "Edimburgo (EDI)"
   ],
@@ -278,11 +278,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-01",
+  "booking_end": "2026-10-02",
   "booking_start": "2026-09-26",
-  "collected_at": "2026-09-29T12:51:08+00:00",
+  "collected_at": "2026-09-30T12:33:32+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 47.99€ dos últimos 29 dias de recolha. Voo mais barato a 2026-10-27.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 47.49€ dos últimos 30 dias de recolha. Voo mais barato a 2026-10-27.",
   "destinations": [
    "Nápoles (NAP)"
   ],
@@ -291,11 +291,57 @@
   "origin_airports": [
    "LIS"
   ],
-  "price_from": 25.4,
+  "price_from": 24.99,
   "source": "price_drop",
-  "title": "Lisboa → Nápoles a 25.40€ (−47% vs. habitual)",
+  "title": "Lisboa → Nápoles a 24.99€ (−47% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-10-29",
+  "url": "https://www.ryanair.com/pt/pt"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-10-02",
+  "booking_start": "2026-09-30",
+  "collected_at": "2026-09-30T12:33:32+00:00",
+  "confidence": "média",
+  "description": "Tarifa de hoje bem abaixo da mediana de 29.16€ dos últimos 30 dias de recolha. Voo mais barato a 2026-10-28.",
+  "destinations": [
+   "Roma Fiumicino (FCO)"
+  ],
+  "discount_text": "−31% vs. habitual",
+  "id": "fr-queda-lis-fco-4cd05224",
+  "origin_airports": [
+   "LIS"
+  ],
+  "price_from": 19.99,
+  "source": "price_drop",
+  "title": "Lisboa → Roma Fiumicino a 19.99€ (−31% vs. habitual)",
+  "travel_end": null,
+  "travel_start": "2026-10-28",
+  "url": "https://www.ryanair.com/pt/pt"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-10-02",
+  "booking_start": "2026-09-30",
+  "collected_at": "2026-09-30T12:33:32+00:00",
+  "confidence": "média",
+  "description": "Tarifa de hoje bem abaixo da mediana de 24.34€ dos últimos 30 dias de recolha. Voo mais barato a 2026-11-24.",
+  "destinations": [
+   "Roma Fiumicino (FCO)"
+  ],
+  "discount_text": "−30% vs. habitual",
+  "id": "fr-queda-opo-fco-96f253d1",
+  "origin_airports": [
+   "OPO"
+  ],
+  "price_from": 16.99,
+  "source": "price_drop",
+  "title": "Porto → Roma Fiumicino a 16.99€ (−30% vs. habitual)",
+  "travel_end": null,
+  "travel_start": "2026-11-24",
   "url": "https://www.ryanair.com/pt/pt"
  }
 ]
