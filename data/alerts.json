@@ -6,7 +6,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-10-08"
+   "travel_date": "2026-10-15"
   },
   {
    "airline": "FR",
@@ -22,7 +22,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-AGP",
-   "travel_date": "2026-10-06"
+   "travel_date": "2026-10-13"
   },
   {
    "airline": "FR",
@@ -30,7 +30,23 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "OPO-MAD",
-   "travel_date": "2026-10-28"
+   "travel_date": "2026-10-27"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Milão Malpensa",
+   "previous_min": 15.99,
+   "price": 14.99,
+   "route": "OPO-MXP",
+   "travel_date": "2026-10-29"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Liverpool",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-LPL",
+   "travel_date": "2026-11-15"
   },
   {
    "airline": "FR",
@@ -42,11 +58,19 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Londres Stansted",
+   "destination_name": "Manchester",
    "previous_min": 14.99,
    "price": 14.99,
-   "route": "FAO-STN",
-   "travel_date": "2026-11-19"
+   "route": "FAO-MAN",
+   "travel_date": "2026-10-22"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Bristol",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "FAO-BRS",
+   "travel_date": "2026-10-08"
   },
   {
    "airline": "FR",
@@ -54,7 +78,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-LPL",
-   "travel_date": "2026-10-15"
+   "travel_date": "2026-11-13"
   },
   {
    "airline": "FR",
@@ -62,7 +86,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-LTN",
-   "travel_date": "2026-10-07"
+   "travel_date": "2026-10-14"
   },
   {
    "airline": "FR",
@@ -74,6 +98,14 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Roma Fiumicino",
+   "previous_min": 17.99,
+   "price": 16.99,
+   "route": "OPO-FCO",
+   "travel_date": "2026-11-24"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Dublin",
    "previous_min": 17.99,
    "price": 17.99,
@@ -82,17 +114,25 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Roma Fiumicino",
+   "previous_min": 21.99,
+   "price": 19.99,
+   "route": "LIS-FCO",
+   "travel_date": "2026-10-28"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Paris Beauvais",
-   "previous_min": 24.99,
+   "previous_min": 21.99,
    "price": 21.99,
    "route": "OPO-BVA",
-   "travel_date": "2026-10-14"
+   "travel_date": "2026-10-20"
   },
   {
    "airline": "FR",
    "destination_name": "Nápoles",
-   "previous_min": 27.99,
-   "price": 25.4,
+   "previous_min": 25.4,
+   "price": 24.99,
    "route": "LIS-NAP",
    "travel_date": "2026-10-27"
   },
@@ -105,5 +145,5 @@
    "travel_date": "2026-11-22"
   }
  ],
- "date": "2026-09-29"
+ "date": "2026-09-30"
 }
