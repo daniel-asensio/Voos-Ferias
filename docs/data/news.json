@@ -2,6 +2,70 @@
  "items": [
   {
    "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-30",
+   "source": "A Próxima Viagem",
+   "title": "Greve easyJet: voos e serviços mínimos de 2 a 6 de outubro - A Próxima Viagem",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLVBkUTNlMFVyMTEtOUx6UEx2UnBFR01oZ0NjUS0wMGltSFpmS2VGUjdHVFdQdXlZZU9KRFhEcFNGNllGNEN1N1BwNmFrUE12YVJCcFZuUVZnZ0hxNVpsU2s0bG8zMFlraGt2XzNtNUZLaEJuSzhmYV9uZ2JWSGhBSTR4RDg5Z1lZekE?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-30",
+   "source": "RTP Madeira",
+   "title": "Eduardo Jesus alerta para importância das ligações aéreas durante greve da easyJet (áudio) - RTP Madeira",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjRjeEdCampwb3BCd0xvTnhyUGp6Vi03SWhEMnNZaTJ1MUJYOXFWWVlIT3VUb3BSTk55Y09oRGhmTkpEX2hXaWdJdmpPdzR6TW9jTGpWalExY19tOXNnY1pwZ0M2RFBfcXN1U1ZmNGhsVHdwb1FTLUdtWmxwN3RCRU83VXhoMW80MTk5WlM0YVdtbzJ6cERqNGZ5dmo5UTBuSjU2V3U1Wk55Ujl6dFB1UmZzUy0yUEx4OFpLdHh3?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-30",
+   "source": "observador.pt",
+   "title": "Decretados serviços mínimos nos voos de Açores e Madeira para greve da função pública - observador.pt",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWlnei1PTFdPbzZnYU92a21sb3RnWEhhRlN2N1Zyd29iYktEaTJ0UzJUZVFjZVdBeWJDYlppdkZVWEdSQzI4WmdmYWVNMDFXaXVBck4wYkltb0RIVmwtZjlMWGoxdmxjN2xobHAyX09tR2FpZVBkZWRYcTFMb1dCM2I3ZFpFSjRvTExZYm8wS1hHbDVnS2ZXYTBEcEVzWFFQRWJhd0k0eExtbW01S2JmSjBZdkl1em45SmxZ?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-30",
+   "source": "dnoticias.pt",
+   "title": "Governo Regional considera serviços mínimos insuficientes face à greve da easyJet - dnoticias.pt",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWU4OHFtb3BQWnhDSDhXQWxBSzd4emRJSUJwWF9ocE1DOWZ4OHJzNWhQNFh1aThfN0JwVFBoSWVzVFJmZm01M0FBbzBoUW12a1JLSUJyZVhtVGdyVVBCZDgza1BmeE43VTlncEsyUDZpV1lsSjhQbFI2VVZxQi1MNDItQzREdDRUbU5KS0dmVWdjakNWWDNEQ0pmaHFLVE93RUtISGQzRzhZbW5EcHBWUG52djFGVWptZHNoYUpuTEVwdw?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-30",
+   "source": "sapo.pt",
+   "title": "Governo Regional considera serviços mínimos insuficientes face à greve da easyJet - sapo.pt",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREtoS2JKSXJnZTJoYlJheVVWZjREMkhrRzlZNUprZzdhV1BUbjNUUjJyT0RYLUNNcFhXb3NPOFYtMFlmWHNyR29ZQVg1ZGQ0VlFUV1A4QllNOTM4RVBaRk0tTDF5Rm9sODYtWThHYmpDbHhPc1NKTjVpQ3lxVVNWdjlrZkF6SEd6eDlSZG9xZE13a2dHMTFHZFJieTlhWUtDeUdTV2t6TnNNbHdqLXktUWdwNkFvSjNwRWdtWUdBcHdyV0x2WkRUVg?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-09-30",
+   "source": "Times Brasil | CNBC",
+   "title": "Evento em Lisboa debate latência e novas rotas de cabos submarinos entre Brasil, Portugal e países da África - Times Brasil | CNBC",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWjlUWXlEUl9pdTNlUjAyT3MzcExveHFnQlp6cFBXNFNRUVhhY1BTb3FILTh3Ry1SZ2xsU0xDYzBzUkJ3bGlXM2NRWjk3LUZQdjhqRFFFbGo1VV9VQ2JLQndac3ByQ0txNUszd0NDUTJYOGFrd0JUdGs1dWxiVzJxUzVCdzV3UFdKNERSMlpoRVEzOHJrdDFtRmJ6QlpLcVdrNXdCbUprUm5rNG1EQ25uN3p0Z2VHNElTYUVvMkhMLTZUY25ueTUxYng2VnZnNXJ2b24zelAzUWlXbjhWMzlvZENvYWY?oc=5"
+  },
+  {
+   "airlines": [
     "S4"
    ],
    "airports": [],
@@ -116,6 +180,17 @@
    ],
    "airports": [],
    "category": "greve",
+   "published": "2026-09-29",
+   "source": "observador.pt",
+   "title": "Greves na easyJet em outubro e dezembro já têm serviços mínimos decretados - observador.pt",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3BwNlU5dHJ6SEVudEpNRWpjekRNVF9zRGsycUJ3QlRxcWFjWVdJZnZDeVE2Ry1oVURyWHR2MXNxWE1zcnJxYVg1YzY2dk84djQ5b3hkT3hYSmxqX2E4aElEd0o5TUllM29qWVlnVWo0X3JRWkRxb3p0MVhXd29PT2pZOW8yUFFXM19oU0h4R2otVnZzdnhpbG5sZ0pYWUdiaDVyMVZXUC1JRGJn?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
    "published": "2026-09-28",
    "source": "A Próxima Viagem",
    "title": "Greve da easyJet começa esta semana: datas, voos em risco e direitos dos passageiros - A Próxima Viagem",
@@ -164,6 +239,17 @@
    "source": "Jornal de Notícias",
    "title": "Vai viajar pela easyJet? Cuidado com as greves - Jornal de Notícias",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUJkeFpRRVhyUVNydXFENGFlMFMzUmVBb2hLMDZPRjBjV0NBTXp3anBUMlVGdUdMVWJsX3dHME9VU1lmMjg3V0xyclFiSWVQWUl2RWNFZzRaSGZrdTU4SWJfcFR4SkFIbm9JS0w3ajN3NGZvRk5WWEJuUzU2enZ1WXRhM2xHeW41b1lFeGM1cVZ4VWdPTTU0M0NB0gGCAUFVX3lxTE10dWJaY3EzQ29GRldJc04weURNLW93M2FIcFlGZXR2akFoYWdpR2xaVXVuWU9TSnB1ZFc4cmtuSkFnYjBZeGNLTmZqa25xNV9rN0lQSzJJU3k5V2wtSVF0NkRZSHhrZjNvcEVFV01KY2o5X1h1NlYybHZzeE5lcmtGVEE?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "geral",
+   "published": "2026-09-27",
+   "source": "Público",
+   "title": "Fumo no interior da cabine obriga a aterragem de emergência no aeroporto do Porto | Aviação - Público",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdVhDbDBmdy1vN0ZBNWtqRWhsQ0owMmxUWmVPcHJuSW5WRklMREtiZU9lQVZJcGowYXRoLTgzRXNrVlhEMWZwQ3o5Y0k4U1dYWTFQblVKbnRCTjNOS2h6d3hVMGZDRHRnbXVNSmR2RGI0dmNoY2FVYWREUFR3YWJrSXRsV1JlbTJsVWk2b25oMGQzUUxFS1BDRFRvQWtiMWVHMDI4eDRuY3JnOHBBZDllLWF5RTZPeHZBY1F3c3VVWWFEQQ?oc=5"
   },
   {
    "airlines": [
@@ -386,6 +472,28 @@
    "source": "SIC Notícias",
    "title": "ANAV apela a acordo na easyJet para evitar greve em outubro e dezembro - SIC Notícias",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalR3ZHFXWG1QbkVGcXFaaUljcDZ2SHcxUlBPLXRXWVlOSi1oM3R3SHhVTmlEalZ3WnIzRmYtaHk0VTE3STNZSU12TGJCZE5PNmI0Y3UzN1JERXlFMWJLcWUwVko3VHprOXRWX1pYejlQUTNPZjY1YUd3M21VdmJuQWtiWk1JU0lhTkJySWNsUnljNEs2ai1FdlJTUWZ6T29pR0I0Q3lWaXF4bHlUNmZ1c3hnUVExYmc1a0E?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-24",
+   "source": "Correio da Manhã",
+   "title": "Agências de viagens apelam a acordo que evite greve na easyJet - Correio da Manhã",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmMxYU1mdWl1QUV3b0kyMFoxRkJ2d0VfR01XRTdHWFFWcW1mWTBQNnZzbzhyWGlzZTBsVDVYeHpLeVFPSmU5WFFtU1BrdVAxZ1hFRUc3ZEdXOHJWZVhQeVR0UDhiWmJ2aEJQOXJxcnBsY1FpeHJHRGF4c00tNnR0ZlhwbGQ2bzlqeEpKRG94NENLdTVWM3A1andUdkxBam5XLXZTdmdEVdIBogFBVV95cUxNN1QxYlpMQzl2TS0yLXZ3SC13b2huRzZIQVN6MW5hTHlJM0NjU0daQVIyNHg2TFl6RHNsTnB5aEZoYURKMHpCbjVVMThBakhpNm5qQm8tUUF1eVZ4aWVseHlwbTAyT3BNMlBMcEhOb1RxaHYzSnBFdVB4dy02cUdZeXlMRkxnLXFZV2lNZjV6MnkxbGUyMkNkcmNhZzVSMl9yblE?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-09-24",
+   "source": "JM Madeira",
+   "title": "Governo Regional exige serviços mínimos para assegurar ligações da Madeira durante greve da easyJet - JM Madeira",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVUZTVDg5ZURxdkVnT2ppVjVBYTJWMndyV08zczNmcFQ1TG9teXJPX1ZheFRZeldJMm56MHZ0RlBkcmdLYTBYX3hZdEF1RVh3NjlkUE5Cci1rdTNHT3lFN1cyYUlDbGlnTHpvV3BzVTRzMURXS3RqWGJaUHBwdmNxdVdZcVVyanExMUJJTkVGME1nSW1mcXU0a20tR0xFRENfcnZNNDBPMnZCRjRNb0dNa1Y3eS0zN1h2anVpLXlVMUhBTmlpRmZhOTk4UjFoMFJoQ2hOVDI2SGpVd1BoVW9QZFpXeWNxSHVucGhmc1dwbm5lUQ?oc=5"
   },
   {
    "airlines": [
@@ -1225,116 +1333,6 @@
    "source": "Diário do Turismo",
    "title": "Rio ganha novo voo direto para Lisboa com conexões para mais de 30 destinos - Diário do Turismo",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlFURFlXT1kyLVEzWEU0YUtEMUUtTXgyRF9pa2hoT3ZyTk5sNThCMFktLTFMd0ppaENUOFRNeHRBUEt4LVh1d3VwOFhjS3pITmdCWG04eGZCWlBYUjdhVXNxOG1oTHh6amVXQkpFQ1BRajkyMkdjSFB5M1dkZ0J3NlFRdjdvYkZPYm90VEJsVHBpWXh6OXdvRUMyWTZnSVdENk83U3dubE9NWWM?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "geral",
-   "published": "2026-09-16",
-   "source": "Panrotas",
-   "title": "Gol chega à Europa com voo direto entre Rio de Janeiro e Lisboa - Panrotas",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdTI0a1B4clphSlp0d3BvNHcySlBCMHZVNE5tdXVWS2ROd0RJYmJpWlotUUJnVmU1cXFqdkRjTncweGQzd2JFMTdIMVNPWGJOajlFSzVFNmFUZ1c4a1IxdFhnTkNVVEEwMEJ0Q1VKYmJ5dDFEVlgwd256TGdPT2thYU8tczNlY0ZuamtFRW9Id2lMNGZPWWoyVXRTS2J5VDVUNXEwRDhKUzNTakFHakhvRnp3VXlKVHlHVHA4dFJockFxSzRxLU9kTHdSWQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-09-16",
-   "source": "kiosquedaaviacao.pt",
-   "title": "GOL inaugura esta quarta-feira a sua nova rota entre Lisboa e o Rio de Janeiro - kiosquedaaviacao.pt",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDdKampJUmdVS19wd3dpU2xjZ1lKVG9BcWZ6Z19HLXpydlFScGVwWE9uVWQwSm9pMDNYSUhRMFZrdnVERkl2R0l0MHFUdTNlVVBSSHNmRG5PRVpoWm5oZFY5SjlWNGlCNXdQcmdIQ3AzUXd3bVZSNVpzdG5fZ1VCZGVtY0NwQU03TmFZVU5GTVZwQ2hQQ2FGaTB5dzJManJUUzRqS0xmZ2ZKRUU?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-09-16",
-   "source": "diariodoturismo.com.br",
-   "title": "Rio ganha novo voo direto para Lisboa com conexões para mais de 30 destinos - diariodoturismo.com.br",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlFURFlXT1kyLVEzWEU0YUtEMUUtTXgyRF9pa2hoT3ZyTk5sNThCMFktLTFMd0ppaENUOFRNeHRBUEt4LVh1d3VwOFhjS3pITmdCWG04eGZCWlBYUjdhVXNxOG1oTHh6amVXQkpFQ1BRajkyMkdjSFB5M1dkZ0J3NlFRdjdvYkZPYm90VEJsVHBpWXh6OXdvRUMyWTZnSVdENk83U3dubE9NWWM?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-09-16",
-   "source": "panrotas.com.br",
-   "title": "Lisboa-Rio: Embratur participa do lançamento da nova rota internacional da Gol - panrotas.com.br",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRy01b1RLX0tsbXlwdnl0ZVNSTk9aclQ3NkFnSjRRcW1ZNTBkdkZpR1NlcFBBbGp4eGZ6amMzYTFHRHJRc291ZHphWW9Ddy1rNk1QSndkeTVpMFdPWDF4c0tPOEtMZ1BkX1RZbXNpVmYzcUJyZWFBbDdZWHFKUGRLaVN1SWt5TEw3MDVtQ0JPSTdqTU5fcmpFUjNhWEJBeTcxVHpNSG05dk9jZTFXc3M2dkMtVGZBZGppeUdYMmdaNElHaHZYUGYyY0FtSnpIdW8xUFlWMld4ck13OTlQQm41MEFGcWVFejNv?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "geral",
-   "published": "2026-09-16",
-   "source": "panrotas.com.br",
-   "title": "Gol chega à Europa com voo direto entre Rio de Janeiro e Lisboa - panrotas.com.br",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdTI0a1B4clphSlp0d3BvNHcySlBCMHZVNE5tdXVWS2ROd0RJYmJpWlotUUJnVmU1cXFqdkRjTncweGQzd2JFMTdIMVNPWGJOajlFSzVFNmFUZ1c4a1IxdFhnTkNVVEEwMEJ0Q1VKYmJ5dDFEVlgwd256TGdPT2thYU8tczNlY0ZuamtFRW9Id2lMNGZPWWoyVXRTS2J5VDVUNXEwRDhKUzNTakFHakhvRnp3VXlKVHlHVHA4dFJockFxSzRxLU9kTHdSWQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-09-16",
-   "source": "colmeia.am.br",
-   "title": "Porto União pode integrar nova rota turística dedicada à cultura ucraniana - colmeia.am.br",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPamZ4Sy0zaXB4TnR4ZGI0NGw5d1BKYmplaDhybUFSNGZsc2MxSVoySHNseVJjalQ2Y1g3cHBrQW5nZkoxMEdWbGt2U1RsOUMzQU9IWC14VDd4bHlRV2RxRFY5TjlLdFpVUGNIOHpVTUNMSFdoSXZWUW40Nkk4bkE5ZDV4N0FUMWVrenN2RnJ0R01IREpWbkVwbEZ6ai1Zdw?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "geral",
-   "published": "2026-09-16",
-   "source": "jn.pt",
-   "title": "Há uma nova ligação a unir Lisboa e o Rio de Janeiro - jn.pt",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXNIX2NrdnpMVXRSNXhyczhTb2YteU1uaWFBX0EzVjRPOGNiaC01YmxfZUFuR2o2VEJneE1aOW16NktZc0ozTlhLRllxLXhBcFRDYTQ3UDlYT3pMWTk2RW1Uek41ZWUtRHl2M080SlIxS0tuMU91QVhTX01sdzFSbXVrd2VyakhmeUZ30gGLAUFVX3lxTE01c0hfY2t2ekxVdFI1eHJzOFNvZi15TW5pYUFfQTNWNE84Y2JoLTVibF9lQW5HajZUQmd4TVo5bXo2S1lzSjNOWEtGWXEteEFwVENhNDdQOVhPekxZOTZFbVR6TjVlZS1EeXYzTzRKUjFLS24xT3VBWFNfTWx3MVJtdWt3ZXJqSGZ5Rnc?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "geral",
-   "published": "2026-09-16",
-   "source": "Jornal de Notícias",
-   "title": "Há uma nova ligação entre Lisboa e o Rio de Janeiro - Jornal de Notícias",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPem5GbVp3SGlRYmtXbDg1NkpUN3NyYjBrMk5oc1dsVlNaV1F5a0FiWTRGY0JpMmswSWN6d3NURFIyd1JsNV9qdm10Mm1LaUw3SU5XUmxIVXpoZUcxMlc3OFRzbWdPMUt5Y0tDZVJsMVp0akNxWlM5dTYwYk03RHpMMm1LMEtsSzJGekIyeG16bGVhSU5MU1JEU3hXd2ZuYm5meFNV0gGLAUFVX3lxTE01c0hfY2t2ekxVdFI1eHJzOFNvZi15TW5pYUFfQTNWNE84Y2JoLTVibF9lQW5HajZUQmd4TVo5bXo2S1lzSjNOWEtGWXEteEFwVENhNDdQOVhPekxZOTZFbVR6TjVlZS1EeXYzTzRKUjFLS24xT3VBWFNfTWx3MVJtdWt3ZXJqSGZ5Rnc?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "geral",
-   "published": "2026-09-16",
-   "source": "jn.pt",
-   "title": "Há uma nova ligação entre Lisboa e o Rio de Janeiro - jn.pt",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPem5GbVp3SGlRYmtXbDg1NkpUN3NyYjBrMk5oc1dsVlNaV1F5a0FiWTRGY0JpMmswSWN6d3NURFIyd1JsNV9qdm10Mm1LaUw3SU5XUmxIVXpoZUcxMlc3OFRzbWdPMUt5Y0tDZVJsMVp0akNxWlM5dTYwYk03RHpMMm1LMEtsSzJGekIyeG16bGVhSU5MU1JEU3hXd2ZuYm5meFNV0gGLAUFVX3lxTE01c0hfY2t2ekxVdFI1eHJzOFNvZi15TW5pYUFfQTNWNE84Y2JoLTVibF9lQW5HajZUQmd4TVo5bXo2S1lzSjNOWEtGWXEteEFwVENhNDdQOVhPekxZOTZFbVR6TjVlZS1EeXYzTzRKUjFLS24xT3VBWFNfTWx3MVJtdWt3ZXJqSGZ5Rnc?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-09-15",
-   "source": "RTP",
-   "title": "Tripulantes da easyJet reúnem-se em assembleia de emergência e sindicato não exclui greve - RTP",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZUV2aGtRUW9kNlVaYlduRmFQSk9pbk9HNmhWUVFJVGxVSktkZjhXX2pRWmMtejdTWjlrRlVNM3NEMnBvTC0yMUxINGxkTGlOTnRWZDZlcDg3U2lpQjZneW5abFRpR2VidlFSOTBnUVd0THdJTnI4WmMzVkhDLUVvZ0xnSXowNlB5SUJCZlRJYjNuRUU2UjUtSm9tTkN5YVp5a01WYTdmV0hsM3VNck1pbV9PdmJnUmV6T3ludGtmVUF2bE94cVpUVzRENmg5Si1I?oc=5"
   }
  ]
 }
