@@ -6,7 +6,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-10-29"
+   "travel_date": "2026-10-22"
   },
   {
    "airline": "FR",
@@ -14,7 +14,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-VLC",
-   "travel_date": "2026-12-11"
+   "travel_date": "2026-11-20"
   },
   {
    "airline": "FR",
@@ -50,6 +50,14 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Manchester",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "FAO-MAN",
+   "travel_date": "2026-10-22"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Liverpool",
    "previous_min": 14.99,
    "price": 14.99,
@@ -62,7 +70,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-NCL",
-   "travel_date": "2026-12-11"
+   "travel_date": "2026-11-20"
   },
   {
    "airline": "FR",
@@ -70,23 +78,31 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-LTN",
-   "travel_date": "2026-11-06"
+   "travel_date": "2026-10-21"
   },
   {
    "airline": "FR",
    "destination_name": "Nápoles",
-   "previous_min": 16.99,
+   "previous_min": 15.99,
    "price": 15.99,
    "route": "LIS-NAP",
    "travel_date": "2026-12-01"
   },
   {
    "airline": "FR",
-   "destination_name": "Dublin",
-   "previous_min": 17.99,
-   "price": 17.99,
-   "route": "FAO-DUB",
-   "travel_date": "2026-11-14"
+   "destination_name": "Paris Beauvais",
+   "previous_min": 19.99,
+   "price": 19.99,
+   "route": "OPO-BVA",
+   "travel_date": "2026-12-17"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Budapeste",
+   "previous_min": 29.99,
+   "price": 29.99,
+   "route": "LIS-BUD",
+   "travel_date": "2026-12-09"
   },
   {
    "airline": "FR",
@@ -97,5 +113,5 @@
    "travel_date": "2026-12-16"
   }
  ],
- "date": "2026-10-05"
+ "date": "2026-10-06"
 }
