@@ -10,11 +10,11 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Nápoles",
-   "previous_min": 15.99,
+   "destination_name": "Valência",
+   "previous_min": 14.99,
    "price": 14.99,
-   "route": "LIS-NAP",
-   "travel_date": "2026-12-01"
+   "route": "LIS-VLC",
+   "travel_date": "2026-11-20"
   },
   {
    "airline": "FR",
@@ -42,6 +42,14 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Bristol",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "FAO-BRS",
+   "travel_date": "2026-12-11"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Liverpool",
    "previous_min": 14.99,
    "price": 14.99,
@@ -62,7 +70,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-LTN",
-   "travel_date": "2026-12-17"
+   "travel_date": "2026-10-21"
   },
   {
    "airline": "FR",
@@ -74,11 +82,35 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Paris Beauvais",
+   "destination_name": "Birmingham",
+   "previous_min": 17.99,
+   "price": 17.99,
+   "route": "FAO-BHX",
+   "travel_date": "2026-12-20"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Belfast",
+   "previous_min": 17.99,
+   "price": 17.99,
+   "route": "FAO-BFS",
+   "travel_date": "2026-12-10"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Roma Fiumicino",
    "previous_min": 19.99,
-   "price": 18.99,
-   "route": "OPO-BVA",
-   "travel_date": "2026-12-17"
+   "price": 19.99,
+   "route": "LIS-FCO",
+   "travel_date": "2026-12-12"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Dublin",
+   "previous_min": 20.99,
+   "price": 19.99,
+   "route": "LIS-DUB",
+   "travel_date": "2026-12-12"
   },
   {
    "airline": "FR",
@@ -87,31 +119,7 @@
    "price": 20.99,
    "route": "LIS-CRL",
    "travel_date": "2026-12-10"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Dublin",
-   "previous_min": 20.99,
-   "price": 20.99,
-   "route": "LIS-DUB",
-   "travel_date": "2026-12-12"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Eindhoven",
-   "previous_min": 29.99,
-   "price": 27.99,
-   "route": "OPO-EIN",
-   "travel_date": "2026-12-16"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Budapeste",
-   "previous_min": 29.99,
-   "price": 29.99,
-   "route": "LIS-BUD",
-   "travel_date": "2026-12-09"
   }
  ],
- "date": "2026-10-07"
+ "date": "2026-10-08"
 }
