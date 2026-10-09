@@ -2,6 +2,63 @@
  "items": [
   {
    "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-09",
+   "source": "Jornal de Notícias",
+   "title": "SATA Handling em greve de 21 de outubro a 3 de novembro - Jornal de Notícias",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdi0wTHlCaEV0SFNkRXNZVzhkMlgteUF6Z09tYkRzekZxNVkzTmVnbkwycW1GSEVUSXR1aTJGXzhRUnF2cHFWVGFHbEhtRmRPbF9TaGo0a2JVRUhia0RZaTdHYmhpTnJiZmVCLVp0bXBFMmxkMTRBdnhhcGl4cy1sZlhrUXZlUktXVFM0ZzBhY0IzWVNqMWlHQ19qbzhWRlXSAY8BQVVfeXFMTkFaSzRacW9RSy00ZDBfdy02al9HdGhfZ1ZnNWNGcjJ0ZkdpaFNhTVVtQXdZdUtYUDczTFZEbmNaR3djcGZkSHIyT0RsOEJuVnhFeUVtU3VTNHFCQ3BaWjJfMTZodlNjYzJGc014M01QZFZVMVdtbm4tMVVVM0V6UGROOGQ0ZGFWWktsUEtUOWc?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-09",
+   "source": "dnoticias.pt",
+   "title": "Greve dos técnicos de diagnóstico e terapêutica paralisa vários serviços na Madeira - dnoticias.pt",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQTBCaEx4eHh1ZmxDcHhHSW5iUW9YRThZVUNjd3AzaUxDT0M0QmZnX0FMUkZxUFlxZWpRQzdxWHh4WHVTdEU2T3pXV0lnbXhqUk40YlJFbGV5WFdJXzExVmlfaEd2TWR2VlNsbHN1eTRjeGVpMk55VGpJUkt5U3RUM0tDR2Y4OFBia3lVaWF0RXJkbTNHMWJLVzhtd0IzY1RVODNwREFuSk1ybHhObkVwU096MU5TN2V2eC1PRm5XdzN2TnpE?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-09",
+   "source": "Jornal de Negócios",
+   "title": "Ryanair vai abrir três novas rotas em direção a Portugal, mas só chegam ao Porto - Jornal de Negócios",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzFab1MySHMyMndfU0ExcEtfNm90clhwZVVsM0lmNmRoQU1ueVdjVGFLb3BvNjQtb3ZKZGIyMVJCcG56TDF6Mm1Db0Q4OENwZk5OZWpuU3F1anhXcF9oYVJ2UHBhb2NrYjdGNWZlVExjQ3lDWkRORmowVDAzQXpCbDZzeG5pYTJqaW9odkdCdGRRWUlnei1hVXlKcHpBVzJoYTZjWkk2R2VQY1JsNWptSnNUclZYaWd0NGFXUVE5NkFLd2lIX2diU1BDamx5UEF2dGJGY2NtVWpmdlZTREFnWFd30gHcAUFVX3lxTE1TVVg1MV9JYVI3QVFFT1pKeUZrR1lfUGV2N2tqMTRQWXdGZ3BIU1NHZkl0MlM0QXlpbnJUSjNFMTlBSDFyVU94UFFSNWtOb2N3cnJBeW5Mci1SMHF0NnVlbXFQVFF0aUlQbnQxRV9QNzBKd1dqaHdjcTRsVExYYW5vMHVJaW9tTlNwV3dKZjBKLS1NYmRpOFlBbi1xTktMWUV1bDV1X1owMFVhRElMRnhkZVg5Q180UE1ybHFtUUlXb1NqajFrX0NnYWpLenltM3Vkdmw4Zy03NVdfY2c?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-09",
+   "source": "Presstur",
+   "title": "Ryanair anuncia três novas rotas do Porto para o Verão de 2027 - Presstur",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdVZCWnh3QXBpbm1pWlNCYVQ0S3doRjFnaV9ZQ1pvY0FTSkxaVVhBdEhhVEVaYTlONFZnMjF4QjBua3FnLUpEdnZCc1hmd2xEU1JrX2dhNTRzQzI1amhvZm13ZkRBaHN5czdvWnAtTjJ1RnNzT2RzcjJDTnAzYUpSSl9NS19qX0ZJTXZacg?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-09",
+   "source": "XINHUA Português",
+   "title": "Porto de Qingdao expande rede marítima internacional e soma 16 novas rotas de comércio exterior neste ano - XINHUA Português",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdG5JczFxZ3NXUEZ2SGdpZDB1THo3QzgtVmNkNHp6UUloRERLRndpNV9PcjZHYUwzcl9rZWlmQnF1dURKV05qZU1Rd3hYc1BxRzBQeTdOdkdUeFFVR1R1VzgzVnczcGdSdlpHSmthck1RMUo4R2RSNWFHdVFlWXE0NVRReWVKWkE?oc=5"
+  },
+  {
+   "airlines": [
     "U2"
    ],
    "airports": [],
@@ -21,6 +78,17 @@
    "source": "VOU SAIR",
    "title": "Saiba como é voar em classe executiva na nova rota da GOL entre Lisboa e o Rio de Janeiro - VOU SAIR",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3k5N0cyN3c1eDNNU2lKMjBvRFl4X1VWSlFfUXhDZTdQREdQMWpEZG1lbzRDcnpjOVdpWDZDSm1pcXBwVTZxZ284VzhPZDFVR1dLYTBtUWxUZV92aXBrZDM3V0t0VzkzbHVRWG5tNGppSnVBMXRYaTZnN1F5Q24td3UySDRhNU9oalM1d0kybGZscEdCWU1ZYjJKNWVIQzl5VllUa2haSTdHQkkyblE?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-08",
+   "source": "Distrito Online",
+   "title": "Greve easyJet cancela 443 voos e afeta bases em Portugal - Distrito Online",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHpfUHkyUDBiT1hjVC14RV91SktzeUlLMWZ2akF2YmtHb2hPTDh0UDB1cFNFVUM1bWFjZWpQanI3RFAyd3pXTnBlZXhYUlI5TmlLYy13eF9iWjNXdDBtcXpVV2R6RDVqWmlMVzJyN2hMa29VcmMwUk13b1Q1UFRmaUx4bktGNWF1RzN1SXAtc2xWYUhCZm1SSVJ4NFZYLVhuNGFFV3Z4a3FydlVOV0dvSQ?oc=5"
   },
   {
    "airlines": [
@@ -885,6 +953,17 @@
    ],
    "airports": [],
    "category": "greve",
+   "published": "2026-10-01",
+   "source": "Correio da Manhã Canadá",
+   "title": "Greve dos tripulantes da easyJet deverá afetar pelo menos 443 voos – sindicato - Correio da Manhã Canadá",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3RNVTVRTkNtSmxTem1oel9fc2ZkZU40ek1vYVRmYVc2TmtzSGVqQ0FTMm1LWFAxT1ltakNQX3JhMndhd0p1SkdpVEdraTFfSi0xbGk3SDIyYVFyTWQwZm9NcmxGSjlyYkZzM3lhUTVNRWhKTGtyT0dqZ1J5WDhYV1lSeUZDei02Zk15dkNXOFN4RXVmVm9jemU0bUJGWEVzN0U3cTJCYllMVHB5UGEwNk81d3c?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
    "published": "2026-09-30",
    "source": "A Próxima Viagem",
    "title": "Greve easyJet: voos e serviços mínimos de 2 a 6 de outubro - A Próxima Viagem",
@@ -1244,83 +1323,6 @@
    "source": "Jornal Açores 9",
    "title": "Sindicatos do handling da SATA anunciam vários períodos de greve - Jornal Açores 9",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGVkaGZIMGxCQjJPbVJCSDdtejdQalQ0QXBPNktvM3lkTXo2Y0c0N3dqOGE3cGJYWXJiZTc4LVhBaDlRQmhLY2JXeWwtNFZhUU1YOTV5Ylc5VHFIYVNMRmh3czVEUWs0Y3pfSFVGM2lpWC11ZEVqYUtNR0M5RC1weHB1eUtwbDRLRWw3dnFDUjA4Z1E2T0d0R1VkQWNaTDhPVDZv?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-09-29",
-   "source": "Açoriano Oriental",
-   "title": "Sindicatos do handling da SATA anunciam vários períodos de greve - Açoriano Oriental",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazZsYmg4alBTMUx5MVgxcUZxWmlvdHJuYUpuakdDX0pkbEU1dWdMYnE1Mng2bFAteENnanROOTB5MTQzTjhXdjVaTlE1RGRHVnhpa3FFcm9ENVRWTWVKOEhVajVhVlViekVKcDUyUmV0N29fZExkTjRaN3hvTEY4eWVXZ3NEMDBrVk40Nm15REQ1cXVEalBPOTUzVlE2QWQ5NW8wY3JGRFNJSWRlWlJYUdIBtgFBVV95cUxNUjZJQ0RGNE1RUHl3TnNma0lCRWx1a3NOZ0Y2dU1GRnhMY3Bnc0dmcEZRMlJ1MmpOT1UwWEZRaVZfcy1uekNqMzNCM3M4czRob0FYcjZ0UWxndzhKQU5xMnpzSV9kbm5SX1JvSWpRR0pLQ3JCZmtNUEFhMF9QVExYOXlrSjBya1h0emxRQnp2b0NmNnZ5NWY0MV8wcGstbER1MVNXMi1jUGVKeEJmOFU0RUJieV9nUQ?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-09-29",
-   "source": "RTP",
-   "title": "SATA permite alteração de viagens sem custos face à greve da Administração Pública - RTP",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVNHTlNLX0gwZlpmelJEUzVIYjJjamxWVmJja3hCT1B2LXBLeTkxblNvU1FFVnRISnJIYU1EOW5RYVZaMFU0SlM0UkZiSllLd2F1bkJpTHYwcTdIUnNualVXVGZ6aDdLT3pQVnJ6MmMxY3ZxcnpwLUhVTGhzMkpJOGFiZ3BJWXM2bWtFbkxhTGtsd1QxQUg1elJxZnBTNjFTZlFnLUItMWRBQUs4cG1adQ?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-09-28",
-   "source": "A Próxima Viagem",
-   "title": "Greve da easyJet começa esta semana: datas, voos em risco e direitos dos passageiros - A Próxima Viagem",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSU8zcHdnRFZWdnUyZjFFU0JIYTNJX3NqNFhoNnhualBXQktvbFRrYTFiYWI4MVhYblBmOTlQSF90QmZGUlNFR3lwUEVZYnFWcmdFZk4xaGppN0wzSnlkS25odGo2Ni1TZUluNTZpSldfUjFvdUpibWZiZEJ2UzFid3AtaThOR24zQVVNYkRGTlg2WWZRVVJBeDN4UmJXZw?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-09-28",
-   "source": "A Próxima Viagem",
-   "title": "Greve da easyJet é já esta semana: 500 voos em risco e serviços mínimos ainda por definir - A Próxima Viagem",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSU8zcHdnRFZWdnUyZjFFU0JIYTNJX3NqNFhoNnhualBXQktvbFRrYTFiYWI4MVhYblBmOTlQSF90QmZGUlNFR3lwUEVZYnFWcmdFZk4xaGppN0wzSnlkS25odGo2Ni1TZUluNTZpSldfUjFvdUpibWZiZEJ2UzFid3AtaThOR24zQVVNYkRGTlg2WWZRVVJBeDN4UmJXZw?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-09-27",
-   "source": "dnoticias.pt",
-   "title": "Greve na easyJet: que direitos têm os passageiros? - dnoticias.pt",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05DTkp1Ylhra3JYNEVsMWNzZFVONjFWd3JLVldTTTN4M2hnMlI1c2hGdkQ0VVhQS2ZnT1ZFTk02ajNVQzRLZkVkVVZjcmlBaXMzNUZnLWZGd01GamszbEIxN1ZrdHNUSUZTYW14U3FzaW1OVnpZYkxCTDRWdnZkVlJLWXIwUjZyRGJZcE14ZmNzYnczMWc?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-09-27",
-   "source": "jn.pt",
-   "title": "Vai viajar pela easyJet? Cuidado com as greves - jn.pt",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUJkeFpRRVhyUVNydXFENGFlMFMzUmVBb2hLMDZPRjBjV0NBTXp3anBUMlVGdUdMVWJsX3dHME9VU1lmMjg3V0xyclFiSWVQWUl2RWNFZzRaSGZrdTU4SWJfcFR4SkFIbm9JS0w3ajN3NGZvRk5WWEJuUzU2enZ1WXRhM2xHeW41b1lFeGM1cVZ4VWdPTTU0M0NB0gGCAUFVX3lxTE10dWJaY3EzQ29GRldJc04weURNLW93M2FIcFlGZXR2akFoYWdpR2xaVXVuWU9TSnB1ZFc4cmtuSkFnYjBZeGNLTmZqa25xNV9rN0lQSzJJU3k5V2wtSVF0NkRZSHhrZjNvcEVFV01KY2o5X1h1NlYybHZzeE5lcmtGVEE?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-09-27",
-   "source": "Jornal de Notícias",
-   "title": "Vai viajar pela easyJet? Cuidado com as greves - Jornal de Notícias",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUJkeFpRRVhyUVNydXFENGFlMFMzUmVBb2hLMDZPRjBjV0NBTXp3anBUMlVGdUdMVWJsX3dHME9VU1lmMjg3V0xyclFiSWVQWUl2RWNFZzRaSGZrdTU4SWJfcFR4SkFIbm9JS0w3ajN3NGZvRk5WWEJuUzU2enZ1WXRhM2xHeW41b1lFeGM1cVZ4VWdPTTU0M0NB0gGCAUFVX3lxTE10dWJaY3EzQ29GRldJc04weURNLW93M2FIcFlGZXR2akFoYWdpR2xaVXVuWU9TSnB1ZFc4cmtuSkFnYjBZeGNLTmZqa25xNV9rN0lQSzJJU3k5V2wtSVF0NkRZSHhrZjNvcEVFV01KY2o5X1h1NlYybHZzeE5lcmtGVEE?oc=5"
   }
  ]
 }
