@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-10-16",
+  "booking_end": "2026-10-17",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-10-09T13:14:03+00:00",
+  "collected_at": "2026-10-10T12:29:20+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -48,22 +48,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-03",
+  "booking_end": "2026-10-12",
   "booking_start": "2026-09-05",
-  "collected_at": "2026-10-01T13:11:54+00:00",
+  "collected_at": "2026-10-10T12:31:00+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 37.99€ dos últimos 31 dias de recolha. Voo mais barato a 2026-12-11.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 29.38€ dos últimos 40 dias de recolha. Voo mais barato a 2026-11-27.",
   "destinations": [
    "Frankfurt Hahn (HHN)"
   ],
-  "discount_text": "−34% vs. habitual",
+  "discount_text": "−35% vs. habitual",
   "id": "fr-queda-fao-hhn-3c0791b1",
   "origin_airports": [
    "FAO"
   ],
-  "price_from": 24.99,
+  "price_from": 18.99,
   "source": "price_drop",
-  "title": "Faro → Frankfurt Hahn a 24.99€ (−34% vs. habitual)",
+  "title": "Faro → Frankfurt Hahn a 18.99€ (−35% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-11-20",
   "url": "https://www.ryanair.com/pt/pt"
@@ -209,11 +209,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-11",
+  "booking_end": "2026-10-12",
   "booking_start": "2026-09-20",
-  "collected_at": "2026-10-09T13:15:40+00:00",
+  "collected_at": "2026-10-10T12:31:00+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 39 dias de recolha. Voo mais barato a 2026-11-18.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 40 dias de recolha. Voo mais barato a 2026-11-18.",
   "destinations": [
    "Marselha (MRS)"
   ],
@@ -278,11 +278,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-11",
+  "booking_end": "2026-10-12",
   "booking_start": "2026-09-26",
-  "collected_at": "2026-10-09T13:15:40+00:00",
+  "collected_at": "2026-10-10T12:31:00+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 43.67€ dos últimos 39 dias de recolha. Voo mais barato a 2026-12-01.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 43.33€ dos últimos 40 dias de recolha. Voo mais barato a 2026-12-01.",
   "destinations": [
    "Nápoles (NAP)"
   ],
@@ -347,22 +347,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-11",
+  "booking_end": "2026-10-12",
   "booking_start": "2026-10-01",
-  "collected_at": "2026-10-09T13:15:40+00:00",
+  "collected_at": "2026-10-10T12:31:00+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 27.99€ dos últimos 39 dias de recolha. Voo mais barato a 2026-12-20.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 27.42€ dos últimos 40 dias de recolha. Voo mais barato a 2026-12-20.",
   "destinations": [
    "Birmingham (BHX)"
   ],
-  "discount_text": "−32% vs. habitual",
+  "discount_text": "−31% vs. habitual",
   "id": "fr-queda-fao-bhx-cd25f897",
   "origin_airports": [
    "FAO"
   ],
   "price_from": 18.99,
   "source": "price_drop",
-  "title": "Faro → Birmingham a 18.99€ (−32% vs. habitual)",
+  "title": "Faro → Birmingham a 18.99€ (−31% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-12-04",
   "url": "https://www.ryanair.com/pt/pt"
@@ -393,11 +393,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-11",
+  "booking_end": "2026-10-12",
   "booking_start": "2026-10-01",
-  "collected_at": "2026-10-09T13:15:40+00:00",
+  "collected_at": "2026-10-10T12:31:00+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 56.99€ dos últimos 37 dias de recolha. Voo mais barato a 2026-12-22.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 56.99€ dos últimos 38 dias de recolha. Voo mais barato a 2026-12-22.",
   "destinations": [
    "Berlim (BER)"
   ],
@@ -462,22 +462,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-11",
+  "booking_end": "2026-10-12",
   "booking_start": "2026-10-04",
-  "collected_at": "2026-10-09T13:15:40+00:00",
+  "collected_at": "2026-10-10T12:31:00+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 34.99€ dos últimos 39 dias de recolha. Voo mais barato a 2026-12-12.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 34.99€ dos últimos 40 dias de recolha. Voo mais barato a 2026-12-12.",
   "destinations": [
    "Bruxelas Charleroi (CRL)"
   ],
-  "discount_text": "−40% vs. habitual",
+  "discount_text": "−37% vs. habitual",
   "id": "fr-queda-lis-crl-5f943498",
   "origin_airports": [
    "LIS"
   ],
-  "price_from": 20.99,
+  "price_from": 21.99,
   "source": "price_drop",
-  "title": "Lisboa → Bruxelas Charleroi a 20.99€ (−40% vs. habitual)",
+  "title": "Lisboa → Bruxelas Charleroi a 21.99€ (−37% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-12-10",
   "url": "https://www.ryanair.com/pt/pt"
@@ -485,22 +485,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-11",
+  "booking_end": "2026-10-12",
   "booking_start": "2026-10-09",
-  "collected_at": "2026-10-09T13:15:40+00:00",
+  "collected_at": "2026-10-10T12:31:00+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 21.99€ dos últimos 39 dias de recolha. Voo mais barato a 2026-12-17.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 21.49€ dos últimos 40 dias de recolha. Voo mais barato a 2026-12-17.",
   "destinations": [
    "Dublin (DUB)"
   ],
-  "discount_text": "−32% vs. habitual",
+  "discount_text": "−30% vs. habitual",
   "id": "fr-queda-fao-dub-a4af924d",
   "origin_airports": [
    "FAO"
   ],
   "price_from": 14.99,
   "source": "price_drop",
-  "title": "Faro → Dublin a 14.99€ (−32% vs. habitual)",
+  "title": "Faro → Dublin a 14.99€ (−30% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-12-17",
   "url": "https://www.ryanair.com/pt/pt"
