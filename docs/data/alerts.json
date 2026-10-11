@@ -14,7 +14,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-10-29"
+   "travel_date": "2026-10-22"
   },
   {
    "airline": "FR",
@@ -30,7 +30,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "OPO-MAD",
-   "travel_date": "2026-11-12"
+   "travel_date": "2026-11-30"
   },
   {
    "airline": "FR",
@@ -79,15 +79,7 @@
    "price": 14.99,
    "route": "FAO-LTN",
    "travel_date": "2026-10-21"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Frankfurt Hahn",
-   "previous_min": 18.99,
-   "price": 18.99,
-   "route": "FAO-HHN",
-   "travel_date": "2026-11-27"
   }
  ],
- "date": "2026-10-10"
+ "date": "2026-10-11"
 }
