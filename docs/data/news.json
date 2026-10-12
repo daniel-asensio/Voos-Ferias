@@ -538,6 +538,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHA4V1R2dWZmbDFlR2tmcTd3aDR3cUsyT3FqVDF6dElHajJhckR6NlJTa1BiZ0N6WTlPSUh1WExIOXBqUXRueXlqNS02aTFUbnVRV00wZVNNem5lbGhQYVFRNlZaTjF3NzdPVzh6NzRiamRVNGJqWTNqY2Vkb2IwVHFKdmpvX1BGcjRIa0VzNUh4V2pvN0Ric0VKNVB3dnNkR01PR3pfdXJkc3c?oc=5"
   },
   {
+   "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-05",
+   "source": "JM Madeira",
+   "title": "EasyJet perspetiva 14 voos cancelados e 428 realizados durante a greve - JM Madeira",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdmRFYU83Sms4Z0VId0N1SmJkM1ZPOW5KSlpfQU9icWJ3VkNtSUNjYlBMYUYyM0FlMjR4OXl3R05HaEJvM25yUEtONHROdzlISThWM01paGtaV253YktlSEdIZkVGN0xnWmdfWVlOV3dYN3VNSlZ3SzVoOXlOZ1FpbW9vbGhMOTgzdU5VMHJoT2NXeGF5WUxBRkF6ZXVVS0Z6VEdXWmd6RTlFNVBrV2tySlh2ODNsNzg0U0tsT3d0MTk3ZWRLOWF6ejRhZFFfdw?oc=5"
+  },
+  {
    "airlines": [
     "U2"
    ],
@@ -1156,6 +1165,17 @@
    ],
    "airports": [],
    "category": "greve",
+   "published": "2026-10-02",
+   "source": "ZAP Notícias",
+   "title": "Greve dos tripulantes da easyJet cancela 80% dos voos - ZAP Notícias",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1BYQngyOUJ4Z1JpQ1pfVFNBT3lmMExWWlB4QnA0NHJ4Mzc0WTlsU0dmRUJaeUhEUzZKMFh0SGhzaUR0WE1xQkhEUEoyRWR6MjNmdUowazJKZzNTQkR2RFlBVVBzWDZDa09wRl9aa1FIUHVTaVp5VGJ4aUxoYUR6RlMwNVBOUVU?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
    "published": "2026-10-01",
    "source": "Expresso",
    "title": "Greve dos tripulantes cancela 80% dos voos da easyJet em Portugal - Expresso",
@@ -1319,26 +1339,6 @@
    "source": "RTP Açores",
    "title": "Decretados serviços mínimos nos voos de Açores e Madeira para greve da função pública - RTP Açores",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR2pmTkQ4cDBKZ0ZGbTRFMjZZdGRNYWFxdzczNHZxb3RJd2pvYkxPOEVuQ0d5RUdFaWNKOVlPWVhYLUFtNGlZWE10bzNiMElSYU5DUlE4bDl3NVdfcHNBNDlkM1A0aGdSajFaLUtESmRoMkxyTURqTi1wSGRwU3ZPZEFWYW1VMnh1Q0hwbTJIN1F2WllvWlJkWlJLczdULWludEJST3Rzcjk2MWROSjBwWHJyYUo?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-09-30",
-   "source": "dnoticias.pt",
-   "title": "Decretados serviços mínimos nos voos de Açores e Madeira para greve da função pública - dnoticias.pt",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkRFTlhMZGt2TGVya29pMUh3UkcyelJJSl9YbkpyTDlBN3U3RV83VEJFQXE3bUh1eHRUU3lrakRHNHhFZDYySjFPN19GTWYzLWtBdHgwR1R6ZFBMLWJSY2V4Q0w4OWRmUVN1VS01VXpEOGlXdWxSemFrVDk0Zi1ZeE1MYlZWN1pZM1dBUThCT0d3bHlfV2ZfNmVRa0NVTk1pWTJKSl9XSEoxZzdBMkJHR01kMVVoTzZZQzlreUpNdkR5c1VCS2NVMUJjblk?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-09-30",
-   "source": "SAPO",
-   "title": "Governo Regional considera serviços mínimos insuficientes face à greve da easyJet - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREtoS2JKSXJnZTJoYlJheVVWZjREMkhrRzlZNUprZzdhV1BUbjNUUjJyT0RYLUNNcFhXb3NPOFYtMFlmWHNyR29ZQVg1ZGQ0VlFUV1A4QllNOTM4RVBaRk0tTDF5Rm9sODYtWThHYmpDbHhPc1NKTjVpQ3lxVVNWdjlrZkF6SEd6eDlSZG9xZE13a2dHMTFHZFJieTlhWUtDeUdTV2t6TnNNbHdqLXktUWdwNkFvSjNwRWdtWUdBcHdyV0x2WkRUVg?oc=5"
   }
  ]
 }

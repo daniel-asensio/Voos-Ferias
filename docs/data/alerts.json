@@ -14,7 +14,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-10-22"
+   "travel_date": "2026-10-21"
   },
   {
    "airline": "FR",
@@ -23,6 +23,14 @@
    "price": 14.99,
    "route": "LIS-VLC",
    "travel_date": "2026-12-11"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Málaga",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "LIS-AGP",
+   "travel_date": "2026-10-20"
   },
   {
    "airline": "FR",
@@ -81,5 +89,5 @@
    "travel_date": "2026-10-21"
   }
  ],
- "date": "2026-10-11"
+ "date": "2026-10-12"
 }
