@@ -14,15 +14,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-VLC",
-   "travel_date": "2026-12-11"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Madrid",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "OPO-MAD",
-   "travel_date": "2026-11-30"
+   "travel_date": "2026-12-10"
   },
   {
    "airline": "FR",
@@ -74,12 +66,12 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Dublin",
-   "previous_min": 19.99,
-   "price": 19.99,
-   "route": "OPO-DUB",
-   "travel_date": "2026-12-12"
+   "destination_name": "Budapeste",
+   "previous_min": 29.99,
+   "price": 29.99,
+   "route": "LIS-BUD",
+   "travel_date": "2026-12-23"
   }
  ],
- "date": "2026-10-13"
+ "date": "2026-10-14"
 }
