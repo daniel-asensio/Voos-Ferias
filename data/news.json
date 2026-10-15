@@ -2,6 +2,17 @@
  "items": [
   {
    "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-15",
+   "source": "tnews.pt",
+   "title": "Greve no handling leva grupo SATA a ativar plano de contingência entre 21 de outubro e 3 de novembro - tnews.pt",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSTE0LTBqVVI4ZllCRV95RzNMNTZDSmtvNG53OVF5enBXSUtrdnJ5cmE2NTFrQUJqbEpYdTZwVU5nVGktLVZzc1lBbk5jd0I4ZFJ4NnNmRkJHc3RzVUYzQkdtWWFUMDc5V0IxWlhDcTVicjVfOTY2UFY4ZXlQeDJhTl9FYTJCRVVMSnk5SG5zdEFjeTBNNmJScDl2clJKS2JQT3ZiLW96aEYxS0FqeEFRWFFZY080Unc3akE?oc=5"
+  },
+  {
+   "airlines": [
     "TP"
    ],
    "airports": [],
@@ -10,6 +21,50 @@
    "source": "Expresso",
    "title": "A greve do Metro, o FMI e o vencedor da TAP: saiba o que vai marcar esta quarta-feira - Expresso",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT01JT255UUd3OHdpNmhOOGw3NkJXSzJyZTQ0Z2EwWl91RUFZQWwxU01oUWJlTi02ck45VzBfcWwtQ0JmeEhGOHRaenNLSko0bmVISmF0eUxuS0l2OTY1aDgzR3dmb3N3N1FEZHVDTXVZX3dVaWV0VVJYSVIxQkxRZFlYUml0ZnQwMC1tVlBEcWpjcV9rTUFnS2VPc2FNRWtMbXE3NHR6cElZd1Z0WWJqX3Bjd2NQQTNwTndfNkZVY2JhVGdUZU04dVM4STdUZE9LOFBjdG1zYWFRQmJYVVZUQkd1cFBKOWRi?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-14",
+   "source": "CNN Portugal",
+   "title": "Grupo SATA ativa plano de contingência devido a greve no handling - CNN Portugal",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeHU4TWt5c2laYkRFNnRTOEJUdkdHeXhEZ1dPdGNFa0YwbWo2YlZxcFpxVHBuM3BURTBFUkkxTVlpeWhtYmMwNXltVl8xRXNOV3BVRXZFOGdmVmNjZWU3ZWlmbEZvem5PaTIxYkk4UkdxNWJBYTdUZkJqSmw5WXR0ZlNQX3d4eTRwSnRDSEV0SldieU9UQWFFQWZrYUllUEJwWXlDOHJjSFR3R1hqcFlGM3lLdXlhZVZjeVAtYWtGWDNQSm5HQ0p4RDl4bHlROFhlZTA5VnRndTl0RTA?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-14",
+   "source": "SAPO",
+   "title": "SATA ativa plano de contingência devido à greve do handling nos Açores - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlVsaFF2b2hMVUFOUlU2amZrbGxYTDYwRU9pazlSNFdmb3NrNmdoZy1Xei1sZDBSdTlFblpkYWxRNThPazc1b1FxaGthQk1sRTN3MDZ2dEI1NF94LXhmMWhpYXdNZFhIN3ZxT3lXR1prYjM4NVRaemkxSVI4M2FST05xSXl3Rjd5eTYyX3NZM1dCWU9ITHFLaWx4STBYdFB4Zk5wVVlHTkRJLXJVVGd4Nkt4NEtHbGxWQlE?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "greve",
+   "published": "2026-10-14",
+   "source": "RTP",
+   "title": "Milhares de pessoas estão a ser afetadas pela greve do metro de Lisboa - RTP",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNS1BX3N6bERadkNGY1ZJYVo2UzVDTGk5cU03RDRHRVhiX1IzOEllaWdWTXZ2dDFwSWduN0hhUHVmNDVVNXF6TFc5QUc1VUwzVDZXLURnclZBLTE1cWtGSUhubkpfTVJac0d2VnNPLXNFd0NQYTZGcmMwMVM2YVZuXzlEd3UxQTdBRUZVNFRkZlptU05vY1pLUk9uaUx6TFJveEFtY016SEZ0dFFrYURNRXNn?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-14",
+   "source": "Diário do Distrito",
+   "title": "SATA ativa plano de contingência devido à greve do handling nos Açores - Diário do Distrito",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaU41b3RfWGl1RlRkREtuYU13a1pXVGdvMEt0VG1nanBoS3RJZWZPTTVGSWFyVkJ2N2RBMUV0YlJRQTkwRzlOTVQwMlVVZ1FGRmREYjhaYUNYajlzazJLNldBTHVRa00wVm9STGNJOFNmZ1lyaHBZS0R2dl9QN1hjbkFXT0xhc2hZVy1nZWxQemdubHdoUUljaWVGQ1BHT3EwdzZjaA?oc=5"
   },
   {
    "airlines": [
@@ -318,6 +373,17 @@
    "source": "Observador",
    "title": "Greve na SATA Handling entre 21 de outubro e 3 de novembro - Observador",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV3VLUFI0QzhKOWRMY1AydjJOYnpEYkR5LW1FdXdabVA1NG5xcG1OejBwQ0stRzBpRUxpTmx3Y2wzREFHVTZDN1RJSW1mT3RXSkJjVUFrU3FGUDNfNnUzek50Vm1jWHQ4QTRLV0tXMmtNVFFPY19kRFU2OFd4ckw0ZUVRRGM3S25oTUtKQ3pmSzVxREdkWFk0?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-09",
+   "source": "BOM DIA - Portugal no Mundo",
+   "title": "Greve na SATA Handling entre 21 de outubro e 3 de novembro - BOM DIA - Portugal no Mundo",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSTc5WWh6UUtyblA1b0RySzBoRjNadWQwTnRJOVZKYjRVOTNxUXZrUzhTMU5OcElnS21PMTdRS2txbFBfYWNWVVRRZ2sxWkROYlhCaW5vc3FlZGFoTnc4WTlIakNSSDN2MElvRkVfRmdLWlpuV29zeFNDVTNUWnhEUHJ4aw?oc=5"
   },
   {
    "airlines": [
@@ -1281,72 +1347,6 @@
    "source": "ZAP Notícias",
    "title": "Greve dos tripulantes da easyJet cancela 80% dos voos - ZAP Notícias",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1BYQngyOUJ4Z1JpQ1pfVFNBT3lmMExWWlB4QnA0NHJ4Mzc0WTlsU0dmRUJaeUhEUzZKMFh0SGhzaUR0WE1xQkhEUEoyRWR6MjNmdUowazJKZzNTQkR2RFlBVVBzWDZDa09wRl9aa1FIUHVTaVp5VGJ4aUxoYUR6RlMwNVBOUVU?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-01",
-   "source": "Expresso",
-   "title": "Greve dos tripulantes cancela 80% dos voos da easyJet em Portugal - Expresso",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1F4ODlveENxOEdlNk9nOWdua0Vob3AyOWs0LTVoanltZGI5c294X1FyZi1Bc1hhUTlJUkZhSnBZUnp3dHhGTXRuMVc4SEJmSEJRcV9IWW5KUUpETlNubDhkeDV1TERZQ3RfcVdnM0RfYTkwYnZVY3doZGd3NnA0WExVS3JBZGx2Q2FYcDdDR2tQa0lCek5lUG1zdnR5amZNT1BvRzlZNmRGRXdsOF9pcVVLOGk4V3h1ajEyaExyRkhGZ2FKNWVweFRVdU5xUQ?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-01",
-   "source": "Lusa",
-   "title": "Greve dos tripulantes da easyJet deverá afetar pelo menos 443 voos - sindicato - Lusa",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVUdEXzZ3U2xIRE5FbF96R3VhX0dYaERkc29BMWZWcE11SkV0Wk5zTldsZ0hCdDZWcGkyMDJicG9PWWRRRHZ5R3h2ZWJNalBYNVhVdG5DNU1oaHgyWVV0VVNTME5rVG5KMGNwZ2t3d2pWLUxIWFZia05pUS02WVBhLVRzWFRHa3JyLUwxS2NMRHZHYUpJa3pNUzFsSGJ4TUxyYjI5SlJMSWxmMGRnOG81OVVGTmpnN3FjV3c?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-01",
-   "source": "O Vilaverdense",
-   "title": "Greve da easyJet começa esta sexta-feira com 443 voos já cancelados - O Vilaverdense",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMG1vOWFycHNzdE5jZ1MwTXBsekJyVC1QTjBOWVJnSDhrbk1vQjJibTlkaC11VDBwbXRFdE9ERl9UbVFPU2FIOHZGWnY4Z3NKUTNrbW54SXAycTdwVjlfTkx5VV96c0N1dk9SeHBxQmQ1Sms5bUJIdzhNd3pnbllPbXB1RHdiV2hvSTRqbmRTNkJ3dFhOOGdRYQ?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-01",
-   "source": "24Horas.pt",
-   "title": "TAP CELEBRA 60 ANOS NO BRASIL COM NOVAS ROTAS (VÍDEO) - 24Horas.pt",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVzZ2NFFnOEhTSENwMXZLa1lrRG00TldVVC1wb3BCcEwwOEpSSmxJY21iS015LXQ4MGZScFZ5Y3JrcEs1OW1sMERlSWtKdFp4NG1fLWtYS2Z2eTNoTWpWOGJHTzZSNHpfU3daRU1STHlHc184cG1wN2dXbDRsV2lyOHI0cnY?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-01",
-   "source": "expresso.pt",
-   "title": "Greve dos tripulantes cancela 80% dos voos da easyJet em Portugal - expresso.pt",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1F4ODlveENxOEdlNk9nOWdua0Vob3AyOWs0LTVoanltZGI5c294X1FyZi1Bc1hhUTlJUkZhSnBZUnp3dHhGTXRuMVc4SEJmSEJRcV9IWW5KUUpETlNubDhkeDV1TERZQ3RfcVdnM0RfYTkwYnZVY3doZGd3NnA0WExVS3JBZGx2Q2FYcDdDR2tQa0lCek5lUG1zdnR5amZNT1BvRzlZNmRGRXdsOF9pcVVLOGk4V3h1ajEyaExyRkhGZ2FKNWVweFRVdU5xUQ?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-01",
-   "source": "SAPO",
-   "title": "Greve dos tripulantes da easyJet deverá afectar pelo menos 443 voos - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEdvaE9aRlJDT1VPWEI3cWkyUGJ1TXhCMklfbU81OGZESHo3SXZEbGFwNVMwdG9YVkFyOTZsQ3lCSGc4S0RKNExyVnJEckdQcnB6MHBINGk5WERVMDRRbEVpSFotUEQ2blVtRDdPNnp0R29ldlNsbGJaUklMQzVILWRvdnJaTTU4Yk9JR0N1MGVpM0pUT2xHR3dpLU1GLVBTQ1l4OEowTkp4UFJxYzdzODNOYXZ0UQ?oc=5"
   }
  ]
 }
