@@ -14,15 +14,23 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-VLC",
-   "travel_date": "2026-12-10"
+   "travel_date": "2026-12-12"
   },
   {
    "airline": "FR",
-   "destination_name": "Bruxelas Charleroi",
+   "destination_name": "Málaga",
    "previous_min": 14.99,
    "price": 14.99,
-   "route": "OPO-CRL",
-   "travel_date": "2026-12-17"
+   "route": "LIS-AGP",
+   "travel_date": "2026-11-12"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Madrid",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-MAD",
+   "travel_date": "2026-11-18"
   },
   {
    "airline": "FR",
@@ -42,6 +50,14 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Bristol",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "FAO-BRS",
+   "travel_date": "2026-12-11"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Liverpool",
    "previous_min": 14.99,
    "price": 14.99,
@@ -54,7 +70,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-NCL",
-   "travel_date": "2026-12-11"
+   "travel_date": "2026-11-20"
   },
   {
    "airline": "FR",
@@ -63,15 +79,7 @@
    "price": 14.99,
    "route": "FAO-LTN",
    "travel_date": "2026-12-12"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Budapeste",
-   "previous_min": 29.99,
-   "price": 29.99,
-   "route": "LIS-BUD",
-   "travel_date": "2026-12-23"
   }
  ],
- "date": "2026-10-14"
+ "date": "2026-10-15"
 }
