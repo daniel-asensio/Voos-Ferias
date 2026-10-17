@@ -6,7 +6,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-10-31"
+   "travel_date": "2026-10-22"
   },
   {
    "airline": "FR",
@@ -14,7 +14,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-VLC",
-   "travel_date": "2026-12-12"
+   "travel_date": "2026-12-11"
   },
   {
    "airline": "FR",
@@ -22,7 +22,15 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-AGP",
-   "travel_date": "2026-11-14"
+   "travel_date": "2026-11-12"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Madrid",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-MAD",
+   "travel_date": "2026-11-30"
   },
   {
    "airline": "FR",
@@ -79,7 +87,15 @@
    "price": 19.99,
    "route": "LIS-DUB",
    "travel_date": "2026-12-12"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Eindhoven",
+   "previous_min": 27.99,
+   "price": 27.99,
+   "route": "OPO-EIN",
+   "travel_date": "2026-12-16"
   }
  ],
- "date": "2026-10-16"
+ "date": "2026-10-17"
 }
