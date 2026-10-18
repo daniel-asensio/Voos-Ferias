@@ -6,7 +6,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-10-22"
+   "travel_date": "2026-10-29"
   },
   {
    "airline": "FR",
@@ -23,6 +23,14 @@
    "price": 14.99,
    "route": "LIS-AGP",
    "travel_date": "2026-11-12"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Nápoles",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "LIS-NAP",
+   "travel_date": "2026-12-01"
   },
   {
    "airline": "FR",
@@ -82,9 +90,17 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Paris Beauvais",
+   "previous_min": 18.99,
+   "price": 17.99,
+   "route": "OPO-BVA",
+   "travel_date": "2026-12-17"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Dublin",
    "previous_min": 19.99,
-   "price": 19.99,
+   "price": 18.99,
    "route": "LIS-DUB",
    "travel_date": "2026-12-12"
   },
@@ -92,10 +108,10 @@
    "airline": "FR",
    "destination_name": "Eindhoven",
    "previous_min": 27.99,
-   "price": 27.99,
+   "price": 26.99,
    "route": "OPO-EIN",
    "travel_date": "2026-12-16"
   }
  ],
- "date": "2026-10-17"
+ "date": "2026-10-18"
 }
