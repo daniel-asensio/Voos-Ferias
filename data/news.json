@@ -191,6 +191,17 @@
   },
   {
    "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-12",
+   "source": "Transportes & Negócios",
+   "title": "SATA Handling enfrenta duas semanas de greve - Transportes & Negócios",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ19LNUdjU3RkUjJ3cWdhTzdQOXQ5Tll2MUNFSTJZRzhBNzhCYk5yZmU5UEYtd2M1N3h4SS1mWjBSR2RYZm5vYVczM1JneVVCUVcyQkRhZHhSZXp5T1I3X0YxdHljVkZUbEpwalFtLUxscm9uMkw0aC1vYW1RYkU5VTBDX2ZkWGc4?oc=5"
+  },
+  {
+   "airlines": [
     "FR"
    ],
    "airports": [
@@ -1338,17 +1349,6 @@
    "source": "SAPO",
    "title": "easyJet realizou quatro voos além dos serviços mínimos no 1.º dia de greve - SAPO",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUk1kUTNKSzNFWFBfNk1adXZjU1ROMlZOY1F5OWZHTU1pOE93NmVfd1VsS2kzVURySUk3ckxUbHNSZWRnVVlvSUtmZ2taVmVCOXVEREhtNlhkU2ZCLVMyTnRwNjdJeVpmYzUza3dLODN3MEVpb0pPV1BWZG5FWnFYb29RLUphWWdEQ28zV3NkVWttY0lqUlZXdTZ5ZzgwOW1XeHJNRkx2d1JvZ0FlR3kwWWpzc05PaElsOTlGcQ?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "geral",
-   "published": "2026-10-02",
-   "source": "Pontos pra Voar",
-   "title": "TAP Miles&Go faz 8 anos com até 80% de milhas bônus em voos - Pontos pra Voar",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDFKU29tYTc2UVZzcUtzNDVLOXI1bklCMlhISUQxNDFTcXdmSldYUkVsSXJNQkNaS01hWmZ2NDkzOV9xczQxU0NWRnBIYXkxWjc2ZmNwenNvcVlfWWp4NER5ZExraGhPQTFTanN2U3lVX0tGZlBWd0NsLS1RX1dSaHE5aThBbk5ZRzZhUQ?oc=5"
   }
  ]
 }

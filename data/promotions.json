@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-10-25",
+  "booking_end": "2026-10-26",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-10-18T11:01:07+00:00",
+  "collected_at": "2026-10-19T13:09:55+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -278,11 +278,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-20",
+  "booking_end": "2026-10-21",
   "booking_start": "2026-09-26",
-  "collected_at": "2026-10-18T11:02:41+00:00",
+  "collected_at": "2026-10-19T13:11:52+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 40.49€ dos últimos 48 dias de recolha. Voo mais barato a 2026-12-01.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 39.99€ dos últimos 49 dias de recolha. Voo mais barato a 2026-12-01.",
   "destinations": [
    "Nápoles (NAP)"
   ],
@@ -393,22 +393,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-20",
+  "booking_end": "2026-10-21",
   "booking_start": "2026-10-01",
-  "collected_at": "2026-10-18T11:02:41+00:00",
+  "collected_at": "2026-10-19T13:11:52+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 55.99€ dos últimos 46 dias de recolha. Voo mais barato a 2026-12-13.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 55.99€ dos últimos 47 dias de recolha. Voo mais barato a 2026-12-13.",
   "destinations": [
    "Berlim (BER)"
   ],
-  "discount_text": "−50% vs. habitual",
+  "discount_text": "−52% vs. habitual",
   "id": "fr-queda-opo-ber-30d39bb5",
   "origin_airports": [
    "OPO"
   ],
-  "price_from": 27.99,
+  "price_from": 26.99,
   "source": "price_drop",
-  "title": "Porto → Berlim a 27.99€ (−50% vs. habitual)",
+  "title": "Porto → Berlim a 26.99€ (−52% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-12-13",
   "url": "https://www.ryanair.com/pt/pt"
@@ -439,11 +439,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-20",
+  "booking_end": "2026-10-21",
   "booking_start": "2026-10-01",
-  "collected_at": "2026-10-18T11:02:41+00:00",
+  "collected_at": "2026-10-19T13:11:52+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 45.27€ dos últimos 48 dias de recolha. Voo mais barato a 2026-12-16.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 45.27€ dos últimos 49 dias de recolha. Voo mais barato a 2026-12-16.",
   "destinations": [
    "Eindhoven (EIN)"
   ],
