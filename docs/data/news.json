@@ -2,6 +2,30 @@
  "items": [
   {
    "airlines": [
+    "LH"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-20",
+   "source": "tnews.pt",
+   "title": "Verão de 2027: Grupo Lufthansa estreia novas rotas e aumenta frequências, incluindo Porto e Funchal - tnews.pt",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajloRFUwb1NoSnI5NHAwTmNscjktbi04M0lNQ0JrV19ZWjE0TUQ5ZDJkdkh4eWVmUWtnWGRmLXV2N0RDTEpDOE13LTJmdldFWURqTnBDMkRpMTcxcXpLS3U2X1ZYM3kwT01DOFY5WmpIbFgtOEx0YUl3NGtIYU84WWNnMTA2TWlrdjdQVVNSVWgwdGRNQlNBWUprLVhrenltUk9Bbk0xS3pTS0Z6Z3BWOVUyMnhKZw?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-10-19",
+   "source": "Melhores Destinos",
+   "title": "Smiles tem voos da TAP Portugal com milhas com 10% de desconto - Melhores Destinos",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5VEpSV0xZdXA0NGw0SjR4REU5b3A1aDlqREFfQXlVZ0oyYnQwSVhJb241bV9xM25LV01JVFlFYnRscW5RVUVOb184SnQyNDNOM2ZlU0c5Z3VydFFadnIwSDgzbGRGdW9KaWtUenB0VDhjdG1pUXpV?oc=5"
+  },
+  {
+   "airlines": [
     "TP"
    ],
    "airports": [],
@@ -1327,28 +1351,6 @@
    "source": "Economía Digital",
    "title": "A greve na easyJet cancela mais de 400 voos em Portugal - Economía Digital",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWdoTjB2T2pfN1liYW9JNy1DbXBiR1JkNzNPQ3dYaFYya3pFZmtmb19jSXhmT2hCQ3ZXMi1TbmpHN2RseTByVjZGNWlBblFGNU1lS0ZyRFhrSDgxTzZoYzVGZ3h2Q21TYnRnZFQxOXJ5QUZ6Q001YWMyVG84d0tGR250cmpIMkZWbkEzR0I1ZlRnc1kwcWFvYWEzTzZMaDZxb1VnMkJzWdIBrAFBVV95cUxOZTNnS3VaQkFYZnR0a21Ob2diRHdGUENYYnJsSFFFdVFNWDZrR2s5djRrOHRZbVE0Zk0yX191akVMOVJaTFJPdlF2N1FKc2xpczMtaUpQX2Z5dk9ORXU3cnFQRXVMY3Q2WnhIM2xSVW13MklKMFlMTVV3dkExSXMxTE9Xa1lDZnNkODhsNWEySGFfNEtOWU5rZmY2bDhlZDhobHJIVzEwS3hkY2Nl?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "Correio da Manhã",
-   "title": "Greve dos tripulantes da easyJet arranca esta sexta-feira com 80% dos voos já cancelados - Correio da Manhã",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNemJjNlRCRFdCcnpNZ01QVTQ0TzJNdzBidWhZVlhyYXoxMlNUUDBQZEk1U2RleFhaWXhKcW90MVdSdVdxTEVXM01uVWQtSDcxNzNRdGUtVWNDWnNmcVhqUThhUVNoZkhmTWJKYUtneDVrTWVoVHBJWkNnN1dDQ2NjVnRXYVVfYkgxNDFNVDgwaEw4VDBhYmRrYlhWRUluSDFmRDFsNUd0eEJwQTNRaUdYRldrbU5MU2xpSklTVGhQSXR0cWvSAcMBQVVfeXFMTXpiYzZUQkRXQnJ6TWdNUFU0NE8yTXcwYnVoWVZYcmF6MTJTVFAwUGRJNVNkZXhYWll4SnFvdDFXUnVXcUxFVzNNblVkLUg3MTczUXRlLVVjQ1pzZnFYalE4YVFTaGZIZk1iSmFLZ3g1a01laFRwSVpDZzdXQ0NjY1Z0V2FVX2JIMTQxTVQ4MGhMOFQwYWJka2JYVkVJbkgxZkQxbDVHdHhCcEEzUWlHWEZXa21OTFNsaUpJU1RoUEl0dHFr?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "SAPO",
-   "title": "easyJet realizou quatro voos além dos serviços mínimos no 1.º dia de greve - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUk1kUTNKSzNFWFBfNk1adXZjU1ROMlZOY1F5OWZHTU1pOE93NmVfd1VsS2kzVURySUk3ckxUbHNSZWRnVVlvSUtmZ2taVmVCOXVEREhtNlhkU2ZCLVMyTnRwNjdJeVpmYzUza3dLODN3MEVpb0pPV1BWZG5FWnFYb29RLUphWWdEQ28zV3NkVWttY0lqUlZXdTZ5ZzgwOW1XeHJNRkx2d1JvZ0FlR3kwWWpzc05PaElsOTlGcQ?oc=5"
   }
  ]
 }
