@@ -34,6 +34,22 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Barcelona",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-BCN",
+   "travel_date": "2026-12-14"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Toulouse",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-TLS",
+   "travel_date": "2026-12-13"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Londres Stansted",
    "previous_min": 14.99,
    "price": 14.99,
@@ -42,11 +58,11 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Dublin",
-   "previous_min": 14.99,
+   "destination_name": "Eindhoven",
+   "previous_min": 21.99,
    "price": 14.99,
-   "route": "FAO-DUB",
-   "travel_date": "2026-12-17"
+   "route": "FAO-EIN",
+   "travel_date": "2026-12-04"
   },
   {
    "airline": "FR",
@@ -66,6 +82,14 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Cork",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "FAO-ORK",
+   "travel_date": "2026-11-29"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Newcastle",
    "previous_min": 14.99,
    "price": 14.99,
@@ -82,9 +106,17 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Londres Stansted",
+   "previous_min": 15.99,
+   "price": 15.99,
+   "route": "LIS-STN",
+   "travel_date": "2026-12-12"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Belfast",
    "previous_min": 17.99,
-   "price": 17.99,
+   "price": 16.99,
    "route": "FAO-BFS",
    "travel_date": "2026-12-10"
   },
@@ -92,26 +124,34 @@
    "airline": "FR",
    "destination_name": "Dublin",
    "previous_min": 18.99,
-   "price": 18.99,
+   "price": 17.99,
    "route": "LIS-DUB",
    "travel_date": "2026-12-12"
   },
   {
    "airline": "FR",
-   "destination_name": "Eindhoven",
-   "previous_min": 24.99,
-   "price": 21.99,
-   "route": "FAO-EIN",
-   "travel_date": "2026-12-04"
+   "destination_name": "Dublin",
+   "previous_min": 19.99,
+   "price": 19.99,
+   "route": "OPO-DUB",
+   "travel_date": "2026-12-18"
   },
   {
    "airline": "FR",
    "destination_name": "Eindhoven",
-   "previous_min": 26.99,
-   "price": 25.99,
+   "previous_min": 25.99,
+   "price": 23.99,
    "route": "OPO-EIN",
    "travel_date": "2026-12-16"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Budapeste",
+   "previous_min": 29.99,
+   "price": 29.99,
+   "route": "LIS-BUD",
+   "travel_date": "2026-12-17"
   }
  ],
- "date": "2026-10-21"
+ "date": "2026-10-22"
 }
