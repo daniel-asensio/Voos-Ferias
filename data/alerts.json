@@ -38,7 +38,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "OPO-BCN",
-   "travel_date": "2026-12-14"
+   "travel_date": "2026-12-21"
   },
   {
    "airline": "FR",
@@ -58,14 +58,6 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Eindhoven",
-   "previous_min": 21.99,
-   "price": 14.99,
-   "route": "FAO-EIN",
-   "travel_date": "2026-12-04"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Bristol",
    "previous_min": 14.99,
    "price": 14.99,
@@ -79,14 +71,6 @@
    "price": 14.99,
    "route": "FAO-LPL",
    "travel_date": "2026-12-11"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Cork",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "FAO-ORK",
-   "travel_date": "2026-11-29"
   },
   {
    "airline": "FR",
@@ -114,8 +98,16 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Birmingham",
+   "previous_min": 16.99,
+   "price": 16.99,
+   "route": "FAO-BHX",
+   "travel_date": "2026-11-13"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Belfast",
-   "previous_min": 17.99,
+   "previous_min": 16.99,
    "price": 16.99,
    "route": "FAO-BFS",
    "travel_date": "2026-12-10"
@@ -123,7 +115,7 @@
   {
    "airline": "FR",
    "destination_name": "Dublin",
-   "previous_min": 18.99,
+   "previous_min": 17.99,
    "price": 17.99,
    "route": "LIS-DUB",
    "travel_date": "2026-12-12"
@@ -132,26 +124,18 @@
    "airline": "FR",
    "destination_name": "Dublin",
    "previous_min": 19.99,
-   "price": 19.99,
+   "price": 18.99,
    "route": "OPO-DUB",
-   "travel_date": "2026-12-18"
+   "travel_date": "2026-12-05"
   },
   {
    "airline": "FR",
    "destination_name": "Eindhoven",
-   "previous_min": 25.99,
-   "price": 23.99,
+   "previous_min": 23.99,
+   "price": 22.99,
    "route": "OPO-EIN",
    "travel_date": "2026-12-16"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Budapeste",
-   "previous_min": 29.99,
-   "price": 29.99,
-   "route": "LIS-BUD",
-   "travel_date": "2026-12-17"
   }
  ],
- "date": "2026-10-22"
+ "date": "2026-10-23"
 }
