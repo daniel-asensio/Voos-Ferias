@@ -2,11 +2,19 @@
  "alerts": [
   {
    "airline": "FR",
+   "destination_name": "Londres Stansted",
+   "previous_min": 15.99,
+   "price": 14.99,
+   "route": "LIS-STN",
+   "travel_date": "2026-12-12"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Sevilha",
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-10-31"
+   "travel_date": "2026-11-06"
   },
   {
    "airline": "FR",
@@ -22,7 +30,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-AGP",
-   "travel_date": "2026-11-14"
+   "travel_date": "2026-11-20"
   },
   {
    "airline": "FR",
@@ -31,14 +39,6 @@
    "price": 14.99,
    "route": "LIS-NAP",
    "travel_date": "2026-12-01"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Barcelona",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "OPO-BCN",
-   "travel_date": "2026-12-21"
   },
   {
    "airline": "FR",
@@ -90,22 +90,6 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Londres Stansted",
-   "previous_min": 15.99,
-   "price": 15.99,
-   "route": "LIS-STN",
-   "travel_date": "2026-12-12"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Birmingham",
-   "previous_min": 16.99,
-   "price": 16.99,
-   "route": "FAO-BHX",
-   "travel_date": "2026-11-13"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Belfast",
    "previous_min": 16.99,
    "price": 16.99,
@@ -123,19 +107,19 @@
   {
    "airline": "FR",
    "destination_name": "Dublin",
-   "previous_min": 19.99,
-   "price": 18.99,
+   "previous_min": 18.99,
+   "price": 17.99,
    "route": "OPO-DUB",
    "travel_date": "2026-12-05"
   },
   {
    "airline": "FR",
    "destination_name": "Eindhoven",
-   "previous_min": 23.99,
+   "previous_min": 22.99,
    "price": 22.99,
    "route": "OPO-EIN",
    "travel_date": "2026-12-16"
   }
  ],
- "date": "2026-10-23"
+ "date": "2026-10-24"
 }

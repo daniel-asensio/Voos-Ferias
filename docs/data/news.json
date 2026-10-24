@@ -2,6 +2,17 @@
  "items": [
   {
    "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-24",
+   "source": "Distrito Online",
+   "title": "Greve dos tripulantes da easyJet arranca com 80% dos voos cancelados - Distrito Online",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjFrRjBWdFY2UENqSU9QRlNjWHMwTUhoSGZiYVY0OXpid3UwVnYyVVlydHo0bnc5cjM4U21DUjQyclpEa1ktbkMzaE9XdzNUVnRKcTg5ZjdJTERoUlFScnF1VUtncVItbGpfTHpWd0RiNkROYkdJajFGTXhTd0xPTHFrVkJVbTdxSmR6T3JwZXc0OEJIdXRlbWpFeDZOUHhzc0lneg?oc=5"
+  },
+  {
+   "airlines": [
     "S4"
    ],
    "airports": [],
@@ -10,6 +21,28 @@
    "source": "SAPO",
    "title": "Trabalhadores da SATA em protesto: O que está em jogo? - SAPO",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSDBJWjlwd3NZU1VWVGJaOFJRdEhYMkpTXzJGb3I5ZFc3T1c5NHplcVNleDZ0U1dya0Zlb1JFY1B4SVlqNU4tUzJGTWZJTGxla2dIb2ExR3ZYdm1YOGdXSHNTZlUzT2JPN0N6eTk5dUYwQlktSW5yWXFPUks4UVBTckJxTDNBYlU0SmZvMlNiUUFMaUswNHNkeERuVFpKaHJWOEE?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-23",
+   "source": "RTP Açores",
+   "title": "Novo pré-aviso de greve entregue pelos sindicatos dos trabalhadores do Handling da SATA - RTP Açores",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRnVnanMwQVFjenhxLXZRbmhOekgzdzlkN2llemUweHdoRUlEd3EtYk11LXZGWE96aGI0azREX1FmVTM0ZVdpMDFEQ3c1OFVaSEZYTl9vYWY2SEFnTk9aUGRkdEY0aVFoOU5PWjlVc3lJTm9mX05aMTgyTTVTRnE0UDAxUm9yY1VGMEIxMFR0cnVpemVWZ2t4VmhpYUszRFNVN3hlTVFzdy1vejFzdmRGUkFDRk0temc?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-23",
+   "source": "Distrito Online",
+   "title": "Tripulantes da easyJet reivindicam “adesão de 100%” no primeiro dia de greve - Distrito Online",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnpqTHA4dHFfb0lCQkNSWHhMMkw1WlRwaXpmR05qTnJkOUV5UlpuUU4zb2NXeXkwd19CaE9KVkctc0N6ZllpNldpTXA5NlU0c2h0THJZbHBrSm05X0JEUFBMY1hDLTZHYmd4eHFZdHV6eVZnVl90SVNNSjlCaVhla1JpcVBJRkE3NlZIQTZCTkpSdTVyQzlLOTlxTXlvT25WYmNiNWlfVzFBM1VI?oc=5"
   },
   {
    "airlines": [
@@ -364,6 +397,18 @@
    "source": "Transportes & Negócios",
    "title": "SATA Handling enfrenta duas semanas de greve - Transportes & Negócios",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ19LNUdjU3RkUjJ3cWdhTzdQOXQ5Tll2MUNFSTJZRzhBNzhCYk5yZmU5UEYtd2M1N3h4SS1mWjBSR2RYZm5vYVczM1JneVVCUVcyQkRhZHhSZXp5T1I3X0YxdHljVkZUbEpwalFtLUxscm9uMkw0aC1vYW1RYkU5VTBDX2ZkWGc4?oc=5"
+  },
+  {
+   "airlines": [
+    "FR",
+    "U2"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-10-12",
+   "source": "Euronews.com",
+   "title": "Planeia férias de verão 2027? Ryanair e easyJet lançam 47 novas rotas - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjdiVWhfRGtUNF9oX1V2M3JQMXNwX05KT1p4ZFNVQ3FlVkVLUTdYcExSNC1ieFhCalFObGQyb0pNTWdsejZ2S2RyWGl3TnRBTmE3MmdGMElwaUttczVRZnhBX3hEc1NnM0JneWNkUkJmaEpWU3h3eU1yc0xUOHpxMS1nbXRCeVhlU3EtUjhhMWprcXQ4VFIwT0VQU2s3bnZPOEc5MnNn?oc=5"
   },
   {
    "airlines": [
@@ -1299,54 +1344,6 @@
    "source": "contacto.lu",
    "title": "Greve da easyJet. Voos entre Luxemburgo e Porto vão ser afetados? - contacto.lu",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHRSUU81MWVkSURNc0xCQ0x0eXZoS1k4R0gtX0RvalZ5bjE2N0hHUDF1TDJGa1o0R1dsbEN1ZDBWXzRlMGFRTDkxV2E3akZ5MGthUUxMT0hhTlBzWHp3aXh1d250TTY4Z25QdDNQMzJOdWc0MFNHVEl1SWs3VmZYcWhJQVVfSXAyTF9qRUxhU1hKM2xHQzR1R3Ixa056bXgtQ3ZrSXJrbGRQWUt3SmpTVW5rSk8?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [
-    "LIS",
-    "OPO",
-    "FAO"
-   ],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "Pplware",
-   "title": "Greve na easyJet condiciona mais de 400 voos das bases de Lisboa, Porto e Faro - Pplware",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjVYM0k4MXI0eXNPNlM5Q2VvWUxmWm1EXzBRUHZwQzZQbXc2enVjSTBfcEpsODZKbDRKcFJYZFJhdEpVdlNBTUExNHllWlVzN1NIdlg4Nm11RUQwU2JoSzE0NS1wcVJIaVZZYmNKMVpsd2otRzhjZk9ZTWRBdnV2NGE0UE1Bdk1DQXoxRVAzY2dYVG13alllY1RDdTZTb3hFa25jOWNfRmJTMndqdG9FcjZPd1kwT0lw0gG4AUFVX3lxTE52NVgzSTgxcjR5c082UzlDZW9ZTGZabURfMFFQdnBDNlBtdzZ6dWNJMF9wSmw4NkpsNEpwUlhkUmF0SlV2U0FNQTE0eWVaVXM3U0h2WDg2bXVFRDBTYmhLMTQ1LXBxUkhpVlliY0oxWmx3ai1HOGNmT1lNZEF2dXY0YTRQTUF2TUNBejFFUDNjZ1hUbXdqWWVjVEN1NlNveEVrbmM5Y19GYlMyd2p0b0VyNk93WTBPSXA?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "FAO"
-   ],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "Jornal do Algarve",
-   "title": "Greve dos tripulantes da easyjet arranca hoje e afeta voos em Faro - Jornal do Algarve",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFZzNjdNS1lYa01KaldKVjEzN09mQ0tkT0REWE02VGJWdjFyZUZvVUFSZmlaYUltR1RxREVQbFU3cUNlYW41ZldmT0ZPUWhYenFWdU1HMjlLVDNIV3hScE9ZMW5nbFVodlBpYm5sbDRKTm96eHBmbmhiaDlvMDR3emduOFRqaTk3aFFEd1ltelNqangxdkxvNDJ3?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "Executive Digest",
-   "title": "Arranca hoje greve de 5 dias na easyJet e há 500 voos em Portugal que podem ser afetados - Executive Digest",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWdmZnlHTnVYX1Z4THItYTA2SlhlUWJUVkY5dFRrbE1LSUIwbVBPWGgzR0lCT0c3NHpnN1hhRGJOcC1kZnAzN1JoNmUwbnRLVXI4YW1MX3Q0eDZkWTRJWGswWnJiWXljQkwxYXhXaWZzMFY5c0ZRMU9KNGU1dDhpQkRhWHZEZFhQV3kyM0RaQ0R6T1dlY2M3MjNRYnEzN05ScnpoRUVmOFZlUTNIcHNRZ0NUWHViY2JEZUstaXZR?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "SAPO",
-   "title": "Greve dos tripulantes da easyJet arranca hoje com 80% dos voos já cancelados - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVo1VTVtcEl6V0JJTVlHR08zT1A3d3dRQ1Y0X0QtOXhyTGE0Zi12emoweUxzMnZfZFFDM3hIOFkwU2dDSFRfRDdzSXlYRDh0cGlmMGhWX3gxWEtyaUxpMnlIcTlnaDBFMHdTV3lOYUtWNjY5dW5ubHRxWkE5cTFqYWlOZm9JU1BDdUZEZDZPQU90dmxobzhwUzJYYTZvTF92UlQ4WFk0bE1udHNFRFo3UnRFQVhVdVdZUmxWWnY4UkI?oc=5"
   }
  ]
 }
