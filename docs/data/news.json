@@ -12,6 +12,17 @@
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjFrRjBWdFY2UENqSU9QRlNjWHMwTUhoSGZiYVY0OXpid3UwVnYyVVlydHo0bnc5cjM4U21DUjQyclpEa1ktbkMzaE9XdzNUVnRKcTg5ZjdJTERoUlFScnF1VUtncVItbGpfTHpWd0RiNkROYkdJajFGTXhTd0xPTHFrVkJVbTdxSmR6T3JwZXc0OEJIdXRlbWpFeDZOUHhzc0lneg?oc=5"
   },
   {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-10-24",
+   "source": "Kiosque da Aviação",
+   "title": "Smartwings iniciou voos diretos entre Praga e Lisboa - Kiosque da Aviação",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUhGNXRmaU9CMU9pTE5OVGtZNWFHSklLRXA2MjVVcTFXbnNkNF9GZUs5ZGtnbUxhRFV4YXU2U3JiLWNudWNNeGhCaHY1ZnZia2ctaVk5LU9Wa05LNmJ3RXNuN1g1YkI1dld6MmYtdUhCcnVXRlhiT0YxWmdxcVU1MGxybmlTSUFr?oc=5"
+  },
+  {
    "airlines": [
     "S4"
    ],
@@ -43,6 +54,17 @@
    "source": "Distrito Online",
    "title": "Tripulantes da easyJet reivindicam “adesão de 100%” no primeiro dia de greve - Distrito Online",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnpqTHA4dHFfb0lCQkNSWHhMMkw1WlRwaXpmR05qTnJkOUV5UlpuUU4zb2NXeXkwd19CaE9KVkctc0N6ZllpNldpTXA5NlU0c2h0THJZbHBrSm05X0JEUFBMY1hDLTZHYmd4eHFZdHV6eVZnVl90SVNNSjlCaVhla1JpcVBJRkE3NlZIQTZCTkpSdTVyQzlLOTlxTXlvT25WYmNiNWlfVzFBM1VI?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-23",
+   "source": "Diário do Distrito",
+   "title": "Trabalhadores da SATA em protesto: O que está em jogo? - Diário do Distrito",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzdtcmFXQW5aSGJ2bVB5anlUbjd5VXg3SUM1WWdJdlNuOXhESXpBNlJhQWprb1B4M3kwb2k3T3Y4ZEo2NDE2TmNTd1I2TDNVRHh6QmF2SGF3STRhUkNFRWM2RllHaVF5TmFnb0Y1OUlzN1U3NmRQRWloQ3VpaEM1WlRyb1dkSWg4cWFDeg?oc=5"
   },
   {
    "airlines": [
@@ -118,6 +140,17 @@
    "source": "RTP Açores",
    "title": "Primeiro dia de greve na SATA Handling com adesão perto dos 90% - RTP Açores",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjBuYlRLMFZuYnJ3WW9laG1FLXJYUEVNZjlZVVdFT3AzcXY1aml5VFAzUG9pRk9SdTZlMkJRcENVUTVyODUxcDdRSW1iUEsybEVKUTVwS3JhQUlxUkc0a2l1Skd3ekVzZEFKZEZ6Z2RTaWhTczQxQ3FadXNWMm5VNmhwTElBMm1ncXNub3lkZ1gzR3M0OHc?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-21",
+   "source": "SAPO",
+   "title": "Operação da SATA regista \"alguns constrangimentos\" devido à greve no 'handling' - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1dKSFdwVmNIVGVZYmJ3RGtnRkRSZjEzcDZqX2RGcm5aMFJWWWF6LTlYVlRHWjl5VktBSF96bzBtQVlrYlRiM3BnQ3NtUWlRa2dmN3F0N1gwNl9Xc3RMSUhiazM4MXVSd3pqZ01lUDRRZ2J5cEJnWFlzV0VPRDByZlRUMjZzSEU2R1hYc2VTanpvX210ekJwUk9ZUHhkMFBxUjJ3RzBQZUN3VmR2VzJaMlVKQ3FQOVA3R3AzdGVRYjg?oc=5"
   },
   {
    "airlines": [
@@ -1305,45 +1338,6 @@
    "source": "Plataforma Media",
    "title": "Greve da easyJet começa em Portugal com centenas de voos cancelados - Plataforma Media",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHVzMUtlbzYzcGxEdzVuaHVwRUtkc0hXbDdqakxhdHl1cjBGNllCbGFlajhvLTFWaU0xVmp3U05XNTJ3djFsRjcxTjR5a0cwNW9HQllqUXRPLTlaVWdsN3lrX2M1RUY2RXY4SWtKZ2RLbVgzUEhhbVNiU0JONVpzZk9pOEFjaVRpcGhELUtqMTN4NFhoczZvdERaZ0paVGtEbDNlRWVRRDNRNFRRSkNxVw?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [
-    "LIS",
-    "OPO",
-    "FAO"
-   ],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "tnews.pt",
-   "title": "Greve na easyJet arranca esta sexta-feira com 443 voos já cancelados em Lisboa, Porto e Faro - tnews.pt",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUQyT21kLXlHRjZDX3EySm5laW44Q0otaFdnQUdBTWdYMldHZzJFMlpTWHg5MjlQRUpabERnNTNGX0xJc0ZRZFZRdjNDT0JlSDJsOVc4RkU4eVhqMXNfYUJBSkhSZXJRcndOZkpra2pzZDl0bDlSaVVTajJVVERyUGluU0RSd1JmdTBBSjlOaEM2MTBwa29qX1VsU2FQeVN4YjcyeXNaS1dEVFREa1E?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "Lusa",
-   "title": "Greve dos tripulantes da easyJet arranca hoje com 80% dos voos já cancelados - sindicato - Lusa",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFFMdWhIaFZoZFJoWHdEaWtjVlNVdG9kSnR2T2F5NUg2SHM1c3lfNUpUcEd3SFcxLWNsWWxHbXZBY25xT0NNaG5fRlVObVM0XzNOTjFBWXlBeTRyNUZ1bnJudU42MnJEQm1ZVXp4SmQxSm5xMUJNdmRTMWY4aVQ5M0tlaEpMM2lGUXNtcElzbERONmtFVmhiN3dpTFlmMFhDQnJFYTVsYmhVVkRGN0tUZHhRUHNPN2pqOTlETFY1M3ZuRHJaUWc?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "contacto.lu",
-   "title": "Greve da easyJet. Voos entre Luxemburgo e Porto vão ser afetados? - contacto.lu",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHRSUU81MWVkSURNc0xCQ0x0eXZoS1k4R0gtX0RvalZ5bjE2N0hHUDF1TDJGa1o0R1dsbEN1ZDBWXzRlMGFRTDkxV2E3akZ5MGthUUxMT0hhTlBzWHp3aXh1d250TTY4Z25QdDNQMzJOdWc0MFNHVEl1SWs3VmZYcWhJQVVfSXAyTF9qRUxhU1hKM2xHQzR1R3Ixa056bXgtQ3ZrSXJrbGRQWUt3SmpTVW5rSk8?oc=5"
   }
  ]
 }
