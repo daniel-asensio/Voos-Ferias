@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-11-01",
+  "booking_end": "2026-11-02",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-10-25T11:23:28+00:00",
+  "collected_at": "2026-10-26T12:57:52+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -255,22 +255,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-27",
+  "booking_end": "2026-10-28",
   "booking_start": "2026-09-26",
-  "collected_at": "2026-10-25T11:25:05+00:00",
+  "collected_at": "2026-10-26T12:59:16+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 33.16€ dos últimos 55 dias de recolha. Voo mais barato a 2026-12-01.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 30.57€ dos últimos 56 dias de recolha. Voo mais barato a 2026-12-01.",
   "destinations": [
    "Nápoles (NAP)"
   ],
-  "discount_text": "−55% vs. habitual",
+  "discount_text": "−51% vs. habitual",
   "id": "fr-queda-lis-nap-f869fdf6",
   "origin_airports": [
    "LIS"
   ],
   "price_from": 14.99,
   "source": "price_drop",
-  "title": "Lisboa → Nápoles a 14.99€ (−55% vs. habitual)",
+  "title": "Lisboa → Nápoles a 14.99€ (−51% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-10-29",
   "url": "https://www.ryanair.com/pt/pt"
@@ -370,22 +370,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-27",
+  "booking_end": "2026-10-28",
   "booking_start": "2026-10-01",
-  "collected_at": "2026-10-25T11:25:05+00:00",
+  "collected_at": "2026-10-26T12:59:16+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 53.99€ dos últimos 53 dias de recolha. Voo mais barato a 2026-12-13.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 53.99€ dos últimos 54 dias de recolha. Voo mais barato a 2026-12-13.",
   "destinations": [
    "Berlim (BER)"
   ],
-  "discount_text": "−46% vs. habitual",
+  "discount_text": "−50% vs. habitual",
   "id": "fr-queda-opo-ber-30d39bb5",
   "origin_airports": [
    "OPO"
   ],
-  "price_from": 28.99,
+  "price_from": 26.99,
   "source": "price_drop",
-  "title": "Porto → Berlim a 28.99€ (−46% vs. habitual)",
+  "title": "Porto → Berlim a 26.99€ (−50% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-12-13",
   "url": "https://www.ryanair.com/pt/pt"
@@ -416,22 +416,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-27",
+  "booking_end": "2026-10-28",
   "booking_start": "2026-10-01",
-  "collected_at": "2026-10-25T11:25:05+00:00",
+  "collected_at": "2026-10-26T12:59:16+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 39.77€ dos últimos 55 dias de recolha. Voo mais barato a 2026-12-16.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 39.77€ dos últimos 56 dias de recolha. Voo mais barato a 2026-12-16.",
   "destinations": [
    "Eindhoven (EIN)"
   ],
-  "discount_text": "−40% vs. habitual",
+  "discount_text": "−32% vs. habitual",
   "id": "fr-queda-opo-ein-22374ab7",
   "origin_airports": [
    "OPO"
   ],
-  "price_from": 23.99,
+  "price_from": 26.99,
   "source": "price_drop",
-  "title": "Porto → Eindhoven a 23.99€ (−40% vs. habitual)",
+  "title": "Porto → Eindhoven a 26.99€ (−32% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-12-16",
   "url": "https://www.ryanair.com/pt/pt"

@@ -2,6 +2,72 @@
  "items": [
   {
    "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-26",
+   "source": "Ambitur",
+   "title": "Ryanair estreia quatro novas rotas de inverno a partir do Porto - Ambitur",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOFNadkFXNHhhVlFBY3NGWklKdHZwekFaQktZcUVhbUd2MEdzTTVnWkwtS3lrWFhUTmdRWll2RmNobXROMnJHZXQtTHBFd0o0VXBabGFDdXJSZkFZbV9MUnlvdnVtVjJzZ3FjcmxQbHBzTDVpbGlfZS1hYWlVc1BzZFJVM1ViVUZrWTZDN2dKdHI?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-26",
+   "source": "NewsAvia",
+   "title": "Ryanair já voa novas rotas do Porto para Catânia (Itália), Gdansk e Poznan (Polónia) e Hamburgo (Alemanha) - NewsAvia",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVjJSMUdyNDVyYTMzZC1HeC1wSlhEOUlQN0Q2WDBQRERWV2RIR0UyWjFYUndtX2tGcHFtRzFnbzdHSTJnZzM5QzNVYjRTc0FkOEhvdVB0Nk1QU3lBQTloRTZ0UU5jNllFUE9vQXZQRnpwV2dvT2t0bFhIYnNQTEN1Y216aE9SSmlzUnNseW5BZ0N2VUswYkhEMEk4MWt3dmNXLUNxWXRoNnZFdlBqUUhnUVEtVEc4dC1uczJrX0xB?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-10-26",
+   "source": "Jornal Económico",
+   "title": "Aeroportos dos Açores dominam lista dos que registam mais atrasos superiores a uma hora - Jornal Económico",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3llaTVqVHJ6RFpWZWlFNDI5Z0tOZTZWYlRwNzY1YS0yNTFMRzFGNExHNTBTNE55S25VRjJoYkdOTGhMc1BvbE5mdXozV0h1WlhMLXNmbG05aWdhZGQ0UUpPOXdOTFlGSllvQUZZVm9kY0N4MlA3enhLcGNZeUkzbGVQQ1hvZU0xSThuZm9wbVNRcGdTZ2taaUpFTXF1Ni16SUxrMlZsdmFpQjZ2OGNCQktrcDljbEFGcUlUSUV4R0RfX2E3ZGZJeA?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-10-26",
+   "source": "tnews.pt",
+   "title": "Aeroportos dos Açores registam maior percentagem de atrasos superiores a uma hora em Portugal - tnews.pt",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkZTY19ZTzcyc01uU3c5bS03Z1JvbkRfU1JHZVk5eEtNaHhqeWRpQV9YZ1RCdWc2TkRSMzlvdW1PRTIxZGhjVW9wUk9YQnBuSXRvOUh0TlM4V21sVnJBSFpCeVdQb2VzTm5vaUtyaWNDZ2VyMkhfSXBfN2QzTW02LUJMSlZabHhuejlndmZqMlFkNnN6YkNzRXlOSkdtWnhtUUw0NUduRG5SRFVuTHM4SA?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-10-25",
+   "source": "Diário do Distrito",
+   "title": "TAP reforça presença no Brasil com nova rota - Diário do Distrito",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkUzWXNmVHdLVXpvYmExUlFKRUlNd0kwdnFjQ05VbXZ0Sm1JSG5hWVdIZUJZNjlENGZmZkRyNUtsajJILUtjSFhqanYzN0JIeUdfeGNoYnVBWXowd0xKaEFuakw1STNpdXlMelFuRjF5QWU2Tlh1dVlsekxSakZqWE1n?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-10-25",
+   "source": "SAPO",
+   "title": "TAP reforça presença no Brasil com nova rota - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGM4S25yRzllaUQ5TzdfZHBlMnY5V2JtTVJrRGl2WjN5UUJVRUJ0MGNHX0JORVZHUko4Z2RtMnpCNTBTcnE0NE4xY0U4aVVKdUNDY2dTNlZOd3VXUHZxU2JRcF9wM0ZldGZvZnZaQU1NUXZGaEV2VW80TGZTa0dTSmxTalR3RFppNm43c0lETEJxN1djU2pz?oc=5"
+  },
+  {
+   "airlines": [
     "U2"
    ],
    "airports": [],
@@ -1272,72 +1338,6 @@
    "source": "JM Madeira",
    "title": "Greve na easyJet com total adesão e cancelamentos podem chegar a 90% - JM Madeira",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZk9xMHNiWmlDZkhubkhJSk8yTVpHS2dfS0FCZDhUZXhfZXRyUFpESTFuUjllTmFuVzZOc0lwSUcxczZVSjlLNENZdTZOQjVmaXZVVDNZajFWTlI4Ulg3TjdST3FwcDFZRkZPbUFfbUFpRmxQd2ljZzhBME1BdUJ0aXNyTXA1bXNqWHFIS2pRekUxOHJkZE1nWDFkZEdwb2RZeGU5MWQxOXNnN0o4ckZ3QXZ2cFhWa1VBeHhBUUo1T1lGUTJmSkVXal9B?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-03",
-   "source": "Correio da Manhã Canadá",
-   "title": "Greve na easyJet tem adesão total e cancelamentos podem chegar a 90% - Correio da Manhã Canadá",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWkNUc0NTMjIySzJCWVZkMEVXWHBSV2NJNkZ5VzV4LTR3R1FqWXZTSGhKUjM3YXFIcE5BeDk1ako4d2d0eGh1ZWtxb1RtY0ExMWhkUlEweFhFOFAwSkpVc1AtUks3UHZKWE5jV2FEbEdMaWlTWmN3YnN4TW10czZtUmNJYkJ5Q3BUNmpGNGUybE5zYmRvdjRqcDdVRmVSTGxIOHVuYkhsV1g?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "CNN Portugal",
-   "title": "80% dos voos cancelados: já começou a greve dos tripulantes da easyJet - CNN Portugal",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNVRQdjN6RjBxWTVHQktteUtWMDBKM1lwR2pBOHpwZFZ3VExKcUhrcVgxY3BCREg0SmRjczh2WVJDSzlpV2FWVDFHczVTdEtWSGxiT2trMEZrSlRXQXFyVEZ0cE5PT0VoWDd6UUF2OGU3SmRoamJpZDZlUFZkR1J0dFRwNmkwTEZKZGp6WGphcmlFSjJJOENtaHlqR0VXYzNhcHBkWXphZTlmSkhPdmNmaUVOSE5RdHpibGw2Y04zb0xQMjRRWmpqY0VpTVNRSzV6bWo2blNtRVhJQVVzeVFuNVV2RGtkRzdKLWE5SEZ0eVY?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "cmjornal.pt",
-   "title": "Greve dos tripulantes da easyJet arranca esta sexta-feira com 80% dos voos já cancelados - cmjornal.pt",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTzU3Rl9LMmtFZUJ1dHJUczZHZHlzWVJ1SkNGU0ZwRk5uUUJfM3FXWE9Nd0lvQ2lNYWlsb3JCcHdPVHhxMHNqZWs3dm1IUHZLMzdkNW9HM1lHWGRvcHpfSEpwUlRTMEVuZi1yOEM2amJkazh4TXNJalVMT3hMS21NYXNtSWs5TjNkN0FvV3ZYTVR2YU1EVWVGNk4yVWp6czcydzczNGFYQ0twMWlNU2NhNEQxcWRkaldyTUxya3dEMkxBN0N6b2dTb9IBwwFBVV95cUxNemJjNlRCRFdCcnpNZ01QVTQ0TzJNdzBidWhZVlhyYXoxMlNUUDBQZEk1U2RleFhaWXhKcW90MVdSdVdxTEVXM01uVWQtSDcxNzNRdGUtVWNDWnNmcVhqUThhUVNoZkhmTWJKYUtneDVrTWVoVHBJWkNnN1dDQ2NjVnRXYVVfYkgxNDFNVDgwaEw4VDBhYmRrYlhWRUluSDFmRDFsNUd0eEJwQTNRaUdYRldrbU5MU2xpSklTVGhQSXR0cWs?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "SIC Notícias",
-   "title": "Greve dos tripulantes da easyJet: sindicato anuncia forte adesão e cumprimento de serviços mínimos - SIC Notícias",
-   "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOcHE2N0JfMENCQW0wOUdfUEVldlJ3X2JET0Q1d2dKb1NMY2RlMWN2SlZGcTdwdlRzUWE2YktJR2VhUmlVZkNSTFpWSUNOY0dQYnVVUmlKRGlGcmRqWnA4X0N6dldRZUtNRFhVTm9MVXc1NUhieG1JeUp3N0tzdzJuaGdmOWx0cHl0cndISVh5aXIxRzdId0NsTXJCaUlzc01CV2p2Z0ZMVkZfVlQ4UWUtOFlzNWlZV2I0UlFPaEN2OGx0Q21ycmowalJVLXQ4OTdOMy1ZdzVWNlQzclM1YmNmX1MxaE54VkVsTlhHUmtpVHVPZkF1ZHprbThmcTdrRGdORExNbVdJVHlyd3VkOWpjY1VvTFZZME5IQW1QSjAxOUlzNW80R3JUN3pLb2FJNVp6emlTQWlraVRDem9KNnlDeUhsSmVqbUtTOTZkSWNGcTNva3Zyd3VCb3JqOXRNN0tRdGJubEIzWnJZZ1FzMXVYYnBvZllOb2NyelZnYkYwOV9TdUR6by1YQkJVRml3SlFoTGZrc2s4Tkw4dV9VUGZyZ2JXeGsxU2lENHlhR0FOd3dadTJITl9rT2JWaWVQbDFpcU44WElHbEVxSF95ZUczNFJHQTZxLTlNLVJaTA?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "CNN Portugal",
-   "title": "\"Uma demonstração de força\": primeiro dia de greve dos tripulantes da easyJet teve uma \"adesão de 100%\" - CNN Portugal",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPaDFiVGFPMkk4Qy10UGRPWm9ld0o0MGVnNmlyNHBPTUJFVnlxTXQ5Ml81aTQtWWpiQ2NsYmdRRC1QMkdBNVJ0NTdyaks4dExVOGxoWHRaOHc5QXNIVkNveXFTd2g2bEZ4eS1HTzNIWmltRGhMYUFnTERIZ3puTGxTVjgyWXhpbW5DeVdCTVNEblBTenJOeHZhakFhZDVjSDF4UHNUUGhxaTNMR0o4Yi1yYjJfLWZGSUdkQk9abGxoNWNONUJTanZnYVhqYjk0S1FXWGVJVXpGVjY0Y3B2clpramNSdHZxWWgxZkFFWEZMSlZtenJzLVZUbm9kc0dTUHRTb2w5NVhpbDZpaUdBQi0wX3RNUk9DTnFMMjFHRUhpUklHTVl0SUE?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-02",
-   "source": "Plataforma Media",
-   "title": "Greve da easyJet começa em Portugal com centenas de voos cancelados - Plataforma Media",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHVzMUtlbzYzcGxEdzVuaHVwRUtkc0hXbDdqakxhdHl1cjBGNllCbGFlajhvLTFWaU0xVmp3U05XNTJ3djFsRjcxTjR5a0cwNW9HQllqUXRPLTlaVWdsN3lrX2M1RUY2RXY4SWtKZ2RLbVgzUEhhbVNiU0JONVpzZk9pOEFjaVRpcGhELUtqMTN4NFhoczZvdERaZ0paVGtEbDNlRWVRRDNRNFRRSkNxVw?oc=5"
   }
  ]
 }
