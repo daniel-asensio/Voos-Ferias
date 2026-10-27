@@ -2,6 +2,19 @@
  "items": [
   {
    "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-27",
+   "source": "Executive Digest",
+   "title": "TAP reforça aposta no Porto e lança nova rota com viagens para Cabo Verde - Executive Digest",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm9BX0F5UWZoM0ptSGxhODNpU0dVbDhEd2NueUxhdHRxczIyeXBkS1pMZHpjdGlyTnl0ZmpXTlpLYjRSMWk5ZzN5VmYzMko3Z1prY3lYMGxOclhLSmFNdXA4YjZmS0ZaM0Jnb0ltbjFBbjdWUnlUcWF2NlpsQ0ltMjZoOFFWZWpocnhqNkVXOUF1bnVSNEJEUDlTUDdGYlVzazV6amt5VWZYZw?oc=5"
+  },
+  {
+   "airlines": [
     "FR"
    ],
    "airports": [
@@ -46,6 +59,78 @@
   },
   {
    "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-26",
+   "source": "Turisver",
+   "title": "Ryanair inaugurou quatro novas rotas de inverno à partida do Porto - Turisver",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT0Y5d29kV2Z6LW9hMHJjZEtHbUhMdFFfRi1BSXRwUzdiOVBEWUhfTXhISjJNSFZSYThfanNQR2UyQjNKV2pYaW5jQnEySUN5NVE1RkE4aGR0akJoYTV2YXBVcVdyRzNIZkJZdDhPVnJBTkhHYUJET2RpU3BWc25zSVh6RVdJWWFvejdIRFVNblk?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-26",
+   "source": "VOU SAIR",
+   "title": "Cabo Verde está mais perto com a nova rota direta entre o Porto e a ilha do Sal (com voos desde 219€) - VOU SAIR",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGl3MTY0dlFmYlJnN0NRQ2RuamdhNHE2azRRU3RTMGNEUTVOOXpyQjVxcC1ydmExbmhfWjUweThldHRXQnR1ZUFLaHBlWkdvejhzanZITGRybjFYQ1hsNnBIM0txOHlYVzAtaV9NMDV2aWxFWEoycHNibTl4NjA4SDZTVEpFR2RJTm0wSTBrOTJXV1I0TjkwR0JMRjlVblNPTjItN3E1bmRpOUNxc1BmU09GMFF0dTFtVFE?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-10-26",
+   "source": "Melhores Destinos",
+   "title": "Nova rota! TAP estreia hoje voos entre São Luís e Lisboa – veja os detalhes - Melhores Destinos",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EREFJYmpjcWdhRC1pbmFYNjNlSXlKbXJGVUNVYnVVM01teUdYTmhlMm9tcDV6Tk4yTGxtZmE2MmVhM2NOMkVnM3pCUGVIT2VzdDFJVFdidmoxS2owWGlSMERTUWNSMFRSTVUtTWx2QU1EaEE?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-26",
+   "source": "SAPO",
+   "title": "Ryanair já inaugurou novas rotas de inverno no Porto - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2d2TVp6NFR0YVpnV0RYa3RoVjYwbGYzZERmS1JxbmdKaV9hcXNWbm5QVUx0NUhhRmowTFhUcDhtWGs0bHRuNnhnRGxtRkNFSnFsMkpsaXNvUmgta0lFOWFMMVc3cjM4TXd1My1JYmpSaHFzS0xkS3hCMVM1eVRaX3ZibDh1Q3pWLWF2UVc1dlBhSTdOamlFMG9WX09ZaU5XWVE?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-26",
+   "source": "SAPO",
+   "title": "TAP liga Porto diretamente ao Sal com nova rota intercontinental - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHY4UmZibEtESlR6NjRRRGg4bUZCMkx5MEFtRzU4emdnd2RhR01JYS1QNUJvSUc1anFZWkZ4WDVpTGxHX2lWdkxQUklGa3cyLTVpa3U5ZXhmR0RoanluZ0RxYVYwTGNyaFhkZTd4SFhURXk4VjJ3QTI1SWRTOFVGQlN0aWVVOE5zRlJhSTJVMWFheUNDQmZDRGRMMVNvUGNad2tsTXQ3V2gzdE1SWTBHSEhB?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-10-26",
+   "source": "VOU SAIR",
+   "title": "Estes são os aeroportos portugueses com mais atrasos. Os Açores dominam a lista - VOU SAIR",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUlJZmk2RGJxdWxZUHczaUJXa25KbmFtN21sXzhKVnNuTVQ2dC15VVhCS214RnViMnBGeFdwSTBMa18ycnJpRVprMmloeVM1Ny1wYXoxWm9hQTlMWkY3ZlV3SHlvU1k5NW5jeTY3eEFWclRXX0daSG9sY29McVRLWFZEY01yQURXWEFKYW0xU2JzR25POFdCR1JIdl9qQ3M?oc=5"
+  },
+  {
+   "airlines": [
     "TP"
    ],
    "airports": [],
@@ -65,6 +150,32 @@
    "source": "SAPO",
    "title": "TAP reforça presença no Brasil com nova rota - SAPO",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGM4S25yRzllaUQ5TzdfZHBlMnY5V2JtTVJrRGl2WjN5UUJVRUJ0MGNHX0JORVZHUko4Z2RtMnpCNTBTcnE0NE4xY0U4aVVKdUNDY2dTNlZOd3VXUHZxU2JRcF9wM0ZldGZvZnZaQU1NUXZGaEV2VW80TGZTa0dTSmxTalR3RFppNm43c0lETEJxN1djU2pz?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-25",
+   "source": "Publituris",
+   "title": "Ryanair já inaugurou novas rotas de inverno no Porto - Publituris",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3YzdVpFeFFlVThJNVJlV1RtdFhjTWpVYXN6TUdHQ1VKaUkzSHZ2RnZLQWprYlBVem5BZUdoUDRBNjdJUEJJTHNNUHNUMmY2MHoycEdoWXZWSThZMXgzUDVXOTRlXzNmS2tmelhrTl9MbU1sV2hYT1gwcl9LYmFfRnhOUk5JVEpGSHo3dHVB?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-25",
+   "source": "Publituris",
+   "title": "TAP liga Porto diretamente ao Sal com nova rota intercontinental - Publituris",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWZRR0Voc3Bzek5Lb1JPOW9kOVpkOFpfa29lX0t2cVZGVjVOaWtuNHNIb2NGb3lmZEczZmwyUWgtLVlwU3lpNTVwUTFNN2FUak5ZbmZvNG9ydzc0Z1JYTndObWJQLVFwZ0w4S3Nqb3RrWHVzVTZURzV6MlhIZUF4SDUtUzZJaHNjaHVwZGhoWGgxdUt2b2d0djVqM1dpdw?oc=5"
   },
   {
    "airlines": [
@@ -217,6 +328,17 @@
    "source": "SAPO",
    "title": "Operação da SATA regista \"alguns constrangimentos\" devido à greve no 'handling' - SAPO",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1dKSFdwVmNIVGVZYmJ3RGtnRkRSZjEzcDZqX2RGcm5aMFJWWWF6LTlYVlRHWjl5VktBSF96bzBtQVlrYlRiM3BnQ3NtUWlRa2dmN3F0N1gwNl9Xc3RMSUhiazM4MXVSd3pqZ01lUDRRZ2J5cEJnWFlzV0VPRDByZlRUMjZzSEU2R1hYc2VTanpvX210ekJwUk9ZUHhkMFBxUjJ3RzBQZUN3VmR2VzJaMlVKQ3FQOVA3R3AzdGVRYjg?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-21",
+   "source": "ECO",
+   "title": "Operação da SATA regista “alguns constrangimentos” devido à greve no ‘handling’ - ECO",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2pkMkpuS3JwZzkyaHVrbmRBUFpaWHZJWXp0dU00VnlpUDNlTGFaNVl4b0dobEdvY0xiV1BodkQ2YlMzclo1QWtyMGVldk44alpNRWV3UDkxODBKWGh3dUUwdmxTcU9nN3NXa0hsamVtREU2dzZXNHpYazJoSVczTlpsVHR4S3B1ekdwN0o5MGU3bVU0UHlpZm1jaGNsVm5TWDN0V0lpelRnZjQ?oc=5"
   },
   {
    "airlines": [
@@ -1230,114 +1352,6 @@
    "source": "SAPO",
    "title": "Greve na easyJet em Portugal mantém adesão de 100% e sindicato prevê cancelamentos de 90% - SAPO",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRU8wVFdERTh3cS1USmpnRURNSkdoSElwRkoyTmZiQVF5Nl9pX1pRd0YtS3VmRjkzV2FQWDVIdzJpcGp2ck1MWkIzZ0xqcXJaMU5wMjl6d0JsODd6ZEtHaEJyZlhOVXFJNFIyVWVXTEtER2ZueHE4Y3VUdTFEWDNydzNRZmx5Rk9GOUJOUWpqYkJrMlktTVdvenBaZWpXLUhHVVhhc0JEV3lNZkNzUjNUMmg1b21Qc1h6SXJGb24wQmIxUEFGNm1sRGh3cE9qQnFf?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "geral",
-   "published": "2026-10-03",
-   "source": "AEROIN",
-   "title": "TAP informa que está com milhas extras e benefícios exclusivos no Miles&Go para celebrar os 8 anos do programa - AEROIN",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYVBRVmZibWxkekZLYUl1YWlZV0hTNDhFdUtHa2NCU2R6cHpYYjQ3TGtTS2dfOWZVTEhjUVpQbDFiQzRqSHdsUkVBTWh3enE2bE5ycnlmU3BvWWxOOW9jenRCdG9vZFk2ZHlUTThvTTFwTGp3TUJlM3dYNVFMay1zU21nQTdPNnFzRl9PWE5kOTI2a0RBTUtHM2NVS21jcE1DVlI3RVFMTGtVOUtEcUgxWGs3NnJtV0t0S0lOV1JsQk1qalNaRGM5Q9IByAFBVV95cUxQYVBRVmZibWxkekZLYUl1YWlZV0hTNDhFdUtHa2NCU2R6cHpYYjQ3TGtTS2dfOWZVTEhjUVpQbDFiQzRqSHdsUkVBTWh3enE2bE5ycnlmU3BvWWxOOW9jenRCdG9vZFk2ZHlUTThvTTFwTGp3TUJlM3dYNVFMay1zU21nQTdPNnFzRl9PWE5kOTI2a0RBTUtHM2NVS21jcE1DVlI3RVFMTGtVOUtEcUgxWGs3NnJtV0t0S0lOV1JsQk1qalNaRGM5Qw?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "geral",
-   "published": "2026-10-03",
-   "source": "Passageiro de Primeira",
-   "title": "TAP Miles&Go oferece 80% milhas bônus em voos com a companhia - Passageiro de Primeira",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlZfeEg5STN1dVdyRmxKbVl5UHBIQkNTUXpjS3R0dEhNRkpnYXVVR2FJcFJBNk1sTjZCcnhNa2Y1eEszV3BEeUhQdHMzZjNfQUFvQ3FZa0ItOG40X1J6V3lPVUQ4ZzhNdkxGRVVqLVVMTnNJRjhaNlk4X1UwN1dmbWI3d2lhN1l4VTAyWm9QUll0Y29vTzhvWA?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [],
-   "category": "promocao",
-   "published": "2026-10-03",
-   "source": "nit.pt",
-   "title": "França, Itália ou Luxemburgo? Ryanair lança promoção com voos a menos de 25€ - nit.pt",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnRfeWxmaTlkQVF1T2ZIUmh2b3pEbFE5S3ZaNWQtZ2l1eDNqMTJNbUUycTN3RURFRWMwSmhaSE5YYXpXS3RVQXRuMzQ2RGZyOFN6cnBrWWVBbndBY2REMFBSbU1aeTJHVG41MlNoTmw0a2o3cFlrQjZQenZOMmhOSTZfN3k1UTVNSFJidy1UbTdkQTZxblN3TDRwZWJ1M1ctcG8wX2pJdXE4RGgwY095Y3pCUi0?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-03",
-   "source": "sicnoticias.pt",
-   "title": "Greve na easyJet cancela mais de 300 voos, sindicato fala em adesão superior a 95% - sicnoticias.pt",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ3RtTFZGcTZLQ25VRHoyUE1veGkyRGhHOHBqQ01BeDc5T3NBc0dRVFlJT29wWFZfRmlxZmxyZjkzdE40aXA0VGRkck1yRXFUZUx5UEs1ckEtRFNyVG9NN0JtanVvNlZxdFc3c0tjWXgxRldIZmsyYkVyYld5TjVPcmtSMnd5X0tUZ2FVR1NvNVJ3RXBxTl9Lc3JHOWwzazFwLXdJMndsM2ZkRElWZ3MtRHhrUURUMTdHdUsybGlsN3hsWE44b0ZkekxDYXk2SE0?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-03",
-   "source": "Executive Digest",
-   "title": "Greve na easyJet com total adesão e cancelamentos podem chegar a 90% – Sindicato - Executive Digest",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT0lzZFE5TUZlRS1IaDNua0Zaa3VIQklrc2VnQk9sWWNqdC0tV2ZIVUlvNmJ0WmVoeWhfMEYwZTJEQ1pQdXIzcnZQQzVIWFZwZWpGWnVqZm9HOUY3OURfODU5RjltenBwd3RwQklJVFN6VWtLSF9nZW1ZMkc3S1lhbXE4RE13WmJMczN2OEx0R3dzSm9jbTg2NHdTTkpkeDBNQWNCTnpRNHNRYkFGVW1F?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-03",
-   "source": "dnoticias.pt",
-   "title": "Greve na easyJet com total adesão e cancelamentos podem chegar a 90% - dnoticias.pt",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSWhERi1BNElhNFRHREVtXzhHR0E4bnBDSXQ3VEcza1JRSWV5RjNhVUwyY3IyZ3Yxc3Y5ZEdGVVBfVXh2d2ZJV0M5SThGaWY4YmVXcXpYUy1saVB6Z2FnUHVqM0pGQ1hYSUNqOUs4TFlybllfOF9KeHAtcl9nNzJlTDJMaTZFbjJJSDB4MVFKSjE4d285WVAyNzBSVUliZE16Rk1tS3lDOXdRWnJWX3AzTTEwbG8?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [],
-   "category": "promocao",
-   "published": "2026-10-03",
-   "source": "NiT New in Town",
-   "title": "França, Itália ou Luxemburgo? Ryanair lança promoção com voos a menos de 25€ - NiT New in Town",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnRfeWxmaTlkQVF1T2ZIUmh2b3pEbFE5S3ZaNWQtZ2l1eDNqMTJNbUUycTN3RURFRWMwSmhaSE5YYXpXS3RVQXRuMzQ2RGZyOFN6cnBrWWVBbndBY2REMFBSbU1aeTJHVG41MlNoTmw0a2o3cFlrQjZQenZOMmhOSTZfN3k1UTVNSFJidy1UbTdkQTZxblN3TDRwZWJ1M1ctcG8wX2pJdXE4RGgwY095Y3pCUi0?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-03",
-   "source": "BOM DIA - Portugal no Mundo",
-   "title": "EasyJet: Vai viajar para Portugal? Greve pode afetar os seus voos - BOM DIA - Portugal no Mundo",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMGw2eEVEOVBFdk5sVFJMYnB0TkdHRENkVENHU01KZ3R5N2ZxYndVc1VvXzhjdEMzaXMtYkFCalRZWjExUVZDMGRydHJpSXh3cHUyTVhpRExkb0hhVk51WnJkeDdEOEQ1dTNLdS1ka3VyNFNqRGtSN2FYVW5VZjNkR2dlaGctRU41T24yQWpiemFOakFCOGc?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-03",
-   "source": "Observador",
-   "title": "Greve na easyJet com total adesão e cancelamentos podem chegar a 90%, diz sindicato - Observador",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2lEeHUyNV81eWZ6YnFxUWxqY3V4ZUhsVU9oVlBycXpzRzFtS3RrSUdmUEpsX3hiUVF0bkt5TmJmdUhXZWhKNV9LNmZqWmIxRGRhVkYxNkdsbVp1dGd2eW9IcUw1S2ZoSm9oZ3NYZGxPTGxIbTYwMkI2RzE4VnNQc0FjSEpNUDhNQ2UxLXhIalFNSkFPeEJKc1NpZXBtcHhSRGZlVHpKdUI2T014bVVqQ1ZnRzhkUQ?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-03",
-   "source": "JM Madeira",
-   "title": "Greve na easyJet com total adesão e cancelamentos podem chegar a 90% - JM Madeira",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZk9xMHNiWmlDZkhubkhJSk8yTVpHS2dfS0FCZDhUZXhfZXRyUFpESTFuUjllTmFuVzZOc0lwSUcxczZVSjlLNENZdTZOQjVmaXZVVDNZajFWTlI4Ulg3TjdST3FwcDFZRkZPbUFfbUFpRmxQd2ljZzhBME1BdUJ0aXNyTXA1bXNqWHFIS2pRekUxOHJkZE1nWDFkZEdwb2RZeGU5MWQxOXNnN0o4ckZ3QXZ2cFhWa1VBeHhBUUo1T1lGUTJmSkVXal9B?oc=5"
   }
  ]
 }
