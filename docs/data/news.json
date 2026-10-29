@@ -2,6 +2,17 @@
  "items": [
   {
    "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-10-29",
+   "source": "Executive Digest",
+   "title": "TAP inaugura nova rota para o Brasil com voos duas vezes por semana - Executive Digest",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWJkQzhlNXlFdERWbTY3UVhxSFBmSlBQX0VSeWY4R0ZPQjhxVzR3b204MU1uWVI5ckRjTlFzR0tvT0tHR09rZW5HMHhwMmJLSnAydGMwUVRfRGJuYjUxckpBcEY5RmlyWDVVdzFnMnVMa0k0WXlGamZZTUhtVzVvS2tjQkZlVkJhQjVLOE5WR0M4S3lYb05DbmVUalNaNXlvX1E?oc=5"
+  },
+  {
+   "airlines": [
     "S4"
    ],
    "airports": [],
@@ -33,6 +44,52 @@
    "published": "2026-10-28",
    "source": "A Próxima Viagem",
    "title": "TAP: novas rotas, voos retomados e mudanças para 2027 - A Próxima Viagem",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON0o3MDlxY0RYSkR0VEw3aktYQzhYQ3psXzFKM0R5MVBzTFpmeTlXMHdJNHRQRTV5aFlqSnZYNGlPWFdqMVIzd0lqTkhibzRpdzREWDF1b2pKNzllRE1hbWNTQUJSRUdfdlRrMnF2c1cxMmpwR1FpeEFXT0g2aVJWbFZpUm9vMFIyUTM4?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-28",
+   "source": "RTP Açores",
+   "title": "Handling SATA: Novo período de greve com impacto no Aeroporto de Ponta Delgada - RTP Açores",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGNRMU9YQ09Gb2ZNbTg4WlVSX2VUYW5YUHZOZExqZGhZN3lLaVdDcHU4eXVCMlkzRWgwNDNZOGh5ZFFDWTcyZnJmbFBCYjlCRHdLRjMwcWtlbkY0MWU5TjBCYUVuV1BmZ2xORXA1VGsxbDVyR3I2ZWRzbnlxT3AydV9GbWUtdVZUeVZpeHVtOHA4SDhESzFMb1lZTjlhODBOVHE0WGVTSkZfQQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-10-28",
+   "source": "Panrotas",
+   "title": "Tap anuncia nova rota entre Lisboa e Reiquiavique, na Islândia, para o verão - Panrotas",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcjBwQ0JycWVSNEFNWW9CcERtVGxqaXpNY19KTmFlY1dMVFpJUFF5aHBBUElkMWpYMEhIcXc0QTF2TkRHVjF5ZEh4X2hmUXZjV3NTbTVvbjFITDdxN0lFNlA4OUdnNlFJMDRZSDd3NkN4allVSGQ3bGQ4UGFnQm9fUkstM1B1SFBEODBETUtRQW1QS2tJSG1iMjlERTlGWEFJOWFBUFVOUTd6QkdfWXh2RU1EcVNkTThyTklKa2UxMHA4WFkyZktzenVybGtTeDZNVDFSSUh3M1l3QQ?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-28",
+   "source": "VIVA! Porto - Tudo sobre o Grande Porto",
+   "title": "TAP tem novo voo que liga o Porto até destino paradisíaco em África - VIVA! Porto - Tudo sobre o Grande Porto",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVA4NF9sU3FBbFlUUkl0cFVQNnNRM2ZzS1E5bkNmc2pmVzRLVW8ySUNObkhySFZZT0NHd1hOX2JmWUM5LWVFMmxERWt3NFV0SmJIaGxkSXNCR3lGVFAxVnlubGxHM1lQN01RUnktUG43T08xenJkT3ZSZHQycC1TYl91VXdSYk5pdDN1LVFRaHF4azlY?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-10-28",
+   "source": "A Próxima Viagem",
+   "title": "TAP: Há novas rotas, voos que regressam e mudanças previstas para 2027 - A Próxima Viagem",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON0o3MDlxY0RYSkR0VEw3aktYQzhYQ3psXzFKM0R5MVBzTFpmeTlXMHdJNHRQRTV5aFlqSnZYNGlPWFdqMVIzd0lqTkhibzRpdzREWDF1b2pKNzllRE1hbWNTQUJSRUdfdlRrMnF2c1cxMmpwR1FpeEFXT0g2aVJWbFZpUm9vMFIyUTM4?oc=5"
   },
   {
@@ -124,6 +181,15 @@
    "source": "tnews.pt",
    "title": "Atrasos e cancelamentos afetaram 3,5 milhões de passageiros nos aeroportos portugueses no verão - tnews.pt",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFl4RFlyckJwNEl4Q0VIVUgwTnd2dWpDSFFFcnZvbUMtMkF6WjZONFhZdDIydEhEcWNqdUsxQWlidXlLVmNxMkJwV0tZVW5taGptT1RrNXAxNmtHQU5LVXdmZzJDbFBlRHhUc1ZlVWdEV3VCUXFWVm9WTFdNWDQ1aFBJSkVIRlB5Z19ZRzJmNmw5Q0I1aXM4dWRkNnVzMExKMlpUNG1FdWJpd1JMdFFjQjdn?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-10-27",
+   "source": "Imirante.com",
+   "title": "Maranhão inaugura nova rota de voos internacionais entre São Luís e Portugal - Imirante.com",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEo3RUhrNmd5S0ItS0VyUmJnZG9jZDdYbGFQaHdPRVFxVHpOUWtMSXEycS0yaDBpVUdXZWNGN3hoUkp3bWNJX1JjYUhrN25iSE42bjFTeER4NWpVdE1oUXBUNE43bGJ2c0dOUUtEdTBvOTRtRnFDdnJwbnZ4SDJRang3aDBhTTZ1NzhCUVpvUk1XbXloMjRUUFNKSnpBMFUwclHSAaIBQVVfeXFMUDRKN0VIazZneUtCLUtFclJiZ2RvY2Q3WGxhUGh3T0VRcVR6TlFrTElxMnEtMmgwaVVHV2VjRjd4aFJKd21jSV9SY2FIazduYkhONm4xU3hEeDVqVXRNaFFwVDRON2xidnNHTlFLRHUwbzk0bUZxQ3ZycG52eEgyUWp4N2gwYU02dTc4QlFab1JNV215aDI0VFBTSkp6QTBVMHJR?oc=5"
   },
   {
    "airlines": [
@@ -1290,72 +1356,6 @@
    "source": "SIC Notícias",
    "title": "Greve na easyJet: sindicato garante que há voos a serem feitos ilegalmente com recurso a chefias e tripulação estrangeira - SIC Notícias",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYklDeTFWeVZRX2pwQS1ielVVNVI5QjJfNzZEUGhlQ0p4M0JlblFzTE5wUFE5YjNlWUwxclJMbjJzNkJ4T2lTeU1wbm91d0hXYlAxWXZLSjd0LUhCckRZZWFUUWV5UkphZDdDZkZuVi1kc2pET3JXN256dHp2Xy1SaGUtMXFhLVdFSkZzanJ2VDU5cFU5cHJDTjZ1OUJTd2RaQk1EXzZrcF9PN2s5R0ExY0I1UEVwMHZaa2FXUEN2cF9IYk4xSUlJMUNmTERfOUw3WEFONVJ1UkRIX0hJUTE4M3dYNWE4MHJGYnRMQVlMei03M1Q0UVRVUk5HZ01ndy1MbGxIdA?oc=5"
-  },
-  {
-   "airlines": [
-    "LH"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-05",
-   "source": "CNN Brasil",
-   "title": "Greve na Lufthansa afeta passageiros, enquanto subsidiária eleva salários - CNN Brasil",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNDFxS2lDRTRJd2FRUmV0RHdxWVFKQ3MwMjBtVTVIVVlDVmlrcWFzcWlmMC1ZaEVTRE5lWmJUaU5xcnJIUFozR05UU2puWHJ4M3gwb2lmcmNwY1JpTXBaLWlIXzlxQUFWME84bHV6SWVYWEd5SkxMTDNweG1vdm1EOGFnQ3gzaFJYMWFlOTBLQVAydU9rSERiSnNMVnY2LTJNWVEtMHJvNHc5dlpLWk5qczdNWGNWWWpjU2tBX0tRNENzblpL?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-05",
-   "source": "Público",
-   "title": "Greve na easyJet cancelou quase 370 voos e impacto deve manter-se até sexta - Público",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX0VSMnpkUDIxaXFSMmlDdzBVOWd4cExTeWJyRjViYW1wdzZRUXNCV1g4dVNfRDA3VGNsVThWQi05SmNSTHZCZWp1UXJsT2xneGRVWlhqTjAzZHRmbmFhcDBNaVhhVjBpXzdWUUhmV191Ynh4eTNBZ2FORmVRNTBVSk5tYTlXNEZSdjVlUk10VHd1NzU5TGlGdldmT2xheDhfOEMxc01POVk4VzUzOEVwaXpfR2NiMnYzN09vZUR2eDU?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-05",
-   "source": "Jornal de Notícias",
-   "title": "Greve na easyJet cancela 14 voos - Jornal de Notícias",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVpFRWZ5RlZXb2pvQ3dCN1N0WlNpTm1ES2xvMFhQYXhVbUlwcHpBVUFmNTh2ckprS3pjeWFhYnYtZ1l4VHh1SE5YSzZxb0RCdGdjbDVENWVJM19IRmNjMmZScGZIR1ZONjRDZ1laMTZMeThGRWp5bVBRcF8wS2VndtIBcEFVX3lxTE00YzBHOW45SDFOejlLdFdUNk9HYVZKMVhWMEVUaXZEUk9mcElhRWxsRWZGenJfVEU0bmhlYmhkdWVCMXlaa3E1cFJZTGJrZjhqR09rNkU5azd3RndIMnROaWZUQ2xuX3Zyd252NnUwd28?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-05",
-   "source": "Expresso",
-   "title": "Greve na easyJet cancelou quase 370 voos e impacto deve manter-se até sexta-feira - Expresso",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNHJnc19QU2RDX2FPc1M2UkZHQVRuWG90RURtWUkyX1ZhOVlRcHpvQ25vTkwtbXVySndFVXZLUW5ZZlRHM1dnV1FFaHE4b0VpVmtXRE85WXN6c1hXRDdfUHI5dlg3VWRlbS0tOHl2MDhDeWtKMlRkdlA1WGJ6TmZlWWd2aHo2VlFWR2MwODBhNWRCMDdzMEtJSUtlNTlWWkJlczdSMEJ6SXB6V3JxaUtZN3ZYTjZjNm5TM0xDRnBfdmo1RlpuMFhIRE9FZmIzRGFWMDEwa1VlUUhrX0R5enNJeWRfd0w?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-05",
-   "source": "RTP",
-   "title": "Greve dos tripulantes da easyJet deverá afetar pelo menos 443 voos - RTP",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObVZVZFJNaTFnTDd6VnBCN0szSGl6WldiV3lrbm5KNW9ucXNfUjNjSGh4Q2swNGpFYnJXdkJLYTl1Q0Zudi1QOGkxLXk4am9sMEdHRXhkNnVzakpfNDgxdVNuMC1tVEFVVDV1X2VzdEZ5TUg2WmpCek1DLTJNRmhRWURaMmJxOXhFejJmR0ltR2YySFF1OXI2OUptUHpfR1huVDJ4bnpHdE85eWZ6STg1M3RB?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-05",
-   "source": "Now Canal",
-   "title": "Greve na easyJet cancelou quase 370 voos e impacto deve manter-se até sexta - Now Canal",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjU5YVFxbjZyTXZGRVUtV2p1QTh0LUF1c2htWXdxZ0pCUkY5dUhXUllFZUc3QzgyTWlsdTlqZ3RsR1RNNTFnbXRQUG9pMXd0MU9iTk5LdGIzTm5SRUxhd2J2T25STmhOUVlkOE1WRWRaLTdEakVDbllfRC1PZ1N4Z2lneG1oQkZFR0hveS1GRVRfTE9RZ2lTbUxuVS0wcVJOQ0R4NFlsMVZIUHJER2JyR1FFdEFMQQ?oc=5"
   }
  ]
 }
