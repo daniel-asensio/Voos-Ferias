@@ -2,6 +2,14 @@
  "alerts": [
   {
    "airline": "FR",
+   "destination_name": "Barcelona",
+   "previous_min": 15.99,
+   "price": 14.99,
+   "route": "LIS-BCN",
+   "travel_date": "2026-12-21"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Sevilha",
    "previous_min": 14.99,
    "price": 14.99,
@@ -14,7 +22,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-VLC",
-   "travel_date": "2026-12-17"
+   "travel_date": "2026-12-11"
   },
   {
    "airline": "FR",
@@ -23,6 +31,22 @@
    "price": 14.99,
    "route": "LIS-NAP",
    "travel_date": "2026-12-01"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Madrid",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-MAD",
+   "travel_date": "2026-12-19"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Londres Stansted",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-STN",
+   "travel_date": "2026-12-21"
   },
   {
    "airline": "FR",
@@ -46,7 +70,23 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-MAN",
-   "travel_date": "2026-11-12"
+   "travel_date": "2026-12-19"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Dublin",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "FAO-DUB",
+   "travel_date": "2026-12-18"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Birmingham",
+   "previous_min": 15.99,
+   "price": 14.99,
+   "route": "FAO-BHX",
+   "travel_date": "2026-12-20"
   },
   {
    "airline": "FR",
@@ -66,6 +106,14 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Cork",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "FAO-ORK",
+   "travel_date": "2026-12-18"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Newcastle",
    "previous_min": 14.99,
    "price": 14.99,
@@ -74,35 +122,11 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Londres Luton",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "FAO-LTN",
-   "travel_date": "2026-12-12"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Barcelona",
-   "previous_min": 15.99,
-   "price": 15.99,
-   "route": "LIS-BCN",
-   "travel_date": "2026-12-21"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Milão Bérgamo",
    "previous_min": 15.99,
    "price": 15.99,
    "route": "LIS-BGY",
    "travel_date": "2026-12-19"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Birmingham",
-   "previous_min": 16.99,
-   "price": 15.99,
-   "route": "FAO-BHX",
-   "travel_date": "2026-12-20"
   },
   {
    "airline": "FR",
@@ -119,7 +143,15 @@
    "price": 17.99,
    "route": "LIS-DUB",
    "travel_date": "2026-12-12"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Budapeste",
+   "previous_min": 29.99,
+   "price": 29.99,
+   "route": "LIS-BUD",
+   "travel_date": "2026-12-24"
   }
  ],
- "date": "2026-10-28"
+ "date": "2026-10-29"
 }
