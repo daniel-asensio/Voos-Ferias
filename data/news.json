@@ -4,6 +4,76 @@
    "airlines": [
     "TP"
    ],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-10-30",
+   "source": "Panrotas",
+   "title": "Tap Air Portugal lança nova rota direta entre Lisboa e Orlando - Panrotas",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZnZXTGY3NWJQX3dHUzdJVVQtVEszM19IcFdZOWNuUkk3N1JIS2I0UUNpLWlTQmc2V2hkQWx4dzlkN0s5a0JOQXVCS1NCNkxtTnBodW5PM2JkQzdkMmotcXFCUUwzVVloX0cyUzBjbU9oT29PejNUb2ZaeGppMVhDbXVtNk52MHZRTGo1YXJEWEZtYll4akJ4SV9tRmNiRE5KRk1GVTNqSGFOcml3c2pIUWRvX2FXa3FwNm1mY2tKY3ZoT3dsQUpRbmJn?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-10-30",
+   "source": "Publituris",
+   "title": "Smartwings inaugurou nova rota entre Lisboa e Praga - Publituris",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZHFnTW9nc1paYXlLVDJTSzNHZHFFQTAteEpzRUNldFhiTXZVeHlmcEtqYXJTaFlMZlBFZFB1M3pxeFlmV2ZmMUhOTy0yenVpRFZ1QkcyZmRVM2pKdThKOHZmOWw5QmFLZGVLTkpWWExjMW1RcThTQ3hMR0RkOXM1b0FyaFdqSmstc0JiNA?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-10-30",
+   "source": "SAPO",
+   "title": "Smartwings inaugurou nova rota entre Lisboa e Praga - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3ZFQmZsUWJzdVJKU1ZQR2l2aUtESkZpbnlKVFFUenlUdmotX0NROXJIYmNmZGZxNnVoSnhOODZKWmxLNElhMjJUajJpMEczTVBiZmlYTW9CYWdVRnhVQ2tTU2VVVTQtLUcweFhEYjlOR2RvbDBqM2JSUzVrNm94alFOY1ZjZk1UVC14VW5iSVl4TERaV3hDWVF4SE1HUjRl?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-10-30",
+   "source": "Publituris",
+   "title": "TAP já voa entre Lisboa e Orlando - Publituris",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqSkVBaDVLcVhZUl84WUk1aDR1cGR4QWw3c1VsVGh0ZnVRdUltQjZOcFptZzJuUlBGYWRZM2pWUGVWVGZnVmRyNlUtQi1uTHRvWVBtWkJXMWswdmFreEwtbUFvclR3aU1oVlhnNnhKMU1JWFVn?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "FAO"
+   ],
+   "category": "geral",
+   "published": "2026-10-30",
+   "source": "Publituris",
+   "title": "Air Transat passa a ligar Montreal a Faro no verão de 2026 - Publituris",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS09RQ2E5OGZzLUlVX1laRDhHX0FtUE9nUkswN3k3NGNhRE5GNkFJeFQ2ZkNPa3F2U2lqMjRfQUxzV2VuZWhVRlZjSGxvODNwSmNkRnR1M1JTMnNkdkpTUDdtY2Y2X05fTmJ3VkxMdTRpQkU1cm9obGVGMm1tdktXZmVqWDZOYjlxWWhlWUs3WV9COUp3UHc?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-10-30",
+   "source": "Data Portuaria",
+   "title": "Porto de Yantai lança nova rota de carga breakbulk para o Senegal - Data Portuaria",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVNtQUk5ZklUVXpVd0ZHN0x5TklqZmpxTHNJQ2NfRmk1VXIwWlpRb0ladWh4X0lYRjJ0QUkxTFdfcUhUdGtlVzFfM1ZiWHZKRFNMTEoxNVJhYzJjX3pBTkZmaWFueWZTVTlpOGtQbXJkNkV5bEFvWENOSHJ6RE9wLTA2dUlFY3JGR3FPeHZSM3UycTJPMXZadEFTZF9HOU5KTDZES0dGSlBzLWJhSVVjRWlSZ1FlOTE2R1RtQzl5cEF0bUk?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
    "airports": [],
    "category": "novidade",
    "published": "2026-10-29",
@@ -1294,70 +1364,6 @@
    "source": "SIC Notícias",
    "title": "Greve da easyJet chega ao fim com sindicato a contestar números da empresa - SIC Notícias",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOekoyWlZ0aWdBc2xVZThRYXNsZ2ViSzhOVXdIeHNRQlhHN1lTVDJyLVI1OHlXMlEwTndzMHRfcENxU1Eyd0xnckVFV3YwTDdPWDZYVEh1dWk3S21SUHE5VHEtN1BoUTdidC1yT1c3N2hxYTU3V1V2cVJXQWtKY0xXQjZqbE1FR1V3dUtud2F0VWJpYUFmbTRiZzJxWEE0ZGhWc0MzOHE2bmtBN3N6eDZsTTVXZ3c3WGNRck00NFV3NjBFV0ZLbjJJ?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "AbrilAbril",
-   "title": "Grande adesão à greve dos tripulantes deixa centenas de voos da easyJet em terra - AbrilAbril",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc1N4OUhDYzJUdkg5NHdGRVpQZ3JmVE0xTE96TVhZejBCRjJ0aVkzN1pYY2ZGbkxCRnF1dHVVRlNZSjBGTXg3d2huc050N2hTV1JkMlE1X2hweG0wTHhkSHh3NGVFTVlZWjZkRkZEaWJhNTJOQ0ljeGFNelV1STVQaEVjejZpUWV3ZXRVVUJ6N0tETV80YTZOTzU4Q1pqRVBuQXVqd2JQdm9uZktIRXZoRnFidw?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "SAPO",
-   "title": "Greve dos tripulantes da easyJet originou o cancelamento de 370 voos — sindicato - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDZ4czRzSURjaXhsRFVWTE5FM2Zld1JyYzNkU2JOTzF6MmlGcndXcnlLSnQzTDMzWllMVVlfdi1RNDRSMmlFTmItaVV2WmF6NXRsUGdFQmwwUU9WSmtJb2w0bUY4WVc5YlVPZ3BjWEZHUVBkLXl5VU4tOW9FWFAwSmhmTXJrTzA0b29WWGN4MU9wVVhGN1lIUjhnMF9weG95N3lkYzVPUWZmb25oeGg1NEpXVmRmRmxyOUpjZU16QWl3QmZ5?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "TVI",
-   "title": "Greve de cinco dias na easyJet termina com acordo para melhorar salários e escalas de trabalho - TVI",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSW9mcEhSSnNPRXEwa3JKSmFDUWhIakRocGhfYjRMMDhiOGkxRVFwbFlqR2V2RU52aDJLakNoNFFvUGVzVzZIbWRYVkdBTFg4ejNkc2N1MTYzdzVtNGNJblJEWG1tdEFNWFRpMGI4aUNlX1Nfckk0d2NVYUZNWk9STzktQzhPWGlBSkZ0UVhKdzYtRDk2b1VoQzluQWVpVEpvTUlua2c5OHQ4bWRsYU9zRTZ2eV96NHFLZXJFU2hseHBoNjJEUFNnUktES3BOX1pCaGp5M1dmVUYxbTYzSnhvVjFiYkxfeGljc1E?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "CNN Portugal",
-   "title": "Greve dos tripulantes da easyJet originou cancelamento de 370 voos - CNN Portugal",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcmZuMVpsR1A4eElyenY2THFqZ3RoR3NIYUhVYklscTBnZkk2alpUVjljY0Rjb29OdlZKTVpXTVlLRTg3MmxraXM4WkhqVnkxREN0OU9JZ3pIUk1aSzQ4ajR3cXZ2X3FPSDdXMURkbF9GeGJGNnR2YTI5SmxmSnpObWduMFplRlVUWkJxVXNjY3o2VG9NXzY2MVU4TnFqVEV4RTBDUFJfY2NOSEVwbFQ5OGxfZ0xUZnkyZ1BJbXl5c2taM1ppaXd2SUwyejB1VTlnZk9OeVAwMGVEdzV3OGhoX1NzYWh2STJkUHB2LTRn?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "Notícias ao Minuto",
-   "title": "Acaba hoje a greve da easyJet, mas já há outra na mira: Recorde quando - Notícias ao Minuto",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXhORS1MVW1CYnRwMUt1cGJ6UTJnWFBEVGdpMl9Na25IUnc0OWFSckNPN3VYQkJRMVdUZ2dQWjlKTHVOUFg0VjI0ZEhDMHJ0YjJsbUZVQ0xfMWJBUGJkaGwzYkZWMGg5bXJEQTZSSGZEdE5zclhXNGVjLWxPYzFyU05sU1l4RUE0TlRwTVNqVjNUejFGb0VoQ2FycmotOTZMMDFibjVObWlXZk1jRVMzaFNGQ3p3RTFIdUE?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "NewsAvia",
-   "title": "Greve dos tripulantes da EasyJet em Portugal cancelou 370 voos. Indica o sindicato - NewsAvia",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjBsNXctZENOeFdNUVRLWjNRbVBTMjdCTzBNSmVEUGpOSUVzeWJBbWhBWjZMbXBhOS1ybElxbzVob2J1Zkt2b1UwS3cyZy1QOTBac3ZVZndwNzFRVjVzUERWQjNYUmVSUHZWLUZVTFptQWMyVzZwOVV3Y25GNjkxOFJVWUtJM3Q0Y1BEeGpXYmZkWVVnakxfcXR0UFZyMWpDZzNkNnVn?oc=5"
   }
  ]
 }

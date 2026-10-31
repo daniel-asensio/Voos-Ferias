@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-11-06",
+  "booking_end": "2026-11-07",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-10-30T12:51:28+00:00",
+  "collected_at": "2026-10-31T12:23:48+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -232,22 +232,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-11-01",
+  "booking_end": "2026-11-02",
   "booking_start": "2026-09-26",
-  "collected_at": "2026-10-30T12:53:05+00:00",
+  "collected_at": "2026-10-31T12:25:13+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 25.20€ dos últimos 60 dias de recolha. Voo mais barato a 2026-12-01.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 61 dias de recolha. Voo mais barato a 2026-12-01.",
   "destinations": [
    "Nápoles (NAP)"
   ],
-  "discount_text": "−41% vs. habitual",
+  "discount_text": "−40% vs. habitual",
   "id": "fr-queda-lis-nap-f869fdf6",
   "origin_airports": [
    "LIS"
   ],
   "price_from": 14.99,
   "source": "price_drop",
-  "title": "Lisboa → Nápoles a 14.99€ (−41% vs. habitual)",
+  "title": "Lisboa → Nápoles a 14.99€ (−40% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-10-29",
   "url": "https://www.ryanair.com/pt/pt"
@@ -301,11 +301,11 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-11-01",
+  "booking_end": "2026-11-02",
   "booking_start": "2026-10-01",
-  "collected_at": "2026-10-30T12:53:05+00:00",
+  "collected_at": "2026-10-31T12:25:13+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 60 dias de recolha. Voo mais barato a 2026-11-13.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 24.99€ dos últimos 61 dias de recolha. Voo mais barato a 2026-12-20.",
   "destinations": [
    "Birmingham (BHX)"
   ],
