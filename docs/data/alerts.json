@@ -10,11 +10,11 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Málaga",
+   "destination_name": "Valência",
    "previous_min": 14.99,
    "price": 14.99,
-   "route": "LIS-AGP",
-   "travel_date": "2026-11-19"
+   "route": "LIS-VLC",
+   "travel_date": "2026-12-11"
   },
   {
    "airline": "FR",
@@ -73,5 +73,5 @@
    "travel_date": "2026-12-10"
   }
  ],
- "date": "2026-10-30"
+ "date": "2026-10-31"
 }
