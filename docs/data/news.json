@@ -2,6 +2,52 @@
  "items": [
   {
    "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-31",
+   "source": "ECO",
+   "title": "Tripulantes da Azores Airlines admitem greve de três dias se empresa não responder a reivindicações - ECO",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmJrSndlUEhqdG50UjJyMFRnQnVOQkdXS2FIUUFxcTBnNjY5ZmFNa0U5SHM4YUQ1czE2SU5VYVJCeGJyYVZqTmhOZVJpUzNNZ1ExX2stNmJLSWpjMHM2eDdjcXBzYjZ5OTc1Z2E2Y3psemFnNmt2R2NvYVlJZmRPMUw5Tlg2RVpSTnFvTVo1TlRtSnlsMkN4MkdIVmhlcUVpOXNlSkRCUGJXVzRRenh1SUtKTVkxVUlSQU9DUmJzazM0NGhrd01jc2M0SQ?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-31",
+   "source": "Açoriano Oriental",
+   "title": "SITAVA acusa SATA de contornar greve e avança com queixa - Açoriano Oriental",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3VKeFNka3hoUExMS2prbVN5Wms1NEZaUXFuLXBQTVlTRXlOdzNfZXpTUk5CODMtTXNaRGxDX2lDMXUta3BiYmVMd1NXdkZ0TjZaaVJ4ODRHbkVYNjJDeUItbUdadmtWRkNKSm0xRDcyN1NNYlBIU1diaWhJQU9PV1ljTlItb19RMFNqU2VwbXlrUGRENEtVajFrWlhVZXhoeElndkhB0gGrAUFVX3lxTE9wMHdzaW5WNXliMHVoc0VWZk5URzExOHNrOHNtdlpTRUYzSVVzNkFtclNXamUxajRveTVxZ2trdkRvcHFGd0V3NEJ0WjRoeXNUdmNWQU1GZUdhbGZWeDAtUDFZX0tFN3RZS2NhX2VkWjAzRFptZ2lmREtKcnRVR3ZsYXNkdEd4Uk5XV2hwZXFPV2ZqWjJkOGtIcTVMQjlXdVlsZHNGVzV4TUJaQQ?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-31",
+   "source": "RTP Açores",
+   "title": "Greve Handling SATA: SITAVA diz que adesão ronda os 90% - RTP Açores",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1dtNzZMb05FdkRxRXlWN2p6b0s0dWZ0X1JDY0s5ZDJZcE9PM05McWxMRFlfUkZYUjNYMnRveHE5eWtSRjdXLWFDZklSbzB2bzlKWmVFYVVEWDZqRWpIUzBOZm1mQTZRcnpsZzNZNDRvSmJ3ZnFVMHJMX1FMX1V6c0txUlhMYUZkanc?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-10-31",
+   "source": "Kiosque da Aviação",
+   "title": "TAP Air Portugal inaugurou a sua nova rota entre Lisboa e Orlando - Kiosque da Aviação",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWtneHY4dEJXX0FxMkJqeEczTWNuYXZuUXZPNlp2bVNabWxqZ010U3cyQUxlWC1BSGFFX1dURGxTbkU1N2YyclFkU2N5NnNaZ2NWUnpmaFhISW02T0I3THhBWDg5enVucTc5ckRLWDctWkU1dGgzZU9id2tFQXhEQmQtWDlSbVhzSkt4aGxUYWptRzVFUk1UaEVR?oc=5"
+  },
+  {
+   "airlines": [
     "TP"
    ],
    "airports": [
@@ -69,6 +115,28 @@
    "source": "Data Portuaria",
    "title": "Porto de Yantai lança nova rota de carga breakbulk para o Senegal - Data Portuaria",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVNtQUk5ZklUVXpVd0ZHN0x5TklqZmpxTHNJQ2NfRmk1VXIwWlpRb0ladWh4X0lYRjJ0QUkxTFdfcUhUdGtlVzFfM1ZiWHZKRFNMTEoxNVJhYzJjX3pBTkZmaWFueWZTVTlpOGtQbXJkNkV5bEFvWENOSHJ6RE9wLTA2dUlFY3JGR3FPeHZSM3UycTJPMXZadEFTZF9HOU5KTDZES0dGSlBzLWJhSVVjRWlSZ1FlOTE2R1RtQzl5cEF0bUk?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-30",
+   "source": "NewsAvia",
+   "title": "Pessoal de voo da Azores Airlines admite convocar greve de três dias - NewsAvia",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnhVWDNxSzJxNS1Sa0dWX0N5aEpidFpGZ1pXeVB5NEs4RXJOb0ZERUR1RVotdVFyQnVXMVgzd1NkaWVEOW5HLThKTVBYZEdHVDZ5akFmX0VESUtTMEN5bkpKUEFXRk9mbXlETnI5YkJ0WEJxajdmajBKNFktTlZmMFp0SUtkQUpzRkV1Y283N20xeXI5?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-10-30",
+   "source": "NewsAvia",
+   "title": "TAP lança nova rota para Orlando (Flórida) e reforça rede nos EUA - NewsAvia",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDAzNmxtN1U5c0FFWGVPQWhaZUxlckRhUFNmaThhQ0JFdmFJY0JjNVctejdFa185UUVDemZCLVBrSkZpNXllVWZYMlQyOFJYa0tYWjJqMGJvV3ZqRWxpcnFKSTlKbDFuV3dyaFBibWdVMnN4Ni16SjVnM1I5eEg1dlVkWDNyOUNhbm9LbTFn?oc=5"
   },
   {
    "airlines": [
@@ -715,6 +783,17 @@
   },
   {
    "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-10-20",
+   "source": "Notícias ao Minuto",
+   "title": "Sindicatos chocados com decisão Tribunal Arbitral sobre greve SATA - Notícias ao Minuto",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1BNalpwUHQ0dUx0LXFRVENxT29VOU80MWFWYnQ3QjFtcFkxQWU3c05Fb3BXZ2RXSHhHZVpzcXAyaUpWTlpESzc2V0FlUkZfR3FuU2UxWk1PeVlOelF3Q0dwNmpXZVl3aWlSMEpvVkFEc0N4aXZHTHBrSzFzVEhLQjBFZ3V3TWJwaktNTWV1cmstTFE1M2VfX29RQk5YWUNQaGVVQWxCMW1HMDdnbXh5Zkt3?oc=5"
+  },
+  {
+   "airlines": [
     "TP"
    ],
    "airports": [],
@@ -723,6 +802,19 @@
    "source": "Melhores Destinos",
    "title": "Smiles tem voos da TAP Portugal com milhas com 10% de desconto - Melhores Destinos",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5VEpSV0xZdXA0NGw0SjR4REU5b3A1aDlqREFfQXlVZ0oyYnQwSVhJb241bV9xM25LV01JVFlFYnRscW5RVUVOb184SnQyNDNOM2ZlU0c5Z3VydFFadnIwSDgzbGRGdW9KaWtUenB0VDhjdG1pUXpV?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "geral",
+   "published": "2026-10-19",
+   "source": "The Portugal News",
+   "title": "A Ryanair amplia as rotas a partir do Porto para o próximo verão - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0dfX3hQZXF4MTI4cG1VcE1tQVBDaEU4Q1J2clpsV3g0cGtpXzcwcG12RjY0NGRnSGNiVmRkd3ltQVZaZTNUbUo3R20zOS1fQkFyYmFudmxCbU05dXI0WktaUlU0NzNVRFdzb1NFc1R6dW5JM09URVBRc1RVRVk4T1daVGI0SWNEcUNFUXpQV3lPY0R4MGVjQXIyN3lQaE5yZ3FqbGtnckl5RWVHQUhtR3Nfa0VkR2llZnhRM3BOb1FnOVh0U2s0?oc=5"
   },
   {
    "airlines": [
@@ -1274,96 +1366,6 @@
    "source": "VOU SAIR",
    "title": "Saiba como é voar em classe executiva na nova rota da GOL entre Lisboa e o Rio de Janeiro - VOU SAIR",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3k5N0cyN3c1eDNNU2lKMjBvRFl4X1VWSlFfUXhDZTdQREdQMWpEZG1lbzRDcnpjOVdpWDZDSm1pcXBwVTZxZ284VzhPZDFVR1dLYTBtUWxUZV92aXBrZDM3V0t0VzkzbHVRWG5tNGppSnVBMXRYaTZnN1F5Q24td3UySDRhNU9oalM1d0kybGZscEdCWU1ZYjJKNWVIQzl5VllUa2haSTdHQkkyblE?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-08",
-   "source": "Distrito Online",
-   "title": "Greve easyJet cancela 443 voos e afeta bases em Portugal - Distrito Online",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHpfUHkyUDBiT1hjVC14RV91SktzeUlLMWZ2akF2YmtHb2hPTDh0UDB1cFNFVUM1bWFjZWpQanI3RFAyd3pXTnBlZXhYUlI5TmlLYy13eF9iWjNXdDBtcXpVV2R6RDVqWmlMVzJyN2hMa29VcmMwUk13b1Q1UFRmaUx4bktGNWF1RzN1SXAtc2xWYUhCZm1SSVJ4NFZYLVhuNGFFV3Z4a3FydlVOV0dvSQ?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-07",
-   "source": "tnews.pt",
-   "title": "Greve dos tripulantes da easyJet termina com 370 voos cancelados em cinco dias - tnews.pt",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUUYzS2w0MTl1RFF0RU1XbWRsT21ianJTSDlLX3VqT1dNTEk0SEJ0N2ZWWjg4ODh1MnAwb2VqWmluQmgtbF83LTNQSjdpaVl2eTh4dHJNak5uLU5ERnlxS21XcTVJY2tkYjM5MFhvMThYanc2Y1ktMjZBQU5iMVdNRGItVEJuQzhlQndvaDVTYThHRlJCdkFPRDlaRk0?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-07",
-   "source": "AEROIN",
-   "title": "GOL fecha acordo com a TAP para incluir compartilhamento de códigos na nova rota para Lisboa - AEROIN",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZF8wRktET1k4endKSEpmYlJ5TDhkeU9jNU12dDdFSGdaZ0NGUC1JWWVKOWVIaGRGTnNoQ3l6S280T240QjdkUUhkc1pncjYzYkptc2R1eXJocFhsZjRZTzUxYTJ4YXVVVVA5RTktUmJkR3RLenlwbmVkWkJYSDREanZkRzZxNVJZQU9ROGE4ejNVMHIzcVJqazdmYWQ3eGZoNnZJSDN0a1BDRUNhUXVvNV9R0gGyAUFVX3lxTE9kXzBGS0RPWTh6d0pISmZiUnlMOGR5T2M1TXZ0N0VIZ1pnQ0ZQLUlZZUo5ZUhoZEZOc2hDeXpLbzRPbjRCN2RRSGRzWmdyNjNiSm1zZHV5cmhwWGxmNFlPNTFhMnhhdVVVUDlFOS1SYmRHdEt6eXBuZWRaQlhINERqdmRHNnE1UllBT1E4YTh6M1UwcjNxUmprN2ZhZDd4Zmg2dklIM3RrUENFQ2FRdW81X1E?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "Notícias ao Minuto",
-   "title": "Termina hoje a greve da easyJet, mas há há outra na mira: Recorde quando - Notícias ao Minuto",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXhORS1MVW1CYnRwMUt1cGJ6UTJnWFBEVGdpMl9Na25IUnc0OWFSckNPN3VYQkJRMVdUZ2dQWjlKTHVOUFg0VjI0ZEhDMHJ0YjJsbUZVQ0xfMWJBUGJkaGwzYkZWMGg5bXJEQTZSSGZEdE5zclhXNGVjLWxPYzFyU05sU1l4RUE0TlRwTVNqVjNUejFGb0VoQ2FycmotOTZMMDFibjVObWlXZk1jRVMzaFNGQ3p3RTFIdUE?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "A Verdade",
-   "title": "Greve na easyJet cancela quase 370 voos e afeta aeroportos em Portugal até sexta-feira - A Verdade",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjFDX3RzN1A4aV9qYmpwVGxBRnh6SG5qYVJpallLdXJZZFJ3cEhhVWd0VmpRMnBkWXctcHVQMzJqaXdoRG83RUFyMjUzY3ltMGtyUnhqS2hzMjZqX01aaVBNNXppQ1c1NnpfSkZ0WkE1dkNpdWtEaVNGZDZaTEFJWFdqcnhqV1hFVHlWeUVDenVKbGRXQ2d0NlpkbFZndXlBQVhUWS10ODR3cGQ3UTBBeUNaaUd2a29Vcnc4?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "Observador",
-   "title": "Greve dos tripulantes da easyJet originou o cancelamento de 370 voos, diz sindicato - Observador",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDFpYW12dmZ0bnhHSkJ6QnBvamRNU3JSWllJem0zWGhVNmJkc1ZvMmduZzU0elJCdTdpMkVFWG5WSmpDZmp6NmpSZVdOdDI4TUk1cUU2VkY5VjVOdndTaDBGOFBDcjNXUkpmVXJIdHFKUTBSUjFMbmRzT2l3TnY5Y2RfY19yOU5fTmc4NFVSbGRfUXJ2aGVnN3dkVUJZemROcHl0Qjl6Tzg5SjZ3RDRwanBoQ19UZjA?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "LUSA",
-   "title": "Greve dos tripulantes da easyJet originou o cancelamento de 370 voos – sindicato - LUSA",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDU1LVQ5NTNFSjluM1huMTZ4dFJWbjZHd3NPU1B4X1U1Qmw3emZaN09QTGZqbUJITTRxd0xXYkVndkk1cUZLMGdmVWRrTFNWQmUxaTNtUjNVcFpwRTN3OUN4QUJ5dHlhSUZ1RVFJNjFBXzQ0UWhOYXhQV2JVX0ZTMnJUT1J0dDhFWEFRX0xGemVxTi1Sc09JRHNsckxZODhYZVRzZXMzQjJxVlRfdEJwNWx2d09Bdw?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-06",
-   "source": "SIC Notícias",
-   "title": "Greve da easyJet chega ao fim com sindicato a contestar números da empresa - SIC Notícias",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOekoyWlZ0aWdBc2xVZThRYXNsZ2ViSzhOVXdIeHNRQlhHN1lTVDJyLVI1OHlXMlEwTndzMHRfcENxU1Eyd0xnckVFV3YwTDdPWDZYVEh1dWk3S21SUHE5VHEtN1BoUTdidC1yT1c3N2hxYTU3V1V2cVJXQWtKY0xXQjZqbE1FR1V3dUtud2F0VWJpYUFmbTRiZzJxWEE0ZGhWc0MzOHE2bmtBN3N6eDZsTTVXZ3c3WGNRck00NFV3NjBFV0ZLbjJJ?oc=5"
   }
  ]
 }
