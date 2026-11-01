@@ -6,15 +6,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-11-12"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Valência",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-VLC",
-   "travel_date": "2026-12-11"
+   "travel_date": "2026-12-03"
   },
   {
    "airline": "FR",
@@ -23,6 +15,14 @@
    "price": 14.99,
    "route": "LIS-NAP",
    "travel_date": "2026-12-01"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Barcelona",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-BCN",
+   "travel_date": "2026-12-14"
   },
   {
    "airline": "FR",
@@ -71,7 +71,15 @@
    "price": 15.99,
    "route": "FAO-BFS",
    "travel_date": "2026-12-10"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Frankfurt Hahn",
+   "previous_min": 23.99,
+   "price": 18.99,
+   "route": "OPO-HHN",
+   "travel_date": "2027-01-22"
   }
  ],
- "date": "2026-10-31"
+ "date": "2026-11-01"
 }
