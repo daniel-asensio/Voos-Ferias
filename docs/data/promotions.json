@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-11-08",
+  "booking_end": "2026-11-09",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-11-01T13:18:26+00:00",
+  "collected_at": "2026-11-02T15:45:52+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -232,22 +232,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-11-03",
+  "booking_end": "2026-11-04",
   "booking_start": "2026-09-26",
-  "collected_at": "2026-11-01T13:19:45+00:00",
+  "collected_at": "2026-11-02T15:47:15+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 23.49€ dos últimos 62 dias de recolha. Voo mais barato a 2026-12-01.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 21.99€ dos últimos 63 dias de recolha. Voo mais barato a 2026-12-01.",
   "destinations": [
    "Nápoles (NAP)"
   ],
-  "discount_text": "−36% vs. habitual",
+  "discount_text": "−32% vs. habitual",
   "id": "fr-queda-lis-nap-f869fdf6",
   "origin_airports": [
    "LIS"
   ],
   "price_from": 14.99,
   "source": "price_drop",
-  "title": "Lisboa → Nápoles a 14.99€ (−36% vs. habitual)",
+  "title": "Lisboa → Nápoles a 14.99€ (−32% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-10-29",
   "url": "https://www.ryanair.com/pt/pt"
@@ -503,6 +503,29 @@
   "title": "Porto → Paris Beauvais a 15.99€ (−36% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-12-17",
+  "url": "https://www.ryanair.com/pt/pt"
+ },
+ {
+  "airline": "FR",
+  "airline_name": "Ryanair",
+  "booking_end": "2026-11-04",
+  "booking_start": "2026-11-02",
+  "collected_at": "2026-11-02T15:47:15+00:00",
+  "confidence": "média",
+  "description": "Tarifa de hoje bem abaixo da mediana de 25.99€ dos últimos 63 dias de recolha. Voo mais barato a 2027-01-22.",
+  "destinations": [
+   "Frankfurt Hahn (HHN)"
+  ],
+  "discount_text": "−31% vs. habitual",
+  "id": "fr-queda-opo-hhn-475c561c",
+  "origin_airports": [
+   "OPO"
+  ],
+  "price_from": 17.99,
+  "source": "price_drop",
+  "title": "Porto → Frankfurt Hahn a 17.99€ (−31% vs. habitual)",
+  "travel_end": null,
+  "travel_start": "2027-01-22",
   "url": "https://www.ryanair.com/pt/pt"
  }
 ]
