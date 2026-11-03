@@ -1,6 +1,72 @@
 {
  "items": [
   {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-03",
+   "source": "Jornal de Notícias",
+   "title": "Nova Iorque e Praia entre as novas rotas de inverno do Aeroporto do Porto - Jornal de Notícias",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZjZfUnBpRnVZUmFsYWoyS0JBU3B5SHBhejBjOEV2cUN4ODBRaEdrS1dLd3RXSnJSZW85d1N2TkVrUUZBaGo3MUxvNm1HS1MwZ2Z4T0Uwb3B5WkRBN0lWWDhmNGhNREl1WGhVeTdCcE1VUTJmWEVYRzhPaXMybEg3TkNRWnlRc3lnRE1xbFlZNXNzaHozcDRzRE9qRE1GTG9aTUJ3TjM5dVJiVS1nU0s1WTh30gGnAUFVX3lxTE4yaHdSOWF0b3NJTU5BVWdUbWFDeEI1RHRNVHZPSDlycHR4bnMydEFKU25MWVFJUUJGaXYtTFhNbDk5aHZDMy1reDJiYUtHYldOaENETmlBdG81UTY1amdmZTMwUXZLVkNpajNXa1VFQkQ4TFBSLVRZSWNlMnZ3U0hidWk5d2F5UzlTb2l3ZkozMm5TTGZlc2xEZ0NWam0yNTllcDRlQkZ3?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-03",
+   "source": "Plataforma Media",
+   "title": "Aeroporto do Porto reforça ligações internacionais com 24 rotas na temporada de inverno. EUA e Cabo Verde nos destaques - Plataforma Media",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMmJRSW5Vd0JMR2dGNGllbmZCVHE5WFp0MDQtcFg5OU8wdHd5T1cteE5XcVZqb3hzWk1nRm5Gd2UxUWxLSzFGXzVPcXI5aXZac2Y5MXhJTTRNOGNqWHlzOVh0WEw1ZTUxTlJKUTlJZU1jWjZQcHI1VDhLVElGUXl1UzJHZVRFMlNOTTVfM2xLdU41aExoQ3JQNWQ4WFZ3NDczWXJiN1VwQVdWS3djVmdVaDBfR2doenhtWXR5SUJEaUxzaWFubjVKSWk3bEJyTFE2SWZLdW9XWnp3eGpPSlZXNFV6VEh6cG9qRElOY2ZxeWdLWFQ4?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-03",
+   "source": "SAPO",
+   "title": "Aeroporto do Porto tem 24 novas rotas na programação de inverno - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFRnLTYtd0dvQ2FoOERMb01wQkczanBBdDNVbldCbXIzYlNST2w0bmg2M0xPcGNucTFOa2RLTFdob0FmX0ZYWDhJRlNBWm1iTHV2N1VCbHByOWlDWEJzZmpMSVZLUDNwckJrdTBIQjNxTTYwbVRUekVXRE14LUJWVlQ2NVo3NkU0TVJkb21RWWZ2eXRwQ08xYWp5ZWc3dDkwb2ZCZnJEem1YNnhvUEJhLQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-03",
+   "source": "SAPO",
+   "title": "Aeroporto Francisco Sá Carneiro com mais de 24 novas rotas neste inverno - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWFKT2E2Tm56UGNxOVRRUHBuNjRqT3VPMW41QlJEc19QTE15ZDZjVXUwSU1oOUxGLVVFYkMwN0FuMnlueVpIOU9Ra25EODEwNlBLNTJsOVU4dHZDckE5bU9Xb0VQQkZmVTc5RmJMOWFXVWNreG9vbWpoVjZTZ2I4MW9aajRJZUprZ25KQVltaVg5SlYySUxUbVk4WDdUUUdMTzBuMmViN2tuTHRzME9SYzVYQTZtTEhQcWg5eQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-11-03",
+   "source": "Público",
+   "title": "Aeroporto de Lisboa: parte do Terminal 1 fechado, dezenas de passageiros repetem segurança - Público",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV19abHZzRUFVQ3d0U2wzREFtQVNQRW81bnpIX2U5VmQxTTB2TkFtOHRaamh1SzByOGE2cjlUdU5mUnhpS1VudmdEXzB6QzN0R0hzeDRvMklJSEtJOGN3NUpoV18yRTFJeGw4eTdhU3d0NHlvdS0zTmxPbElqcU9feTNoSGU5dERPeXd3bFB5S3lpeTRoUmdlcFFDdzd2OWxZSzItbHdJN01TTUlmRGJxSHVTZVFZb1AzdUNhb0xOMkV1RzB0c3BIZkhGSEpQVzFRVjRWS1Nn?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-11-02",
+   "source": "SAPO",
+   "title": "FlixBus reforça ligações a partir de Aveiro com nova rota para a Marinha Grande e mais horários para Lisboa - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeHFuSHdSSlNQU0NPSWZKVzFvdUQ3NURCZXpHTEpnaUFoZ2VHTEFiMEFWNWk5UlJyazY5MHZaa3liMk1pR3YzUWhfcFdaWWIxTUItOUNuMG1xTkFkV0w0MzR4U2NXd2xuZFQzakNzU3h3Z25zX1lIY3U4bXR0czZXcTVyNldDam1NakpZR18zTjhkVkxQRFg2X1BqWmFGWjJIb2wzbXMxOFNpc1FhNnQ3dUE3THZXVzFxX3EyMlFGclY5N2FieWlHZTZHVlBHeno4Q0diLWM3OVZoMFEtMjN1eXBadUl5TGE1Q2s0?oc=5"
+  },
+  {
    "airlines": [
     "S4"
    ],
@@ -1300,72 +1366,6 @@
    "source": "Observador",
    "title": "Greve na SATA Handling entre 21 de outubro e 3 de novembro - Observador",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV3VLUFI0QzhKOWRMY1AydjJOYnpEYkR5LW1FdXdabVA1NG5xcG1OejBwQ0stRzBpRUxpTmx3Y2wzREFHVTZDN1RJSW1mT3RXSkJjVUFrU3FGUDNfNnUzek50Vm1jWHQ4QTRLV0tXMmtNVFFPY19kRFU2OFd4ckw0ZUVRRGM3S25oTUtKQ3pmSzVxREdkWFk0?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-09",
-   "source": "BOM DIA - Portugal no Mundo",
-   "title": "Greve na SATA Handling entre 21 de outubro e 3 de novembro - BOM DIA - Portugal no Mundo",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSTc5WWh6UUtyblA1b0RySzBoRjNadWQwTnRJOVZKYjRVOTNxUXZrUzhTMU5OcElnS21PMTdRS2txbFBfYWNWVVRRZ2sxWkROYlhCaW5vc3FlZGFoTnc4WTlIakNSSDN2MElvRkVfRmdLWlpuV29zeFNDVTNUWnhEUHJ4aw?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-09",
-   "source": "Renascença",
-   "title": "Atenção: há greve na SATA Handling entre 21 de outubro e 3 de novembro - Renascença",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTJBbFluM2ZOYWdFOEp0M1k3Nm1ZV0lGcFNDelVGbjl1UUwwd1dwTFNXdkFzelJZOF9xdk1yZzdmQjRWeWhfVDE5X2w3cHdYWFprM0luR2pxc3lTcTVtUkkzbXFlaHNnVTlCc0lpTkxpQWVXN0cyU2xXVlJOc1c5NjQ0aU85VHhzUVZIckdlRWtOdEdrbUpPcjEtUks2dVM0RjhmWHh2QlJuU0gyX3dwcmRPeGoxLTZFVWxn0gHAAUFVX3lxTE1SUTRUemdqdl9oUllCelItdklTbC1nREloNTM3NlRMa185c1dZOXpuaVptbTk4THFILWloN1JBXzNjdjZxWEFUaVExaGdxb3c5SjF4dHh5SVFkMm9UYzlEOHZKY0lNX1VWcjZmWDhZQ25MLXMtV1IwYWwtdHotOUpHVk9qZnBSM1FzMXczTEJidExyTkViU19KcnZvSzRRTWk4dnZuQ3FPRUpmNXpqTWJya1pqbEdvRVZxcUtCWFdEWQ?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-09",
-   "source": "Jornal Açores 9",
-   "title": "Greve na SATA Handling entre 21 de outubro e 03 de novembro – sindicatos - Jornal Açores 9",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSm9JRUxRVExPa3pRbTRhSFVmZlpGNVhHU2xRTmZPT19wNWR2NWZMSWNZMUVHNVRuejNqdFJpNHh1X21DT0Y0NW5uMzczTDdXMFRmeDVITmxPVjNpX04tV28wLVhFOGxGVGxaZUE5R3B3djRRMXlkaFExX2NWYjZJZUxBV0k0X1RBR1BpMUtKekNvN1VMNUE5TjAtS0w5aklyRU1LbkpQZHQ1LU0?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-09",
-   "source": "新华网",
-   "title": "Porto de Qingdao expande rede marítima internacional e soma 16 novas rotas de comércio exterior neste ano - 新华网",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdG5JczFxZ3NXUEZ2SGdpZDB1THo3QzgtVmNkNHp6UUloRERLRndpNV9PcjZHYUwzcl9rZWlmQnF1dURKV05qZU1Rd3hYc1BxRzBQeTdOdkdUeFFVR1R1VzgzVnczcGdSdlpHSmthck1RMUo4R2RSNWFHdVFlWXE0NVRReWVKWkE?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-08",
-   "source": "Distrito Online",
-   "title": "Tripulação da easyJet em greve com previsão de perturbar pelo menos 443 voos - Distrito Online",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHpfUHkyUDBiT1hjVC14RV91SktzeUlLMWZ2akF2YmtHb2hPTDh0UDB1cFNFVUM1bWFjZWpQanI3RFAyd3pXTnBlZXhYUlI5TmlLYy13eF9iWjNXdDBtcXpVV2R6RDVqWmlMVzJyN2hMa29VcmMwUk13b1Q1UFRmaUx4bktGNWF1RzN1SXAtc2xWYUhCZm1SSVJ4NFZYLVhuNGFFV3Z4a3FydlVOV0dvSQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-08",
-   "source": "VOU SAIR",
-   "title": "Saiba como é voar em classe executiva na nova rota da GOL entre Lisboa e o Rio de Janeiro - VOU SAIR",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3k5N0cyN3c1eDNNU2lKMjBvRFl4X1VWSlFfUXhDZTdQREdQMWpEZG1lbzRDcnpjOVdpWDZDSm1pcXBwVTZxZ284VzhPZDFVR1dLYTBtUWxUZV92aXBrZDM3V0t0VzkzbHVRWG5tNGppSnVBMXRYaTZnN1F5Q24td3UySDRhNU9oalM1d0kybGZscEdCWU1ZYjJKNWVIQzl5VllUa2haSTdHQkkyblE?oc=5"
   }
  ]
 }
