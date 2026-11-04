@@ -1,6 +1,76 @@
 {
  "items": [
   {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-04",
+   "source": "RTP Açores",
+   "title": "Trabalhadores da SATA Handling prometem continuar a luta após 14 dias de greve - RTP Açores",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFBTcTQ1VjVUZUZmamwxd1Z4bEI1dWR4LXJoSi1LM2hVRnp0M3JCcDVzOVZHd2hIZ2QzX3dZSVRjN2hXMERnWDFWdnBLVGtPY1ZNU1VJT1FfM1I5MERMd2k4RFl2Y2dtQklEUUtYbHY2MlpFYzh5MDVGOTFqVngzVXhVTFZQMVRpRVNrMEtNSkZKVzdNc3lGSGRUa21RaDdURnBuT3kxMjIzWW8?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-04",
+   "source": "RTP Açores",
+   "title": "Greve deixou passageiros da Azores Airlines fechados dentro do avião em Ponta Delgada - RTP Açores",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1U1MEVnSnI4UFJGVWxzeUVXc2JGRUVELWJXX0ptOWFCQkdXdzNxbHlHNG5FektBbnRxbkxuMXpnbU9LVG1KZ1NQOEFXSWhaX3VUWncxOFJVNDRyTzAxbzc2SExHX0I0LXg1YnJoVDRMMkZ0VTNuVXBTYi1hVnVnV3dPRTlOTWRMdThlUXUybjJkMlAtTGNDYmgweUp4TG9mYUNVRG8yaHpXb0FzWHphLTg5ZXg?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-04",
+   "source": "Ambitur",
+   "title": "Ryanair reforça base do Porto com dois aviões e sete novas rotas no inverno - Ambitur",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1gtZVJpZjBrLVBfZmVLM1doQjZRZjU2QVJSWkdjLW4wWWhBUnliTDRhN3h3dExuUElZTlFObjRjd0NXYlktQWtTczYyRXVIa3ZZM2EwdDlGVThqZEZlR3YyTUVuZlF5aGZpMldDVW12cU1BNHdZTlFaRGo5SVk5b084Mi04dUE0NThFU2ZhbXljR3NrbUcwSmVyWHJVTkJH?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-04",
+   "source": "SAPO",
+   "title": "Ryanair coloca mais dois aviões no Porto e abre sete novas rotas no inverno - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEpzY0MtSTVkNmt6WE1SSkRQV2I1UzRCakJSWEFtZ1RBYnB2UjVSTzNUeWRzVEJjQkZ2TUk4X0hQamNvdWQ1VWNtMzNDLWlYLVh5SlZlMjh6Q2psaE44WFo0amNTbjhIaE9TaENEa0YwSkROckg0MWd2MGFabnFOUm1oUEI5VVM2TVM3bXR6aWxrYjdDVjVRZmt4ZjgzNU9nbWRlNlZwZTBCVXBVcklneWEzY3VucnNPZ04wQmRLODY?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-04",
+   "source": "Ambitur",
+   "title": "Aeroporto do Porto reforça operação de inverno com 24 novas rotas - Ambitur",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV0FUZjFEYkJtUFVHeDMyelY5OExCck5MVE1oNGRZdmFMeW9TYnZ6YzNIazFmUDBBbHplOGpYRS1SUzVSY2twTzlHbEF1YmRudHEzNHZjd3dOTFRFeFRrZ1dUSUhNUWZaSWxsWFdDNDNGcl9aVTJxdFhzTGt1cXd4ZHlDZkpYTWphemZQS29tVko3ODg?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "novidade",
+   "published": "2026-11-04",
+   "source": "Revista Hotéis",
+   "title": "TAP Air Portugal lança nova rota para Orlando (EUA) - Revista Hotéis",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdkhHQXEtbTFJRlpBUFhCeUx1cEFweUZSVWRYN3hCUjBLSkNjYVgyS3NfTHFXTU1EUE1YWDhHcjhPZlFyTnRiS3BzejBPdXhXVWh1WFdaWUZDb0Q4TjFWNTlORjdkVDc5MzZkeDA4bTBkc214VnBySGFuSUN2a2JNaUVHd09OUQ?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "OPO"
@@ -54,6 +124,61 @@
    "source": "Público",
    "title": "Aeroporto de Lisboa: parte do Terminal 1 fechado, dezenas de passageiros repetem segurança - Público",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV19abHZzRUFVQ3d0U2wzREFtQVNQRW81bnpIX2U5VmQxTTB2TkFtOHRaamh1SzByOGE2cjlUdU5mUnhpS1VudmdEXzB6QzN0R0hzeDRvMklJSEtJOGN3NUpoV18yRTFJeGw4eTdhU3d0NHlvdS0zTmxPbElqcU9feTNoSGU5dERPeXd3bFB5S3lpeTRoUmdlcFFDdzd2OWxZSzItbHdJN01TTUlmRGJxSHVTZVFZb1AzdUNhb0xOMkV1RzB0c3BIZkhGSEpQVzFRVjRWS1Nn?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-03",
+   "source": "SIC Notícias",
+   "title": "Greve na SATA com adesão de 90% e (nova) ameaça dos sindicatos - SIC Notícias",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFR2ZFBKb3BUelQyUTdhMDAxSko3bl9FTTNSajJuNHdteDZhd0llN1hjcmhibU5ybmUxclhmbVlNdS10WlZES1YyZFhSTEUzWVR4V1VNVFBhUEZmUXRYak4tVmljR2NMZ0VfSkZrdUZsdHBQZEJ6RVhpeGo4ZzQ0Q2J3TFVMMGJxcjhBR2ZYQVBWN3NUMWJOam52OVJJckhsVC14LWV4SXFEdUdpVEluYjJyd3c0MzB1M3ZN?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-03",
+   "source": "RTP Açores",
+   "title": "Greve SATA Handling: 150 passageiros retidos em avião mais de 3 horas - RTP Açores",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXZiWWQ5WE1kbHVrQ2FSNTdJRk5LT25pckJQdDJaX2lwaG54WExEOGNjNEtWVjFFRXh5ZnFjSTNwazlxcVZ1dW9vZVdHdWhWajh3MkhjX2lFQzRFMnVWV1Q1Z0xKSnhFVjdENElHcXl5THhjVzVuelFzMFI0dTRWN2psSWw1dDNRbWoyLVptR1c2RXpIUlNQWFBldDJUQQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-03",
+   "source": "Presstur",
+   "title": "Aeroporto do Porto soma 24 novas rotas este Inverno - Presstur",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGa1VmQWVZZTAtUEdkVlhLWVBUWnE4SzdMWGFQVE1VTUpMQ1FGdkNiWlplMTVSajFveVRTdktLZk1HTkZDMzlkOHFUa2owUWlvSFRiYXFrSnltbkdubGFIc0VGQnI4VlZpYklXUDRMTGpuQU1fNU8weTViNGZEUQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-03",
+   "source": "Turisver",
+   "title": "Aeroporto do Porto ganha 24 novas rotas na programação de inverno 2026/27 - Turisver",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGJDUnN6YU1ydHN2WkktLXZ6TXczUHJMejhrdS1RM2pKRFJJY0FNdmZac3ZaT1VGU1Z2VWVyZERWNXRnODVVbDNPdUQ4eVZSSHhaaGx3R1lISnBzdUJEUUU1Z29xbEt0R1NxWXdzWlBGT3JEWk9MTHVsb3h1a1R6MHluUk1VU3ZOM1VpYllSNFJMMFdXa08zUnZn?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-03",
+   "source": "Defesa em Foco",
+   "title": "Porto de Natal inicia exportação de gado vivo e abre nova rota comercial - Defesa em Foco",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV01QSzhObzBZTW0zdHNrWUhGS2lIem1ZOHE3Y3l2RjRIQzBoTWh3RjlURjZ5OEVxY0Q1NmpBekRCT0dsX3dZYU1oODJGZzViZmdwSnVzeGNvR1VrcmdQQ1ZqcG0wYm1xTXZlUlEwam9YVjVIemtITXJOMTdzbzFTTC1QTEttTFFqZUJjZjVyYXNJT0NReV9n?oc=5"
   },
   {
    "airlines": [],
@@ -1233,139 +1358,6 @@
    "source": "ECO",
    "title": "Sindicatos avançam com greve na SATA Holding para contestar privatização - ECO",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1FVbkVLZXNkWjloSDMzQUlLUkhSYUoybkYxVnpvVllWdjA2RTUxUFNfcGkyRmJVLUxWNklta3ZnWFRxUFRCOHF3dy1ac1RyRlV5SDc3M2Q3MUFhczlKV1dzZXowS1lIUWtjYXhmQ2tFcDJwaVpyd2N2Qy11MUpTNjdXLTVHanF2NkdiWXdXR25QQVVpOHM2YVNra0MtdjJhQmNJcEZIYw?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-09",
-   "source": "RTP Açores",
-   "title": "SATA Handling: SITAVA e SINTAC convocam greve entre 21 de outubro e 3 de novembro - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWlaVVBXOXZubWhZdHJNV3ZRTXBHY2VFLUpWdWtyX2c4NFNVLVJJal9xak5vT2duZUpLWjFxMEtNUWRLSXdWSTJDWTNkdzdVTlk4YmI0Y3V3b3lfTlRxZmd0cVZ3V3RQLUZfNXRuMjl2TDJ6V2ZybGJHVHQ4UWpWNmFBc1NsXzI2V2hpQTlGd0kwaXBRb0lfaUZsWTRBR2JhY2t1cGpVcUhUZEVYZHc?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "geral",
-   "published": "2026-10-09",
-   "source": "Público",
-   "title": "Ryanair com mais duas rotas inglesas no Porto: Exeter e Bournemouth - Público",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3dxVV9ock1uZjJhWV85THhMbmZ5Q3AyaGlxLS1XY3lZcjhkbFpQVzY2YmVhZHFOZFhEQXgtSFlxYU9lYUJIbjB2TGpfM3RGa05fYVduM3ZIcmh6S080WnVlcmRHMkh0ZFFKclZTTHhVSURzZmU4QjFJbEpoTm9vckhqMTJRVzRLc05sWnhYWG9iekRCUnZ3LUU0SG5UOGhIY3pDbzQwUlN0V21G?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-09",
-   "source": "Turisver",
-   "title": "Ryanair anuncia três novas rotas para o Porto no verão de 2027 - Turisver",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaFcyMlk4RUx3U2dab2ptVHhVYWkwSUU1X1hoLWFZUzROQXE2cUU0WHNzaDY3N01zb2FqdG9QcGVhQ3RBTXNaQ0MtanpzREtFajFYRlJfRjNzUXhZSWZfdDBQaG1mYXNJakFZbXVNTHlOQVdGWUxLRkNZTE5XOFZiZXpvMS1WMnN2WHdZ?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-09",
-   "source": "tnews.pt",
-   "title": "Ryanair anuncia três novas rotas com ligação ao Porto para o verão de 2027 - tnews.pt",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkowY2UwcGNCd0tVZkF6RVFTdUNXRnRHR2JxLU5NTkJWbzk0ZjlaSzMwT3lQWnU4d2EwU1dUekxWWXpDWVFFRmxVcC1XS1l5RWtncWlmeXZyMDNWazU0bkZFOUJ5TlI1YUVvRFAwSkYxbzlkb0cxa0RRT1U4aENtcHNLdUYtVVdBSlJ0TTFRdnNGck84QnhB?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-09",
-   "source": "SAPO",
-   "title": "Ryanair abre três novas rotas do Porto para 2027 - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0JjeGhib2g2dXl2Rlc5b0pnU2FJRnpKQ3VTLVg2Vm9VVndQay1QTTduVmhTekN1MHBkMFdaMmlRZFdCMEZYNEktSHVVbDFVN0pmSWRVWFRpaWRPZ3g0b1lIY1BRM0hSdmZDMWc1bDh3dnZPd1M2emdxamxtXzdpdGhFbk5GRkpfOExmcnBwZEFfNktFUEJuUnoxdkU?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-09",
-   "source": "NewsAvia",
-   "title": "Ryanair revela novas rotas para o Verão de 2027 – Cidade do Porto com três novas ligações - NewsAvia",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZE1nS2xVTUlJbFpjTjZUZEpLVGEyZ1BnZXBtQ1NwMllJRnkyWDdlOEtKc1BDYTV0ZF93YzlVcmxYYW52WjR3N1FKaXZJS2w4UU5IZG11dXdsaG4wbzFYR1N2eXRnTDlBOGtnemhvd0lsXzNma1lXckxDaGsxcTgycloycmFCcXJNWFItcTBKRlIyZWdJdVhBenBLbHo0RUZiZlduN3ozaGhnZGhOUHc?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-09",
-   "source": "Ambitur",
-   "title": "Ryanair anuncia 29 novas rotas para o verão de 2027, três delas para o Porto - Ambitur",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2p2WjE2YnJFU0QxNE9DRmY3eVBRckx6eTMtOXF1bUtmejA5WmVDb2dLbHAySjByYll6ZExvZTZBRFRwbHkzNVJUdURtUW1UeVpmeVg0allsY2ZmSk92dGhQZW5CdWl5NUxJTWp3d0hqN043ZjZNXzRoQVRPWE5mRmxIU0tVZG03TVVNaHhveXppRkNxWTVhX3p2VjdKdWZR?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-09",
-   "source": "SIC Notícias",
-   "title": "Trabalhadores da SATA Handling avançam com greve entre outubro e novembro - SIC Notícias",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWHYwbmZDZk15cmVBSHFHTlRfck01a012SlVydjU2MXZmVy1PbnJ4TmxnVU9IdGJxQWpfN2w2WnBnaGl5YjVQelVXQkxzcFRtT0p0Q19FaW1MTHlLTFE5aFFaQ0k3aEVGak5IZEU2OExzZVBNcGNhT0YxMVg1U1d0X2QzWW9LbnVtNGZlS1loTkJHZGgyTHlDRVdSRWp0eVVZNGVsTHJTekQxalFrbTV4Nks5SFA0QTdJeHFxQzk3ZHc3eG4tQkZMclRmMUk?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-09",
-   "source": "SAPO",
-   "title": "Greve na SATA Handling entre 21 de outubro e 03 de novembro - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTlA5Sk5yOXA5RExDNy1qclVEUGVyZWtRM2hZTWU0b0ptekZvaXpyTzdkV1ZIc0pCSVRUUTJ5MmtPUU9HaHM3MEZHa0t2ZUJ4TlpIZExTYXp1YnV0TTBFTHdWXzJoc0llZU8tS3NPNF9WWTVQUmdZN2pWRGNIbXg0T1hKbFMxdHJfbFVfc0F4ZWMtdlZZVmtIY2wwUnQ4RFVhNnhWdE43SGZveEU?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-09",
-   "source": "Jornal Portuário",
-   "title": "Momento JP - Porto de Santos negocia nova rota marítima com a Itália - Jornal Portuário",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWV0V6c2htMWQ3NzVIcF8xRDV0NDkzMEYzWDB1X1J4UGpXYlJwNVhpbjB2TFd6a1dNaGt4bUZBYVlsak0yX3pqZnhzcGJubVI2dEJzOV91Tm9WZw?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-09",
-   "source": "Observador",
-   "title": "Greve na SATA Handling entre 21 de outubro e 3 de novembro - Observador",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV3VLUFI0QzhKOWRMY1AydjJOYnpEYkR5LW1FdXdabVA1NG5xcG1OejBwQ0stRzBpRUxpTmx3Y2wzREFHVTZDN1RJSW1mT3RXSkJjVUFrU3FGUDNfNnUzek50Vm1jWHQ4QTRLV0tXMmtNVFFPY19kRFU2OFd4ckw0ZUVRRGM3S25oTUtKQ3pmSzVxREdkWFk0?oc=5"
   }
  ]
 }

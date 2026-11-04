@@ -30,7 +30,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-AGP",
-   "travel_date": "2026-12-05"
+   "travel_date": "2026-12-04"
   },
   {
    "airline": "FR",
@@ -47,6 +47,14 @@
    "price": 14.99,
    "route": "OPO-BCN",
    "travel_date": "2026-12-14"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Toulouse",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-TLS",
+   "travel_date": "2026-12-13"
   },
   {
    "airline": "FR",
@@ -83,11 +91,11 @@
   {
    "airline": "FR",
    "destination_name": "Belfast",
-   "previous_min": 15.99,
+   "previous_min": 14.99,
    "price": 14.99,
    "route": "FAO-BFS",
    "travel_date": "2026-12-10"
   }
  ],
- "date": "2026-11-03"
+ "date": "2026-11-04"
 }

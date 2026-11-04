@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-11-10",
+  "booking_end": "2026-11-11",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-11-03T14:09:08+00:00",
+  "collected_at": "2026-11-04T14:29:22+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -94,22 +94,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-14",
+  "booking_end": "2026-11-06",
   "booking_start": "2026-09-18",
-  "collected_at": "2026-10-12T15:21:24+00:00",
+  "collected_at": "2026-11-04T14:30:55+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 27.49€ dos últimos 42 dias de recolha. Voo mais barato a 2026-11-10.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 22.99€ dos últimos 65 dias de recolha. Voo mais barato a 2026-12-15.",
   "destinations": [
    "Edimburgo (EDI)"
   ],
-  "discount_text": "−31% vs. habitual",
+  "discount_text": "−30% vs. habitual",
   "id": "fr-queda-lis-edi-2ad4906c",
   "origin_airports": [
    "LIS"
   ],
-  "price_from": 18.99,
+  "price_from": 15.99,
   "source": "price_drop",
-  "title": "Lisboa → Edimburgo a 18.99€ (−31% vs. habitual)",
+  "title": "Lisboa → Edimburgo a 15.99€ (−30% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-11-17",
   "url": "https://www.ryanair.com/pt/pt"
@@ -462,22 +462,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-10-26",
+  "booking_end": "2026-11-06",
   "booking_start": "2026-10-22",
-  "collected_at": "2026-10-24T10:57:31+00:00",
+  "collected_at": "2026-11-04T14:30:55+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 29.99€ dos últimos 54 dias de recolha. Voo mais barato a 2026-12-04.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 28.99€ dos últimos 65 dias de recolha. Voo mais barato a 2026-12-10.",
   "destinations": [
    "Eindhoven (EIN)"
   ],
-  "discount_text": "−33% vs. habitual",
+  "discount_text": "−34% vs. habitual",
   "id": "fr-queda-fao-ein-53fe3dab",
   "origin_airports": [
    "FAO"
   ],
-  "price_from": 19.99,
+  "price_from": 18.99,
   "source": "price_drop",
-  "title": "Faro → Eindhoven a 19.99€ (−33% vs. habitual)",
+  "title": "Faro → Eindhoven a 18.99€ (−34% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-12-04",
   "url": "https://www.ryanair.com/pt/pt"
