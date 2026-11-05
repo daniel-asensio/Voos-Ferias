@@ -71,6 +71,43 @@
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdkhHQXEtbTFJRlpBUFhCeUx1cEFweUZSVWRYN3hCUjBLSkNjYVgyS3NfTHFXTU1EUE1YWDhHcjhPZlFyTnRiS3BzejBPdXhXVWh1WFdaWUZDb0Q4TjFWNTlORjdkVDc5MzZkeDA4bTBkc214VnBySGFuSUN2a2JNaUVHd09OUQ?oc=5"
   },
   {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-04",
+   "source": "RTP Açores",
+   "title": "Greve SATA Handling: Trabalhadores contestam silêncio do Governo - RTP Açores",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDd1MU1MU2ZTNWNFMEZRU2wybE5TbTNCMU0yUVpYVW9hMW9lSHJBX3ZFMjlEakxUd0M3SV83TU9CWkg1cmZzZGtxQ08zb0dXWWRIRzFRZnNyUzA4d0t2QWhWdktHdGZzcGE3NmZ0WWFDeDFfcnJtbE5FbzRXcUJhaFNDTk8yNE9VeVNGVFU2YTNiUG5yQlk0?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-04",
+   "source": "SAPO",
+   "title": "Ryanair reforça Porto com sete novas rotas e mais dois aviões neste inverno - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY2E4TmxDNjFYYWMzdXROTDBTMkRqWTFvNEc1YTYxM3BKREVQYkp0RGx3ZU5yX184UFNsN1pxUGhKYXRpQjlxMEJDRUJNWTh2VXZFU0k5cnRaOE0tamZjWWtOTHk4MTNjT0htanVCVlFQNlVCQ09tN0tRR0loWUU5UDBYVTFkbzl4QXBOR2xIZlFwc0l4UnUyTmxuZndtZUhfWGp0N0JiNzc0N2JNQXB5ZmxLaDFjbVhmT1hqVUdyR3M?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-04",
+   "source": "Diário do Distrito",
+   "title": "Ryanair reforça Porto com sete novas rotas e mais dois aviões neste inverno - Diário do Distrito",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZVBSSmJVNUo0RGtaQ0tzWk52NjFPNWRnZjBMemNCR194OVk3d1RMbmVwYl9wZWhndlpRX0R5UHlLcW1waFFzNi1sLUJyV1FvWXo1TDBFcFpPZHZDaFNCbktSUnZLbUYwakRDMDVVLVVvdVhXN1ZQN3ByQlBmQU1GeWs2WDFDbFY1QzdnS012c0UtaldURXF4clZGdlkwd2J6aTF6eTdXZkhpblU?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "OPO"
@@ -179,6 +216,28 @@
    "source": "Defesa em Foco",
    "title": "Porto de Natal inicia exportação de gado vivo e abre nova rota comercial - Defesa em Foco",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV01QSzhObzBZTW0zdHNrWUhGS2lIem1ZOHE3Y3l2RjRIQzBoTWh3RjlURjZ5OEVxY0Q1NmpBekRCT0dsX3dZYU1oODJGZzViZmdwSnVzeGNvR1VrcmdQQ1ZqcG0wYm1xTXZlUlEwam9YVjVIemtITXJOMTdzbzFTTC1QTEttTFFqZUJjZjVyYXNJT0NReV9n?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-03",
+   "source": "RTP Açores",
+   "title": "Greve SATA Handling: BE alerta para riscos da privatização - RTP Açores",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMTlZSllhdFFDcW5mci03THM2YUlGUFJhR2l2Xy1zNll6UFdzRER6dU5RT2tOZGh3clRHeG1peExHSzRlWlFUWjVsSFBNbTAtSHM5TFc0MzBjNTVGUk1MRjRHclpwMm9JOXBIMUtJSDI5RTlKd21yMlIwVTVOY1pLUTZhc0FfeGhqZ1Nuc0pBaDRheUk?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-11-03",
+   "source": "AEROIN",
+   "title": "Passageiros de voo da Azul são direcionados para o lugar errado, gerando brecha de segurança no aeroporto de Lisboa - AEROIN",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMVdRcS1KWDU2SjZIRC1peVJXeWwwYURqd050NWg2U0hpdEQ0d1ZCTFdUdzlaZU0wam1lenJ1eVI1QUN3UlZiQ0poeU5aNVB6dGMxNmRxcXpWNml3bjRyTzNmMi1FZlpyUzBFaE5PbXZnSHlsVFdqaXRyVDFWOUlRc3AyYWNIV3g0bWV0Q1FvZ3laWnFGRkpiMXJ6ZnNheUhwbzhPaS0xYzM4SWpHRDB4eF9iZlFERDF4d2x2T1NINUNPanNBaFFPQ3hmTHdHY1nSAc8BQVVfeXFMTjFXUXEtSlg1Nko2SEQtaXlSV3lsMGFEandOdDVoNlNIaXRENHdWQkxXVHc5WmVNMGptZXpydXlSNUFDd1JWYkNKaHlOWjVQenRjMTZkcXF6VjZpd240ck8zZjItRWZaclMwRWhOT212Z0h5bFRXaml0clQxVjlJUXNwMmFjSFd4NG1ldENRb2d5WlpxRkZKYjFyemZzYXlIcG84T2ktMWMzOElqR0QweHhfYmZRREQxeHdsdk9TSDVDT2pzQWhRT0N4Zkx3R2NZ?oc=5"
   },
   {
    "airlines": [],
@@ -1299,65 +1358,6 @@
    "source": "dnoticias.pt",
    "title": "Greve dos técnicos de diagnóstico e terapêutica paralisa vários serviços na Madeira - dnoticias.pt",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQTBCaEx4eHh1ZmxDcHhHSW5iUW9YRThZVUNjd3AzaUxDT0M0QmZnX0FMUkZxUFlxZWpRQzdxWHh4WHVTdEU2T3pXV0lnbXhqUk40YlJFbGV5WFdJXzExVmlfaEd2TWR2VlNsbHN1eTRjeGVpMk55VGpJUkt5U3RUM0tDR2Y4OFBia3lVaWF0RXJkbTNHMWJLVzhtd0IzY1RVODNwREFuSk1ybHhObkVwU096MU5TN2V2eC1PRm5XdzN2TnpE?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-09",
-   "source": "Jornal de Negócios",
-   "title": "Ryanair vai abrir três novas rotas em direção a Portugal, mas só chegam ao Porto - Jornal de Negócios",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMzFab1MySHMyMndfU0ExcEtfNm90clhwZVVsM0lmNmRoQU1ueVdjVGFLb3BvNjQtb3ZKZGIyMVJCcG56TDF6Mm1Db0Q4OENwZk5OZWpuU3F1anhXcF9oYVJ2UHBhb2NrYjdGNWZlVExjQ3lDWkRORmowVDAzQXpCbDZzeG5pYTJqaW9odkdCdGRRWUlnei1hVXlKcHpBVzJoYTZjWkk2R2VQY1JsNWptSnNUclZYaWd0NGFXUVE5NkFLd2lIX2diU1BDamx5UEF2dGJGY2NtVWpmdlZTREFnWFd30gHcAUFVX3lxTE1TVVg1MV9JYVI3QVFFT1pKeUZrR1lfUGV2N2tqMTRQWXdGZ3BIU1NHZkl0MlM0QXlpbnJUSjNFMTlBSDFyVU94UFFSNWtOb2N3cnJBeW5Mci1SMHF0NnVlbXFQVFF0aUlQbnQxRV9QNzBKd1dqaHdjcTRsVExYYW5vMHVJaW9tTlNwV3dKZjBKLS1NYmRpOFlBbi1xTktMWUV1bDV1X1owMFVhRElMRnhkZVg5Q180UE1ybHFtUUlXb1NqajFrX0NnYWpLenltM3Vkdmw4Zy03NVdfY2c?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-09",
-   "source": "Presstur",
-   "title": "Ryanair anuncia três novas rotas do Porto para o Verão de 2027 - Presstur",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdVZCWnh3QXBpbm1pWlNCYVQ0S3doRjFnaV9ZQ1pvY0FTSkxaVVhBdEhhVEVaYTlONFZnMjF4QjBua3FnLUpEdnZCc1hmd2xEU1JrX2dhNTRzQzI1amhvZm13ZkRBaHN5czdvWnAtTjJ1RnNzT2RzcjJDTnAzYUpSSl9NS19qX0ZJTXZacg?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-09",
-   "source": "XINHUA Português",
-   "title": "Porto de Qingdao expande rede marítima internacional e soma 16 novas rotas de comércio exterior neste ano - XINHUA Português",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdG5JczFxZ3NXUEZ2SGdpZDB1THo3QzgtVmNkNHp6UUloRERLRndpNV9PcjZHYUwzcl9rZWlmQnF1dURKV05qZU1Rd3hYc1BxRzBQeTdOdkdUeFFVR1R1VzgzVnczcGdSdlpHSmthck1RMUo4R2RSNWFHdVFlWXE0NVRReWVKWkE?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-09",
-   "source": "AbrilAbril",
-   "title": "SATA Handling: sindicatos convocam greve parcial para impedir «erro» da privatização - AbrilAbril",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3EyM0lkTjhMaEhvZWdKSTN2X0c3dmVNVElZVkpVZVQ1bUdpNkNiVUMyTUJ5N0VIT2Jsd0JhRTNyLVNzTEhDTU80cktKdndROHpqOFh3M1hjM3ZtZGpsOU9LSlFpaE1sMHJNRlAtVkdxRC12MTNzQW5RU25QWWFvbjg5ek16blRWQ3p2T0xQeTZuS3ZmeU43S055OE9GNkp2dUU5WDdPUEdQbXdRLTBLTi1RSXNqYmc?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-09",
-   "source": "ECO",
-   "title": "Sindicatos avançam com greve na SATA Holding para contestar privatização - ECO",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1FVbkVLZXNkWjloSDMzQUlLUkhSYUoybkYxVnpvVllWdjA2RTUxUFNfcGkyRmJVLUxWNklta3ZnWFRxUFRCOHF3dy1ac1RyRlV5SDc3M2Q3MUFhczlKV1dzZXowS1lIUWtjYXhmQ2tFcDJwaVpyd2N2Qy11MUpTNjdXLTVHanF2NkdiWXdXR25QQVVpOHM2YVNra0MtdjJhQmNJcEZIYw?oc=5"
   }
  ]
 }
