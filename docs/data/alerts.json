@@ -2,19 +2,11 @@
  "alerts": [
   {
    "airline": "FR",
-   "destination_name": "Toulouse",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-TLS",
-   "travel_date": "2026-12-11"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Sevilha",
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-12-03"
+   "travel_date": "2026-11-19"
   },
   {
    "airline": "FR",
@@ -26,27 +18,11 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Málaga",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-AGP",
-   "travel_date": "2026-12-04"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Nápoles",
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-NAP",
    "travel_date": "2026-12-01"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Barcelona",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "OPO-BCN",
-   "travel_date": "2026-12-14"
   },
   {
    "airline": "FR",
@@ -82,20 +58,12 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Newcastle",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "FAO-NCL",
-   "travel_date": "2026-12-11"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Belfast",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "FAO-BFS",
-   "travel_date": "2026-12-10"
+   "destination_name": "Eindhoven",
+   "previous_min": 22.99,
+   "price": 21.99,
+   "route": "OPO-EIN",
+   "travel_date": "2026-12-16"
   }
  ],
- "date": "2026-11-04"
+ "date": "2026-11-05"
 }
