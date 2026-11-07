@@ -2,11 +2,35 @@
  "alerts": [
   {
    "airline": "FR",
+   "destination_name": "Madrid",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "LIS-MAD",
+   "travel_date": "2026-12-24"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Barcelona",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "LIS-BCN",
+   "travel_date": "2026-12-16"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Sevilha",
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-11-19"
+   "travel_date": "2026-11-14"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Valência",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "LIS-VLC",
+   "travel_date": "2026-12-11"
   },
   {
    "airline": "FR",
@@ -31,7 +55,15 @@
    "price": 14.99,
    "route": "FAO-STN",
    "travel_date": "2026-12-09"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Eindhoven",
+   "previous_min": 21.99,
+   "price": 21.99,
+   "route": "OPO-EIN",
+   "travel_date": "2026-12-16"
   }
  ],
- "date": "2026-11-06"
+ "date": "2026-11-07"
 }
