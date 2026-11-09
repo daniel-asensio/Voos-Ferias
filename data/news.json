@@ -1,6 +1,76 @@
 {
  "items": [
   {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-11-09",
+   "source": "A Próxima Viagem",
+   "title": "easyJet lança descontos até 25% em voos durante 31 horas - A Próxima Viagem",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlpaYjJGVlg3aUZya3FRUTdDaUExRXlYNzdhaHh4OHNwempBZmVid0Z6VlFjMnVreTZTOEpOdFNXQ21zaGRVRlVIa0lZUl83SFVMdmxFbFVYa1lyVUxnRnc1N2h5NG4wdmVZWXZlUzI1akIyZjRVTzdtemM1SmVyX1ZMWU4yUQ?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-11-09",
+   "source": "SAPO",
+   "title": "easyJet faz anos e oferece até 25% de desconto. Há voos desde 35,95€ - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRzA2bC1xVzlzOF9NVXg5VjZlTDB6bjBaYlRhT0U4Z0FGRkN6d1lZQklyRlAxQnlmblFtcC1nTHJYbkQxNGhEU05hU0pPaVNISkFoVFFNWTRhU2l2UjhOZUZyOEM3eDU1U0pkR1BVODhYOUxVU0cyS0E0cFVVeHlTMTM2X0FpWnR6US1NX0ZGUWoxNTVjSC1hNFZvTGhvRzdKSzJtc1JtaHFVT1ZJSE1DdkFTdw?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-11-09",
+   "source": "Ambitur",
+   "title": "easyJet celebra 31.º aniversário com descontos até 25% em voos de e para Portugal - Ambitur",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNFNmcmpEUmxRbm8xVUJGSkw1dUEyUVJuMl9fQlZ0MUFXSWwzVGgtZUV3UTZnOC1scU5BY294cXI5OG52NGRjdWhXYVlmaHRfTlZqNW5OcHZVb05tNGVHU1d5NGFIQm9VVXdSN2NXejhLS0xTNWVNTlpkdVNXNVJWT2tDM1h4UnlqamgyLWF3blZSN0JKRXYzX19UMkVXVEtKUEZjRHpxVQ?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-09",
+   "source": "Echo Boomer",
+   "title": "Porto recebe mais aviões e novas rotas da Ryanair - Echo Boomer",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ybnpoSUYwX2o4c3U5NXRlY2hxdjNOdXdwWFZsaWJwT2cxUEE5YXhEcnkwRUxjc3pqa0dyTlZKTktoTjZRYlByMDZHOHQxNEswWlR0RU9rdmN4Njc3d0tsMnBYMl9ldlZmczdmbFd3?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-11-09",
+   "source": "VOENEWS",
+   "title": "Gol é líder em pontualidade no Brasil e consolida resultados em novas rotas internacionais para Lisboa e Nova York - VOENEWS",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbmlMUXk2UkxMcjd5UHlIWThzcGFiaDdYOXdab0Y5M0x4V2szckROODdGWWV6SGNpLUNtQkQ5ckRXbVdzcnRUVEJyOXhvLTNKYU5RTE9FS0hSYm8yeHJQYy1FX3pjTktqaHRaSjhTWDJfNS1SX2FycC1lRXlXOGk1cXpmLTRiQkRSdlhlMi1sMDRySldmVTQyRVEwRHRtTkNORFpic3RwOVRXT21KTUEtdU81TWtRNXFlakRIN3ozVzktYzduUXQ5WnUyMUFBaW03ZEVBdA?oc=5"
+  },
+  {
+   "airlines": [
+    "FR"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-08",
+   "source": "Jornal de Notícias",
+   "title": "Há sete novas rotas da Ryanair no Porto (sim, leu bem, são mesmo sete) - Jornal de Notícias",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDFVMW9sSktGZmFNV0YzOEJPYk41Qm5FU0hrMEVZT04zYnA2WFB2SHFELVVHS0xjbVVrUU5idG00aS1jUlBjd0gyeTdMWmprSG1La2pPR0llZElmMGtkU0NYYUN1dnBlZWN3RmFMcjZ4LURRYkNRVGV6eHg1TDVTZjlXXzl6ZjdGRmZSVnJPT0FUd1BOQkZ3akswY3ptWURXQndpcmE3UGhteGc2SVlFZk1LOGNvQdIBngFBVV95cUxNdHNyTTNZRjI1Wm8yZlBzenNHWnFaX2xWYXdLdThMZHRoWVRjdFlja3JLMUoxLV9SOTBXdUluR05pdUFKQnJUeWhDcUY0dVVPSXVkZ0ZSaWM2YWg4Rk5XWWozZ0RkenlFOHpGdm5MLWsxRy1Gam8yTlNJaUpGeVZ0T2hIY0dNQ2d2NzV6SFpST2FzQmdhdnJGdFFPVWRBdw?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "LIS"
@@ -1287,74 +1357,6 @@
    "source": "Açoriano Oriental",
    "title": "Grupo SATA ativa plano de contingência devido a greve no handling - Açoriano Oriental",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXZwanN2Zm5fSlFtR0NYU3E5UlF2NFo1Mkw0eVlQSHI0Wk04RGJZcVlGVjVST0kzVnFnam9veEJTSDdXci1HT01yS251U00zRFltWTYyME9xR1laRExWRVJwSVMxMjQ2SG1OTnY4OERPS0hYZGFQTWRaeXB6NTBnU2tScjJRblpWSE04Tk1TZWM5c3NOTFlCcWFMbW9WQ2hKWmhSdHNHT21HOFhnUzBiTzNn0gG3AUFVX3lxTE51X0VmdFd1OGFVMGx6WDhHMlhBWXZ4V2Rrekg0d2dRS0wxT09UOV9aX3BZQXZXTDRiN2NTQ2NlM19fWEhoVjlCUXZVNElwMUp5ekUxckxyMHdlcmFYMXpYczlrZy1wdWYyZi1mX0kwd3JRNDJZOHc0WGVUaXFYT1pUR2FLWmlLVE05TnYxeE1LLTA4YnRyalVGT1RsSEFtRDhkY3RqTEhIaFA1aTNrVDZsMUdIYUxxRQ?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-14",
-   "source": "Notícias ao Minuto",
-   "title": "Grupo SATA ativa plano de contingência devido a greve no handling - Notícias ao Minuto",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWE5LUUg5bm8zeFVRQm1yek5rWG9yaGJlODZXMzdZbThNLVNPTEVMd25pY1VKY2ZjYWtrd3VDY1VfR01TandkSFNidW51amR0bmo1LXFEdU92NW1EYkJJOGcwaXRhSkt5YWFaaVhBcVRoSE1NZ0w3SEo2VHpFbkFXd1lKSGJjTHd4bVoyUXQ0ZzNiMWFtSVlJVnRVbUg3MWJNUUdwRDJOM2VEY2FIWkktanB0M1NEUQ?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-13",
-   "source": "The Portugal News",
-   "title": "Ryanair anuncia três novas rotas do Porto para 2027 - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2JoSVJSaUw1MS1zUzY0eFpiMW9VcjZiQ3RfYUxXS0hzUkVHeWdDc2wyRFZfZHYzdGV2TEhNNDI5NDYzS1pzQ3Y3RFpxcTRscmRaZEpkdG14SUxaQnV2ekhIM0xtcHZYclA3OEF1ekphZEg1ZlI5M1NrMG1CbGNocTQ3YU96Ujd2V0VScXN3czgtZnhtZVlEMHdMcW43V213MzJhWE9VQXRpM3N6eFJ1RVdmUVY?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-13",
-   "source": "The Portugal News",
-   "title": "A Ryanair anuncia três novas rotas a partir do Porto para 2027 - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSDFwM25LSDQzLXJydl9XMU41QWRXa0Z0UXVyZU1NUndnZkNqMkRUYlg0bmhzYnYtaDFZWDZaYzIzWW4tWXdEWDZIM0dRdUpQWTkxWnFPMmlpdGhMaGJ4VjdodEltcTA2YzV4OU82TkRmamVYSDZrRHZKU0U3TWE4SXZ0WGhSaFU1dGZmRVBSOHlGcmtDRUVXbEUtY212S2Q1eGNBeUpCVWxUZmNKWjJTR3M5OU12emh0MENUQWtBUzlHMTg?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "greve",
-   "published": "2026-10-13",
-   "source": "Renascença",
-   "title": "Atenção: o Metro de Lisboa vai estar encerrado na quarta-feira devido a greve - Renascença",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQREwyUDZRR0steVdhWWctczdnanZzMGNPaWFUNHlfdFBBTENGcFpiOVN0dXZzU3MxUUZjLVp0U1FNY3B4dWw3bnprTkhSeXBjSVR2MmVSbVpIUFJkX2tydzQzZzVHTmx4VGc4VlM0TU5maENOWWluQU5sN1JsdlJNR0YyVUlOS0tuejZoUkg5dUtBbTBEazJXMUJKU2oycG8wYWwtX3ZVMGRFWmVNZDA3M1NKMjRsMWtYWnpWcVF3ZDFZZ3lH0gHEAUFVX3lxTFBETDJQNlFHSy15V2FZZy1zN2dqdnMwY09pYVQ0eV90UEFMQ0ZwWmI5U3R1dnNTczFRRmMtWnRTUU1jcHh1bDduemtOSFJ5cGNJVHYyZVJtWkhQUmRfa3J3NDNnNUdObHhUZzhWUzRNTmZoQ05ZaW5BTmw3Umx2Uk1HRjJVSU5LS256NmhSSDl1S0FtMERrMlcxQkpTajJwbzBhbC1fdlUwZEVaZU1kMDczU0oyNGwxa1haelZxUXdkMVlneUc?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-13",
-   "source": "AEROIN",
-   "title": "Ryanair anuncia 29 novas rotas para o verão de 2027, incluindo quatro ligações para a Espanha - AEROIN",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2l4X2NWdGwybDVoYWRMNmpxOEphSzlsQm5GOE1ZZUxKSmhzanVmQ0J6OWtGNHlUMFAtZDNLT0ZtbFBpWXZ1aG1hNjlmc1E5LTBqTmltNUktRmw2NDJtUmcxSEJXSFduX3o4OWZ2dWJmOHh4ZnI0Y3NnWF82N3kxbGZwd2l6NW11dHBoWHFmTTVvLTFrMXFlZkJzMjA5aXJVSDVXY2FqU2pwZ2J4NG85YXd30gGyAUFVX3lxTE5faXhfY1Z0bDJsNWhhZEw2anE4SmFLOWxCbkY4TVllTEpKaHNqdWZDQno5a0Y0eVQwUC1kM0tPRm1sUGlZdnVobWE2OWZzUTktMGpOaW01SS1GbDY0Mm1SZzFIQldIV25fejg5ZnZ1YmY4eHhmcjRjc2dYXzY3eTFsZnB3aXo1bXV0cGhYcWZNNW8tMWsxcWVmQnMyMDlpclVINVdjYWpTanBnYng0bzlhd3c?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-12",
-   "source": "Facebook",
-   "title": "SITAVA e SINTAC convocam paralisação e citam confirmação da Comissão Europeia de que a alienação a 100% foi \"uma opção\" de Portugal, não uma imposição. - Facebook",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZ1JfLVYybG5Oc2l0R0R1UUdpd1NHVkJmdE5tMUNyYU82ckFSaUZuS2Ftc2NQY3UtWlJyVnMtXzh4RHEtb1JmNHdINVJlTktiWWM5UVZGa0lSQ29NeGljWThUdy1QdEhQcDBWcm5YQUVmZzV2MjZ1MGxaUmNOS3hESnV3ZlFKTEttbE9Sd3ljWW9VMC14Z21YSUdaWnZKOHBhUVlicmNPQXVDLWRUbHhOdDNCWG1UdVpqUU1TQ1JMbVYzZHlCNTA0VlpmTU5yaFU5Q1d1akdXeFM1djQ0Z3NQUldLYVRXbFI4eWUyc281cWdzalNRN1VjZUpGUjRrYWdn?oc=5"
   }
  ]
 }

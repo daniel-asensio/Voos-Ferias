@@ -2,22 +2,6 @@
  "alerts": [
   {
    "airline": "FR",
-   "destination_name": "Madrid",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-MAD",
-   "travel_date": "2026-12-24"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Barcelona",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-BCN",
-   "travel_date": "2026-12-16"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Sevilha",
    "previous_min": 14.99,
    "price": 14.99,
@@ -26,36 +10,28 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Valência",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-VLC",
-   "travel_date": "2026-12-10"
+   "destination_name": "Milão Bérgamo",
+   "previous_min": 15.99,
+   "price": 15.99,
+   "route": "LIS-BGY",
+   "travel_date": "2026-12-12"
   },
   {
    "airline": "FR",
-   "destination_name": "Nápoles",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-NAP",
-   "travel_date": "2026-12-01"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Londres Stansted",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "FAO-STN",
-   "travel_date": "2026-12-09"
+   "destination_name": "Dublin",
+   "previous_min": 17.99,
+   "price": 16.99,
+   "route": "OPO-DUB",
+   "travel_date": "2026-12-12"
   },
   {
    "airline": "FR",
    "destination_name": "Eindhoven",
-   "previous_min": 21.99,
-   "price": 20.99,
+   "previous_min": 20.99,
+   "price": 19.99,
    "route": "OPO-EIN",
    "travel_date": "2026-12-16"
   }
  ],
- "date": "2026-11-08"
+ "date": "2026-11-09"
 }
