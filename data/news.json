@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-10",
+   "source": "Marketeer",
+   "title": "Quer visitar o Sal ou Nova Iorque? Aeroporto do Porto ganha 24 novas rotas neste inverno - Marketeer",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHJvU05HcXhFdGN1NnRPUUJaNHRWZzAwMUJTaFo4eXNwYUtTVW1zWUJqbVhiTjQwWEF0SDF1WElyMl8wMWFldGVGQ3IyMmU2dnN3RGRaV0hjUEZYMDEzSTQxbE11eEhPNXlFY2ZSRlA4ZFlhWkVsY1NEY0UzLThYYV9OSHdiWTVSVkRVaHRKVFdlb0MxTzlnbjRJaUtXWDlFNFM0WldSRU81QV9qQm5vQTlLUzQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-10",
+   "source": "CompreRural",
+   "title": "Porto de Natal abre nova rota para o gado vivo e prepara embarque para dezembro - CompreRural",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHRzVWtNakJUc3Z6MC1sTlVCQmJ1Q19YTnd2cU1NeF9WaU5wc3BhOGxmeUFGVVY1a0l2U3V3YV85cTZiTWdBWmkzVGlaODFyWVJKU2NSMzNvOVVWelVRSmlxUnRaTVExZVd1ZW1DM0FfYmV4UDR0WE04U3Vta3N2Qlh6UEJFbWhpVTRZZ2hCbXhJU3dvLXl1T1hXUHFacEp4RUdiOVFOMmNMMktR?oc=5"
+  },
+  {
    "airlines": [
     "U2"
    ],
@@ -56,6 +78,17 @@
    "source": "VOENEWS",
    "title": "Gol é líder em pontualidade no Brasil e consolida resultados em novas rotas internacionais para Lisboa e Nova York - VOENEWS",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbmlMUXk2UkxMcjd5UHlIWThzcGFiaDdYOXdab0Y5M0x4V2szckROODdGWWV6SGNpLUNtQkQ5ckRXbVdzcnRUVEJyOXhvLTNKYU5RTE9FS0hSYm8yeHJQYy1FX3pjTktqaHRaSjhTWDJfNS1SX2FycC1lRXlXOGk1cXpmLTRiQkRSdlhlMi1sMDRySldmVTQyRVEwRHRtTkNORFpic3RwOVRXT21KTUEtdU81TWtRNXFlakRIN3ozVzktYzduUXQ5WnUyMUFBaW03ZEVBdA?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-11-09",
+   "source": "A Próxima Viagem",
+   "title": "easyJet lança promoção de apenas 31 horas com descontos até 25% em voos para o Natal e Passagem de Ano - A Próxima Viagem",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlpaYjJGVlg3aUZya3FRUTdDaUExRXlYNzdhaHh4OHNwempBZmVid0Z6VlFjMnVreTZTOEpOdFNXQ21zaGRVRlVIa0lZUl83SFVMdmxFbFVYa1lyVUxnRnc1N2h5NG4wdmVZWXZlUzI1akIyZjRVTzdtemM1SmVyX1ZMWU4yUQ?oc=5"
   },
   {
    "airlines": [
@@ -1324,39 +1357,6 @@
    "source": "SAPO",
    "title": "SATA ativa plano de contingência devido à greve do handling nos Açores - SAPO",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlVsaFF2b2hMVUFOUlU2amZrbGxYTDYwRU9pazlSNFdmb3NrNmdoZy1Xei1sZDBSdTlFblpkYWxRNThPazc1b1FxaGthQk1sRTN3MDZ2dEI1NF94LXhmMWhpYXdNZFhIN3ZxT3lXR1prYjM4NVRaemkxSVI4M2FST05xSXl3Rjd5eTYyX3NZM1dCWU9ITHFLaWx4STBYdFB4Zk5wVVlHTkRJLXJVVGd4Nkt4NEtHbGxWQlE?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "greve",
-   "published": "2026-10-14",
-   "source": "RTP",
-   "title": "Milhares de pessoas estão a ser afetadas pela greve do metro de Lisboa - RTP",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNS1BX3N6bERadkNGY1ZJYVo2UzVDTGk5cU03RDRHRVhiX1IzOEllaWdWTXZ2dDFwSWduN0hhUHVmNDVVNXF6TFc5QUc1VUwzVDZXLURnclZBLTE1cWtGSUhubkpfTVJac0d2VnNPLXNFd0NQYTZGcmMwMVM2YVZuXzlEd3UxQTdBRUZVNFRkZlptU05vY1pLUk9uaUx6TFJveEFtY016SEZ0dFFrYURNRXNn?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-14",
-   "source": "Diário do Distrito",
-   "title": "SATA ativa plano de contingência devido à greve do handling nos Açores - Diário do Distrito",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaU41b3RfWGl1RlRkREtuYU13a1pXVGdvMEt0VG1nanBoS3RJZWZPTTVGSWFyVkJ2N2RBMUV0YlJRQTkwRzlOTVQwMlVVZ1FGRmREYjhaYUNYajlzazJLNldBTHVRa00wVm9STGNJOFNmZ1lyaHBZS0R2dl9QN1hjbkFXT0xhc2hZVy1nZWxQemdubHdoUUljaWVGQ1BHT3EwdzZjaA?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-14",
-   "source": "Açoriano Oriental",
-   "title": "Grupo SATA ativa plano de contingência devido a greve no handling - Açoriano Oriental",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXZwanN2Zm5fSlFtR0NYU3E5UlF2NFo1Mkw0eVlQSHI0Wk04RGJZcVlGVjVST0kzVnFnam9veEJTSDdXci1HT01yS251U00zRFltWTYyME9xR1laRExWRVJwSVMxMjQ2SG1OTnY4OERPS0hYZGFQTWRaeXB6NTBnU2tScjJRblpWSE04Tk1TZWM5c3NOTFlCcWFMbW9WQ2hKWmhSdHNHT21HOFhnUzBiTzNn0gG3AUFVX3lxTE51X0VmdFd1OGFVMGx6WDhHMlhBWXZ4V2Rrekg0d2dRS0wxT09UOV9aX3BZQXZXTDRiN2NTQ2NlM19fWEhoVjlCUXZVNElwMUp5ekUxckxyMHdlcmFYMXpYczlrZy1wdWYyZi1mX0kwd3JRNDJZOHc0WGVUaXFYT1pUR2FLWmlLVE05TnYxeE1LLTA4YnRyalVGT1RsSEFtRDhkY3RqTEhIaFA1aTNrVDZsMUdIYUxxRQ?oc=5"
   }
  ]
 }
