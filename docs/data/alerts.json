@@ -2,6 +2,14 @@
  "alerts": [
   {
    "airline": "FR",
+   "destination_name": "Barcelona",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "LIS-BCN",
+   "travel_date": "2026-12-17"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Sevilha",
    "previous_min": 14.99,
    "price": 14.99,
@@ -22,15 +30,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "OPO-MAD",
-   "travel_date": "2026-12-02"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Milão Malpensa",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "OPO-MXP",
-   "travel_date": "2026-12-22"
+   "travel_date": "2026-12-17"
   },
   {
    "airline": "FR",
@@ -50,6 +50,14 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Paris Beauvais",
+   "previous_min": 15.99,
+   "price": 15.99,
+   "route": "OPO-BVA",
+   "travel_date": "2026-12-17"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Eindhoven",
    "previous_min": 19.99,
    "price": 19.99,
@@ -57,5 +65,5 @@
    "travel_date": "2026-12-16"
   }
  ],
- "date": "2026-11-10"
+ "date": "2026-11-11"
 }
