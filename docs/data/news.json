@@ -2,6 +2,28 @@
  "items": [
   {
    "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-12",
+   "source": "Gazeta de São Paulo",
+   "title": "Corredor Bioceânico ligará Oceano Atlântico ao Pacífico, pode reduzir em 12 dias o envio de cargas à Ásia e criar nova rota de exportação pelo porto de Santos - Gazeta de São Paulo",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Xd3ByUlY0MV9DT0M1ck13LXdNdmEzNnd4blQzam1PUkR0YjVMOEcxczY1NXlnUVJSYnB5ekhDRzZMUnhfYnZMUnJab2w4UktleW1DMEc2Y0JxdHdKSWhEUzNxVUFfdw?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "problema",
+   "published": "2026-11-12",
+   "source": "Diário do Distrito",
+   "title": "Tempestade Charles faz estragos: Centenas de voos cancelados e caos total no Aeroporto de Lisboa - Diário do Distrito",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuNTQ2LWRESGVZb2ZMZnU0c3BFSDlmMFZwZmxRZXFnM013aUViemF6bGxPamRpVUhhU09xS2JBWjRqWDlIOHUxODVqZHEzR3B1eWRtUjhuY0NMVGNCemY4bWJxRTdpQVNMcmRaN3FocFAxTzFsS0tJRWJXU0FIQQ?oc=5"
+  },
+  {
+   "airlines": [],
    "airports": [],
    "category": "problema",
    "published": "2026-11-11",
@@ -106,6 +128,237 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVRJV3dQcGk4SVMydjV5UlhrZ2t2T0JjVktzdUF2QmlUNTJyb2dHelZRMHFLMEZWb0hadG1KYWlFWVoteWd0dEJnMDBWeU4yTEtEbmYwbzZhZXprZ21sT2pPbzRWclpKM1AwREZpcjUwV0hJYmdsNS10d3BrcFNTRV82RTZRSnVReFY3czY2REstRjBQaFlGRjBiVHUwLUpZU2VTaUp5ckNraGM1emc?oc=5"
   },
   {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-11",
+   "source": "RTP Açores",
+   "title": "Greve a tempo inteiro dos trabalhadores da SATA Handling marcada entre 26 e 29 de novembro - RTP Açores",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHJLRi1GNjhfRFdmZXVMbUNMeWRVTDZwWFkybjFEVTZjQ3VLcGJueXhRMFI5S1pfMFR1ejNWTXFfOGYyeVhwTE9WNjFjZ2FZamo0TG5DMXF5LTJkNHh2enBBYXZBRHFHa1RIekNTejFYY2VQMmM2cUR0XzVOUFBMaWp2SGFUS3U0ZHVnMTcxSzRaMlpkSm5ORVNuNklqYmNkOXFIR2FPNXRRUU9ZMkhvQ3lQU3hTc0IwVnFF?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-11",
+   "source": "RTP Açores",
+   "title": "Trabalhadores do Handling: Greve a tempo inteiro entre 26 e 29 de novembro - RTP Açores",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUd1aXlQS0FCcnB5d2JLdXA5OHZfSzgyZzh6SGVVZjJVaDF5Y2NRT3pCSGQzWXBQbjZkUGJGODlzME8za1R4MklfOVBkWkRzQ2ZzeTduZHNCUlJReENBY1BxTENoY0tSZmxVU0REMW0zSlU0MHViVld3UGJUdkptVGx2TVd4eUVYdU9OdF8zS0NpV3FsNUljTlBxM1EwcElhanFmdw?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-11-11",
+   "source": "Diário do Rio",
+   "title": "Gol reforça operação no Galeão com mais voos para Lisboa e novas rotas internacionais - Diário do Rio",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWwwRXdXNXktVXZILWtHdGQtUTlBU2g3R0JLUDE2WkZJdk5mLUJXYkVDam8wV0FOQUhET3l2WEJ4azU3WDFLTWw0by1MZFNfZ0J6ZzlGUVdZLWktXzlCeUNseWlVaUE5a2hpNmRqT19ja2pqWWN4OHBSa2w5Z3QtZk45ZjhWQnNkWXpadTMyWHdXVnFFU1EtUGIzdlJGODVCeGhROTU0ZjNpZ3Q5d1dXek0tT1N5eEs5N0stb2NHOV9lbG55U2ZOeDJpQVVGclV6b1hmdGNVaFl5QQ?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [],
+   "category": "geral",
+   "published": "2026-11-11",
+   "source": "Expresso",
+   "title": "Tempestade ‘Charles” cancela metade dos voos nos aeroportos portugueses. Maioria são da TAP - Expresso",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMU1UOVg3TFJ3eWlPSU1XTFQtNHhjTEtER2oxeWs4b3Z0Sm1Tdl9sYTN2S0REUGdjVkhKOGdZSFMwTHRMdzB4WE9keVJVclZCSjZNc1ZDTUpKdnN0cjJNamVoYndXX0pHa3RGM3V2NjNnQXhlamxfRjA3Z1JCLWFSUGU1MGt6TFN0dklDeThMa1A0N0FRZWFSTXRPSjIxZlhPVXpDZkRha1B1cDJrY0U0RmotVXdVRDF0M2daV2pyMFRFc1QtaGlPaDUxcjh5T2RlMmdVZklDQk1fQUNiVzhDaUg5Q3RMVkRTYUc0Rnl5UQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "Dinheiro Vivo",
+   "title": "Mau tempo: Aeroportos portugueses registam 360 voos cancelados - Dinheiro Vivo",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUNaWUswVTI5R3hraUx1ZUx4amlCd2c1OUJMcUc4eEgwSkpwRlkyLXBVUnpFMEphSnRWWWtWXy16czA3SXNiX2NfendHYUNEM19sZzN4bXpLdFdXRUI4UmVXOUZzdkY5Q2piUzFqeDR3ajdkdTBYVTI1SnFWSWVlRWQ1NnYwNVpBS2JTUlBtNkJ3Smg0MUFnX0VlZzA?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-11-11",
+   "source": "Mercado e Eventos",
+   "title": "Tempestade em Portugal provoca cancelamentos de voos entre Guarulhos e Lisboa nesta quarta-feira (11); entenda - Mercado e Eventos",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbzVXNkxHUnhDbWhYZXh6V0hmZlp0OWJURXBCTkxRYTdyZ2JvYUJNRnpaMjdvQURsNU1SRGxQcTI0YWdHRzhfMDd1SHQ1UlZ0Q0pkeFhNVk92OTJ3eS1lNnBTcWhLNS1PeVNsTE5vYTI2N0RuV0N0dGhOSTJscmJBbTc4Y0tfdGUtNW1XLUM0RGJmYkFHM3VGX3kya3lGUS02MFA1Y3BPTERfS1lMcGx1MFJ2TkRTaXFIUThzcDREWnk5UGFhN253M28wQzQ5QVp6Q3FvTQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-11-11",
+   "source": "Renascença",
+   "title": "Tempestade Charles provoca centenas de cancelamentos de voos no aeroporto de Lisboa - Renascença",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaDRDbTJ3RTVJT3A5Z3lWRW13Q0JLU2xmWFE0TVZXeHdYMHFkYlN2ZTQzLS11SW1BdTlOcjFodVFMTk5saXI0UGRlSkdkcW9UM0VjbmVBLTByblFhRHRnUDRMT0l0OU9rRFQyUzJWZXIzVGgxRHRuNTdyWjFXSy1jUGpxYnQ0NWNpOUV6Ml9pcVhpeGNsT3FKajFXcWNjdUc2RjJXTEhMQ25MR1ZJbkFMdENYSWtwTHJuYnF2UVo4OFk3d19VRUE3TlpBS21XYnM?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS",
+    "OPO",
+    "FAO"
+   ],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "NewsAvia",
+   "title": "Aeroportos de Lisboa, Madeira, Faro e Porto registam 360 voos cancelados devido ao mau tempo - NewsAvia",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWNyVHVSMGdsMEdPUWQxaGhRMWxacXcwMEVPS2N0Tk1DVEFrSjVDRFJZT09HdTBud2ZNeW5KX29Mcl83MU5qT3hJdXNXWTNIcElZeFI5RU9wdWVPT2Rtc1dMcUJ4SjQ2RF80RUxMd2Vxcms4SXc1U0hPd24wRFdOZnd6NFZsY3RSNjFGcUlwRk53YUNoSUZpcWI5YVN0WkZndHRhdGMwZ3ZrTnB5ZEx2V2Nn?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS",
+    "OPO",
+    "FAO"
+   ],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "dnoticias.pt",
+   "title": "Perto de 400 voos cancelados em Lisboa, Porto, Faro e Madeira - dnoticias.pt",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3ExN3JrQ1VNczBxVDVWdkJuNXRKWWo2QlA4NndZeFhHYlUwaFJjNmdHd29QaDVfMm9VX0UzOXVkM3Z5S1NEdC1CZEFVMlZqbkdpWTZ0cEJrVkRDZDdBcGxXbXpzenUzYnFNc0VyaVZPNHVmTjBwRlR5ak1zdVQyWXZ5cFE4eWR4blBjWUwxRjRvekJ2d09ZSTFnWE8xZWcyRGhVYXBR?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS",
+    "FAO"
+   ],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "SIC Notícias",
+   "title": "Depressão Charles: mais de 220 voos cancelados nos aeroportos de Lisboa e Faro - SIC Notícias",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSUs0V2phWWlrQ1JqVjJRaVU0NWJqTS1mcy1pRzdLeUEzQUU2dXloTmhSZUtJY0l2dFB5UzRydTlKRE14WmYtNXNvaXpvTUd3ckR0SDVwOHB4UHE4ZlVQc2VBRHFzUl9HZXZGRHAxMjRNdFhOMkFZZlRpaVB1X181OXc0bkVINGk1ZnJXQjc5SzNCMGZEMXFZUVZ3VjluM2s2QWY4elhKdmplbGcwT2JvNGk1Z3dMQmd1TkJXbjlGUE1md3BCeDB1dHpYNm9qUQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "SAPO",
+   "title": "Quase 400 voos cancelados e aeroportos paralisados: O caos absoluto que o mau tempo deixou em Portugal - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUXhxaVRaSmV6eC02dnJXejRIcGFnb05HeEtsQWZkVGxZel9Pazc1LUtIbnowemQ5MlUtbm14Z3pTNXVYMHhZcEFjZ3A0dE5FTkdmYmZNZE0yRm1IV2p5dmd1NmVYT2VmVG5TenVRQ0NybEVsLXpYWm1FM3pIOTlTSGJHQnJnT1J2ZzctZmxpajA2cEtjbmRzdlNlU1JkcVk2NENhUVJRbFRWR2YwVTdsaW1icjBBMno3bzdiSUVCb3o2MTVLNXlvZXBSSzY2V3NnXzN3UjZXR0lTSXFsZEFtQWlUNA?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-11-11",
+   "source": "CNN Brasil",
+   "title": "Mau tempo em Portugal causa cancelamento de voos entre Guarulhos e Lisboa - CNN Brasil",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPak5zMlN2WDhlMC1NdHpud2FYSktHR3V6ZkNuenhLbEVGVy1SelNDYkk0bzhxUWJhZG40THlqd1lvSURrSVRLWTBvcVNoQXlRZWxWeUh4T2pYejhXeWRwaGstNE1QaEZ0TVZxUXZ2NEFBRWoxdXRVWmhJMmU2UTNyUWJnYzNZVmx3MFlIUDY2M19WaEJVSlNac1JLMkNXdV9QSWxnQVpHVXd3dlFRb042VHVqTjlJVVMwd2FxdWVaVmQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS",
+    "OPO",
+    "FAO"
+   ],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "Diário de Aveiro",
+   "title": "Aeroportos de Lisboa, Madeira, Faro e Porto registam 360 voos cancelados devido a condições meteorológicas adversas - Diário de Aveiro",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeVQ4QXR0bjFFMkdhb0lwcHFGNGtRd0s2WXJXU1hqUnBISnFLcmstSFlxSml5czFVZjJ2Ql9nYVdNcTZUYWlJX3NJdmZ3MlZIellUdERTZzJ5R3pCcUZzemxMdEhVdExOSWpwTGx6ajR6LXNRbDNhZEUtZjFWeHhJd25tU19hd2RUQmJDV3luQnBoWU9YV3lGSmpxbjVQaS1ULUZWbkhxTVlEdnFoaFFIcndmSGRVb1VBUm1ENVE0YS12Zjg3RFlIN21MZUhfcHdWUEQxOVBBeHM4VlF2Y193c3ZZRzNFQjRB?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-11-11",
+   "source": "TVI Player",
+   "title": "Tempestade Charles provoca centenas de cancelamentos de voos em Portugal. Lisboa é o aeroporto mais afetado - TVI Player",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmtqdkphQTF3X1hXLUJSTlZXRUtvcUhWS3YyNHpHZnFRVTJSakhPNVplQnZQQjdyb1l5cF9tUjVRZ014QmdEUXc1WXlJN0U5NHBJUzJHT1BhS0F2WTEybVowckxJWWVQLW44TWJTNzVNWENMc1B5SHgwQzZHNDhlWWNMckhDVXc2dUFrLWpOQnNpVnVlX3R4VlRvWV9zeWVVenc?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "SAPO",
+   "title": "Tempestade Charles faz estragos: Centenas de voos cancelados e caos total no Aeroporto de Lisboa - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT0RrNDlHVENiT3M3N0kybmJROFduTnk3VjRKaXhKRUhHY1VWVEpjc3FmQlpNV3E5NEJZbnhaLXhySkg5aGJ2U2FBVWpnQkR5a0ZUdHdpWEZqOWdERVk1RklBM193TTRpZEY5Sk5GRV9mb0tjTEw5a2FoXzRCWkNWb3VMZEtaN3hCalV0c1FMdmVOMm5vdF9FNlNacVZQVHJteXg0RVdNaGtHbnlfTkZxRUNObVF3Tnk2Z2lGR0Zfdmc5RW9MVEJuWnh3a1c2c2VIZ2JOUVJQRlBvY3M?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "Diário do Distrito",
+   "title": "Quase 400 voos cancelados e aeroportos paralisados: O caos absoluto que o mau tempo deixou em Portugal - Diário do Distrito",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNak1qWWhuNmk5WXZvaTNWTGF3NW9MNmhuN1FadFY4SkJJcXVoUnl1RmV5UGkyRUYyZWZyM0owOXZlSEVIMGZwZ1RRbl9tV1QzTnRzS0Vxam5Ja0J3YTgyNE1STWdtR05taDZmS2ZpX2ZfUERwVU1JcTFUcy1tSnZMWkFvNA?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "SAPO",
+   "title": "Aeroportos portugueses registam 360 voos cancelados - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUFyTVBqRVBsWWstSk1ZdXdTOXVTREQwS1A1UGxBa05uMFBfNUxMQUVhM2FCTUpYWmVEckxtT2FUbTZaakFUb1E1OFUxdzF5OURzZWNMQXpJOTVSRWRZbzMzWW5LTjV6dHcwTjBWWlV1R28xMnE0T2xkXzVEb1JBTXkyUU02VEs1VUJzTTREeEZuQ1FlOW9SUFZGTFZpTUZf?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "geral",
+   "published": "2026-11-11",
+   "source": "Passageiro de Primeira",
+   "title": "Tempestade Charles provoca cancelamentos de voos em Portugal - Passageiro de Primeira",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTFdGWGh1dWR2b0N0NV9zWUtMeDFqamRLLW5TT2l0d3VGOEtiYlNhcW9ZUHJUdEI0S2N0bmpyQktFaFBPbDcwMXptZFZuWUVjWFRBcnQwTmkyZXR2TDk2NkpHSjBQa0c1dHphdjNkU3QxSUxaX3VNaW9nYUkwcjNXZE1qR29RQ1lnb2x2T0pYVzI2TWRGQzh1VUpn?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "geral",
+   "published": "2026-11-11",
+   "source": "The Portugal News",
+   "title": "Os cancelamentos de voos em Portugal ascendem a 360, à medida que a tempestade Charles continua - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaXhZNURQT2NBZ0FfUEpENEwwZVp4dlQ4NHlYRm9DQUwtQkhhYWxZUlN3UzVWa1MweVZhZ1RKZDBiX2NOcTllN0JudnU2dUwwbS0zTE1iRmNLcXkwTy04TGt6T0dQLWppRkxfTUxfeWQ5RXBveWttQ2xrNXZLQlQ1Q3c2aTZMUWU0ZGpTSVBGUmd5QVZwcU93bldUNENGdkFKaUZLNzNtREVjOW5FbGdJbkF4d1pmTTBHbHU5czJOb3Nmc3lheVhBY1RjOHlNdy1tODc5TzZOT0M1OWlvZ3VKM0kzaHI1bF9MN0szenRuZUJKQ0hOa0FTYQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "geral",
+   "published": "2026-11-11",
+   "source": "Brasilturis",
+   "title": "Tempestade Charles provoca mais de 330 cancelamentos de voos em Portugal - Brasilturis",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXp2WWV5SHFRdG9fQ0FOZ2NNTlFETmdZei1hQUVlTjBnQUIwcXQwNG1tSmJ0a1dONlZ0bzZiYkVJUDhFT0ZnTUN0eTVtWDFRVjhXRW9oaXF3MDVLMjRUWUQ4dXM3NEJGMV80OEpjNEl1SEZrbThuTjFEaWpMZ3ZjMnRpaFY5cGhER0dEZ3VrTUZPNzd6dFk1UktCT25mX0d4MmR3MXBmZjZHZlg1bk9TcQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "AEROIN",
+   "title": "Mais de 220 voos já foram cancelados hoje em aeroportos de Portugal por causa das condições meteorológicas - AEROIN",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHdKRGtwTGVLalM1RnQ2cHhUTUJFTzNWR1pSQXZSajNjZWJPRGs3S0VIekFrX1loS0E1VDNyNUFvTm9aS296emdXYXZrRV9GT09rbjFUTHVYenN2NEl3M25uekI2cjdfS2lIMld1TTR2c3kwS2w2cHJYNnh0UVhWWXNhRzVKTTEydzh5R1o5ME5EcWw4aWtUZGwxUnd4NTF5dVZoS2Nka0l2aGd5SGQ5OFZFMzJWRkU3c3VHbWVCeFRhQ2V60gHEAUFVX3lxTFBYd0pEa3BMZUtqUzVGdDZweFRNQkVPM1ZHWlJBdlJqM2NlYk9EazdLRUh6QWtfWWhLQTVUM3I1QW9Ob1pLb3p6Z1dhdmtFX0ZPT2tuMVRMdVh6c3Y0SXczbm56QjZyN19LaUgyV3VNNHZzeTBLbDZwclg2eHRRWFZZc2FHNUpNMTJ3OHlHWjkwTkRxbDhpa1RkbDFSd3g1MXl1VmhLY2RrSXZoZ3lIZDk4VkUzMlZGRTdzdUdtZUJ4VGFDZXo?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "Pernambuco Notícias",
+   "title": "Tempestade Charles provoca caos nos aeroportos de Portugal e deixa áreas de Lisboa inundadas - Pernambuco Notícias",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTQ2MUVLUmFRUmJHRUlFZDVqUXVCSWlqMHlsUjJjQTZiNWZxT3VhNmVINDU1STBwR2RpQXVSSzR4VzRYUklMdmctSVRFa3JuaHZDRF9qWWZFNDM2Ylo3Z2NrX1MxZ0otcjFkLWVib1Ytdmw2VWpuN1p0MHh6TDJPcnp6ZFZlRWxYSlFNREs5Vy1vU1lBUzNHN3AxeWc0TFBudU9FejBQLS1hOTFhcUE0VTE4cDFhRTlVZS04dUFzdHlVbHRPc1E?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "OPO"
@@ -197,6 +450,18 @@
    "source": "Executive Digest",
    "title": "Depressão Charles condiciona aeroportos de Lisboa, Faro e Madeira. ANA alerta para possíveis cancelamentos de voos - Executive Digest",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdHphQ0dhMVZia2JVWUVHcldVYXV5cy1oQ0RrczRTNElsZ05paGtyMEZaWlhwVVVjWWxPbkVGSHozREFodDNaM3ZkSXlFWVoyYUo5SzlMVXZhbHdQbDhQMl8ycHNNc2FQVUR4RURwWF9fOHFUWHAySE1Lcks5UVd5ZmlpamZRbjVrQ2plaXB5X29HbGdSM0haSEJMRXA0WVR4b0xBYmNBWTYyOHZvWDl1X2xVNUJ1U1JsUGFEYjZlZ2IwMG42OHhKTGh2RmZoRzZJRVZ6RTFhT3VDX185OGc?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS",
+    "FAO"
+   ],
+   "category": "geral",
+   "published": "2026-11-10",
+   "source": "SAPO",
+   "title": "ANA prevê cancelamentos de voos nos aeroportos de Lisboa, Faro e Madeira - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUw1dTFOQWZJb3NINGFBNzkwbFFaaHphcEUzbXlDMC1yMHRRbDlIVVBtSGFQaWIwOFVIbnVWeEUwQlR1OWIxcjYySUZzYVNTNk14cUJfY0duTFhBbk5RR3RmNzhNbFd3ZUszcE80cWVZYkRWbGlSMGY4NGJSeU45SHZveW9TWHdBYzdILUViMWtueF9aQkpINlozSFBFZkd0eWFzQnpnXzNaaFFKU3dUREdaR254YU9EUWQ0?oc=5"
   },
   {
    "airlines": [
@@ -1070,287 +1335,6 @@
    "source": "Turisver",
    "title": "Ryanair inaugurou quatro novas rotas de inverno à partida do Porto - Turisver",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT0Y5d29kV2Z6LW9hMHJjZEtHbUhMdFFfRi1BSXRwUzdiOVBEWUhfTXhISjJNSFZSYThfanNQR2UyQjNKV2pYaW5jQnEySUN5NVE1RkE4aGR0akJoYTV2YXBVcVdyRzNIZkJZdDhPVnJBTkhHYUJET2RpU3BWc25zSVh6RVdJWWFvejdIRFVNblk?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-26",
-   "source": "VOU SAIR",
-   "title": "Cabo Verde está mais perto com a nova rota direta entre o Porto e a ilha do Sal (com voos desde 219€) - VOU SAIR",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSGl3MTY0dlFmYlJnN0NRQ2RuamdhNHE2azRRU3RTMGNEUTVOOXpyQjVxcC1ydmExbmhfWjUweThldHRXQnR1ZUFLaHBlWkdvejhzanZITGRybjFYQ1hsNnBIM0txOHlYVzAtaV9NMDV2aWxFWEoycHNibTl4NjA4SDZTVEpFR2RJTm0wSTBrOTJXV1I0TjkwR0JMRjlVblNPTjItN3E1bmRpOUNxc1BmU09GMFF0dTFtVFE?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-26",
-   "source": "Melhores Destinos",
-   "title": "Nova rota! TAP estreia hoje voos entre São Luís e Lisboa – veja os detalhes - Melhores Destinos",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EREFJYmpjcWdhRC1pbmFYNjNlSXlKbXJGVUNVYnVVM01teUdYTmhlMm9tcDV6Tk4yTGxtZmE2MmVhM2NOMkVnM3pCUGVIT2VzdDFJVFdidmoxS2owWGlSMERTUWNSMFRSTVUtTWx2QU1EaEE?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-26",
-   "source": "SAPO",
-   "title": "Ryanair já inaugurou novas rotas de inverno no Porto - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2d2TVp6NFR0YVpnV0RYa3RoVjYwbGYzZERmS1JxbmdKaV9hcXNWbm5QVUx0NUhhRmowTFhUcDhtWGs0bHRuNnhnRGxtRkNFSnFsMkpsaXNvUmgta0lFOWFMMVc3cjM4TXd1My1JYmpSaHFzS0xkS3hCMVM1eVRaX3ZibDh1Q3pWLWF2UVc1dlBhSTdOamlFMG9WX09ZaU5XWVE?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-26",
-   "source": "SAPO",
-   "title": "TAP liga Porto diretamente ao Sal com nova rota intercontinental - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHY4UmZibEtESlR6NjRRRGg4bUZCMkx5MEFtRzU4emdnd2RhR01JYS1QNUJvSUc1anFZWkZ4WDVpTGxHX2lWdkxQUklGa3cyLTVpa3U5ZXhmR0RoanluZ0RxYVYwTGNyaFhkZTd4SFhURXk4VjJ3QTI1SWRTOFVGQlN0aWVVOE5zRlJhSTJVMWFheUNDQmZDRGRMMVNvUGNad2tsTXQ3V2gzdE1SWTBHSEhB?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "problema",
-   "published": "2026-10-26",
-   "source": "VOU SAIR",
-   "title": "Estes são os aeroportos portugueses com mais atrasos. Os Açores dominam a lista - VOU SAIR",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUlJZmk2RGJxdWxZUHczaUJXa25KbmFtN21sXzhKVnNuTVQ2dC15VVhCS214RnViMnBGeFdwSTBMa18ycnJpRVprMmloeVM1Ny1wYXoxWm9hQTlMWkY3ZlV3SHlvU1k5NW5jeTY3eEFWclRXX0daSG9sY29McVRLWFZEY01yQURXWEFKYW0xU2JzR25POFdCR1JIdl9qQ3M?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-25",
-   "source": "Diário do Distrito",
-   "title": "TAP reforça presença no Brasil com nova rota - Diário do Distrito",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkUzWXNmVHdLVXpvYmExUlFKRUlNd0kwdnFjQ05VbXZ0Sm1JSG5hWVdIZUJZNjlENGZmZkRyNUtsajJILUtjSFhqanYzN0JIeUdfeGNoYnVBWXowd0xKaEFuakw1STNpdXlMelFuRjF5QWU2Tlh1dVlsekxSakZqWE1n?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-25",
-   "source": "SAPO",
-   "title": "TAP reforça presença no Brasil com nova rota - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGM4S25yRzllaUQ5TzdfZHBlMnY5V2JtTVJrRGl2WjN5UUJVRUJ0MGNHX0JORVZHUko4Z2RtMnpCNTBTcnE0NE4xY0U4aVVKdUNDY2dTNlZOd3VXUHZxU2JRcF9wM0ZldGZvZnZaQU1NUXZGaEV2VW80TGZTa0dTSmxTalR3RFppNm43c0lETEJxN1djU2pz?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-25",
-   "source": "Publituris",
-   "title": "Ryanair já inaugurou novas rotas de inverno no Porto - Publituris",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3YzdVpFeFFlVThJNVJlV1RtdFhjTWpVYXN6TUdHQ1VKaUkzSHZ2RnZLQWprYlBVem5BZUdoUDRBNjdJUEJJTHNNUHNUMmY2MHoycEdoWXZWSThZMXgzUDVXOTRlXzNmS2tmelhrTl9MbU1sV2hYT1gwcl9LYmFfRnhOUk5JVEpGSHo3dHVB?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-25",
-   "source": "Publituris",
-   "title": "TAP liga Porto diretamente ao Sal com nova rota intercontinental - Publituris",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWZRR0Voc3Bzek5Lb1JPOW9kOVpkOFpfa29lX0t2cVZGVjVOaWtuNHNIb2NGb3lmZEczZmwyUWgtLVlwU3lpNTVwUTFNN2FUak5ZbmZvNG9ydzc0Z1JYTndObWJQLVFwZ0w4S3Nqb3RrWHVzVTZURzV6MlhIZUF4SDUtUzZJaHNjaHVwZGhoWGgxdUt2b2d0djVqM1dpdw?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-24",
-   "source": "Distrito Online",
-   "title": "Greve dos tripulantes da easyJet arranca com 80% dos voos cancelados - Distrito Online",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjFrRjBWdFY2UENqSU9QRlNjWHMwTUhoSGZiYVY0OXpid3UwVnYyVVlydHo0bnc5cjM4U21DUjQyclpEa1ktbkMzaE9XdzNUVnRKcTg5ZjdJTERoUlFScnF1VUtncVItbGpfTHpWd0RiNkROYkdJajFGTXhTd0xPTHFrVkJVbTdxSmR6T3JwZXc0OEJIdXRlbWpFeDZOUHhzc0lneg?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "geral",
-   "published": "2026-10-24",
-   "source": "Kiosque da Aviação",
-   "title": "Smartwings iniciou voos diretos entre Praga e Lisboa - Kiosque da Aviação",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUhGNXRmaU9CMU9pTE5OVGtZNWFHSklLRXA2MjVVcTFXbnNkNF9GZUs5ZGtnbUxhRFV4YXU2U3JiLWNudWNNeGhCaHY1ZnZia2ctaVk5LU9Wa05LNmJ3RXNuN1g1YkI1dld6MmYtdUhCcnVXRlhiT0YxWmdxcVU1MGxybmlTSUFr?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-23",
-   "source": "SAPO",
-   "title": "Trabalhadores da SATA em protesto: O que está em jogo? - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSDBJWjlwd3NZU1VWVGJaOFJRdEhYMkpTXzJGb3I5ZFc3T1c5NHplcVNleDZ0U1dya0Zlb1JFY1B4SVlqNU4tUzJGTWZJTGxla2dIb2ExR3ZYdm1YOGdXSHNTZlUzT2JPN0N6eTk5dUYwQlktSW5yWXFPUks4UVBTckJxTDNBYlU0SmZvMlNiUUFMaUswNHNkeERuVFpKaHJWOEE?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-23",
-   "source": "RTP Açores",
-   "title": "Novo pré-aviso de greve entregue pelos sindicatos dos trabalhadores do Handling da SATA - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRnVnanMwQVFjenhxLXZRbmhOekgzdzlkN2llemUweHdoRUlEd3EtYk11LXZGWE96aGI0azREX1FmVTM0ZVdpMDFEQ3c1OFVaSEZYTl9vYWY2SEFnTk9aUGRkdEY0aVFoOU5PWjlVc3lJTm9mX05aMTgyTTVTRnE0UDAxUm9yY1VGMEIxMFR0cnVpemVWZ2t4VmhpYUszRFNVN3hlTVFzdy1vejFzdmRGUkFDRk0temc?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-23",
-   "source": "Distrito Online",
-   "title": "Tripulantes da easyJet reivindicam “adesão de 100%” no primeiro dia de greve - Distrito Online",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnpqTHA4dHFfb0lCQkNSWHhMMkw1WlRwaXpmR05qTnJkOUV5UlpuUU4zb2NXeXkwd19CaE9KVkctc0N6ZllpNldpTXA5NlU0c2h0THJZbHBrSm05X0JEUFBMY1hDLTZHYmd4eHFZdHV6eVZnVl90SVNNSjlCaVhla1JpcVBJRkE3NlZIQTZCTkpSdTVyQzlLOTlxTXlvT25WYmNiNWlfVzFBM1VI?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-23",
-   "source": "Diário do Distrito",
-   "title": "Trabalhadores da SATA em protesto: O que está em jogo? - Diário do Distrito",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzdtcmFXQW5aSGJ2bVB5anlUbjd5VXg3SUM1WWdJdlNuOXhESXpBNlJhQWprb1B4M3kwb2k3T3Y4ZEo2NDE2TmNTd1I2TDNVRHh6QmF2SGF3STRhUkNFRWM2RllHaVF5TmFnb0Y1OUlzN1U3NmRQRWloQ3VpaEM1WlRyb1dkSWg4cWFDeg?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-21",
-   "source": "RTP",
-   "title": "Açores. Greve no handling da SATA provoca atrasos e cancelamentos - RTP",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZldsZnpyUjh5bUJYRjZOck1xS2JjR0dKMGhTWHVpRndJcnpXNzE4Y1VUZnBHU2t4UWRYcnlQa3lHTVlZRlREUG5za0JYQWVnU0NMWFFDSjZrUjdKSV9OSkp1QndIZHlYZU5TWVVzdkUyRkduT2RiTEZTc0FkdUlyZV9rSjJ0VHRSN1JaQVhwN1pJeFJvc0hmY2t5bEdLR0FYeXk5bjVic0FUY2s?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-21",
-   "source": "Executive Digest",
-   "title": "Vai viajar de avião para os Açores? Greve começa hoje e prolonga-se até novembro. Saiba o que pode mudar nos voos - Executive Digest",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOejJtSVJGNXdNdDNKQ2NOZjFPMm5PTW9OcnhUTVVId09SSzBhQVZSYTdUZWxjcnp1Q1BqYXR2SHpOTGtJTjlIY2RfMVp6anBsckF1dWllemZ6dXNlNmhHbE1ycEQxdHJMRFFYMEdwOUNvWVpPRmdscU5vWldpWktvd0ZHM0lydVhKTTlMRlJjV3lqSlJkcUphbFhsQ2RlY0pVQjI5S0J6b2ttVF9uUUdNNldvMHFOdlAyM2RVOTdROUVVN0VVU21wcEh1a0l1MFlzS3hlZ3BJX0hQdnB3?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-21",
-   "source": "RTP Açores",
-   "title": "Trabalhadores da SATA Handling em greve a partir de hoje - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVXR0VmJVWUt0cHhfcXV2S1B2Z0gxblNqOUNtSC03UmlpV1IxLUViMUlMZU8xUzZYRnQyUFl1Z1NIM2hrY3dJWDY2OU5zSHBhZUl4MVlSemtMTDJhdmJON3BpWC1qV3A1cUktN0lJTENfRnFSY2FZeEVLek5oQzJwd0pQNnAwbVVNdGgyYmVR?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-21",
-   "source": "Observador",
-   "title": "Operação da SATA regista \"alguns constrangimentos\" devido à greve no handling - Observador",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2FqN2FWVm1CVFpwa0x1XzNYWTREd3NVck95SW4zQ0NZczYycV9Dc0w0akxNS2ZyTy16dzltYjJSWjl4MTQ2d1cxMURLajYtTXlRaGhpNkREb1lLMndWRnZhNjhKVnBERXpRczNKanllcmxlc1RVN0pTWDJ5UlFBYldxZWlPWnJNSldjeTBNMkxXRi1YZFRDajM1TFZWcWFvVy1PVWFubFYwYWdSekE?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-21",
-   "source": "LUSA",
-   "title": "Operação da SATA regista “alguns constrangimentos” devido à greve no ‘handling’ - LUSA",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbmNCUERPZlRZaXc0dVl5UGZNMnZjZHdLLWdwNDZaTVZMbUlzNjI0WTdYbFVfVm9ub2pzaW84S25qUV9RbnJOblBoWk9WbGRmbzZQbjZTV0JGekNxdXhka0RrOXVNaTZKdUlMYVVoaG13WDBncnFjTjZCdEFaY3FLQXktU0IzQmdqQ1dEaE5ySk9Bc0hseF8wVG5UOTk0MnlPdUFneU9uc3M4OUZLZzVlczFsTU1UZmlTR0tjbzZKYXNIMkgzeGgybFZsal9TR3JGbWNhTFJsRVVuWWFQQXF2VA?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-21",
-   "source": "RTP Açores",
-   "title": "Greve Handling SATA: Voos atrasados em todas as ilhas - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFJDMjRlOXJoTm9wbGpQbEhGNEY3UEpjcUQzdDRvYk00dXYzSWhLVnktajQ0Q01GZ1hReDVlMGt4bDV5eXo3NDA0VFBOSFNFcWkwUFBkQXJFLU9uQ3Q3SW1WXzFDcXBkWWptZHRSYWhtdkV3dEVLUzIwYURCMVRCUWJsMU9BTERn?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-21",
-   "source": "RTP Açores",
-   "title": "Primeiro dia de greve na SATA Handling com adesão perto dos 90% - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjBuYlRLMFZuYnJ3WW9laG1FLXJYUEVNZjlZVVdFT3AzcXY1aml5VFAzUG9pRk9SdTZlMkJRcENVUTVyODUxcDdRSW1iUEsybEVKUTVwS3JhQUlxUkc0a2l1Skd3ekVzZEFKZEZ6Z2RTaWhTczQxQ3FadXNWMm5VNmhwTElBMm1ncXNub3lkZ1gzR3M0OHc?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-21",
-   "source": "SAPO",
-   "title": "Operação da SATA regista \"alguns constrangimentos\" devido à greve no 'handling' - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1dKSFdwVmNIVGVZYmJ3RGtnRkRSZjEzcDZqX2RGcm5aMFJWWWF6LTlYVlRHWjl5VktBSF96bzBtQVlrYlRiM3BnQ3NtUWlRa2dmN3F0N1gwNl9Xc3RMSUhiazM4MXVSd3pqZ01lUDRRZ2J5cEJnWFlzV0VPRDByZlRUMjZzSEU2R1hYc2VTanpvX210ekJwUk9ZUHhkMFBxUjJ3RzBQZUN3VmR2VzJaMlVKQ3FQOVA3R3AzdGVRYjg?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-21",
-   "source": "ECO",
-   "title": "Operação da SATA regista “alguns constrangimentos” devido à greve no ‘handling’ - ECO",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2pkMkpuS3JwZzkyaHVrbmRBUFpaWHZJWXp0dU00VnlpUDNlTGFaNVl4b0dobEdvY0xiV1BodkQ2YlMzclo1QWtyMGVldk44alpNRWV3UDkxODBKWGh3dUUwdmxTcU9nN3NXa0hsamVtREU2dzZXNHpYazJoSVczTlpsVHR4S3B1ekdwN0o5MGU3bVU0UHlpZm1jaGNsVm5TWDN0V0lpelRnZjQ?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-21",
-   "source": "Notícias ao Minuto",
-   "title": "Operação da SATA regista \"constrangimentos\" devido à greve no handling - Notícias ao Minuto",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalRxVTNHMW1kdFc0SEdxMmJrdGtVZlVQcWdOOWtZaWducW1fdHdHbE8zd0tOZzF3UHd3S3RqdU1FS3B0cGtUajJDRU9CWFZCSTU4U2dqWThHRWVWOGtkSXdGdnpldEEydkdlRWd0UGliV3NiVXJJNDRqMHByaGgwUE5tcVFKU2VPY2RQSGdrZlZxbDNYY0plb1hIak9yLTl6bi1LQzlieUxNOGQ1Zy1YQnVsX1dIZVdrRmYzNlZ3?oc=5"
   }
  ]
 }
