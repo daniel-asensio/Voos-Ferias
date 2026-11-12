@@ -428,6 +428,12 @@
       "date": "2026-11-11",
       "price": 16.99,
       "travel_date": "2026-12-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 16.99,
+      "travel_date": "2026-12-10"
      }
     ]
    },
@@ -871,6 +877,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 18.99,
+      "travel_date": "2026-12-20"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 18.99,
       "travel_date": "2026-12-20"
      }
@@ -1318,6 +1330,12 @@
       "date": "2026-11-11",
       "price": 15.99,
       "travel_date": "2026-12-11"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 15.99,
+      "travel_date": "2026-12-11"
      }
     ]
    },
@@ -1762,6 +1780,12 @@
       "currency": "EUR",
       "date": "2026-11-11",
       "price": 16.99,
+      "travel_date": "2026-12-13"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 15.99,
       "travel_date": "2026-12-13"
      }
     ]
@@ -2533,6 +2557,12 @@
       "date": "2026-11-11",
       "price": 16.99,
       "travel_date": "2026-12-18"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 16.99,
+      "travel_date": "2026-12-18"
      }
     ]
    },
@@ -2977,6 +3007,12 @@
       "currency": "EUR",
       "date": "2026-11-11",
       "price": 20.99,
+      "travel_date": "2026-12-07"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 19.99,
       "travel_date": "2026-12-07"
      }
     ]
@@ -3423,6 +3459,12 @@
       "date": "2026-11-11",
       "price": 17.99,
       "travel_date": "2026-12-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 19.99,
+      "travel_date": "2026-12-10"
      }
     ]
    },
@@ -3868,6 +3910,12 @@
       "date": "2026-11-11",
       "price": 24.99,
       "travel_date": "2027-01-24"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 24.99,
+      "travel_date": "2026-12-11"
      }
     ]
    },
@@ -4313,6 +4361,12 @@
       "date": "2026-11-11",
       "price": 15.99,
       "travel_date": "2026-12-04"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 15.99,
+      "travel_date": "2026-12-11"
      }
     ]
    },
@@ -4756,6 +4810,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 15.99,
+      "travel_date": "2026-12-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 15.99,
       "travel_date": "2026-12-17"
      }
@@ -5203,6 +5263,12 @@
       "date": "2026-11-11",
       "price": 16.99,
       "travel_date": "2026-12-21"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 16.99,
+      "travel_date": "2026-12-21"
      }
     ]
    },
@@ -5646,6 +5712,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 17.99,
+      "travel_date": "2026-12-11"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 17.99,
       "travel_date": "2026-12-11"
      }
@@ -6093,6 +6165,12 @@
       "date": "2026-11-11",
       "price": 15.99,
       "travel_date": "2026-12-11"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 15.99,
+      "travel_date": "2026-12-11"
      }
     ]
    },
@@ -6538,6 +6616,12 @@
       "date": "2026-11-11",
       "price": 15.99,
       "travel_date": "2026-12-09"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 15.99,
+      "travel_date": "2026-12-10"
      }
     ]
    },
@@ -6982,6 +7066,12 @@
       "currency": "EUR",
       "date": "2026-11-11",
       "price": 14.99,
+      "travel_date": "2026-12-03"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 16.34,
       "travel_date": "2026-12-03"
      }
     ]
@@ -7428,6 +7518,12 @@
       "date": "2026-11-11",
       "price": 14.99,
       "travel_date": "2026-12-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 19.99,
+      "travel_date": "2026-12-19"
      }
     ]
    },
@@ -7873,6 +7969,12 @@
       "date": "2026-11-11",
       "price": 15.99,
       "travel_date": "2026-12-12"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 19.99,
+      "travel_date": "2026-12-12"
      }
     ]
    },
@@ -8304,6 +8406,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 42.44,
+      "travel_date": "2026-12-24"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 42.44,
       "travel_date": "2026-12-24"
      }
@@ -8751,6 +8859,12 @@
       "date": "2026-11-11",
       "price": 22.99,
       "travel_date": "2026-12-12"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 24.99,
+      "travel_date": "2026-12-08"
      }
     ]
    },
@@ -9194,6 +9308,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 19.99,
+      "travel_date": "2026-12-12"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 19.99,
       "travel_date": "2026-12-12"
      }
@@ -9641,6 +9761,12 @@
       "date": "2026-11-11",
       "price": 17.99,
       "travel_date": "2026-12-15"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 17.99,
+      "travel_date": "2026-12-15"
      }
     ]
    },
@@ -10086,6 +10212,12 @@
       "date": "2026-11-11",
       "price": 19.99,
       "travel_date": "2027-01-22"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 29.99,
+      "travel_date": "2027-01-17"
      }
     ]
    },
@@ -10531,6 +10663,12 @@
       "date": "2026-11-11",
       "price": 19.99,
       "travel_date": "2027-01-11"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 20.99,
+      "travel_date": "2026-12-24"
      }
     ]
    },
@@ -10976,6 +11114,12 @@
       "date": "2026-11-11",
       "price": 21.99,
       "travel_date": "2026-12-02"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 25.1,
+      "travel_date": "2026-12-16"
      }
     ]
    },
@@ -11420,6 +11564,12 @@
       "currency": "EUR",
       "date": "2026-11-11",
       "price": 15.99,
+      "travel_date": "2026-12-01"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 14.99,
       "travel_date": "2026-12-01"
      }
     ]
@@ -11866,6 +12016,12 @@
       "date": "2026-11-11",
       "price": 19.99,
       "travel_date": "2026-12-09"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 20.21,
+      "travel_date": "2026-12-09"
      }
     ]
    },
@@ -12309,6 +12465,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 14.99,
+      "travel_date": "2026-12-03"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 14.99,
       "travel_date": "2026-12-03"
      }
@@ -12756,6 +12918,12 @@
       "date": "2026-11-11",
       "price": 15.99,
       "travel_date": "2026-12-11"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 15.99,
+      "travel_date": "2026-12-11"
      }
     ]
    },
@@ -13201,6 +13369,12 @@
       "date": "2026-11-11",
       "price": 15.74,
       "travel_date": "2026-12-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 18.55,
+      "travel_date": "2026-12-11"
      }
     ]
    },
@@ -13646,6 +13820,12 @@
       "date": "2026-11-11",
       "price": 15.99,
       "travel_date": "2026-12-15"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 15.99,
+      "travel_date": "2026-12-15"
      }
     ]
    },
@@ -14078,6 +14258,12 @@
       "currency": "EUR",
       "date": "2026-11-11",
       "price": 24.99,
+      "travel_date": "2026-12-22"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 30.24,
       "travel_date": "2026-12-22"
      }
     ]
@@ -14524,6 +14710,12 @@
       "date": "2026-11-11",
       "price": 16.99,
       "travel_date": "2026-12-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 16.99,
+      "travel_date": "2026-12-21"
      }
     ]
    },
@@ -14969,6 +15161,12 @@
       "date": "2026-11-11",
       "price": 15.99,
       "travel_date": "2026-12-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 20.99,
+      "travel_date": "2026-12-17"
      }
     ]
    },
@@ -15412,6 +15610,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 20.99,
+      "travel_date": "2026-12-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 20.99,
       "travel_date": "2026-12-17"
      }
@@ -15859,6 +16063,12 @@
       "date": "2026-11-11",
       "price": 17.99,
       "travel_date": "2026-12-12"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 20.99,
+      "travel_date": "2026-12-12"
      }
     ]
    },
@@ -16290,6 +16500,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 18.99,
+      "travel_date": "2026-12-13"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 18.99,
       "travel_date": "2026-12-13"
      }
@@ -16737,6 +16953,12 @@
       "date": "2026-11-11",
       "price": 19.99,
       "travel_date": "2026-12-16"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 21.99,
+      "travel_date": "2026-12-16"
      }
     ]
    },
@@ -17180,6 +17402,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 26.14,
+      "travel_date": "2027-01-12"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 26.14,
       "travel_date": "2027-01-12"
      }
@@ -17627,6 +17855,12 @@
       "date": "2026-11-11",
       "price": 20.99,
       "travel_date": "2027-01-22"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 24.99,
+      "travel_date": "2026-12-18"
      }
     ]
    },
@@ -18071,6 +18305,12 @@
       "currency": "EUR",
       "date": "2026-11-11",
       "price": 14.99,
+      "travel_date": "2026-12-10"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 15.41,
       "travel_date": "2026-12-10"
      }
     ]
@@ -18517,6 +18757,12 @@
       "date": "2026-11-11",
       "price": 14.99,
       "travel_date": "2026-12-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 15.99,
+      "travel_date": "2026-12-16"
      }
     ]
    },
@@ -18948,6 +19194,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 15.99,
+      "travel_date": "2026-12-17"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 15.99,
       "travel_date": "2026-12-17"
      }
@@ -19395,6 +19647,12 @@
       "date": "2026-11-11",
       "price": 15.78,
       "travel_date": "2026-12-22"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 16.68,
+      "travel_date": "2026-12-22"
      }
     ]
    },
@@ -19840,6 +20098,12 @@
       "date": "2026-11-11",
       "price": 15.99,
       "travel_date": "2026-12-15"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
+      "price": 16.99,
+      "travel_date": "2026-12-21"
      }
     ]
    },
@@ -20283,6 +20547,12 @@
      {
       "currency": "EUR",
       "date": "2026-11-11",
+      "price": 16.99,
+      "travel_date": "2026-12-12"
+     },
+     {
+      "currency": "EUR",
+      "date": "2026-11-12",
       "price": 16.99,
       "travel_date": "2026-12-12"
      }
