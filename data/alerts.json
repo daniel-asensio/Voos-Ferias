@@ -10,6 +10,14 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Valência",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "LIS-VLC",
+   "travel_date": "2026-12-12"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Nápoles",
    "previous_min": 14.99,
    "price": 14.99,
@@ -17,5 +25,5 @@
    "travel_date": "2026-12-01"
   }
  ],
- "date": "2026-11-12"
+ "date": "2026-11-13"
 }
