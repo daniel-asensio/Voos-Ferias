@@ -3,6 +3,28 @@
   {
    "airlines": [],
    "airports": [
+    "LIS"
+   ],
+   "category": "greve",
+   "published": "2026-11-14",
+   "source": "SÁBADO",
+   "title": "Passageiros enfrentam constrangimentos devido a paralisação dos voos nos EUA: em Lisboa há um voo cancelado - SÁBADO",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHBaamhxWnJGaXBkYmx1aG12MUExc3E4TXBNTWdoRjZhUk9fVWVxUUFscmwwbW50QTVSUzhsNEtIZG9LWFBVOVhvUXp6Z1BvMVk0Tk9aMUt2d0tTTVpWZHRUOTB6WWZQVWNoMEl6c0FpZjJoMWhMQXQzYURILWNCSmZjX0VONGl3TWVIbnk0emo2azlfRW10VTgzWGFsY3FMOWNmaVo5MVVSY2NKbUFyQUdfZWVQLWxTbjROMlpGNXdXRk9YWTN0YVpsNm44OTlOd1BtaVcxY0dtZ9IB1AFBVV95cUxQczVUWjBQam5VeFBXa1VnS3h4Z0JlbWhpclVlbDBSaDF4eXlnRFVXYW5wRlY1b3poRV9tNEwwLXZac3UteHQ0RDdfNFZiWTNMb0REVEJlelZ4TUtZZVZyRnNscTU1UElBbXVIWXlNUXhDOC1UUVlkRDhlRHE3aGFBUURPRWpINGswVGZKanFpYUdKUHc3RjU1RWNrV2Nwbl9NUHRfb1otOGJVZlNHYVRjR3lPWldER1I3V25CckNZTnJJaXdIY2N0UjRGeFREakRFb1pYVw?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-13",
+   "source": "Notícia Toda Hora",
+   "title": "Nova rota logística: entenda o que a chegada do Porto Central representa para a indústria goiana - Notícia Toda Hora",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTc0U3N5TTBMczBCOFBYN3dMTVhFeDQ4YXJEUGlSYzY5M1NudTNaLUN2aU9GdThNS0FKRnh6bzdYS0hMQ3ZjMnZIM0NTU3F6X18wNHRFemhob1gxM0RmaWdqT2hMTUZpS1Z4Ml9QVWdvb0lRZzFzZUdENzdTU3NjZl9RbU9ubnVCM01MUmVZOElEVEJid3lqN2lORGJBS2VKTnFVOU1URzBXUF9rVnNOZ0VwazRuX1NoVTcteWEyc0xDa1dVSUE?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
     "OPO"
    ],
    "category": "novidade",
@@ -357,6 +379,15 @@
    "source": "Pernambuco Notícias",
    "title": "Tempestade Charles provoca caos nos aeroportos de Portugal e deixa áreas de Lisboa inundadas - Pernambuco Notícias",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTQ2MUVLUmFRUmJHRUlFZDVqUXVCSWlqMHlsUjJjQTZiNWZxT3VhNmVINDU1STBwR2RpQXVSSzR4VzRYUklMdmctSVRFa3JuaHZDRF9qWWZFNDM2Ylo3Z2NrX1MxZ0otcjFkLWVib1Ytdmw2VWpuN1p0MHh6TDJPcnp6ZFZlRWxYSlFNREs5Vy1vU1lBUzNHN3AxeWc0TFBudU9FejBQLS1hOTFhcUE0VTE4cDFhRTlVZS04dUFzdHlVbHRPc1E?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "Jornal Económico",
+   "title": "Mau tempo: Aeroportos portugueses registam 360 voos cancelados, diz ANA - Jornal Económico",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUExRbDNtZXRmWTdsS2tYNFk0LTgxMnl3U082dldjZkhBMDR1ekdQcGlBSVhINE55dERwU3ZUTkxDWWZzbldReUJvWkRpb1hUOHIyTThNdHF1WW9WcXpEUTFPc3VWZ1VIUUpONk9sLU05VXh4c3VkNUdzdGZjTWFvYTQtOXFXUEFYc1ZJSVRsbHpucGlYMUI4RExZM2hDdHA1VUlySFVCYWtfZndHQWMxNQ?oc=5"
   },
   {
    "airlines": [],
@@ -1304,37 +1335,6 @@
    "source": "NewsAvia",
    "title": "Ryanair já voa novas rotas do Porto para Catânia (Itália), Gdansk e Poznan (Polónia) e Hamburgo (Alemanha) - NewsAvia",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVjJSMUdyNDVyYTMzZC1HeC1wSlhEOUlQN0Q2WDBQRERWV2RIR0UyWjFYUndtX2tGcHFtRzFnbzdHSTJnZzM5QzNVYjRTc0FkOEhvdVB0Nk1QU3lBQTloRTZ0UU5jNllFUE9vQXZQRnpwV2dvT2t0bFhIYnNQTEN1Y216aE9SSmlzUnNseW5BZ0N2VUswYkhEMEk4MWt3dmNXLUNxWXRoNnZFdlBqUUhnUVEtVEc4dC1uczJrX0xB?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "problema",
-   "published": "2026-10-26",
-   "source": "Jornal Económico",
-   "title": "Aeroportos dos Açores dominam lista dos que registam mais atrasos superiores a uma hora - Jornal Económico",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3llaTVqVHJ6RFpWZWlFNDI5Z0tOZTZWYlRwNzY1YS0yNTFMRzFGNExHNTBTNE55S25VRjJoYkdOTGhMc1BvbE5mdXozV0h1WlhMLXNmbG05aWdhZGQ0UUpPOXdOTFlGSllvQUZZVm9kY0N4MlA3enhLcGNZeUkzbGVQQ1hvZU0xSThuZm9wbVNRcGdTZ2taaUpFTXF1Ni16SUxrMlZsdmFpQjZ2OGNCQktrcDljbEFGcUlUSUV4R0RfX2E3ZGZJeA?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "problema",
-   "published": "2026-10-26",
-   "source": "tnews.pt",
-   "title": "Aeroportos dos Açores registam maior percentagem de atrasos superiores a uma hora em Portugal - tnews.pt",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkZTY19ZTzcyc01uU3c5bS03Z1JvbkRfU1JHZVk5eEtNaHhqeWRpQV9YZ1RCdWc2TkRSMzlvdW1PRTIxZGhjVW9wUk9YQnBuSXRvOUh0TlM4V21sVnJBSFpCeVdQb2VzTm5vaUtyaWNDZ2VyMkhfSXBfN2QzTW02LUJMSlZabHhuejlndmZqMlFkNnN6YkNzRXlOSkdtWnhtUUw0NUduRG5SRFVuTHM4SA?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-26",
-   "source": "Turisver",
-   "title": "Ryanair inaugurou quatro novas rotas de inverno à partida do Porto - Turisver",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT0Y5d29kV2Z6LW9hMHJjZEtHbUhMdFFfRi1BSXRwUzdiOVBEWUhfTXhISjJNSFZSYThfanNQR2UyQjNKV2pYaW5jQnEySUN5NVE1RkE4aGR0akJoYTV2YXBVcVdyRzNIZkJZdDhPVnJBTkhHYUJET2RpU3BWc25zSVh6RVdJWWFvejdIRFVNblk?oc=5"
   }
  ]
 }
