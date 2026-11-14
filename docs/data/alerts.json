@@ -14,7 +14,15 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-VLC",
-   "travel_date": "2026-12-12"
+   "travel_date": "2026-12-10"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Málaga",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "LIS-AGP",
+   "travel_date": "2026-12-03"
   },
   {
    "airline": "FR",
@@ -23,7 +31,15 @@
    "price": 14.99,
    "route": "LIS-NAP",
    "travel_date": "2026-12-01"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Milão Malpensa",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-MXP",
+   "travel_date": "2026-12-17"
   }
  ],
- "date": "2026-11-13"
+ "date": "2026-11-14"
 }
