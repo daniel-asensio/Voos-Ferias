@@ -38,8 +38,16 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "OPO-MXP",
-   "travel_date": "2026-12-17"
+   "travel_date": "2026-12-22"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Liverpool",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-LPL",
+   "travel_date": "2026-12-10"
   }
  ],
- "date": "2026-11-14"
+ "date": "2026-11-15"
 }

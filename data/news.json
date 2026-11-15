@@ -2,6 +2,15 @@
  "items": [
   {
    "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-15",
+   "source": "CNN Portugal",
+   "title": "O que já se sabe sobre as causas da paralisação de milhares de voos nos EUA - CNN Portugal",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM0UxUHZpZWIwSG5DSzYyZXNNV0t4MmF3MTNSUm5WS1AtcVpMQ2xEU2ZnZi04QmxQV00wSkxVMTh0MVZMUjMzM2UzMDF4VnJoZHRUZXpOa0FUWFVnOVFLNFJCUVhueExtaFp0cDdrbG9KTzhUckRhSDhOSXJtbDVjVTZFRy1tNEg3dDQ2VUR5LUZWRUpQSUF1d1lsZ1hpY2dZVS1tUlRXSHh2S3kyMXlkWkd1b0VsUzlQR1ZGa3pueEhlMXpoLXpMTUhNZF8taW1vWnZkYnBOMkx2alMyZFVaeEp6dw?oc=5"
+  },
+  {
+   "airlines": [],
    "airports": [
     "LIS"
    ],
@@ -388,6 +397,17 @@
    "source": "Jornal Económico",
    "title": "Mau tempo: Aeroportos portugueses registam 360 voos cancelados, diz ANA - Jornal Económico",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUExRbDNtZXRmWTdsS2tYNFk0LTgxMnl3U082dldjZkhBMDR1ekdQcGlBSVhINE55dERwU3ZUTkxDWWZzbldReUJvWkRpb1hUOHIyTThNdHF1WW9WcXpEUTFPc3VWZ1VIUUpONk9sLU05VXh4c3VkNUdzdGZjTWFvYTQtOXFXUEFYc1ZJSVRsbHpucGlYMUI4RExZM2hDdHA1VUlySFVCYWtfZndHQWMxNQ?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-11-11",
+   "source": "TVI",
+   "title": "Tempestade Charles provoca centenas de cancelamentos de voos em Portugal. Lisboa é o aeroporto mais afetado - TVI",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONkNPbURFdjI5SkdmWTVrVmRjakMxYXhkVHRBSGdka1NzcURvNUYxQkFzUDhFeW0wWEFlMWxVUHA5MmpzRklEVURGVGJSdlpMVG03MHh3dGo5eHFpSElROGdrQUx6alBpaFA2cVZSakNzM0pxZThCX2NGWTlpN0tEWFZDX3hBYTBlZ2NfYl9UelRPbG92UWJjR1AxSy1feGgwMkRLWnhPa2JtSWtuODVmNkh0YnlfOUJyQm1va1RXZGpJeFZnY185d1U0Y2xvdjNqNUlVOVJLallubGNNRFNkUEFxR1ZKQmlORFZVejVORFp5TDA3ZHY0Rg?oc=5"
   },
   {
    "airlines": [],
@@ -1309,32 +1329,6 @@
    "source": "Imirante.com",
    "title": "Maranhão inaugura nova rota de voos internacionais entre São Luís e Portugal - Imirante.com",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEo3RUhrNmd5S0ItS0VyUmJnZG9jZDdYbGFQaHdPRVFxVHpOUWtMSXEycS0yaDBpVUdXZWNGN3hoUkp3bWNJX1JjYUhrN25iSE42bjFTeER4NWpVdE1oUXBUNE43bGJ2c0dOUUtEdTBvOTRtRnFDdnJwbnZ4SDJRang3aDBhTTZ1NzhCUVpvUk1XbXloMjRUUFNKSnpBMFUwclHSAaIBQVVfeXFMUDRKN0VIazZneUtCLUtFclJiZ2RvY2Q3WGxhUGh3T0VRcVR6TlFrTElxMnEtMmgwaVVHV2VjRjd4aFJKd21jSV9SY2FIazduYkhONm4xU3hEeDVqVXRNaFFwVDRON2xidnNHTlFLRHUwbzk0bUZxQ3ZycG52eEgyUWp4N2gwYU02dTc4QlFab1JNV215aDI0VFBTSkp6QTBVMHJR?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-26",
-   "source": "Ambitur",
-   "title": "Ryanair estreia quatro novas rotas de inverno a partir do Porto - Ambitur",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOFNadkFXNHhhVlFBY3NGWklKdHZwekFaQktZcUVhbUd2MEdzTTVnWkwtS3lrWFhUTmdRWll2RmNobXROMnJHZXQtTHBFd0o0VXBabGFDdXJSZkFZbV9MUnlvdnVtVjJzZ3FjcmxQbHBzTDVpbGlfZS1hYWlVc1BzZFJVM1ViVUZrWTZDN2dKdHI?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-26",
-   "source": "NewsAvia",
-   "title": "Ryanair já voa novas rotas do Porto para Catânia (Itália), Gdansk e Poznan (Polónia) e Hamburgo (Alemanha) - NewsAvia",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVjJSMUdyNDVyYTMzZC1HeC1wSlhEOUlQN0Q2WDBQRERWV2RIR0UyWjFYUndtX2tGcHFtRzFnbzdHSTJnZzM5QzNVYjRTc0FkOEhvdVB0Nk1QU3lBQTloRTZ0UU5jNllFUE9vQXZQRnpwV2dvT2t0bFhIYnNQTEN1Y216aE9SSmlzUnNseW5BZ0N2VUswYkhEMEk4MWt3dmNXLUNxWXRoNnZFdlBqUUhnUVEtVEc4dC1uczJrX0xB?oc=5"
   }
  ]
 }
