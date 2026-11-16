@@ -10,22 +10,6 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Valência",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-VLC",
-   "travel_date": "2026-12-10"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Málaga",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-AGP",
-   "travel_date": "2026-12-03"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Nápoles",
    "previous_min": 14.99,
    "price": 14.99,
@@ -47,7 +31,31 @@
    "price": 14.99,
    "route": "OPO-LPL",
    "travel_date": "2026-12-10"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Londres Stansted",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "FAO-STN",
+   "travel_date": "2026-12-15"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Bristol",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "FAO-BRS",
+   "travel_date": "2026-12-11"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Liverpool",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "FAO-LPL",
+   "travel_date": "2026-12-11"
   }
  ],
- "date": "2026-11-15"
+ "date": "2026-11-16"
 }
