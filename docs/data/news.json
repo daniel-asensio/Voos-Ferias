@@ -2,6 +2,17 @@
  "items": [
   {
    "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-11-16",
+   "source": "dnoticias.pt",
+   "title": "Detido no aeroporto de Lisboa homem procurado por tráfico de droga - dnoticias.pt",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUZfR0hETE1hV3N3U19OWHRvaXhYNDlkTzNLTDgwSWduc3kxckV6T1YxeUstRUh1LW1FMHJOc0FtMUNGc2VzT2NaSkZ6TnUyZFBweFlfUmpXYVZxSlJEXzczYlVBMjB2YVVpaE9iVVpVMDVYX3pBak12VWQtelJsQnpoY0s0OEJ4U01rUnY2MXplSUJpRE9UeWxZbl9tci1Fc181clk2MFQ1U2FKUTNv?oc=5"
+  },
+  {
+   "airlines": [],
    "airports": [],
    "category": "greve",
    "published": "2026-11-15",
@@ -513,6 +524,17 @@
    "source": "SAPO",
    "title": "ANA prevê cancelamentos de voos nos aeroportos de Lisboa, Faro e Madeira - SAPO",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUw1dTFOQWZJb3NINGFBNzkwbFFaaHphcEUzbXlDMC1yMHRRbDlIVVBtSGFQaWIwOFVIbnVWeEUwQlR1OWIxcjYySUZzYVNTNk14cUJfY0duTFhBbk5RR3RmNzhNbFd3ZUszcE80cWVZYkRWbGlSMGY4NGJSeU45SHZveW9TWHdBYzdILUViMWtueF9aQkpINlozSFBFZkd0eWFzQnpnXzNaaFFKU3dUREdaR254YU9EUWQ0?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "geral",
+   "published": "2026-11-10",
+   "source": "Jornal Económico",
+   "title": "Situação pode \"complicar-se\" no aeroporto de Lisboa a partir das 9h de quarta-feira - Jornal Económico",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWhxMVlESTFLOHZQcmVOM1N6UWJUMGxKLXZzam9LRW5MNk5JaFFLZE1BTUNabElfc3lyQ2p1blMwdXRVR2hsc2xua3l2b1JzcUh0T3JianRWSHBueDlGOXBaQWZoX2lieTB1ejljMHRUWWpXdmxMVVZmZFd5NU1Da3luM2ctaUVMZmpNNG1VaEJTZTBnWHN5Z1Ezc0NLRk44OXU4TkhZakNiMGR0NnRXdlVzMng2QndhemttdkgxLUY?oc=5"
   },
   {
    "airlines": [
@@ -1311,24 +1333,6 @@
    "source": "Meio News",
    "title": "São Luís recebe 1º voo regular de Lisboa e inaugura nova rota aérea entre o MA e a Europa - Meio News",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYlU2eVExQnpyWU5TSHZOMGd2VmlFQkNCVlJUVElkeDRCSl9Pb2RZdnZNTDBNYmJHUDEwZWExVTA4QnpHWWx5SXMyalNKeXhUUjlOQnNya0FEc2xCOW5kZjVFNlVQd3F3MGxJOHRMYThqb1p0RWkyRmR6bzBheGhUVlFfenhkYml0RVpTaHFrcFVwWnh1RzBwcnVTVl9QMGZNbXljMUNvbTNzVWkwclZtUlF5aHRSbDJLY09ac2F4em9tdGNia1p1NNIByAFBVV95cUxPYlU2eVExQnpyWU5TSHZOMGd2VmlFQkNCVlJUVElkeDRCSl9Pb2RZdnZNTDBNYmJHUDEwZWExVTA4QnpHWWx5SXMyalNKeXhUUjlOQnNya0FEc2xCOW5kZjVFNlVQd3F3MGxJOHRMYThqb1p0RWkyRmR6bzBheGhUVlFfenhkYml0RVpTaHFrcFVwWnh1RzBwcnVTVl9QMGZNbXljMUNvbTNzVWkwclZtUlF5aHRSbDJLY09ac2F4em9tdGNia1p1NA?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "problema",
-   "published": "2026-10-27",
-   "source": "tnews.pt",
-   "title": "Atrasos e cancelamentos afetaram 3,5 milhões de passageiros nos aeroportos portugueses no verão - tnews.pt",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFl4RFlyckJwNEl4Q0VIVUgwTnd2dWpDSFFFcnZvbUMtMkF6WjZONFhZdDIydEhEcWNqdUsxQWlidXlLVmNxMkJwV0tZVW5taGptT1RrNXAxNmtHQU5LVXdmZzJDbFBlRHhUc1ZlVWdEV3VCUXFWVm9WTFdNWDQ1aFBJSkVIRlB5Z19ZRzJmNmw5Q0I1aXM4dWRkNnVzMExKMlpUNG1FdWJpd1JMdFFjQjdn?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-27",
-   "source": "Imirante.com",
-   "title": "Maranhão inaugura nova rota de voos internacionais entre São Luís e Portugal - Imirante.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEo3RUhrNmd5S0ItS0VyUmJnZG9jZDdYbGFQaHdPRVFxVHpOUWtMSXEycS0yaDBpVUdXZWNGN3hoUkp3bWNJX1JjYUhrN25iSE42bjFTeER4NWpVdE1oUXBUNE43bGJ2c0dOUUtEdTBvOTRtRnFDdnJwbnZ4SDJRang3aDBhTTZ1NzhCUVpvUk1XbXloMjRUUFNKSnpBMFUwclHSAaIBQVVfeXFMUDRKN0VIazZneUtCLUtFclJiZ2RvY2Q3WGxhUGh3T0VRcVR6TlFrTElxMnEtMmgwaVVHV2VjRjd4aFJKd21jSV9SY2FIazduYkhONm4xU3hEeDVqVXRNaFFwVDRON2xidnNHTlFLRHUwbzk0bUZxQ3ZycG52eEgyUWp4N2gwYU02dTc4QlFab1JNV215aDI0VFBTSkp6QTBVMHJR?oc=5"
   }
  ]
 }
