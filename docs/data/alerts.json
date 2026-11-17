@@ -10,11 +10,19 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Nápoles",
+   "destination_name": "Málaga",
    "previous_min": 14.99,
    "price": 14.99,
-   "route": "LIS-NAP",
-   "travel_date": "2026-12-01"
+   "route": "LIS-AGP",
+   "travel_date": "2026-12-04"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Madrid",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-MAD",
+   "travel_date": "2026-12-02"
   },
   {
    "airline": "FR",
@@ -23,14 +31,6 @@
    "price": 14.99,
    "route": "OPO-MXP",
    "travel_date": "2026-12-22"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Liverpool",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "OPO-LPL",
-   "travel_date": "2026-12-10"
   },
   {
    "airline": "FR",
@@ -55,7 +55,15 @@
    "price": 14.99,
    "route": "FAO-LPL",
    "travel_date": "2026-12-11"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Paris Beauvais",
+   "previous_min": 15.99,
+   "price": 15.99,
+   "route": "OPO-BVA",
+   "travel_date": "2026-12-17"
   }
  ],
- "date": "2026-11-16"
+ "date": "2026-11-17"
 }
