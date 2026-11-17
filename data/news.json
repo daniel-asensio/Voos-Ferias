@@ -1,6 +1,17 @@
 {
  "items": [
   {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-17",
+   "source": "ECO",
+   "title": "Tripulantes de cabine da Azores Airlines convocam greve de três dias em dezembro - ECO",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmUwS2U1YmJxV1hVX1ktR29HdGZCNmc2Sncta0Utam1CQVFBR2x5U2NYU2JWaDd3Uzd3WkpuYnNtaWVTTlhaT3cwQ2l5VFB3V1pyZFppUEJfQzdDUzIwY1FjVVdiUHRuME5UTWtVVVdxZ3MtcHBBRHBTeWdzaHFLOERQYTZBZVJBWGZVSllPSnF2aExFREJvUU5CbnZzUHdNWGNBMHhFb0lKd3Jmd1VYRU5n?oc=5"
+  },
+  {
    "airlines": [],
    "airports": [
     "LIS"
@@ -1322,17 +1333,6 @@
    "source": "Jornal Imperatriz",
    "title": "Maranhão tem nova rota internacional entre São Luís e Lisboa; operação começa com dois voos semanais - Jornal Imperatriz",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdW5uVHh2aGlfOUNORi1FaVl4dGdrNGJuOW42N1F0NUhqYjY4QThVZm9GSUl5Sl9KdXMwNjhHdWE4T3hJUl9fWDJObFFYVFdPV2hhSnFpS09tTUlGVUs4dUtEMUJ2YktISW10TWdGNGlYQXc0aE9ORVlsZ0lpNVc3TG5YYW40U1lYem10S3RNYmNnRWwtUmRhT1V0T0FOeTNkazBTVVFMeFhydlpxSHd6OUlzemhHY3RfMWpYamIxTUhsYV9feVFYWHpOc2g3THFwbzJLcFU4enM3NkU?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-27",
-   "source": "Meio News",
-   "title": "São Luís recebe 1º voo regular de Lisboa e inaugura nova rota aérea entre o MA e a Europa - Meio News",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYlU2eVExQnpyWU5TSHZOMGd2VmlFQkNCVlJUVElkeDRCSl9Pb2RZdnZNTDBNYmJHUDEwZWExVTA4QnpHWWx5SXMyalNKeXhUUjlOQnNya0FEc2xCOW5kZjVFNlVQd3F3MGxJOHRMYThqb1p0RWkyRmR6bzBheGhUVlFfenhkYml0RVpTaHFrcFVwWnh1RzBwcnVTVl9QMGZNbXljMUNvbTNzVWkwclZtUlF5aHRSbDJLY09ac2F4em9tdGNia1p1NNIByAFBVV95cUxPYlU2eVExQnpyWU5TSHZOMGd2VmlFQkNCVlJUVElkeDRCSl9Pb2RZdnZNTDBNYmJHUDEwZWExVTA4QnpHWWx5SXMyalNKeXhUUjlOQnNya0FEc2xCOW5kZjVFNlVQd3F3MGxJOHRMYThqb1p0RWkyRmR6bzBheGhUVlFfenhkYml0RVpTaHFrcFVwWnh1RzBwcnVTVl9QMGZNbXljMUNvbTNzVWkwclZtUlF5aHRSbDJLY09ac2F4em9tdGNia1p1NA?oc=5"
   }
  ]
 }
