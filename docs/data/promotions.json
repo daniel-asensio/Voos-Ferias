@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-11-24",
+  "booking_end": "2026-11-25",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-11-17T15:57:04+00:00",
+  "collected_at": "2026-11-18T15:37:04+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -250,29 +250,6 @@
   "title": "Faro → Birmingham a 16.99€ (−32% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-12-04",
-  "url": "https://www.ryanair.com/pt/pt"
- },
- {
-  "airline": "FR",
-  "airline_name": "Ryanair",
-  "booking_end": "2026-10-03",
-  "booking_start": "2026-10-01",
-  "collected_at": "2026-10-01T13:11:54+00:00",
-  "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 26.39€ dos últimos 31 dias de recolha. Voo mais barato a 2026-12-06.",
-  "destinations": [
-   "Milão Bérgamo (BGY)"
-  ],
-  "discount_text": "−39% vs. habitual",
-  "id": "fr-queda-lis-bgy-681d654a",
-  "origin_airports": [
-   "LIS"
-  ],
-  "price_from": 15.99,
-  "source": "price_drop",
-  "title": "Lisboa → Milão Bérgamo a 15.99€ (−39% vs. habitual)",
-  "travel_end": null,
-  "travel_start": "2026-12-06",
   "url": "https://www.ryanair.com/pt/pt"
  },
  {
