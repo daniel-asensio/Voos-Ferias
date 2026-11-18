@@ -2,6 +2,160 @@
  "items": [
   {
    "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "RTP",
+   "title": "Greve dos tripulantes de cabine da easyJet prevista para dezembro desconvocada - RTP",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3lTbXhtV0lOVnJfSFJKaDk3SGwtWDg0M1Y3NGZmYldWOHVBbU5jZG1mRXhVWUtMb2VtSFRRSEhteGl4czNUeEpieUtEcHhWbFFMNTFuOXUtWTN6YzZJYk50VEJacGRPREVDeUYxNjNGVTlWcDhPaWtNejctSWU1WU0wY3NIVHdycjVDM1VnNmpNVGhrWldUTldNQjJhV1prSURFNE1mYndSMUFXb0VpeWlDckxjYWhhVHFBWWVBUmFVZw?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "SIC Notícias",
+   "title": "Greve na easyJet prevista para dezembro foi cancelada - SIC Notícias",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHBQRDlBeGJXakROR3JWdF85OXBINGFoS3pTTXNFMFJ3VjU4OW96V0pHeDBOQ2RsWHFNYThmLUtkZDgxbkk2c0dBRDJHMnJudUFHR0UxME5xX1NacWZQMUlUNFdVYVJxcm50UWVzSHFWbmdsS1ZRV1Z0UzlBeVRfbnpvWFV1dE5TcTJuOU1CTUZob0F0Sjk2cWlxb1NwN20ydjhzYzlSTTk?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Dinheiro Vivo",
+   "title": "Desconvocada greve dos tripulantes de cabine da easyJet prevista para dezembro - Dinheiro Vivo",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pVZTh0cmxmNmMxVERlUzYxYjRwMjZhazAxRnlnLVBoUTBlSnZ3VjFZLTlhSnhNR2ZLbWRpejNlQ2toQmx5Z0diYlNaZzhTNExaNmpWVl9wS0JhTGR3Q1NtRkV1WlpVSjR1WFBhUS12cWRRXzFLejRyUENhOW0wdnVhNFFxLTdhUWF4ZWx4S3lfVjhWNXQxbFRuTnkzbXM0RUVLaDRwRDVveEhsd3RrblR2WQ?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Jornal de Negócios",
+   "title": "Greve dos tripulantes e do handling vai custar 14 milhões à SATA - Jornal de Negócios",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQblNIcmZkM2dKaGVBbUpTRV9qOHItMEVQc1hleDhfeml4U3lxRWpYVC1UaVd6SmM3WThPRjJjWWtBVW1HdXBabW1XclFyWHB1X2tadWJmTEk5UEVmZ2dOSk9WbTNvRS1RNnNsSmZaeWN0MFNSczVEeWFjWmYyMEFqOGxpcldvc0tGOTFRU3dSbkV2VTdQczdjTm9kWU43OE5URXpyU0VYZnpFU1dXTHRBSXM3bTJnQm85YkhtUk5wRW9qb1owWmZPQ002X01WZ9IByAFBVV95cUxPemt0aVBPUkduc3loZ0hBXzZIOXFFc1g0bFV5b2pyclY1UFlTYVY5MWg2dFRILTdxWDBnQnQ3Szd4X2tTNUxJVEdmcFI4c3VVa2dQMUNpRzFzNm5fVjRpZ2o5MnNXa2ZlOFNubm12OEpEYlpVYnRtbkk3LVJiN2dkUTQ3S2k2U2ttQVVjZFNGcFRnMlp4TWhRaTdjOUk1R0kzTkd3SmdLNmpNX1M0YzU0ZkpPYjNNSFFFMjVJbVdwMlVXTC0yZUtjMw?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "SAPO",
+   "title": "Greve dos tripulantes de cabine da easyJet prevista para Dezembro desconvocada - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1VNbTJqNU5TdzkzQkZVcHlLMFh3Q29nZ1FaX3FqX3lHYmtuY3d3Z2ZhNWJqMkV6QmJsYnVCRkFGSzM1YWtNLUNtZ3ZMc2IyaUVxLTY0c2Z4UEowZndUS1AzazViTEVLYTM2SmpoaFM2YlVFODVIeFZJVWctcXJzR0dVbkdlUWpxYkl5U1hXWEctRlRYUGhodFA0UkcwbC1LNUZKajV6YWp0Ym4wRnptcTdJS0lULWlBWmVtczlmYkJwc3M3?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "LUSA",
+   "title": "Greve dos tripulantes de cabine da easyJet prevista para dezembro desconvocada - LUSA",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQODlLNWFsdzZWZE9VS0FnSmdJMzBUaWU3cksxXzdSbmIybHd2VUI0Z19UX1g1bEVydG94MlNXcUxYZ0tzMzlKU2RlTklBaTB6emhNV1o4NjJueUNVbC1fd0paSTJrdmNSRWtWWWYxSVVFb3p6RjFhYXgwWHFfdnZjVU0tVjNiZFVzcC1BbHJyY09QREc1bTVyWGtZd0NhRHB2c0dNY3psUFFiSndVemZmekhQRlVZZVlfX2tudFNyVDJKVVRtUkNad1V0WXFzYklE?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Correio da Manhã",
+   "title": "Greve dos tripulantes de cabine da easyJet prevista para dezembro desconvocada - Correio da Manhã",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcXJlUVRkMlFfT1p4ZXg0UWZQV1JXdzJ3MnBrcjNSeUs1T1VqTnRHRWwzaU53bmpHVmE3UmFBSm1sM290NDA3VFZrYUVyRWxiMTdUYVhEaFFtN0lieE9OYXFqdlR6MlBUS1liVmZMNzBPU1IxNHRzdHNfY0s5SkhpMkZCMWJ0M1BMRnNqdXNZMWpLcVJUS1ZLaExMeE1qalV1S2g3SDVWalYtZzFrVG9WaDNjRnBQS1ZXTDk2RNIBtwFBVV95cUxOMVpZdDdwTkdud0NsVDVIZ2pLSHZ5R0NhSi1KSFBuaHpBd1IzSEdpQXR6M19fRFBhckh5eUlzTngwamkxX28yTVQ4cmQ2aU9LR19ZaGpTcGxkdzNyeTR0bzJVS1NMcWhxWmdNSzJQMjJ3THkzVmJ6aV95cWljUDBaRmVlTHJvQlNZOTNoQURXeFhIelh5ZVlnMEtZQ1pqeWs5RVpQUW5wVjdGWjZaVVBDMEFrZGMybjA?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Turisver",
+   "title": "SATA estima em 14 milhões o impacto da greve dos tripulantes e do handling - Turisver",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmlVM2JOc3BxT1BMZGNpbUVhRl9UWlpvLW8zUEFiQm1sd1I1cmk5NTVxWXBlZjhIS3ZkLWtkbEJleUVWZjBFZ3N4bU5tUjZ2Z0lJQlBhNkRXTWMxMlkxWGpSM3lnSWRWako0TF9tMmRBNnhOOVNUYnpwR2xsVU9lNjZRNUVLSFNxS3M3UUdrdk41U19yT0t1WmxvQQ?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Observador",
+   "title": "SATA estima que greves dos tripulantes e handling vão custar 14 milhões de euros - Observador",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQblVFS29pVVU3OUNud1YzYkxiQ3E0blE5RmZVNTNpd1piejE0WlkwMThfdVdKbXVwSjZ6LWdWa2xpc0FDTVAzd0hOWmJnbEZaek83YXl2RGlzOU5SdHlGczFqQlZDYXppbXMtaU1LNGNDcURiWWhUXzdXU1o2enYyNDdVR1laVGRLczVJbHJZSlpKT3Z2RlZNaVBDd0tiTW1UYTIwZThNVmluV2REYWRSZVQzVTg?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "tnews.pt",
+   "title": "Tripulantes de cabine da Azores Airlines convocam greve de três dias. SATA estima impacto de 14 milhões de euros - tnews.pt",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTFjbE9wUF9VWHdOQ2lCRXdhc3R1aHNYcm5mZy01UE9ZVXd5X083RGQtaHpQR1RmbEV3RjdqM283VU9VN21HdFhNOFRlMElOeDlCTXhiY0dfWTB1cHdhOFhFVDZIYm55TVpjTDFiMUdzSVYwUUoyRUFPX0MtdVJ2MzNfdDR6UnlmU1ZzQ0FDNDZNVUtBYnB4YWwzb3k1U3BlbHRCRkpQZ3o5TGZMcDZ4dzA5djdPM2NuY1BNZVc2ZWtOZGczX1I3bQ?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Presstur",
+   "title": "Tripulantes da easyJet desconvocam greve prevista para Dezembro - Presstur",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVNmamNzOVFhMWpEVzJTY0pOZFppSDNoWi1EcjBVYkxld090NFFuREUzRU5GcEI4ZHJ6YjZ3aTNucFp1b0pjWnkzU1hNYWtWd2EyZU1HOTJuN2Z3cjZ3N3dKeW1zT1dDblp0ejNaQ0diWWEtVkhzS2dNMlowQ1NrenhIdXAwYk9XZENCRFd3?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "RTP",
+   "title": "Prejuízos na SATA. Nova paralisação agrava contas em 14 milhões de euros - RTP",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW9hM25aZ0VVTmd4M1ZXVzNlbTA4Z3JCNkFMZ3R1cGxsMmdhRk5zN3JGVXBXcW1LM1EtV3dpYU1oUFhUQ3pOTG5FOEdROXVCb1JVSWo4TlE5MnhDY1p2ZWFtUko0V1oxUi1MVEx4ZGJ4YVFBVENBU3JZY3k2VGlyVUdaSGc1YWRidFpQTWQyanR4TmItN0RaUHdnamhQUGZ2RHltaFZyczdKbk9NWk1OMEI0clUtM0My?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "SAPO",
+   "title": "Tripulantes da Azores Airlines convocam greve para início de dezembro e companhia aérea lamenta - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTER1Tm9scWxLV0xBTGF4azZLdzhOTFFkdXZ2X1pwRU5fX250dHB0ZjF6WG9XUWtwc1dDaVRDeGJmN0ZEWjR2cEhFVmZXLUNnbEdic0RFR0pQeXRqenZRc1dRN3o2dnU2TVNMMkRjTUdmMVdXaEN0NHJ4ZzdXZURlSHRvNzBoTVJRZElkZVp6U3YxTlJCcUxGUUhNdkdVOEFGRnVSYVRTX3VjbnJKYUw1Zmpoc3pXN2xLYTRoaWhqWWphQVBfdm1FamlWTTdpZXItQmVyYlJWa3E3Y3M?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "pressnet.pt",
+   "title": "Greve dos tripulantes de cabine da easyJet marcada para dezembro foi desconvocada - pressnet.pt",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnZTLVRvZTN4WXdjT2FxZ0E0bEVRZkJoRUNEalhoWUJVclFHNk92emVWVVpkXy1OckZfT1FXZ2pjUlBra3J4NE5CeHRLc0ZkYWRvU1R6T3VJeUMxSnQ2enQ2SVl1N0RtNHZXb0lFMHRtckcwbG9fRmduMUkxaW41U0NKQnhQblNVdHZ1ZEJxM21oZURyUlN0ZnQ5TWxRVjJobGJZbGlBSGRBaWxIenZETHRoYw?oc=5"
+  },
+  {
+   "airlines": [
     "S4"
    ],
    "airports": [],
@@ -10,6 +164,50 @@
    "source": "ECO",
    "title": "Tripulantes de cabine da Azores Airlines convocam greve de três dias em dezembro - ECO",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmUwS2U1YmJxV1hVX1ktR29HdGZCNmc2Sncta0Utam1CQVFBR2x5U2NYU2JWaDd3Uzd3WkpuYnNtaWVTTlhaT3cwQ2l5VFB3V1pyZFppUEJfQzdDUzIwY1FjVVdiUHRuME5UTWtVVVdxZ3MtcHBBRHBTeWdzaHFLOERQYTZBZVJBWGZVSllPSnF2aExFREJvUU5CbnZzUHdNWGNBMHhFb0lKd3Jmd1VYRU5n?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-17",
+   "source": "Público",
+   "title": "Tripulantes de cabine da Azores Airlines vão fazer greve em Dezembro - Público",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenh0U2ViNlB1NzVSNXY5ZDdBN2RIYV90VUNCVVdTNGc2NWctM20zekRzVm1hZWctOURHdmpsU0lYajU0QWNIYjZudzBmRWdCa1BUc2phYmxzc1ZscFkxV1BWTlpEbXRGQjZCbS0tU0hUam51aGk0NEIzRGhodVFNWlpZVk0xaUdMcGpaNWJqWUNjc2RFLVlVeEFmb0ZRX2w2cmxZUVdCTHpFaExJOURDY3B3?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-17",
+   "source": "Jornal de Negócios",
+   "title": "Tripulantes convocam greve de 1 a 3 de dezembro na Azores Airlines - Jornal de Negócios",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVWd2b1Z0cjNUNlVSbmFGVzMydzZWZHYtMXNyMnV6cWF5a0hWeXRjcU81MnNTMkcxdkRsajFESkFPOVM4VUw1MHNJdWFDSGNzSDF0TmxYaFRiSlFjV1hvNklYNFR2anpPYUdFOGUxaVE4bVVWNE1oZFNyOWJBcEVJQ3FnaE5WT3ZZZjVwckdNdDJGYmRFRjk2ZFBUTGVxRXVfSUt4UzlLdFM5QWdYYWNxcXVmMmdVVmRjZ0pDZmw4d096VUh3LUVaMHd1NGgzZExL0gHLAUFVX3lxTFBtM2dJMnY1S1UzbFdQR1JOaFJPeVd5eHJCYUVUOFVMeWs0cmt6ZU45Y3M2VDhzcHA3WVpRUzJsNnNDTGotNHZOUV96WnJxUUlZRmlQUUFWSGVYQmNOeTRmX1d4VjJaQUw4YTRFLWZhMlMzTVkyTXhIbHlFWDNSeXpzNG9DNkg2NERvQXRaRmtIM2tYdHl6UEpZdE9iQ1FMUzF0dTZJWl9TbHNBc0hJTTM2MXkyVnJleGxQNEpmN2hFSmlZTEV5UERyMXVj?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-17",
+   "source": "Plataforma Media",
+   "title": "Azores Airlines enfrenta greve de tripulantes durante três dias em dezembro - Plataforma Media",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUREYWptZl83dFllYlQ4UVJhZWsxSHlVMUwybTVGMkRHQkhHRVB4azFFWEtHV3lEY3FvbjE4YmdtUWVvbVN6YTE4aEdmRlBEQnFORGc1ZnV4MnhlZ0JGdFg5NlE3c1BsRjViR1ZrMnA4TERsX25HTV90WlZTVkMzM0JORkgwNmlnemQzTGtlbGNSMm5rY2FlN2J1dEVOYWttNmtnN2pMV2dNSUhOaUtfd2MzakVkcDRLZk5Z?oc=5"
+  },
+  {
+   "airlines": [
+    "HV"
+   ],
+   "airports": [],
+   "category": "promocao",
+   "published": "2026-11-17",
+   "source": "Turisver",
+   "title": "Transavia aumenta em 10% a oferta entre Portugal e França no verão - Turisver",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUhUOGVicGkwdm55VDB6TDJ1ejVIRk9aSlhUd0FYbjZrN3NmLUc4ZkhsOGRpeWVROEs0UTh0NlFfclBCcHNlQ0JKSnltR0VodE1wLWxKTUdCcmhydTlNcno5MlA3QWdoRHROTzRfV2ppNktNS0pyRWl4SC1yTzFRWmszdlNEeHhyVE1WQXFhSQ?oc=5"
   },
   {
    "airlines": [],
@@ -546,6 +744,18 @@
    "source": "Jornal Económico",
    "title": "Situação pode \"complicar-se\" no aeroporto de Lisboa a partir das 9h de quarta-feira - Jornal Económico",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWhxMVlESTFLOHZQcmVOM1N6UWJUMGxKLXZzam9LRW5MNk5JaFFLZE1BTUNabElfc3lyQ2p1blMwdXRVR2hsc2xua3l2b1JzcUh0T3JianRWSHBueDlGOXBaQWZoX2lieTB1ejljMHRUWWpXdmxMVVZmZFd5NU1Da3luM2ctaUVMZmpNNG1VaEJTZTBnWHN5Z1Ezc0NLRk44OXU4TkhZakNiMGR0NnRXdlVzMng2QndhemttdkgxLUY?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS",
+    "FAO"
+   ],
+   "category": "geral",
+   "published": "2026-11-10",
+   "source": "Notícias ao Minuto",
+   "title": "ANA prevê cancelamentos de voos em Lisboa, Faro e Madeira - Notícias ao Minuto",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGliRjA4TDVORjFldjI2WjhtUGQ3emphUl9ndHJzZU94LS14aUdGWHUwaDg3ajB5RmlpRlAzX0NJUnJNVkdHYVF4TjE2WVVscHNlNk1iUS1fQU83QlRwUE1oWEM5QUlBS2FzY21nY05vUlZNMXBFRVZUNk9fZ2J6Q2RzVzJuc1BSaTNQQlc4OUNXSWRYOW5WT0F0aHNuVkpVbThHaA?oc=5"
   },
   {
    "airlines": [
@@ -1114,225 +1324,6 @@
    "source": "Executive Digest",
    "title": "TAP inaugura nova rota para o Brasil com voos duas vezes por semana - Executive Digest",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWJkQzhlNXlFdERWbTY3UVhxSFBmSlBQX0VSeWY4R0ZPQjhxVzR3b204MU1uWVI5ckRjTlFzR0tvT0tHR09rZW5HMHhwMmJLSnAydGMwUVRfRGJuYjUxckpBcEY5RmlyWDVVdzFnMnVMa0k0WXlGamZZTUhtVzVvS2tjQkZlVkJhQjVLOE5WR0M4S3lYb05DbmVUalNaNXlvX1E?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-29",
-   "source": "RTP Açores",
-   "title": "SATA reage a acusação do SINTAC de violação da Lei da Greve - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeFRaa2hXOEZVNGxrd0dIQUVqUHhGY3h2WTB0c0tDUmExSU56Q2tpRjItV04yOWVUVThra2NFVGtqRjZnSWVpWjFHZzR3cm9wb1NqRFVrVGJfaWdLMmRwS2VWdUpjRVZFak9jS2pFTHF3Qy1qNm1YYXVkZ0lsdE1PQVJxaTV3emg1bFhGWW1kbklvdw?oc=5"
-  },
-  {
-   "airlines": [
-    "U2"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-29",
-   "source": "The Portugal News",
-   "title": "Greve da easyJet anunciada em Portugal para dezembro - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd043ZXYyaU5OOU1nSl9zRFdqSkduWlZuR1EzNmVERzlXbTgyS1RNYTZMS3M2QVFvazN6Yk1lZldwZzVYTl9zX01WZDZNMVJsQW1LY0FRTnVoeEZyODZZUGhqU3ktQXJEcGJ3QjAyZDlhWmdkVEdnMzR1SHZOekJRRUZnMTVmWk1fbEozRlRmRllVVlc0ZmFWX05INUU5UGFCemc4dlZQUGlzZy1HMmhvMzZIX0lJUQ?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-29",
-   "source": "RTP Açores",
-   "title": "SINTAC acusa SATA de violar a Lei da Greve - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zdUUteUpoSWkyLTYzcXBHWEphaW53RDhabV9tTGduZXZyNGlnQjN4YXhvLWFQUThzT3JsRnVMdVpheEZNV2JLa2gwZmd1LW50M3BGNnZSUzRGUUkzaWJXZ2lxdGlMQ3hPVzhjczZVMUwwOTBHdTVqOG52MA?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "LIS"
-   ],
-   "category": "geral",
-   "published": "2026-10-29",
-   "source": "Revista Hotéis",
-   "title": "TAP ligará Lisboa à Islândia no verão de 2027 - Revista Hotéis",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVFPYlFRZHFySXYtWEJIM3BseUtzZ1BOOHJRZmtCSGtkUmVPQXB1bExfbk9QZ1VuWkRvdzU1c2lMSjhNMkV3TUFyUVFjV0I0alNQY1hJUEd4R19GYjlGdWQ5M2JHR09xUTRCZFV6Zm1XODBDaXJUcGpBLWdxQlFleQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-29",
-   "source": "NSC Total",
-   "title": "Maior ponte de estado brasileiro ligará duas regiões e criará nova rota de exportação para porto na Amazônia - NSC Total",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFUwUzJmdkJ1cnN2YV9YUWd5bExSVy1FaVBpV1gxRWhya213MkFUdWdQdVQ3elJRek5ybkZDTWsyQjNmdWx1R2xPLTZxSVV1WHdzVXNpeGtxSlZHX2lKcm1xam4zSVlFRmlDSnA2MXdGbjZlM0l1Z3NFNG9sRzNpV2Z1TGt1bmZOc001aGU5Z3pCaDUzVjJFRlJwUERrcllWU3pJdzU3eDdxLVhDZlNqM2hpS21uTXkwSjJlWlNVdFVYME9qbDdPQUVlTXhjT0VqQ2xSY1BHbWJMYklLUV8wV2tNZTE5Zw?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-28",
-   "source": "RTP Açores",
-   "title": "Arranca hoje a segunda fase da greve parcial na SATA Handling, agora no período da tarde - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXhRck1CMUVzMXNmLUZhbGItc1hBb1MyVGZBa3lIVXFzT3BPN2loVUI3eFJpenZ1MXMzR1JvX2hUWXJ0NFcwai1TRkN4RkZ6T0xmVk84VHZvTTZ5a0lUMVk1TWRyUXkwUHBrQjZQRFdiaTlORVJpTlJIMDJRS2NJN3gxS3VtQlA2eVpFdm90X1Ffc3M4MEQ5YUhYUmpYR0hMVjM4ZXhXVjNkUi1QaHQ0amNrVkZLN2s?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-28",
-   "source": "Ambitur",
-   "title": "TAP reforça operação no Brasil com nova rota entre Lisboa e São Luís do Maranhão - Ambitur",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU5ZOW5ZWHNWV1QxT3RYMERpaGJYaXhZbkVSUUw1clRsS0NaTnpFYnAzbm14UGdXQVdmNFhTTEdQMEp2VU1EczZkYjNlVEVjaHl1M2tQcmVPbHE2WmRORUxsSWF2VTRfWmlreEZGQWtmZHhhQk5Ib1otR1JkbnZxTzZsVzNicmtzRVVEbUpZRlQxeXhvZzJmdzZOcTVXcV9vN2V3UVdMSQ?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-28",
-   "source": "A Próxima Viagem",
-   "title": "TAP: novas rotas, voos retomados e mudanças para 2027 - A Próxima Viagem",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON0o3MDlxY0RYSkR0VEw3aktYQzhYQ3psXzFKM0R5MVBzTFpmeTlXMHdJNHRQRTV5aFlqSnZYNGlPWFdqMVIzd0lqTkhibzRpdzREWDF1b2pKNzllRE1hbWNTQUJSRUdfdlRrMnF2c1cxMmpwR1FpeEFXT0g2aVJWbFZpUm9vMFIyUTM4?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-28",
-   "source": "RTP Açores",
-   "title": "Handling SATA: Novo período de greve com impacto no Aeroporto de Ponta Delgada - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGNRMU9YQ09Gb2ZNbTg4WlVSX2VUYW5YUHZOZExqZGhZN3lLaVdDcHU4eXVCMlkzRWgwNDNZOGh5ZFFDWTcyZnJmbFBCYjlCRHdLRjMwcWtlbkY0MWU5TjBCYUVuV1BmZ2xORXA1VGsxbDVyR3I2ZWRzbnlxT3AydV9GbWUtdVZUeVZpeHVtOHA4SDhESzFMb1lZTjlhODBOVHE0WGVTSkZfQQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-28",
-   "source": "Panrotas",
-   "title": "Tap anuncia nova rota entre Lisboa e Reiquiavique, na Islândia, para o verão - Panrotas",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcjBwQ0JycWVSNEFNWW9CcERtVGxqaXpNY19KTmFlY1dMVFpJUFF5aHBBUElkMWpYMEhIcXc0QTF2TkRHVjF5ZEh4X2hmUXZjV3NTbTVvbjFITDdxN0lFNlA4OUdnNlFJMDRZSDd3NkN4allVSGQ3bGQ4UGFnQm9fUkstM1B1SFBEODBETUtRQW1QS2tJSG1iMjlERTlGWEFJOWFBUFVOUTd6QkdfWXh2RU1EcVNkTThyTklKa2UxMHA4WFkyZktzenVybGtTeDZNVDFSSUh3M1l3QQ?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-28",
-   "source": "VIVA! Porto - Tudo sobre o Grande Porto",
-   "title": "TAP tem novo voo que liga o Porto até destino paradisíaco em África - VIVA! Porto - Tudo sobre o Grande Porto",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVA4NF9sU3FBbFlUUkl0cFVQNnNRM2ZzS1E5bkNmc2pmVzRLVW8ySUNObkhySFZZT0NHd1hOX2JmWUM5LWVFMmxERWt3NFV0SmJIaGxkSXNCR3lGVFAxVnlubGxHM1lQN01RUnktUG43T08xenJkT3ZSZHQycC1TYl91VXdSYk5pdDN1LVFRaHF4azlY?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-28",
-   "source": "A Próxima Viagem",
-   "title": "TAP: Há novas rotas, voos que regressam e mudanças previstas para 2027 - A Próxima Viagem",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON0o3MDlxY0RYSkR0VEw3aktYQzhYQ3psXzFKM0R5MVBzTFpmeTlXMHdJNHRQRTV5aFlqSnZYNGlPWFdqMVIzd0lqTkhibzRpdzREWDF1b2pKNzllRE1hbWNTQUJSRUdfdlRrMnF2c1cxMmpwR1FpeEFXT0g2aVJWbFZpUm9vMFIyUTM4?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-28",
-   "source": "Portal de Prefeitura",
-   "title": "Porto de Suape terá nova rota marítima internacional com escalas nos EUA e México - Portal de Prefeitura",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMldqcDlVMnlvTzFIbzlERENCbUlQRkpjVUlVTXZyZEl5U1RhSmNSTFBFRkxaNnBBM3NJS3ZpY0tONkROcjFZUjBVelh2VXdvRG1oUWRZeEEybnR1RGFRSE1RZmRURHpfOWc1ZzNVbGg1c0ktZk5EdVNNZUtJSkJPcGN1U1dKc0VmZFEwSVc3clBNRjJkMDBDT0QyUDhSdWJ1TUNmTGZmeGE4TjV3bFZ5Unp4N3JMTW9hTW56RXR3?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-27",
-   "source": "Executive Digest",
-   "title": "TAP reforça aposta no Porto e lança nova rota com viagens para Cabo Verde - Executive Digest",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm9BX0F5UWZoM0ptSGxhODNpU0dVbDhEd2NueUxhdHRxczIyeXBkS1pMZHpjdGlyTnl0ZmpXTlpLYjRSMWk5ZzN5VmYzMko3Z1prY3lYMGxOclhLSmFNdXA4YjZmS0ZaM0Jnb0ltbjFBbjdWUnlUcWF2NlpsQ0ltMjZoOFFWZWpocnhqNkVXOUF1bnVSNEJEUDlTUDdGYlVzazV6amt5VWZYZw?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-27",
-   "source": "BOM DIA - Portugal no Mundo",
-   "title": "Ryanair inaugura três novas rotas europeias a partir do Porto - BOM DIA - Portugal no Mundo",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQmR4dEQyTmpER1h0NTVBNmstU3hPb2ZNNm9XbWhyZXIwWWotNzJwekpvQ2VNY2x6eGhlSmJUWng2S0NqN1R2S3ZiWnIyOVRQMkZCZ3c1NExxc1RSUkVhdWdqNjItRk96WEtOVE9PSkxLZnBNekl0eEJUMHRLRzk5dExHRUgtWmc?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-27",
-   "source": "The Portugal News",
-   "title": "A Ryanair dá início à época de inverno com quatro novas rotas em Portugal - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdnk1RGlqc3gxM0lCNXJNdmE4c242bGxHOFIzV2VEWHdqd2JjTVg0YmtUUUtyMEpHUDBnV0NiUEFqZG1uSTctQ2dnbmF2Z3Z4aGJlc2FnSVR6b05nRXpFN2NFQTgwSFNSWTB3a0tZQUlRZEtvRzZOWnlmWEZFaTVRRnpjU2JTbEVmZjJPY3BIelZnNUJVM3BHeVlIaVFJQmljWFZ5Z3ZLSGEwMDRqUFAxbDk5LUFBZnNaV0kxdjBjcGNXMllBTXl1czlKQVNWMkNhcmc?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-27",
-   "source": "G1",
-   "title": "São Luís recebe primeiro voo regular de Lisboa e inaugura nova rota aérea entre o Maranhão e a Europa - G1",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSktuc0pVWklGaDlIZjBfT3NCbDFaSkZCclR3NGdITmdTaEZPd1NTRjh6dnZtbDI4RVYtSlR6NmZtUHdOZ3dNZ2szS3ZYZEx6Y1h6aDV4SGRfYU1zaHhRLWoxQlRoUmVudEFaai1yVHMzaEJLUTVaNk5VUHp2MlVKcWVYNG9ld0gyX0lOUWo3clZLMlloOVhvRGVlR2NKYjYyZmFybV9OOV9uUU53VFhFSy1KdXJQZERicmQ2dGNVc2dQLWRKMjJVQ3lxLUlnSkpJS3VVVVkwblMzRWswOVdaRnZoRmhtXzJta3dpWVNpTXXSAf8BQVVfeXFMTzkzRkZFNHZZRnZxdjZlQ3ozeXllalNubjR5cjYxRGM3TkpHWk9LM2hVX3RnY2RVWGdkdkJSZjFzSGJucDlOMHVDRWsyYnFzX3VZeWZfdkFtRjZTVTlNRkY2LVhoeDNjYWE4YUhmckpfZ2YyN29DWTkzM19yX0wtUW80ZWd4M2VHOU5nZFRVZ3QxcmtjLTg0WU13TjhQM1BDd3hEc204NkhNU2VPdC05MWNnTWUyd0x1QXdKYmJOaXdObllZVU1VUWtwcXRPUWc0UHZFM3pFcGRCNktoaGdUQUhiTEFGeHZWN0FaZ0ZSX1p5Ml9YampuVW5mVlVlN1Bj?oc=5"
-  },
-  {
-   "airlines": [
-    "FR"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-27",
-   "source": "The Portugal News",
-   "title": "Ryanair inicia a temporada de inverno com quatro novas rotas em Portugal - The Portugal News",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjIwa0lVODFpRmRJSjl4bThOWXJOMHN3bGtOZHg5bVNkVkpha0oxeEdVc3BpMGNWWHgzWUVPNkpub0xDdWVJZXFvM0NWSm56NXVLaVFqUzQ1Ql9xMlJyWWloQkJ0aTNTVUdXQlhXZmtkdW5BWmF1Y1RTZm1ISXotQkV1SDJJT3ZQN0UzbFQwOW5EbmZlamRkX1dzVHJWWVkwbzQ4X3VfS3ZvZ3VEZFNIY0d6SmI4eFlsTlZ5Vk9HZW9KWFU2SjFRSXJfN1N1V3Z5?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-27",
-   "source": "Jornal Imperatriz",
-   "title": "Maranhão tem nova rota internacional entre São Luís e Lisboa; operação começa com dois voos semanais - Jornal Imperatriz",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdW5uVHh2aGlfOUNORi1FaVl4dGdrNGJuOW42N1F0NUhqYjY4QThVZm9GSUl5Sl9KdXMwNjhHdWE4T3hJUl9fWDJObFFYVFdPV2hhSnFpS09tTUlGVUs4dUtEMUJ2YktISW10TWdGNGlYQXc0aE9ORVlsZ0lpNVc3TG5YYW40U1lYem10S3RNYmNnRWwtUmRhT1V0T0FOeTNkazBTVVFMeFhydlpxSHd6OUlzemhHY3RfMWpYamIxTUhsYV9feVFYWHpOc2g3THFwbzJLcFU4enM3NkU?oc=5"
   }
  ]
 }

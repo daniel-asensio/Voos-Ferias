@@ -6,7 +6,7 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-12-03"
+   "travel_date": "2026-12-05"
   },
   {
    "airline": "FR",
@@ -18,11 +18,19 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Madrid",
+   "destination_name": "Barcelona",
    "previous_min": 14.99,
    "price": 14.99,
-   "route": "OPO-MAD",
-   "travel_date": "2026-12-02"
+   "route": "OPO-BCN",
+   "travel_date": "2026-12-05"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Londres Stansted",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-STN",
+   "travel_date": "2026-12-15"
   },
   {
    "airline": "FR",
@@ -34,11 +42,11 @@
   },
   {
    "airline": "FR",
-   "destination_name": "Londres Stansted",
+   "destination_name": "Manchester",
    "previous_min": 14.99,
    "price": 14.99,
-   "route": "FAO-STN",
-   "travel_date": "2026-12-15"
+   "route": "OPO-MAN",
+   "travel_date": "2026-12-17"
   },
   {
    "airline": "FR",
@@ -55,15 +63,7 @@
    "price": 14.99,
    "route": "FAO-LPL",
    "travel_date": "2026-12-11"
-  },
-  {
-   "airline": "FR",
-   "destination_name": "Paris Beauvais",
-   "previous_min": 15.99,
-   "price": 15.99,
-   "route": "OPO-BVA",
-   "travel_date": "2026-12-17"
   }
  ],
- "date": "2026-11-17"
+ "date": "2026-11-18"
 }
