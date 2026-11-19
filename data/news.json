@@ -2,6 +2,19 @@
  "items": [
   {
    "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-19",
+   "source": "NiT New in Town",
+   "title": "TAP tem nova rota para viajar do Porto a Washington sem escalas - NiT New in Town",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzYtSk1JUXRFNTBjUm9KVG1tZVR3akRKeXd1UlNxSXBjWFluYm4wSTVsWEl5eDdOZHYzVWdCbXBYOEpQVXBvZVBpNUlVN0V2N2lVaVRCQ0NTNVRYd2RtNXY5a1pROW5EdFZscDdaV1VrMk50aTdPazU0QlVmekNVTW9Jdzh1cDBPSURJWGN5eVpsNEp4dkpoLW1pODhUQVBFM1NFOVFn?oc=5"
+  },
+  {
+   "airlines": [
     "U2"
    ],
    "airports": [],
@@ -153,6 +166,127 @@
    "source": "pressnet.pt",
    "title": "Greve dos tripulantes de cabine da easyJet marcada para dezembro foi desconvocada - pressnet.pt",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnZTLVRvZTN4WXdjT2FxZ0E0bEVRZkJoRUNEalhoWUJVclFHNk92emVWVVpkXy1OckZfT1FXZ2pjUlBra3J4NE5CeHRLc0ZkYWRvU1R6T3VJeUMxSnQ2enQ2SVl1N0RtNHZXb0lFMHRtckcwbG9fRmduMUkxaW41U0NKQnhQblNVdHZ1ZEJxM21oZURyUlN0ZnQ5TWxRVjJobGJZbGlBSGRBaWxIenZETHRoYw?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Jornal de Negócios",
+   "title": "Tripulantes desconvocam greve da easyJet marcada para o Natal - Jornal de Negócios",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQnJpUmtJV1UyQ1FDN3hCRmY1VTBSdlNEMEJOZ2FsMzJRa3VWcjZyN2RhUWRDQk1Od3pvcXlORmgwT3JmRTZiRHg2dkVieXI0U2NJUGphTHYtNW5fdk1NdU5nLWxNbVlzcXR4OFNDNkQ2VEpqTWR1Nk5WYUZnN2FSN3UzOXNmUVBzVl85VVRRZHZDS3d1X2M4VTJ0YlZwT05SOXkyUzdzdU1aSkdaeVItT0hOMnZqNWw4aEJWUkpfX2tSWlBPTjlMaDZR0gHEAUFVX3lxTE84V0xQaEM1VlFFUVBKR3lKWU42UzdVS3l6LXN3bDdlRWJDdWY3WFZaSU1EWWpObUktN2FBOVZDZ19yTUt4bkx4U1lJNzk0ZkQ2dVlWcUNRbG1Xamd4NEpCS0xsem9CXzlVMlppQ0d3Qko1ZWx2akRkTWVwSXZoRmI2clFrZU1vNmR2WDE0Z1BkdG1ZdmFCekd5UzFNMUd3OFVPQlNSUlNwM2c5XzU4THZwaTc0R1Y4cnFwU3lvU0pldEFVYUI?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Funchal Notícias",
+   "title": "Azores Airlines lamenta pré-aviso de greve do Pessoal de Voo da Aviação Civil - Funchal Notícias",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUNHY3hDSFl5bERSS3RYS0tndS11R3Z4dTRjd1pJXzdjRk5tVmYxYlh0SEtsWXV3OEFHUGN4S1hHNVExcVppWWxFRktoREFwOXFOVE5PZ0VHd3NaMlE1bFlvQ3VNNXBFVGc1QWllZnJ6bFQ4REhkLUNIbUs4b0pwYzZjOEh6YWs5dHRJS0NsSFNwLUdzUWZ5a3M2cFRwdmxXR21QVG9mV3RTdDZUYmRrWlh1RHNyNl92?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "NewsAvia",
+   "title": "Greve dos tripulantes de cabina da EasyJet prevista para dezembro em Portugal foi desconvocada - NewsAvia",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGUzZDlrbFA4MWRxZXJpT0NtbjJZanMtUmRWRG5PU3p4YV9jVWJaSXUxNF9KeURpZjU1OXVEYkZselJlQlF2ZzRXNm16VHJqc3JabVJhbWJGeU9HdFZtbkJDZWFPbEF1djhWSE1jMEt1TG1JSGFZOXlnRFBqY1hNcS1oeTdJUF84R2kwZWU2V0hWcWVDM2RQN1ktVTVUNkJVZHppenRZelBtekp5aHhaZExEZmh0NFU?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Kiosque da Aviação",
+   "title": "Azores Airlines lamenta pré-aviso de greve dos Tripulantes de Cabine e apela à responsabilidade - Kiosque da Aviação",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUNHaXB1bVdYdjZrc2lDNFpwYWQ5d3VwR1dIbWpOVVJwelZ4Tlcxd1FxdFFZTzZaQjVnVkdjS002ODNfY2d3LTFhX0xvRWw2WllINUJQdlJGdEdTR1l4SVhwRWUxQkgyeXktMDBxRU1mQlBWcDg5N01hZm5vRDRLN1YzeVdoMXRtdkU0cDZEU0ZSSy1FMi1YbUZucG9VUUsxZzFQcF9RbERKbjhWTEZDNG9MckVCV2tDNXJlblNJeWttUQ?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "RTP",
+   "title": "Greve dos tripulantes de cabine da easyJet prevista para dezembro foi desconvocada - RTP",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVBUQXR4c3V5aUh3ME5IYjF5dWl6TEVnUmVnc2E2WWxmYlBDTXQ5LXgzeC01Qmo1RzdkOGVScDVZNXBob3hSOW85NlZUZjc5aXF0bldHOEM1dXN3VV9QVDExbW8xUExsSGtySndSWlFEblpEN0xuLUpRMDdaRXlTaEI0Wl9Ya0ZLUEhkSmlqbnF5cV9UWndPODFwWjdCX2dNaldzYmtZdFdsUTJzVHdTWG9uc0pXY3c2VDhGdlFxSFd2SGhKcEpZ?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "SIC Notícias",
+   "title": "Greve da easyJet prevista para dezembro foi cancelada - SIC Notícias",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXNPMVVDYTRQT1oxajhKR093VUhMN0llai1DWTk1Q0pqa1hGZUJYSEdFRm1YV2FfcFZZSWNQNGtva1RkNTlrVGFaM0hhbWllcHRRRkZBRkdEYU5NdEZNMDNhUTlocURnRGxxcUhObkU5MlFpODlweUIyMjZ4RnVUQXU4bThNemI0dWxwTVZVMldLLUFXcXJiRExWWUZ2cnNaWGw2TU56Nl8?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Presstur",
+   "title": "SATA pede “bom senso” aos trabalhadores com greve marcada para Dezembro - Presstur",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkQ5RVFuVnp3TFFIYi12V3dMR0dqUnNvdGZsb1Y4OUNnbmg1X1oyb09aaUsxTlRjbThmdVdNLWR3TnFfSWtLQmNpbjVWakh6RjhMaWpKNUJGaGJ3SEdKazVRYTNHZmZLc2hxZ2ZtVzdLQlVtd0hfZGQxWW5RcFU5dkFjUEdmeDRtaEtSVnBNNFVUaWpJQ0E?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "Portal Impala",
+   "title": "URGENTE: Greve dos tripulantes de cabine da easyJet prevista para dezembro desconvocada - Portal Impala",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGdVYXgzUkhvWXRqd2c1dk5EVG9PR0pPbHVMTW01Q2t3ZjRqa0FyS1kwTmZmMk02M3RjaXZGTkZIWl9Wb2RycUdFbHh1UnQwTHJOclMxT2M0YWdUWkVGc0VSWXhBSUtkcG1hREcwTEdrQkZsZ2VyZlhteWNGUm9mbGNHZDJUSlBrc21OYzlsMzE1MlptWjZLOVhFTVJ5RF9qOEJUS1h1NHBpSUhUeHBqcFRCYlhzTk13cHBaQnU2U1phcktyVHc?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "SAPO",
+   "title": "Desconvocada greve dos tripulantes de cabine da easyJet prevista para dezembro - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWTVCc3lyLVh4cllDTjhJS3UxWDA5NE1vUEZRTnZuNVluZnRaMnhLQ3Y2Yk8zUDlHWDZyXzJjbUlIbW9YcXh4anZNdDQwNHNyTjJRVVR1NGQyQkVsYVV3dEE0blduRkl0MjV0YTcwYTRyVk9SUWRMMXJ2RldudDctVWRxR1Y2cGVzZmhGd3VGb2NDOVh4X0VfZGd2SWhrRW5WdWZjU3BRUEJJY1RmQjg4akZuMWMzTUVvcWhTYlFUYUVVaGhP?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-18",
+   "source": "O Vilaverdense",
+   "title": "Desconvocada greve dos tripulantes da easyJet no Natal - O Vilaverdense",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQTE0TFlTMjhoRU9Md0J2Xy1oNWpZd0ZEVm44a0p5TmI5dWlQaGlVVGE2RG52TE8xZjBOdmVqZWFvbjNwLTBvU01GaVFnN05IVG41YmVXQ2V6SHg5MFpieV9UTXczMmpJRzRSZDdCMmEwZXc1MWJ2QjBYVUtIVVpoRTlGeGVWeHM?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-18",
+   "source": "SAPO",
+   "title": "Porto–Washington sem escalas. Nova rota da TAP para os EUA arranca em março - SAPO",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTlVIS1dINzRwSUJ6UFNNOHNPdnVjejQxQ18wWDFrVlg1YWRTQ0R6bmNPakxXZmJmTWgyd1R3SGZlYnFpVzV6NnJWTkF4Zk95R3ZWb0huUXVBTnV5cFFDenYtUjF1RUU3dTZGWENhUHdyNlptMzVRS1BvZDkzT2RvUHZGYjZJWjhDamhUYUdrTDQ2bUVmVFBjb1ZBdml0MlZDQUhJeGxGZkNHbEVKbzFRZm16dVlSMkE5ajlTaHN3TQ?oc=5"
   },
   {
    "airlines": [
@@ -628,6 +762,15 @@
    "source": "TVI",
    "title": "Tempestade Charles provoca centenas de cancelamentos de voos em Portugal. Lisboa é o aeroporto mais afetado - TVI",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONkNPbURFdjI5SkdmWTVrVmRjakMxYXhkVHRBSGdka1NzcURvNUYxQkFzUDhFeW0wWEFlMWxVUHA5MmpzRklEVURGVGJSdlpMVG03MHh3dGo5eHFpSElROGdrQUx6alBpaFA2cVZSakNzM0pxZThCX2NGWTlpN0tEWFZDX3hBYTBlZ2NfYl9UelRPbG92UWJjR1AxSy1feGgwMkRLWnhPa2JtSWtuODVmNkh0YnlfOUJyQm1va1RXZGpJeFZnY185d1U0Y2xvdjNqNUlVOVJLallubGNNRFNkUEFxR1ZKQmlORFZVejVORFp5TDA3ZHY0Rg?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [],
+   "category": "problema",
+   "published": "2026-11-11",
+   "source": "Notícias ao Minuto",
+   "title": "Mau tempo: Aeroportos portugueses registam 360 voos cancelados - Notícias ao Minuto",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPemJwUFJoSkIxZ1JLQkRoNjl3bEg5bkFTZEhFOC1pelJkejdIOGVPVmVmckYwX3RaUUh3NU5GeVFkWEg3MGlUaFlCWmx1YUY1M3lLeGVMUzBKWDg2bEhRU2dCUUV6d3huRzBXeVhnSXJHRnF2clhjdFdTaXkwWnduWTh4TFlKeTY5bWpIS3o1cHZPblF1WGx4TmR3N3p5elpOT2xvSDRYdmJIci1ocm8wWVJvajEtYjhrNXFz?oc=5"
   },
   {
    "airlines": [],
@@ -1175,155 +1318,6 @@
    "source": "SAPO",
    "title": "FlixBus reforça ligações a partir de Aveiro com nova rota para a Marinha Grande e mais horários para Lisboa - SAPO",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeHFuSHdSSlNQU0NPSWZKVzFvdUQ3NURCZXpHTEpnaUFoZ2VHTEFiMEFWNWk5UlJyazY5MHZaa3liMk1pR3YzUWhfcFdaWWIxTUItOUNuMG1xTkFkV0w0MzR4U2NXd2xuZFQzakNzU3h3Z25zX1lIY3U4bXR0czZXcTVyNldDam1NakpZR18zTjhkVkxQRFg2X1BqWmFGWjJIb2wzbXMxOFNpc1FhNnQ3dUE3THZXVzFxX3EyMlFGclY5N2FieWlHZTZHVlBHeno4Q0diLWM3OVZoMFEtMjN1eXBadUl5TGE1Q2s0?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-31",
-   "source": "ECO",
-   "title": "Tripulantes da Azores Airlines admitem greve de três dias se empresa não responder a reivindicações - ECO",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmJrSndlUEhqdG50UjJyMFRnQnVOQkdXS2FIUUFxcTBnNjY5ZmFNa0U5SHM4YUQ1czE2SU5VYVJCeGJyYVZqTmhOZVJpUzNNZ1ExX2stNmJLSWpjMHM2eDdjcXBzYjZ5OTc1Z2E2Y3psemFnNmt2R2NvYVlJZmRPMUw5Tlg2RVpSTnFvTVo1TlRtSnlsMkN4MkdIVmhlcUVpOXNlSkRCUGJXVzRRenh1SUtKTVkxVUlSQU9DUmJzazM0NGhrd01jc2M0SQ?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-31",
-   "source": "Açoriano Oriental",
-   "title": "SITAVA acusa SATA de contornar greve e avança com queixa - Açoriano Oriental",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3VKeFNka3hoUExMS2prbVN5Wms1NEZaUXFuLXBQTVlTRXlOdzNfZXpTUk5CODMtTXNaRGxDX2lDMXUta3BiYmVMd1NXdkZ0TjZaaVJ4ODRHbkVYNjJDeUItbUdadmtWRkNKSm0xRDcyN1NNYlBIU1diaWhJQU9PV1ljTlItb19RMFNqU2VwbXlrUGRENEtVajFrWlhVZXhoeElndkhB0gGrAUFVX3lxTE9wMHdzaW5WNXliMHVoc0VWZk5URzExOHNrOHNtdlpTRUYzSVVzNkFtclNXamUxajRveTVxZ2trdkRvcHFGd0V3NEJ0WjRoeXNUdmNWQU1GZUdhbGZWeDAtUDFZX0tFN3RZS2NhX2VkWjAzRFptZ2lmREtKcnRVR3ZsYXNkdEd4Uk5XV2hwZXFPV2ZqWjJkOGtIcTVMQjlXdVlsZHNGVzV4TUJaQQ?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-31",
-   "source": "RTP Açores",
-   "title": "Greve Handling SATA: SITAVA diz que adesão ronda os 90% - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1dtNzZMb05FdkRxRXlWN2p6b0s0dWZ0X1JDY0s5ZDJZcE9PM05McWxMRFlfUkZYUjNYMnRveHE5eWtSRjdXLWFDZklSbzB2bzlKWmVFYVVEWDZqRWpIUzBOZm1mQTZRcnpsZzNZNDRvSmJ3ZnFVMHJMX1FMX1V6c0txUlhMYUZkanc?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-31",
-   "source": "Kiosque da Aviação",
-   "title": "TAP Air Portugal inaugurou a sua nova rota entre Lisboa e Orlando - Kiosque da Aviação",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWtneHY4dEJXX0FxMkJqeEczTWNuYXZuUXZPNlp2bVNabWxqZ010U3cyQUxlWC1BSGFFX1dURGxTbkU1N2YyclFkU2N5NnNaZ2NWUnpmaFhISW02T0I3THhBWDg5enVucTc5ckRLWDctWkU1dGgzZU9id2tFQXhEQmQtWDlSbVhzSkt4aGxUYWptRzVFUk1UaEVR?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-30",
-   "source": "Panrotas",
-   "title": "Tap Air Portugal lança nova rota direta entre Lisboa e Orlando - Panrotas",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZnZXTGY3NWJQX3dHUzdJVVQtVEszM19IcFdZOWNuUkk3N1JIS2I0UUNpLWlTQmc2V2hkQWx4dzlkN0s5a0JOQXVCS1NCNkxtTnBodW5PM2JkQzdkMmotcXFCUUwzVVloX0cyUzBjbU9oT29PejNUb2ZaeGppMVhDbXVtNk52MHZRTGo1YXJEWEZtYll4akJ4SV9tRmNiRE5KRk1GVTNqSGFOcml3c2pIUWRvX2FXa3FwNm1mY2tKY3ZoT3dsQUpRbmJn?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-30",
-   "source": "Publituris",
-   "title": "Smartwings inaugurou nova rota entre Lisboa e Praga - Publituris",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZHFnTW9nc1paYXlLVDJTSzNHZHFFQTAteEpzRUNldFhiTXZVeHlmcEtqYXJTaFlMZlBFZFB1M3pxeFlmV2ZmMUhOTy0yenVpRFZ1QkcyZmRVM2pKdThKOHZmOWw5QmFLZGVLTkpWWExjMW1RcThTQ3hMR0RkOXM1b0FyaFdqSmstc0JiNA?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-10-30",
-   "source": "SAPO",
-   "title": "Smartwings inaugurou nova rota entre Lisboa e Praga - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3ZFQmZsUWJzdVJKU1ZQR2l2aUtESkZpbnlKVFFUenlUdmotX0NROXJIYmNmZGZxNnVoSnhOODZKWmxLNElhMjJUajJpMEczTVBiZmlYTW9CYWdVRnhVQ2tTU2VVVTQtLUcweFhEYjlOR2RvbDBqM2JSUzVrNm94alFOY1ZjZk1UVC14VW5iSVl4TERaV3hDWVF4SE1HUjRl?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [
-    "LIS"
-   ],
-   "category": "geral",
-   "published": "2026-10-30",
-   "source": "Publituris",
-   "title": "TAP já voa entre Lisboa e Orlando - Publituris",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqSkVBaDVLcVhZUl84WUk1aDR1cGR4QWw3c1VsVGh0ZnVRdUltQjZOcFptZzJuUlBGYWRZM2pWUGVWVGZnVmRyNlUtQi1uTHRvWVBtWkJXMWswdmFreEwtbUFvclR3aU1oVlhnNnhKMU1JWFVn?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "FAO"
-   ],
-   "category": "geral",
-   "published": "2026-10-30",
-   "source": "Publituris",
-   "title": "Air Transat passa a ligar Montreal a Faro no verão de 2026 - Publituris",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS09RQ2E5OGZzLUlVX1laRDhHX0FtUE9nUkswN3k3NGNhRE5GNkFJeFQ2ZkNPa3F2U2lqMjRfQUxzV2VuZWhVRlZjSGxvODNwSmNkRnR1M1JTMnNkdkpTUDdtY2Y2X05fTmJ3VkxMdTRpQkU1cm9obGVGMm1tdktXZmVqWDZOYjlxWWhlWUs3WV9COUp3UHc?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-10-30",
-   "source": "Data Portuaria",
-   "title": "Porto de Yantai lança nova rota de carga breakbulk para o Senegal - Data Portuaria",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVNtQUk5ZklUVXpVd0ZHN0x5TklqZmpxTHNJQ2NfRmk1VXIwWlpRb0ladWh4X0lYRjJ0QUkxTFdfcUhUdGtlVzFfM1ZiWHZKRFNMTEoxNVJhYzJjX3pBTkZmaWFueWZTVTlpOGtQbXJkNkV5bEFvWENOSHJ6RE9wLTA2dUlFY3JGR3FPeHZSM3UycTJPMXZadEFTZF9HOU5KTDZES0dGSlBzLWJhSVVjRWlSZ1FlOTE2R1RtQzl5cEF0bUk?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-10-30",
-   "source": "NewsAvia",
-   "title": "Pessoal de voo da Azores Airlines admite convocar greve de três dias - NewsAvia",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnhVWDNxSzJxNS1Sa0dWX0N5aEpidFpGZ1pXeVB5NEs4RXJOb0ZERUR1RVotdVFyQnVXMVgzd1NkaWVEOW5HLThKTVBYZEdHVDZ5akFmX0VESUtTMEN5bkpKUEFXRk9mbXlETnI5YkJ0WEJxajdmajBKNFktTlZmMFp0SUtkQUpzRkV1Y283N20xeXI5?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-30",
-   "source": "NewsAvia",
-   "title": "TAP lança nova rota para Orlando (Flórida) e reforça rede nos EUA - NewsAvia",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDAzNmxtN1U5c0FFWGVPQWhaZUxlckRhUFNmaThhQ0JFdmFJY0JjNVctejdFa185UUVDemZCLVBrSkZpNXllVWZYMlQyOFJYa0tYWjJqMGJvV3ZqRWxpcnFKSTlKbDFuV3dyaFBibWdVMnN4Ni16SjVnM1I5eEg1dlVkWDNyOUNhbm9LbTFn?oc=5"
-  },
-  {
-   "airlines": [
-    "TP"
-   ],
-   "airports": [],
-   "category": "novidade",
-   "published": "2026-10-29",
-   "source": "Executive Digest",
-   "title": "TAP inaugura nova rota para o Brasil com voos duas vezes por semana - Executive Digest",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWJkQzhlNXlFdERWbTY3UVhxSFBmSlBQX0VSeWY4R0ZPQjhxVzR3b204MU1uWVI5ckRjTlFzR0tvT0tHR09rZW5HMHhwMmJLSnAydGMwUVRfRGJuYjUxckpBcEY5RmlyWDVVdzFnMnVMa0k0WXlGamZZTUhtVzVvS2tjQkZlVkJhQjVLOE5WR0M4S3lYb05DbmVUalNaNXlvX1E?oc=5"
   }
  ]
 }
