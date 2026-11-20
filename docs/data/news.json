@@ -2,6 +2,28 @@
  "items": [
   {
    "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-20",
+   "source": "tnews.pt",
+   "title": "Desconvocada greve de cinco dias dos tripulantes de cabine da easyJet antes do Natal - tnews.pt",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMU5PRmlHRVF0SWFHVENxb0YtRnA1V19MRFZYLWpkRmNzbGphRnRjbWY4X0puZmxBM1ptZE1EenMwV016S3BLa05LWVJuY3lYOHVua0VpYmdpYkNpaTFEOElZcV9HVmtBYkxScEtSQjE1VTM5X3RnM0czRVpnbGkzWHRXNmxCbWVOUHBnbjFEZG5CVjl0MDdFMDU0WnhTMG5jRVBuOA?oc=5"
+  },
+  {
+   "airlines": [
+    "U2"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-20",
+   "source": "The Portugal News",
+   "title": "Tripulação de cabina da easyJet cancela greve de dezembro em Portugal - The Portugal News",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWVOUE14WjNzUHc4OVN1TUFyWlhCek45eGpSc2dOTTR4UlJNTU9aZ3VSdkF1SUtXOE44OFk4bDJBOHhtUlpPcG1PbTJURHU3cVNHeG9aREs0dWU3QnhRcGc3bGlmTFM5R2tFQTIwa3lNQ0tSeFpBV2JFZFhpWG02QVFUN3B5Qzh0T3RweHdKX2JLZllpZm9reFJob0MzY3hCZnA3Y2pGS3c4TG93MG9FTEVBend1T2V1V1NKckxISER1bkgzTDVsbFlXQzY?oc=5"
+  },
+  {
+   "airlines": [
     "TP"
    ],
    "airports": [
@@ -12,6 +34,41 @@
    "source": "NiT New in Town",
    "title": "TAP tem nova rota para viajar do Porto a Washington sem escalas - NiT New in Town",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzYtSk1JUXRFNTBjUm9KVG1tZVR3akRKeXd1UlNxSXBjWFluYm4wSTVsWEl5eDdOZHYzVWdCbXBYOEpQVXBvZVBpNUlVN0V2N2lVaVRCQ0NTNVRYd2RtNXY5a1pROW5EdFZscDdaV1VrMk50aTdPazU0QlVmekNVTW9Jdzh1cDBPSURJWGN5eVpsNEp4dkpoLW1pODhUQVBFM1NFOVFn?oc=5"
+  },
+  {
+   "airlines": [
+    "S4"
+   ],
+   "airports": [],
+   "category": "greve",
+   "published": "2026-11-19",
+   "source": "Correio da Manhã",
+   "title": "Greve da função pública pode afetar voos interilhas nos Açores na sexta-feira, revela SATA - Correio da Manhã",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkdoNVNRZkVTUnNsT2Mwb1N6RjZEdmJSYlpYM1BMOXhQVGVYS2djM0ZJVTFBbDBNR1BJRXUzdTZOUFNsMlFXeXhNbXRld2Z4X1dTUE1iRFlHdWxoVzVRV2Y1ZExjczJkeDBCLTFhcDZ2a3Q1MjMzci1YaDFKWDhZby10dENrTWRsSWZmNHRKSTJPNXd1a1FJVEh2MU1EQk1JcUxKeHhlS1NSdnhqTHlZWTVvVXVWVjhielFYUGFGV1lVemt1NTZNWDV2ONIBxgFBVV95cUxNWGdKNlFhXy0yYXJHUVhUTGstTzhNNUQyUWFkbm0xOFU1WXJMUTlBRGZIN3FyMmx5TV9qeFQ2bHNNd2RoM1F4Z3pWNGJiQ0szUzByXzhGdzd3WUM3T2NvYkQ2YjFxUDF6ckFLODhZTTNiUGZ5cVEzWEptcWN1VzVIT2J0NC1JYVR5YkRCeGJXb3dPNS1ETzMxaDJzbnVOYldLd1JtOFdSQlFGQXg0SHVwS0VQZkNOYzlnRjJaeW5PWDBtblFwbHc?oc=5"
+  },
+  {
+   "airlines": [
+    "TP"
+   ],
+   "airports": [
+    "OPO"
+   ],
+   "category": "novidade",
+   "published": "2026-11-19",
+   "source": "Público",
+   "title": "Porto-Washington: nova rota da TAP estreia-se na Primavera - Público",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1kxNlV0cGM3WkRXakJpSkdBU2F2ZU5sMTZPbkNRb19iNWZUNHdidmNtSHdaa0J4dzg3NW1vSkFGWjR5OVFtVDlEcTRTaEdZRDdBRFlOcUwwRFUxMUNvcTRoYVY2cGEtUGk4WXZzV0RyYm5UUzhDWnIyNzRaRW5wbDR0eDY2SVdjVS1fSFFHNEY2bUo3T0VmRW1NQWFxWF9wXzhfMjF6TFo?oc=5"
+  },
+  {
+   "airlines": [],
+   "airports": [
+    "LIS"
+   ],
+   "category": "novidade",
+   "published": "2026-11-19",
+   "source": "tnews.pt",
+   "title": "Nova rota Lisboa-Orlando tem “muito potencial”, mas agentes dizem que “ainda é cedo” para avaliar procura - tnews.pt",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmZKV3pzNDl4bGZ4NjVETzVMdWdQOXQtSGRqVHlueGFLNjM1clFaOEtuYVdSa29mTFVpbW1JZllfTVJIem1yeXAtOTF1LTZ5UmxNbXhLX2MxTWZPUmNZeXhXWm9xUm41b1BOaTJDQ0QzeVBUektVLWdsTTE4Tm5qMklGYl9OM2dRcFRRcmg1MWYyMmtIbDdWOUp2dHpEMmZuWkNhaXQzM244Wi1RN2xrWG03d3p6WVVuZVE?oc=5"
   },
   {
    "airlines": [
@@ -1263,61 +1320,6 @@
    "source": "Presstur",
    "title": "Aeroporto do Porto soma 24 novas rotas este Inverno - Presstur",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGa1VmQWVZZTAtUEdkVlhLWVBUWnE4SzdMWGFQVE1VTUpMQ1FGdkNiWlplMTVSajFveVRTdktLZk1HTkZDMzlkOHFUa2owUWlvSFRiYXFrSnltbkdubGFIc0VGQnI4VlZpYklXUDRMTGpuQU1fNU8weTViNGZEUQ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-11-03",
-   "source": "Turisver",
-   "title": "Aeroporto do Porto ganha 24 novas rotas na programação de inverno 2026/27 - Turisver",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGJDUnN6YU1ydHN2WkktLXZ6TXczUHJMejhrdS1RM2pKRFJJY0FNdmZac3ZaT1VGU1Z2VWVyZERWNXRnODVVbDNPdUQ4eVZSSHhaaGx3R1lISnBzdUJEUUU1Z29xbEt0R1NxWXdzWlBGT3JEWk9MTHVsb3h1a1R6MHluUk1VU3ZOM1VpYllSNFJMMFdXa08zUnZn?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "OPO"
-   ],
-   "category": "novidade",
-   "published": "2026-11-03",
-   "source": "Defesa em Foco",
-   "title": "Porto de Natal inicia exportação de gado vivo e abre nova rota comercial - Defesa em Foco",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV01QSzhObzBZTW0zdHNrWUhGS2lIem1ZOHE3Y3l2RjRIQzBoTWh3RjlURjZ5OEVxY0Q1NmpBekRCT0dsX3dZYU1oODJGZzViZmdwSnVzeGNvR1VrcmdQQ1ZqcG0wYm1xTXZlUlEwam9YVjVIemtITXJOMTdzbzFTTC1QTEttTFFqZUJjZjVyYXNJT0NReV9n?oc=5"
-  },
-  {
-   "airlines": [
-    "S4"
-   ],
-   "airports": [],
-   "category": "greve",
-   "published": "2026-11-03",
-   "source": "RTP Açores",
-   "title": "Greve SATA Handling: BE alerta para riscos da privatização - RTP Açores",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMTlZSllhdFFDcW5mci03THM2YUlGUFJhR2l2Xy1zNll6UFdzRER6dU5RT2tOZGh3clRHeG1peExHSzRlWlFUWjVsSFBNbTAtSHM5TFc0MzBjNTVGUk1MRjRHclpwMm9JOXBIMUtJSDI5RTlKd21yMlIwVTVOY1pLUTZhc0FfeGhqZ1Nuc0pBaDRheUk?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "geral",
-   "published": "2026-11-03",
-   "source": "AEROIN",
-   "title": "Passageiros de voo da Azul são direcionados para o lugar errado, gerando brecha de segurança no aeroporto de Lisboa - AEROIN",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMVdRcS1KWDU2SjZIRC1peVJXeWwwYURqd050NWg2U0hpdEQ0d1ZCTFdUdzlaZU0wam1lenJ1eVI1QUN3UlZiQ0poeU5aNVB6dGMxNmRxcXpWNml3bjRyTzNmMi1FZlpyUzBFaE5PbXZnSHlsVFdqaXRyVDFWOUlRc3AyYWNIV3g0bWV0Q1FvZ3laWnFGRkpiMXJ6ZnNheUhwbzhPaS0xYzM4SWpHRDB4eF9iZlFERDF4d2x2T1NINUNPanNBaFFPQ3hmTHdHY1nSAc8BQVVfeXFMTjFXUXEtSlg1Nko2SEQtaXlSV3lsMGFEandOdDVoNlNIaXRENHdWQkxXVHc5WmVNMGptZXpydXlSNUFDd1JWYkNKaHlOWjVQenRjMTZkcXF6VjZpd240ck8zZjItRWZaclMwRWhOT212Z0h5bFRXaml0clQxVjlJUXNwMmFjSFd4NG1ldENRb2d5WlpxRkZKYjFyemZzYXlIcG84T2ktMWMzOElqR0QweHhfYmZRREQxeHdsdk9TSDVDT2pzQWhRT0N4Zkx3R2NZ?oc=5"
-  },
-  {
-   "airlines": [],
-   "airports": [
-    "LIS"
-   ],
-   "category": "novidade",
-   "published": "2026-11-02",
-   "source": "SAPO",
-   "title": "FlixBus reforça ligações a partir de Aveiro com nova rota para a Marinha Grande e mais horários para Lisboa - SAPO",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeHFuSHdSSlNQU0NPSWZKVzFvdUQ3NURCZXpHTEpnaUFoZ2VHTEFiMEFWNWk5UlJyazY5MHZaa3liMk1pR3YzUWhfcFdaWWIxTUItOUNuMG1xTkFkV0w0MzR4U2NXd2xuZFQzakNzU3h3Z25zX1lIY3U4bXR0czZXcTVyNldDam1NakpZR18zTjhkVkxQRFg2X1BqWmFGWjJIb2wzbXMxOFNpc1FhNnQ3dUE3THZXVzFxX3EyMlFGclY5N2FieWlHZTZHVlBHeno4Q0diLWM3OVZoMFEtMjN1eXBadUl5TGE1Q2s0?oc=5"
   }
  ]
 }
