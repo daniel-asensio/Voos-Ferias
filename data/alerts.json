@@ -6,7 +6,15 @@
    "previous_min": 14.99,
    "price": 14.99,
    "route": "LIS-SVQ",
-   "travel_date": "2026-12-03"
+   "travel_date": "2026-12-05"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Milão Malpensa",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-MXP",
+   "travel_date": "2026-12-22"
   },
   {
    "airline": "FR",
@@ -15,6 +23,14 @@
    "price": 14.99,
    "route": "OPO-LPL",
    "travel_date": "2026-12-10"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Edimburgo",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-EDI",
+   "travel_date": "2027-01-15"
   },
   {
    "airline": "FR",
@@ -31,7 +47,15 @@
    "price": 14.99,
    "route": "FAO-LPL",
    "travel_date": "2026-12-11"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Dublin",
+   "previous_min": 16.99,
+   "price": 16.99,
+   "route": "OPO-DUB",
+   "travel_date": "2026-12-12"
   }
  ],
- "date": "2026-11-20"
+ "date": "2026-11-21"
 }
