@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-12-01",
+  "booking_end": "2026-12-02",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-11-24T17:39:32+00:00",
+  "collected_at": "2026-11-25T17:10:02+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
