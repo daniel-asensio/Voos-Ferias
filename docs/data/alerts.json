@@ -15,7 +15,15 @@
    "price": 14.99,
    "route": "OPO-MXP",
    "travel_date": "2026-12-22"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Frankfurt Hahn",
+   "previous_min": 18.99,
+   "price": 18.99,
+   "route": "FAO-HHN",
+   "travel_date": "2027-01-22"
   }
  ],
- "date": "2026-11-24"
+ "date": "2026-11-25"
 }
