@@ -2,9 +2,9 @@
  {
   "airline": "W6",
   "airline_name": "Wizz Air",
-  "booking_end": "2026-12-02",
+  "booking_end": "2026-12-03",
   "booking_start": "2026-09-01",
-  "collected_at": "2026-11-25T17:10:02+00:00",
+  "collected_at": "2026-11-26T16:51:16+00:00",
   "confidence": "baixa",
   "description": "Campanha detetada automaticamente na página de ofertas. Confirmar condições no site.",
   "destinations": [],
@@ -48,22 +48,22 @@
  {
   "airline": "FR",
   "airline_name": "Ryanair",
-  "booking_end": "2026-11-25",
+  "booking_end": "2026-11-28",
   "booking_start": "2026-09-08",
-  "collected_at": "2026-11-23T18:03:43+00:00",
+  "collected_at": "2026-11-26T16:52:49+00:00",
   "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 44.52€ dos últimos 82 dias de recolha. Voo mais barato a 2027-01-11.",
+  "description": "Tarifa de hoje bem abaixo da mediana de 43.86€ dos últimos 85 dias de recolha. Voo mais barato a 2027-01-11.",
   "destinations": [
    "Budapeste (BUD)"
   ],
-  "discount_text": "−33% vs. habitual",
+  "discount_text": "−32% vs. habitual",
   "id": "fr-queda-lis-bud-ef9cdff6",
   "origin_airports": [
    "LIS"
   ],
   "price_from": 29.99,
   "source": "price_drop",
-  "title": "Lisboa → Budapeste a 29.99€ (−33% vs. habitual)",
+  "title": "Lisboa → Budapeste a 29.99€ (−32% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-11-22",
   "url": "https://www.ryanair.com/pt/pt"
@@ -89,29 +89,6 @@
   "title": "Lisboa → Edimburgo a 15.99€ (−30% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-11-17",
-  "url": "https://www.ryanair.com/pt/pt"
- },
- {
-  "airline": "FR",
-  "airline_name": "Ryanair",
-  "booking_end": "2026-10-11",
-  "booking_start": "2026-09-19",
-  "collected_at": "2026-10-09T13:15:40+00:00",
-  "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 27.99€ dos últimos 37 dias de recolha. Voo mais barato a 2026-12-10.",
-  "destinations": [
-   "Belfast (BFS)"
-  ],
-  "discount_text": "−36% vs. habitual",
-  "id": "fr-queda-fao-bfs-de29ae5b",
-  "origin_airports": [
-   "FAO"
-  ],
-  "price_from": 17.99,
-  "source": "price_drop",
-  "title": "Faro → Belfast a 17.99€ (−36% vs. habitual)",
-  "travel_end": null,
-  "travel_start": "2026-11-19",
   "url": "https://www.ryanair.com/pt/pt"
  },
  {
@@ -158,29 +135,6 @@
   "title": "Lisboa → Nápoles a 14.99€ (−32% vs. habitual)",
   "travel_end": null,
   "travel_start": "2026-10-29",
-  "url": "https://www.ryanair.com/pt/pt"
- },
- {
-  "airline": "FR",
-  "airline_name": "Ryanair",
-  "booking_end": "2026-10-11",
-  "booking_start": "2026-09-30",
-  "collected_at": "2026-10-09T13:15:40+00:00",
-  "confidence": "média",
-  "description": "Tarifa de hoje bem abaixo da mediana de 28.29€ dos últimos 39 dias de recolha. Voo mais barato a 2026-12-12.",
-  "destinations": [
-   "Roma Fiumicino (FCO)"
-  ],
-  "discount_text": "−33% vs. habitual",
-  "id": "fr-queda-lis-fco-4cd05224",
-  "origin_airports": [
-   "LIS"
-  ],
-  "price_from": 18.99,
-  "source": "price_drop",
-  "title": "Lisboa → Roma Fiumicino a 18.99€ (−33% vs. habitual)",
-  "travel_end": null,
-  "travel_start": "2026-10-28",
   "url": "https://www.ryanair.com/pt/pt"
  },
  {

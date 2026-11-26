@@ -2,14 +2,6 @@
  "alerts": [
   {
    "airline": "FR",
-   "destination_name": "Sevilha",
-   "previous_min": 14.99,
-   "price": 14.99,
-   "route": "LIS-SVQ",
-   "travel_date": "2026-12-11"
-  },
-  {
-   "airline": "FR",
    "destination_name": "Milão Malpensa",
    "previous_min": 14.99,
    "price": 14.99,
@@ -18,12 +10,36 @@
   },
   {
    "airline": "FR",
+   "destination_name": "Liverpool",
+   "previous_min": 14.99,
+   "price": 14.99,
+   "route": "OPO-LPL",
+   "travel_date": "2026-12-10"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Dublin",
+   "previous_min": 17.99,
+   "price": 17.99,
+   "route": "LIS-DUB",
+   "travel_date": "2026-12-21"
+  },
+  {
+   "airline": "FR",
    "destination_name": "Frankfurt Hahn",
    "previous_min": 18.99,
-   "price": 18.99,
+   "price": 17.99,
    "route": "FAO-HHN",
    "travel_date": "2027-01-22"
+  },
+  {
+   "airline": "FR",
+   "destination_name": "Budapeste",
+   "previous_min": 29.99,
+   "price": 29.99,
+   "route": "LIS-BUD",
+   "travel_date": "2027-01-11"
   }
  ],
- "date": "2026-11-25"
+ "date": "2026-11-26"
 }
